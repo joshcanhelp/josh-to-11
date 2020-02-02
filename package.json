@@ -1,0 +1,13 @@
+{
+  "name": "josh-to-11",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "11": "npx @11ty/eleventy --formats=md",
+    "serve": "npx @11ty/eleventy --serve"
+  },
+  "author": "",
+  "license": "MIT"
+}
