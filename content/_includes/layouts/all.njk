@@ -1,0 +1,19 @@
+{% extends "_html.njk" %}
+
+{% block content %}
+<main>
+  {{ content | safe }}
+  <ul>
+  {%- for post in collections.all | reverse -%}
+    {%- if post.data.layout in [ 'post', 'link', 'quote', 'gallery', 'status' ] -%}
+    {%- if post.data.permalink -%}
+    <li>
+      <a href="{{ post.url | safe }}">{{ post.data.title | safe }}</a><br>
+      <em>{{ post.date }}</em> {{ post.data.excerpt | safe }}
+    </li>
+    {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+  </ul>
+</main>
+{% endblock %}

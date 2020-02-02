@@ -1,7 +1,8 @@
 {% extends "_html.njk" %}
 
+{% block content %}
 <main>
-  {% block content %}
   {{ content | safe }}
-  {% endblock %}
+  <p><a href="{{ link_to | safe }}">&mdash; {{ citation | safe }}</a></p>
 </main>
+{% endblock %}
