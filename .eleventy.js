@@ -7,6 +7,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('quote', 'layouts/quote.njk');
   eleventyConfig.addLayoutAlias('status', 'layouts/status.njk');
 
+  eleventyConfig.setUseGitIgnore(false);
+
   return {
     dir: {
       input: "content",
