@@ -1,12 +1,12 @@
 {
   "name": "josh-to-11",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "11": "npx @11ty/eleventy --formats=md",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "npx @11ty/eleventy --serve"
+    "serve": "npx @11ty/eleventy --serve  --watch --formats=md"
   },
   "author": "",
   "license": "MIT"
