@@ -4,15 +4,14 @@
 <main>
   {{ content | safe }}
   <ul>
-  {%- for post in collections.all | reverse -%}
-    {%- if post.data.layout in [ 'post', 'link', 'quote', 'gallery', 'status' ] -%}
-    {%- if post.data.permalink -%}
+  {%- for post in collections.postsCollection -%}
     <li>
       <a href="{{ post.url | safe }}">{{ post.data.title | safe }}</a><br>
-      <em>{{ post.date }}</em> {{ post.data.excerpt | safe }}
+      <em>{{ post.date }}</em> {{ post.data.excerpt | safe }}<br>
+      {%- if post.data.featured_img -%}
+      <img src="{{ post.data.featured_img | safe }}">
+      {%- endif -%}
     </li>
-    {%- endif -%}
-    {%- endif -%}
   {%- endfor -%}
   </ul>
 </main>
