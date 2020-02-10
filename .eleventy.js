@@ -1,7 +1,11 @@
 const moment = require('moment');
 moment.locale('en');
 
+const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+
 module.exports = function(eleventyConfig) {
+
+  eleventyConfig.addPlugin(syntaxHighlight);
 
   eleventyConfig.addLayoutAlias('page', 'layouts/page.njk');
 

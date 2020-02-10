@@ -12,6 +12,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
     "moment": "^2.24.0"
   }
 }

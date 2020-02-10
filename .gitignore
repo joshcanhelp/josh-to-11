@@ -4,4 +4,4 @@ content/**/*.md
 npm-debug.log
 content/_css/main.css
 sass
-svg
+content/_includes/svg
