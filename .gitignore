@@ -1,3 +1,7 @@
 node_modules
 _dist
 content/**/*.md
+npm-debug.log
+content/_css/main.css
+sass
+svg

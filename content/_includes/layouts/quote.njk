@@ -1,7 +1,7 @@
 {% extends "_html.njk" %}
 
 {% block content %}
-<main>
+<main class="jch-post jch-post--article">
   {{ content | safe }}
   <p><a href="{{ link_to | safe }}">&mdash; {{ citation | safe }}</a></p>
 </main>
