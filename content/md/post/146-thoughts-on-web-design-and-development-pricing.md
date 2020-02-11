@@ -5,7 +5,7 @@ excerpt: ""
 date: 2011-01-13 14:45:06
 modified: 2016-04-03 02:32:59
 permalink: thoughts-on-web-design-and-development-pricing/index.html
-tags: ["hourly rate", "pricing", "project fee", "website cost", "Agency Process", "Design &amp; Creative Process", "Development"]
+tags: ["Hourly Rate", "Pricing", "Project Fee", "Website Cost", "Agency Process", "Design &amp; Creative Process", "Development"]
 featured_img: 
 wpid: 1750
 ---

@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-09-01 19:00:03
 modified: 2016-10-20 16:44:17
 permalink: improve-wordpress-performance-by-36-percent/index.html
-tags: ["HTTP Requests", "optimization", "website optimization", "Wordpress", "Development", "Performance"]
+tags: ["HTTP Requests", "Optimization", "Website Optimization", "Wordpress", "Development", "Performance"]
 featured_img: 
 wpid: 993
 ---

@@ -5,7 +5,7 @@ excerpt: "A step-by-step guide on how to choose the right keywords for your site
 date: 2011-04-12 15:00:12
 modified: 2016-04-03 02:32:59
 permalink: choosing-keyword-phrases-for-site-content/index.html
-tags: ["choosing keyword", "computing", "content", "google", "google search", "keyword", "keyword optimization", "keyword phrase", "keyword phrases", "keyword research", "keyword stuffing", "pages", "phrases", "search engine", "search engine keywords", "search engine optimization", "search engine ranking", "search engines", "web search engine", "world wide web", "Analytics", "SEO", "Web Strategy", "Writing for the Web"]
+tags: ["Choosing Keyword", "Computing", "Content", "Google", "Google Search", "Keyword", "Keyword Optimization", "Keyword Phrase", "Keyword Phrases", "Keyword Research", "Keyword Stuffing", "Pages", "Phrases", "Search Engine", "Search Engine Keywords", "Search Engine Optimization", "Search Engine Ranking", "Search Engines", "Web Search Engine", "World Wide Web", "Analytics", "SEO", "Web Strategy", "Writing For The Web"]
 featured_img: 
 wpid: 2054
 ---

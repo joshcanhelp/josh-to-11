@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-08-04 17:00:08
 modified: 2016-04-03 02:33:18
 permalink: graffiti-art-evolution-from-drawing-to-painting-to-vector-moving-your-art-into-a-new-market/index.html
-tags: ["expand", "graffiti", "illustrator", "new markets", "photoshop", "vector", "Design &amp; Creative Process"]
+tags: ["Expand", "Graffiti", "Illustrator", "New Markets", "Photoshop", "Vector", "Design &amp; Creative Process"]
 featured_img: 
 wpid: 75
 ---

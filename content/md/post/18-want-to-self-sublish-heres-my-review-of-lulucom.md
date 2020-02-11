@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-07-14 16:00:27
 modified: 2019-01-08 00:16:52
 permalink: want-to-self-sublish-heres-my-review-of-lulucom/index.html
-tags: ["book", "Lulu", "Lulu.com", "self-publish", "Writing", "Design &amp; Creative Process"]
+tags: ["Book", "Lulu", "Lulu.com", "Self-publish", "Writing", "Design &amp; Creative Process"]
 featured_img: 
 wpid: 38
 ---

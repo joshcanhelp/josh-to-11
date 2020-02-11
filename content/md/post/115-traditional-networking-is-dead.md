@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-11-19 23:03:37
 modified: 2016-04-01 04:12:24
 permalink: traditional-networking-is-dead/index.html
-tags: ["networking", "Technology Marketing", "twitter", "virtual networking", "Social Media"]
+tags: ["Networking", "Technology Marketing", "Twitter", "Virtual Networking", "Social Media"]
 featured_img: 
 wpid: 1216
 ---

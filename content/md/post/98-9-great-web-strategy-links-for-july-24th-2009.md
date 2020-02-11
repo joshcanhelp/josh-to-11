@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-07-24 19:00:00
 modified: 2016-10-20 16:44:18
 permalink: 9-great-web-strategy-links-for-july-24th-2009/index.html
-tags: ["analytics", "conversions", "Google Analytics", "IE6", "keyword research", "keywords", "online marketing", "search engine optimiation analysis", "twitter", "web design", "Design &amp; Creative Process", "Web Strategy"]
+tags: ["Analytics", "Conversions", "Google Analytics", "IE6", "Keyword Research", "Keywords", "Online Marketing", "Search Engine Optimiation Analysis", "Twitter", "Web Design", "Design &amp; Creative Process", "Web Strategy"]
 featured_img: 
 wpid: 941
 ---

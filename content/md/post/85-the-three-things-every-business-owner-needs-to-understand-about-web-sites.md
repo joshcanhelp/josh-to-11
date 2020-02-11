@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-05-11 18:00:03
 modified: 2016-10-20 16:44:18
 permalink: the-three-things-every-business-owner-needs-to-understand-about-web-sites/index.html
-tags: ["domain names", "web designer", "web hosting", "web pages", "websites", "Hardware"]
+tags: ["Domain Names", "Web Designer", "Web Hosting", "Web Pages", "Websites", "Hardware"]
 featured_img: 
 wpid: 699
 ---

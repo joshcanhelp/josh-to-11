@@ -5,7 +5,7 @@ excerpt: ""
 date: 2012-02-26 22:27:10
 modified: 2016-10-20 16:44:00
 permalink: taking-your-first-steps-on-twitter-the-30-40-30-plan/index.html
-tags: ["About JoshCanHelp", "Social Media", "Writing for the Web"]
+tags: ["About JoshCanHelp", "Social Media", "Writing For The Web"]
 featured_img: 
 wpid: 2722
 ---

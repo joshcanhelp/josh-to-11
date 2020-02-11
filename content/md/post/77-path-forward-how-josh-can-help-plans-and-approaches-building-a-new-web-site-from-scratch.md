@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-03-02 18:00:23
 modified: 2016-10-20 16:44:19
 permalink: path-forward-how-josh-can-help-plans-and-approaches-building-a-new-web-site-from-scratch/index.html
-tags: ["build a new web site", "Build A Web Site", "website", "Design &amp; Creative Process", "Web Strategy"]
+tags: ["Build A New Web Site", "Build A Web Site", "Website", "Design &amp; Creative Process", "Web Strategy"]
 featured_img: 
 wpid: 619
 ---

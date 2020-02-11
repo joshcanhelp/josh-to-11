@@ -5,7 +5,7 @@ excerpt: "You're just another blog out there but with a little creativity and so
 date: 2011-10-18 13:45:12
 modified: 2019-08-10 22:44:03
 permalink: great-content-is-like-a-produce-stand-in-paris/index.html
-tags: ["great content", "Paris", "SEO", "Writing for the Web"]
+tags: ["Great Content", "Paris", "SEO", "Writing For The Web"]
 featured_img: /_images/2011/10/paris_market-150x150.jpg
 wpid: 2080
 ---

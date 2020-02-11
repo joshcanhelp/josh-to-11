@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-09-18 15:48:33
 modified: 2016-10-20 16:44:20
 permalink: dripping-my-way-along-a-lesson-from-seth/index.html
-tags: ["building", "Business How to Start", "drip", "improvement", "quality", "reputation", "self", "Seth Godin", "Crazy Ideas"]
+tags: ["Building", "Business How To Start", "Drip", "Improvement", "Quality", "Reputation", "Self", "Seth Godin", "Crazy Ideas"]
 featured_img: 
 wpid: 260
 ---

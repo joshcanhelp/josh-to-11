@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-09-26 17:00:38
 modified: 2016-10-20 16:44:20
 permalink: password-storage-done-right/index.html
-tags: ["Digital Security", "keepass", "passwords", "storage", "Agency Process"]
+tags: ["Digital Security", "Keepass", "Passwords", "Storage", "Agency Process"]
 featured_img: 
 wpid: 277
 ---

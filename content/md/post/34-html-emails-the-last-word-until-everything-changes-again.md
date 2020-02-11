@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-09-11 18:00:49
 modified: 2016-10-20 16:44:21
 permalink: html-emails-the-last-word-until-everything-changes-again/index.html
-tags: ["brochures", "campaigns", "CAN-SPAM", "coding", "CSS", "email", "gmail", "hotmail", "html email design limitations", "HTML emails", "outlook", "spam", "Technology Marketing", "Development", "Email"]
+tags: ["Brochures", "Campaigns", "CAN-SPAM", "Coding", "CSS", "Email", "Gmail", "Hotmail", "Html Email Design Limitations", "HTML Emails", "Outlook", "Spam", "Technology Marketing", "Development", "Email"]
 featured_img: 
 wpid: 233
 ---

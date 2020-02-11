@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-09-26 00:20:38
 modified: 2016-10-20 16:44:20
 permalink: how-to-create-a-boot-cd-from-scratch/index.html
-tags: ["boot CD", "Windows XP", "Hardware"]
+tags: ["Boot CD", "Windows XP", "Hardware"]
 featured_img: 
 wpid: 284
 ---

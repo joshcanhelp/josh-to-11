@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-08-04 18:40:17
 modified: 2009-08-04 18:40:17
 permalink: tracking-your-body-data-to-stay-motivated/index.html
-tags: ["body fat", "data tracking", "excel", "fitness tracking", "spreadsheet", "weight", "exercise", "fitness data", "motivation"]
+tags: ["Body Fat", "Data Tracking", "Excel", "Fitness Tracking", "Spreadsheet", "Weight", "Exercise", "Fitness Data", "Motivation"]
 featured_img: 
 wpid: 13
 ---

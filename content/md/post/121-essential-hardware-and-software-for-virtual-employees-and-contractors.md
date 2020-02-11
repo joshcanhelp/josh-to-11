@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-02-19 02:14:49
 modified: 2016-04-01 04:25:26
 permalink: essential-hardware-and-software-for-virtual-employees-and-contractors/index.html
-tags: ["dropbox", "feeddemon", "gmail", "google", "hardware", "RSS, ATOM, and other feeds", "software", "Hardware"]
+tags: ["Dropbox", "Feeddemon", "Gmail", "Google", "Hardware", "RSS, ATOM, And Other Feeds", "Software", "Hardware"]
 featured_img: 
 wpid: 1405
 ---

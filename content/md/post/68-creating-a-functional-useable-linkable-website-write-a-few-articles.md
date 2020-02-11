@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-01-15 18:00:41
 modified: 2016-10-20 16:44:19
 permalink: creating-a-functional-useable-linkable-website-write-a-few-articles/index.html
-tags: ["articles", "content", "website", "write an article", "write more", "Writing for the Web"]
+tags: ["Articles", "Content", "Website", "Write An Article", "Write More", "Writing For The Web"]
 featured_img: 
 wpid: 491
 ---

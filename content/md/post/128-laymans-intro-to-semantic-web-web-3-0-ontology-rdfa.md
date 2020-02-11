@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-05-27 20:03:30
 modified: 2016-04-03 02:32:59
 permalink: laymans-intro-to-semantic-web-web-3-0-ontology-rdfa/index.html
-tags: ["ontologies", "RDF", "RDFa", "semantic web", "SPARQL", "web 3.0", "SEO"]
+tags: ["Ontologies", "RDF", "RDFa", "Semantic Web", "SPARQL", "Web 3.0", "SEO"]
 featured_img: 
 wpid: 1596
 ---

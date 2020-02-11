@@ -5,7 +5,7 @@ excerpt: "Knowing what pages are the most popular, what keywords people are usin
 date: 2009-08-13 09:00:23
 modified: 2016-10-20 16:44:18
 permalink: understanding-the-basics-of-google-analytics/index.html
-tags: ["Google Analytics", "pages/visit", "pageviews", "site keywords", "site visitors", "top content", "traffic", "traffic sources", "website optimization", "Analytics"]
+tags: ["Google Analytics", "Pages/visit", "Pageviews", "Site Keywords", "Site Visitors", "Top Content", "Traffic", "Traffic Sources", "Website Optimization", "Analytics"]
 featured_img: 
 wpid: 983
 ---

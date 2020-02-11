@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-08-25 16:07:43
 modified: 2016-10-20 16:44:21
 permalink: letterpress-cards-cut-packed-and-on-their-way/index.html
-tags: ["business cards", "cards", "Design Layouts", "letterpress", "Design &amp; Creative Process"]
+tags: ["Business Cards", "Cards", "Design Layouts", "Letterpress", "Design &amp; Creative Process"]
 featured_img: 
 wpid: 207
 ---

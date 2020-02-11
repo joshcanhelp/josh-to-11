@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-04-13 19:00:20
 modified: 2016-10-20 16:44:18
 permalink: the-search-for-a-new-cell-phone/index.html
-tags: ["buy a new cell phone", "cell phone", "choose a cell phone", "HTC Hermes", "nokia E71", "wireless internet", "Hardware"]
+tags: ["Buy A New Cell Phone", "Cell Phone", "Choose A Cell Phone", "HTC Hermes", "Nokia E71", "Wireless Internet", "Hardware"]
 featured_img: 
 wpid: 652
 ---

@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-12-11 18:00:56
 modified: 2016-10-20 16:44:19
 permalink: review-for-the-youngentrepreneur-blog/index.html
-tags: ["blog", "blog review", "YEB", "young entrepreneur", "Everything Else"]
+tags: ["Blog", "Blog Review", "YEB", "Young Entrepreneur", "Everything Else"]
 featured_img: 
 wpid: 467
 ---

@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-05-25 11:35:41
 modified: 2016-04-01 03:52:11
 permalink: cds-burning-improperly-songs-skipping-verification-errors-i-can-help/index.html
-tags: ["CD burning", "CD burning problems", "digital music", "How To", "Media", "MP3", "Music", "verification errors", "Hardware"]
+tags: ["CD Burning", "CD Burning Problems", "Digital Music", "How To", "Media", "MP3", "Music", "Verification Errors", "Hardware"]
 featured_img: 
 wpid: 25
 ---

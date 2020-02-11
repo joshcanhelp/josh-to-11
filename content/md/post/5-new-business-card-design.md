@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-04-12 15:08:25
 modified: 2016-04-01 01:18:42
 permalink: new-business-card-design/index.html
-tags: ["business card", "Design Layouts", "Technology Marketing", "About JoshCanHelp", "Design &amp; Creative Process"]
+tags: ["Business Card", "Design Layouts", "Technology Marketing", "About JoshCanHelp", "Design &amp; Creative Process"]
 featured_img: 
 wpid: 11
 ---

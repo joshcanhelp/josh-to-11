@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-04-22 04:00:09
 modified: 2016-03-30 18:59:17
 permalink: the-4-components-of-a-great-first-on-site-visit/index.html
-tags: ["consultation", "in-person", "new client", "on-site visit", "Agency Process"]
+tags: ["Consultation", "In-person", "New Client", "On-site Visit", "Agency Process"]
 featured_img: 
 wpid: 15
 ---

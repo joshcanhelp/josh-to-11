@@ -5,7 +5,7 @@ excerpt: "A presentation on creating great email marketing campaigns along with 
 date: 2011-06-28 13:24:51
 modified: 2016-10-20 16:44:01
 permalink: effective-email-campaigns/index.html
-tags: ["email campaigns", "email marketing", "HTML emails", "marketing campaigns", "Email"]
+tags: ["Email Campaigns", "Email Marketing", "HTML Emails", "Marketing Campaigns", "Email"]
 featured_img: 
 wpid: 2246
 ---

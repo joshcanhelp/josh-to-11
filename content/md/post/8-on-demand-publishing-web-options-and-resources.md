@@ -5,7 +5,7 @@ excerpt: "I'm looking into a low-cost method for getting a book published and av
 date: 2008-04-27 04:57:01
 modified: 2016-04-01 03:49:49
 permalink: on-demand-publishing-web-options-and-resources/index.html
-tags: ["iuniverse", "Lulu", "on-demand publishing", "publish", "self-publishing", "Design &amp; Creative Process", "Personal Development", "Web Strategy", "Writing for the Web"]
+tags: ["Iuniverse", "Lulu", "On-demand Publishing", "Publish", "Self-publishing", "Design &amp; Creative Process", "Personal Development", "Web Strategy", "Writing For The Web"]
 featured_img: 
 wpid: 17
 ---

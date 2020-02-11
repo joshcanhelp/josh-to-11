@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-09-30 20:00:56
 modified: 2016-10-20 16:44:17
 permalink: new-custom-wordpress-theme-and-structure-at-joshcanhelp/index.html
-tags: ["new site", "page templates", "Wordpress contact form", "Wordpress themes", "About JoshCanHelp"]
+tags: ["New Site", "Page Templates", "Wordpress Contact Form", "Wordpress Themes", "About JoshCanHelp"]
 featured_img: 
 wpid: 1108
 ---

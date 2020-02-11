@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-04-15 13:54:01
 modified: 2016-04-01 01:37:30
 permalink: free-excel-invoice-template/index.html
-tags: ["document", "excel", "invoice", "invoice template", "Agency Process"]
+tags: ["Document", "Excel", "Invoice", "Invoice Template", "Agency Process"]
 featured_img: 
 wpid: 12
 ---

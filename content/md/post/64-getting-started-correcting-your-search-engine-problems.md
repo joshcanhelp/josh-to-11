@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-12-16 18:00:07
 modified: 2016-10-20 16:44:19
 permalink: getting-started-correcting-your-search-engine-problems/index.html
-tags: ["keywords", "optimization", "search engine", "search engine optimization analysis", "SEO"]
+tags: ["Keywords", "Optimization", "Search Engine", "Search Engine Optimization Analysis", "SEO"]
 featured_img: 
 wpid: 477
 ---

@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-06-14 07:47:06
 modified: 2016-03-30 18:52:49
 permalink: how-to-tame-your-technology-in-four-easy-steps/index.html
-tags: ["save money", "taming your technology", "theory", "Hardware"]
+tags: ["Save Money", "Taming Your Technology", "Theory", "Hardware"]
 featured_img: 
 wpid: 30
 ---

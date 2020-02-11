@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-06-06 04:06:18
 modified: 2016-04-01 03:52:13
 permalink: installing-a-font-in-windows-xp/index.html
-tags: ["fonts", "install font", "Windows XP", "Everything Else"]
+tags: ["Fonts", "Install Font", "Windows XP", "Everything Else"]
 featured_img: 
 wpid: 26
 ---

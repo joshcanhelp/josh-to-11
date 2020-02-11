@@ -5,7 +5,7 @@ excerpt: ""
 date: 2011-11-29 06:16:53
 modified: 2016-10-20 16:44:00
 permalink: analysis-keywords-and-monitoring-3-steps-to-improve-seo/index.html
-tags: ["Analytics", "SEO", "Writing for the Web"]
+tags: ["Analytics", "SEO", "Writing For The Web"]
 featured_img: 
 wpid: 2574
 ---

@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-02-03 22:57:50
 modified: 2016-04-01 03:03:59
 permalink: give-someone-a-social-hand-and-write-a-review/index.html
-tags: ["amazon", "Facebook", "google maps", "newegg", "social reviews", "twitter", "yelp", "Social Media"]
+tags: ["Amazon", "Facebook", "Google Maps", "Newegg", "Social Reviews", "Twitter", "Yelp", "Social Media"]
 featured_img: 
 wpid: 1380
 ---

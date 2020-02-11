@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-08-28 17:09:59
 modified: 2016-10-20 16:44:21
 permalink: the-5-components-of-josh-can-helps-website-philosophy-part-1-understand/index.html
-tags: ["compromise", "Design Layouts", "designer", "philosophy", "time", "trust", "understanding", "web sites", "Design &amp; Creative Process", "Personal Development"]
+tags: ["Compromise", "Design Layouts", "Designer", "Philosophy", "Time", "Trust", "Understanding", "Web Sites", "Design &amp; Creative Process", "Personal Development"]
 featured_img: 
 wpid: 210
 ---

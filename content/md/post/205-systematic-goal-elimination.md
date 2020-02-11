@@ -5,7 +5,7 @@ excerpt: "Scott Adams: &quot;To put it bluntly, goals are for losers. That’s l
 date: 2015-01-05 15:01:58
 modified: 2016-11-19 23:04:53
 permalink: systematic-goal-elimination/index.html
-tags: ["exercise", "FFK pride"]
+tags: ["Exercise", "FFK Pride"]
 featured_img: /_images/2015/01/IMG_0633_fix01-1-150x150.jpg
 wpid: 378
 ---

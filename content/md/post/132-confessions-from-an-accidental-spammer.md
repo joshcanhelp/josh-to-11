@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-08-10 15:36:19
 modified: 2016-04-03 02:32:59
 permalink: confessions-from-an-accidental-spammer/index.html
-tags: ["bulk email", "HTML email", "opt-in list", "spam filter", "spam folder", "Email"]
+tags: ["Bulk Email", "HTML Email", "Opt-in List", "Spam Filter", "Spam Folder", "Email"]
 featured_img: 
 wpid: 1663
 ---

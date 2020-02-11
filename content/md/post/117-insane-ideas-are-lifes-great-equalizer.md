@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-12-30 00:50:15
 modified: 2016-04-01 04:25:34
 permalink: insane-ideas-are-lifes-great-equalizer/index.html
-tags: ["great ideas", "hugh", "insane ideas", "motivation", "Crazy Ideas"]
+tags: ["Great Ideas", "Hugh", "Insane Ideas", "Motivation", "Crazy Ideas"]
 featured_img: 
 wpid: 1307
 ---

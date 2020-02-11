@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-06-27 05:13:49
 modified: 2016-04-01 04:17:01
 permalink: thoughts-on-conferences/index.html
-tags: ["big screen", "conferences", "display", "powerpoint", "presentations", "Personal Development"]
+tags: ["Big Screen", "Conferences", "Display", "Powerpoint", "Presentations", "Personal Development"]
 featured_img: 
 wpid: 32
 ---

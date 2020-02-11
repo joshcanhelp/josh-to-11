@@ -5,7 +5,7 @@ excerpt: "Does your traffic dip during the holiday season? Don't freak out, it's
 date: 2010-02-26 19:45:36
 modified: 2016-04-01 04:25:16
 permalink: seasonal-web-traffic/index.html
-tags: ["analytics", "holiday traffic", "seasonal traffic", "web traffic slump", "Analytics"]
+tags: ["Analytics", "Holiday Traffic", "Seasonal Traffic", "Web Traffic Slump", "Analytics"]
 featured_img: 
 wpid: 1453
 ---

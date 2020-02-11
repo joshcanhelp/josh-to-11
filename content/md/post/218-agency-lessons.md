@@ -5,7 +5,7 @@ excerpt: "I've been doing agency development and design work for almost a decade
 date: 2015-06-12 15:49:17
 modified: 2016-10-20 16:43:59
 permalink: agency-lessons/index.html
-tags: ["About JoshCanHelp", "Design &amp; Creative Process", "Personal Development", "Web Strategy", "Writing for the Web"]
+tags: ["About JoshCanHelp", "Design &amp; Creative Process", "Personal Development", "Web Strategy", "Writing For The Web"]
 featured_img: /_images/2015/06/924055_993139194035301_1576746067_n-150x150.jpg
 wpid: 3713
 ---

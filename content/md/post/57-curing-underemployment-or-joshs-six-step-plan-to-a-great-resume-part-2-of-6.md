@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-12-02 19:00:00
 modified: 2016-10-20 16:44:19
 permalink: curing-underemployment-or-joshs-six-step-plan-to-a-great-resume-part-2-of-6/index.html
-tags: ["find a job", "get a job", "resume", "resume writing", "write a CV", "write a resume", "Personal Development"]
+tags: ["Find A Job", "Get A Job", "Resume", "Resume Writing", "Write A CV", "Write A Resume", "Personal Development"]
 featured_img: 
 wpid: 449
 ---

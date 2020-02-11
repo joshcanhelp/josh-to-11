@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-09-09 20:00:37
 modified: 2016-10-20 16:44:21
 permalink: i-learned-something-today/index.html
-tags: ["blog", "ideas", "new markets", "podcasts", "stay true", "Technology Marketing", "tenacity", "try", "Up Next", "Personal Development"]
+tags: ["Blog", "Ideas", "New Markets", "Podcasts", "Stay True", "Technology Marketing", "Tenacity", "Try", "Up Next", "Personal Development"]
 featured_img: 
 wpid: 235
 ---

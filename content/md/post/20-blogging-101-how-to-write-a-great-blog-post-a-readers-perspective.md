@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-07-21 15:00:08
 modified: 2013-04-06 22:40:45
 permalink: blogging-101-how-to-write-a-great-blog-post-a-readers-perspective/index.html
-tags: ["blog", "How To", "Make Money Online Blogging", "post", "Writing", "Writing for the Web"]
+tags: ["Blog", "How To", "Make Money Online Blogging", "Post", "Writing", "Writing For The Web"]
 featured_img: 
 wpid: 39
 ---

@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-09-30 18:00:29
 modified: 2016-10-20 16:44:20
 permalink: w3c-schools-via-jch-beginners-course-in-html-for-emails/index.html
-tags: ["CSS", "email", "HTML", "HTML email", "learn HTML", "W3 schools", "Development", "Email"]
+tags: ["CSS", "Email", "HTML", "HTML Email", "Learn HTML", "W3 Schools", "Development", "Email"]
 featured_img: 
 wpid: 290
 ---

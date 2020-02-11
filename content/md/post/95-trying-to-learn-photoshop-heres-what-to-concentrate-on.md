@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-07-10 21:01:35
 modified: 2016-10-20 16:44:18
 permalink: trying-to-learn-photoshop-heres-what-to-concentrate-on/index.html
-tags: ["pen tool", "photoshop", "Design &amp; Creative Process"]
+tags: ["Pen Tool", "Photoshop", "Design &amp; Creative Process"]
 featured_img: 
 wpid: 906
 ---

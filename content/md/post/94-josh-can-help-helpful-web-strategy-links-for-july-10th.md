@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-07-10 17:25:30
 modified: 2016-10-20 16:44:18
 permalink: josh-can-help-helpful-web-strategy-links-for-july-10th/index.html
-tags: ["CSS", "Delicious", "Facebook", "fan page", "tech links", "twitter", "web strategy links", "Wolfram Alpha", "Web Strategy"]
+tags: ["CSS", "Delicious", "Facebook", "Fan Page", "Tech Links", "Twitter", "Web Strategy Links", "Wolfram Alpha", "Web Strategy"]
 featured_img: 
 wpid: 895
 ---

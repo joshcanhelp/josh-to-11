@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-07-04 09:03:31
 modified: 2013-04-06 22:40:45
 permalink: customer-service/index.html
-tags: ["customer service", "How To", "technical support", "Personal Development"]
+tags: ["Customer Service", "How To", "Technical Support", "Personal Development"]
 featured_img: 
 wpid: 33
 ---

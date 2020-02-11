@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-02-19 17:57:55
 modified: 2016-10-20 16:44:19
 permalink: information-reservoirs-or-how-i-keep-track-of-a-large-amount-of-incoming-information/index.html
-tags: ["amazon", "gmail", "information overload", "information reservoir", "netflix", "organization", "Social Media"]
+tags: ["Amazon", "Gmail", "Information Overload", "Information Reservoir", "Netflix", "Organization", "Social Media"]
 featured_img: 
 wpid: 586
 ---

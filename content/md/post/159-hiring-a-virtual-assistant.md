@@ -5,7 +5,7 @@ excerpt: ""
 date: 2011-07-19 13:47:00
 modified: 2016-10-20 16:44:00
 permalink: hiring-a-virtual-assistant/index.html
-tags: ["assistant", "help josh", "virtual assistant", "About JoshCanHelp"]
+tags: ["Assistant", "Help Josh", "Virtual Assistant", "About JoshCanHelp"]
 featured_img: 
 wpid: 2405
 ---
