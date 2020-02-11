@@ -362,7 +362,28 @@ I'll say here ... making changes in any part of this pipeline and having my brow
 
 So far, I've been mostly concentrating on the WordPress side of things. Eleventy is really well-documented and a lot of what you'll want to do here depends on your site. 
 
-Still, there are a number of things we did above that will affect how the site is built so I'll cover
+Still, there are a number of things we did above that will affect how the site is built so I'll cover the configure and templates I used covered in the [sample repo here](https://github.com/joshcanhelp/wordpress-to-11ty/tree/v0.0.1). This repo includes all of the template files and configure that I use, plus Markdown content that was created by importing the [WP theme unit test](https://codex.wordpress.org/Theme_Unit_Test) file into a clean install of WordPress. I ran my WP to Markdown CLI script, made a couple of changes:
+
+- The "Markup: Title With Special Characters" post was not playing nicely with YAML so I removed the backslash
+- I changed the `page/front-page.md` to `page/home-page.md` and changed the `permalink` meta to `/index.html` so there would be a home page
+
+... and then ran Eleventy. With those small changes above, the site was built and served! See the README in that repo for more details about how to run this site locally.
+
+### Markdown
+
+All of the markdown is stored in `content/md` so I can output the convertor script to an isolated location.
+
+### Templates
+
+I included templates for:
+
+- Posts (all the different post formats use the same layout)
+- Pages
+- All posts list
+- All tags/categories list
+- Tag archive pages
+
+### Configuration
 
 ## Additional Resources
 
