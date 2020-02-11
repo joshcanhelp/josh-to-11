@@ -350,6 +350,21 @@ a {
 img {
   height: auto; }
 
+code {
+  display: inline-block;
+  white-space: nowrap;
+  background-color: #ededf2;
+  padding: 0 0.4em;
+  font-size: 0.9em; }
+
+code[class*="language-"],
+pre[class*="language-"] {
+  font-size: 0.85em; }
+
+pre[class*="language-"] {
+  margin: 1.5em 0;
+  padding: 0.5em; }
+
 .alignnone {
   margin: 5px 20px 20px 0; }
 

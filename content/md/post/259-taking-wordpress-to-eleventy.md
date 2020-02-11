@@ -55,7 +55,7 @@ layout: post
 
 ... and it would be clear what the template hierarchy is:
 
-```
+```text
 post.md > layouts/post.njk > _html.njk
 ```
 
@@ -65,7 +65,7 @@ I had a [sample Markdown page](https://github.com/joshcanhelp/josh-to-11/blob/0.
 
 One thing I learned after some flailing around is that Eleventy ignores everything in your `.gitignore` so when I added a directive to keep the content MD files out of the repo, it said that that processed 0 files. I just had to modify the Eleventy config and I was back in business:
 
-```
+```js
 // .eleventy.js
 
 module.exports = function(eleventyConfig) {
@@ -319,12 +319,12 @@ The best way I found to have a quick iteration cycle was to output the Markdown 
 
 On your first (or second or 100th) run, you might find a number of things to tweak:
 
-- You might want to exclude certain pages
-- You might find tags or categories to remove
-- You might adjust your file name
-- You might find addition DB-stored content to include
-- You might figure out additional content conversions you want to make
-- You might change the directory structure of what you output
+- *You might* want to exclude certain pages
+- *You might* find tags or categories to remove
+- *You might* adjust your file name
+- *You might* find addition DB-stored content to include
+- *You might* figure out additional content conversions you want to make
+- *You might* change the directory structure of what you output
 
 ... and you might hit a lot of errors in Eleventy as you figure out how the templating language and data cascade works. This is all completely normal! I probably ran the script 40-50 times before I had the output I wanted to keep. 
 
@@ -357,6 +357,12 @@ Watching…
 ... or some error that needs correcting. You should be able to make changes to your Eleventy templates and see new output or change the processing script, run `wp wptomd` again, and see the output there. If you leave your local site open in your browser, it will even live reload so feedback on what you're doing comes quickly!
 
 I'll say here ... making changes in any part of this pipeline and having my browser reloaded with the changes by the time I got back to the browser window is what really made love this process! There are a lot of moving pieces but you get used to where things are (and should be) stored fairly quickly. I had a Sass processor running at the same time so I could make minor styling changes and have the compiled CSS carried over by Eleventy as well. Very powerful. 
+
+## Eleventy structure
+
+So far, I've been mostly concentrating on the WordPress side of things. Eleventy is really well-documented and a lot of what you'll want to do here depends on your site. 
+
+Still, there are a number of things we did above that will affect how the site is built so I'll cover
 
 ## Additional Resources
 
