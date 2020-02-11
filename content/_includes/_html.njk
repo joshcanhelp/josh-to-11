@@ -42,6 +42,7 @@
         <ul>
           <li><a href="/about/">About</a></li>
           <li><a href="/archives/all/">All Posts</a></li>
+					<li><a href="/archives/tags/">All Tags</a></li>
         </ul>
       </header>
 
@@ -51,21 +52,22 @@
 			<div class="jch-col jch-col__right jch-col__pad-vert">
 
 				<ul class="jch-list jch-list__meta">
-					{%- if layout in [ 'post', 'gallery', 'link', 'post', 'quote', 'status' ] -%}
+				{%- if layout in [ 'post', 'gallery', 'link', 'post', 'quote' ] -%}
 					<li>
 						<p><strong>Published:</strong></p>
 						<p>{{ page.date | dateformat }}</p>
 					</li>
-
+					{%- if tags | length -%}
 					<li>
 						<p><strong>Tags:</strong></p>
 						<p>
 							{%- for tag in tags -%}
-								{{ tag }}<br>
+								<a href="/tag/{{ tag | slug }}" class="jch-tag">{{ tag }}</a><br>
 							{%- endfor -%}
 						</p>
 					</li>
 					{%- endif -%}
+				{%- endif -%}
 				</ul>
 			</div>
     </section>

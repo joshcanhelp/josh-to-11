@@ -1,0 +1,37 @@
+
+//
+// Main article container
+//
+
+.jch-post
+
+	// Components
+
+	&--article
+		@extend %has_wysiwyg
+
+		> h1:first-child
+			text-align: center
+
+			+larger_than_phone
+				text-align: left
+
+	&--nav
+		padding: 0 2% 2em
+		border-top: 1px solid $c_g_lightest
+
+		+larger_than_tablet
+			padding-top: 1.25em
+
+	&--prev,
+	&--next
+		+span-columns(6)
+		display: block
+		line-height: 1.2em
+
+	&--prev
+		padding-right: 5%
+
+	&--next
+		padding-left: 5%
+		text-align: right

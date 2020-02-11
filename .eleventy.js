@@ -15,7 +15,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('link', 'layouts/link.njk');
   eleventyConfig.addLayoutAlias('post', 'layouts/post.njk');
   eleventyConfig.addLayoutAlias('quote', 'layouts/quote.njk');
-  eleventyConfig.addLayoutAlias('status', 'layouts/status.njk');
 
   eleventyConfig.setUseGitIgnore(false);
 
@@ -28,8 +27,25 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  eleventyConfig.addCollection('allTags', function(collection) {
+    let allTags = [];
+
+    collection.getAllSorted().forEach(function(el) {
+      allTags = allTags.concat(el.data.tags);
+    });
+
+    let tagDict = {};
+    allTags.sort().forEach(function(el) {
+      if (el) {
+        tagDict[el] = tagDict[el] ? tagDict[el] + 1 : 1;
+      }
+    });
+
+    return tagDict;
+  });
+
   eleventyConfig.addFilter('dateformat', function(dateIn) {
-      return moment(dateIn).format('MMM DD, YYYY [at] h:mm a');
+    return moment(dateIn).format('MMM DD, YYYY [at] h:mm a');
   });
 
   return {

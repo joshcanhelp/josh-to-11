@@ -1,0 +1,30 @@
+@keyframes bobbing {
+	0%, 100% {
+		transform: translateY(0);
+		animation-timing-function: ease-out;
+	}
+	10% {
+		transform: translateY(-4px);
+		animation-timing-function: ease-out;
+	}
+	30% {
+		transform: translateY(4px);
+		animation-timing-function: ease-out;
+	}
+	40% {
+		transform: translateY(0);
+		animation-timing-function: ease-out;
+	}
+}
+
+@keyframes angle-down {
+	0%, 100% {
+		content: '\e803'
+	}
+	33% {
+		content: '\e803\A\e803'
+	}
+	66% {
+		content: '\e803\A\e803\A\e803'
+	}
+}

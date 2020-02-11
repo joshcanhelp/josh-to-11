@@ -1,0 +1,186 @@
+// Global, general
+
+%cf
+	zoom: 1
+
+	&:before,
+	&:after
+		content: ""
+		display: table
+
+
+	&:after
+		clear: both
+
+%no_space
+	padding: 0
+	margin: 0
+
+%outer_wrap
+	+outer-container(100%)
+	min-width: $l_min_width
+	width: 100%
+
+	.inner
+		@extend %cf
+		+outer-container($l_max_width)
+		padding: 0 2%
+		position: relative
+
+//
+// Rounded button
+//
+
+%button_rounded
+	padding: 0.4em 1em 0.5em
+	text-align: center
+	border: 2px solid $action-color
+	border-radius: 1em
+	line-height: 1em
+
+	&:hover,
+	&.active
+		background-color: $action-color
+		color: white
+
+//
+// Bordered header
+//
+
+%border_bottom
+	border-bottom: 1px solid darken($c_g_lightest, 20)
+	padding: 0 0 0.5em
+	margin: 0 0 1em
+	line-height: 1.2em
+
+//
+// Generic styling for containers that are populated with a WYSIWYG
+//
+
+%has_wysiwyg
+	@extend %cf
+	font-family: $f_family_serif
+	line-height: 1.6em
+	font-size: 1.1em
+
+	+larger_than_phone
+		font-size: $f_size_large
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6
+		font-family: $f_family_sans
+		line-height: 1.1em
+		clear: both
+
+	h1
+		font-size: 2em
+		margin: 0 0 0.5em
+
+
+	h2
+		font-size: 1.8em
+
+	h3
+		font-size: 1.6em
+
+	h4
+		font-size: 1.4em
+
+	h5
+		font-size: 1.2em
+
+	h6
+		font-size: 1.1em
+
+	p,
+	ol,
+	ul
+		margin-bottom: 1em
+
+		&:last-child
+			margin-bottom: 0
+
+	li
+		margin-bottom: 0.75em
+
+		&:last-child
+			margin-bottom: 0
+
+	ol
+		padding-left: 2em
+		list-style: decimal
+
+	ul
+		padding-left: 2em
+		list-style: circle
+
+		&.jch-list__2-col
+			padding-left: 0
+			list-style: none
+			margin-bottom: 2em
+			font-size: $f_size_small
+
+	img.aligncenter,
+	img.alignnone,
+	img.alignleft,
+	img.alignright
+		display: block
+		max-width: 100%
+		height: auto
+		margin: 2em auto
+		float: none
+
+	img.alignleft
+		+larger_than_phone
+			float: left
+			margin: 0 1em 1em 0
+
+	img.alignright
+		+larger_than_phone
+			float: right
+			margin: 0 0 1em 1em
+
+
+
+	iframe
+		width: 100%
+		max-width: 100%
+		min-height: 20em
+		display: block
+		margin: 1.5em 0
+
+	blockquote
+		@extend %big_blockquote
+		font-size: $f_size_large
+		margin: 1.5em 0
+
+%big_blockquote
+	background: $c_g_lightest
+	padding: 1.5em 2em
+	border-radius: 1px
+	position: relative
+
+	&:before,
+	&:after
+		position: absolute
+		color: white
+		font-size: 26px
+		content: '"'
+
+	&:before
+		top: 2px
+		left: 0
+
+	&:after
+		bottom: 2px
+		right: 0
+
+	p
+
+		&:last-child
+			margin-bottom: 0
+			border: none
