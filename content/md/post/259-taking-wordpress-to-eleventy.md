@@ -1,4 +1,5 @@
 ---
+
 title: "Taking WordPress to Eleventy"
 layout: post
 excerpt: "How I converted 12 years of posts in WordPress to an Eleventy static site."
@@ -6,6 +7,7 @@ date: 2020-02-09 06:00:00
 permalink: taking-wordpress-to-eleventy/index.html
 tags: [ "Best Of" ]
 featured_img:
+
 ---
 
 # Taking WordPress to Eleventy
@@ -233,34 +235,100 @@ The content portion of this was far less involved for my site. Mostly everything
 
 We want to get decent HTML to convert to Markdown so the order of operations I followed here was:
 
-#### 1. Pass through the `the_content` filter.
+#### 1. Pass through the `the_content` filter, add meta
 
-TBD
+This is definitely step 1 of the process. WordPress stores content as whatever was entered into the editor, then coverts that to viewable HTML in `the_content` filter. There's a lot of magic going on there, including shortcode processing, so it's best to work with the HTML post-conversion.
 
-#### 2. Strip any tags I don't want in the final output.
+Depending on how your theme is setup, this might also bring in addition content at the top and bottom of the post, possibly stored in postmeta. You'll want to examine your converted content and make sure that the HTML you see on your WP-powered site is more-or-less the same as what you see in your converted Markdown files. If you're missing chunks of content, look at the theme files to see where that content it coming from. This is **great** reason to have a repeatable script!
 
-TBD
+#### 2. Convert HTML to Markdown
+
+I used the [PHP League's HTML to Markdown converter](https://github.com/thephpleague/html-to-markdown/), which worked on the WordPress-generated HTML with zero configuration. Install with Composer and use like so:
+
+```php
+require 'vendor/autoload.php';
+
+use League\HTMLToMarkdown\HtmlConverter;
+
+$converter = new HtmlConverter();
+
+foreach( $posts as $post ) {
+	// ...
+	$the_content = apply_filters( 'the_content', $post->post_content );
+	$the_content_md = $converter->convert( $the_content );
+}
+```
 
 #### 3. Replace URLs
 
-TBD
+The next step I took was replacing URLs. This is not necessary but to make life easier developing locally, I:
 
-#### 4. Pass that to the HTML to Markdown converter.
+- Converted `wp-content` direct URLs to `_images` relative ones
+- Converted all the other direct URLs to relative ones
 
-TBD
+This step could come before or after converting to Markdown, it should not mattter much either way.
+
+#### 4. Strip additional tags
+
+Finally, I stripped all the remaining HTML with `strip_tags()`, keeping anything that would display well in the new template. Remember that, at this point, the content is converted to Markdown so the remaining tags are just ones that could not be converted. 
+
+You'll want to be careful here as you can potentially lose layout that you want to keep. Since `strip_tags()` lets you indicate what you keep, instead of what you want to remove, you'll need to be explicit. I processed the content through once without the tag stripping, then searched the processed content for the first part of a closing tag:
+
+```bash
+❯ grep -H -r "</" ./content/md
+```
+
+That found a number of ones I wanted to delete, like `<figure>` and `<figcaption>` used for images, and ones I wanted to keep, like `<span>` tags with styling. I ended up stripping the Markdown like so:
+
+```php
+$the_content_md = strip_tags( 
+	$the_content_md, 
+	'<a><span><object><param><embed><del>' 
+);
+``` 
 
 ### Create the file
 
-- Build meta
-- Add content
-- Convert count
-- post_name -> file name
+At this point, you should have an array of template data and a chunk of content that need to be combined into a `.md` file. The format of the Markdown file should be about like so:
+
+```md
+---
+title: post_title
+layout: post_type
+permalink: relative get_permalink()
+---
+
+# post_title or remove to add the title in the template
+
+converted post_content
+```
+
+Once you have the content in a string and ready to save, you'll need to generate a file name, find a place to output it, and see what happens next. I used the post name appended with `.md` and output to a temporary directory a few times before I started outputting into my Eleventy file structure:
+
+```php
+$fh = fopen( '~/path/to/dir/' . $post->post_name . '.md', 'w+' );
+fwrite( $fh, $the_content_md );
+fclose( $fh );
+```
 
 ## First Run
 
-I tied this whole process into a WP-CLI script to make this easy to run multiple times. I figured this would all need tweaking so having a reliable way to make changes and see the output made a world of difference.
+I tied this whole process into a WP-CLI script to make this easy to run multiple times. I figured this would need a lot of tweaking so having a reliable way to make changes and see the output made a world of difference.
 
-The
+The best way I found to have a quick iteration cycle was to output the Markdown files into the folder where Eleventy is watching so the processing happens right after the conversion run.
+
+On your first (or second or 100th) run, you might find a number of things to tweak:
+
+- You might want to exclude certain pages
+- You might find tags or categories to remove
+- You might adjust your file name
+- You might find addition DB-stored content to include
+- You might figure out additional content conversions you want to make
+- You might change the directory structure of what you output
+
+... and you might hit a lot of errors in Eleventy as you figure out how the templating language and data cascade works. This is all completely normal! I probably ran the script 40-50 times before I had the output I wanted to keep. 
+
+The trick here is to "let the robots do their job." In other words, don't start manually adjusting any of the content in the Markdown before you're sure all the repetitive stuff has been taken care of. I was running this on a local copy of my site so if I had a tag to delete or a permalink to change on a single post, I would make that change in the WP database, then keep running the script to make changes. In fact, I'm probably 95% done with the site for now and I just started making manual changes and corrections (tag curation, spelling/URL errors, etc).  
 
 ## Additional Resources
 

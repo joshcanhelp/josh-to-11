@@ -5,7 +5,7 @@ excerpt: "After reading several articles and a great book, Deep Work by Cal Newp
 date: 2016-12-08 21:16:02
 modified: 2016-12-08 21:16:02
 permalink: how-i-focus-now/index.html
-tags: ["Motivation", "Personal Development", "Social Media"]
+tags: ["Motivation", "Personal Development", "Social Media", "Best Of"]
 featured_img: /_images/2016/12/focus-150x150.png
 wpid: 4694
 ---
