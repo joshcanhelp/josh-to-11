@@ -328,7 +328,35 @@ On your first (or second or 100th) run, you might find a number of things to twe
 
 ... and you might hit a lot of errors in Eleventy as you figure out how the templating language and data cascade works. This is all completely normal! I probably ran the script 40-50 times before I had the output I wanted to keep. 
 
-The trick here is to "let the robots do their job." In other words, don't start manually adjusting any of the content in the Markdown before you're sure all the repetitive stuff has been taken care of. I was running this on a local copy of my site so if I had a tag to delete or a permalink to change on a single post, I would make that change in the WP database, then keep running the script to make changes. In fact, I'm probably 95% done with the site for now and I just started making manual changes and corrections (tag curation, spelling/URL errors, etc).  
+The trick here is to "let the robots do their job." In other words, don't start manually adjusting any of the content in the Markdown before you're sure all the repetitive stuff has been taken care of. I was running this on a local copy of my site so if I had a tag to delete or a permalink to change on a single post, I would make that change in the WP database, then keep running the script to make changes. In fact, I'm probably 95% done with the site for now and I just started making manual changes and corrections (tag curation, spelling/URL errors, etc).
+
+Using my sample Eleventy repository (which is all of the configuration I'm using minus my content, CSS, and HTML) and the WP to Markdown WP-CLI script (the basic script plus some of the filters in `examples/` are what I used for my conversion), it looks a bit like this:
+
+```bash
+❯ cd ~/path/to/eleventy
+❯ npx @11ty/eleventy --serve --watch
+# This will watch your content files and serve a local site.
+
+# In a new CLI window...
+
+❯ cd ~/path/to/wp/site
+❯ wp wptomd ~/path/to/eleventy/content/md
+'Output dir: ~/path/to/eleventy/content/md'
+Processing: Post Title
+Filename: post/post-name.md
+# ... lots of output
+Success: Processed: XX
+
+# In the Eleventy tab ...
+
+Writing _dist/post-name/index.html from ./content/md/post/post-name.md.
+Copied 1 item / Wrote XX files in 3.50 seconds (4.6ms each, v0.10.0)
+Watching…
+```
+
+... or some error that needs correcting. You should be able to make changes to your Eleventy templates and see new output or change the processing script, run `wp wptomd` again, and see the output there. If you leave your local site open in your browser, it will even live reload so feedback on what you're doing comes quickly!
+
+I'll say here ... making changes in any part of this pipeline and having my browser reloaded with the changes by the time I got back to the browser window is what really made love this process! There are a lot of moving pieces but you get used to where things are (and should be) stored fairly quickly. I had a Sass processor running at the same time so I could make minor styling changes and have the compiled CSS carried over by Eleventy as well. Very powerful. 
 
 ## Additional Resources
 
