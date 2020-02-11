@@ -54,7 +54,7 @@ With the changes made, we saw an improvement of around 36% (from 320 sec 56K loa
 
 I made a few recommendations for managing the site going forward.
 
-- The biggest thing you can do, as important as the code I changed, is to make sure your images are as small as possible. If you’re in Photoshop, save your JPGs at a 4 or 5 setting. Also, save non-photo images (logos, cartoons, etc) as GIFs. Give this site a try if you’re not proficient with a graphics program: <http://tools.dynamicdrive.com/imageoptimizer/>
+- The biggest thing you can do, as important as the code I changed, is to make sure your images are as small as possible. If you’re in Photoshop, save your JPGs at a 4 or 5 setting. Also, save non-photo images (logos, cartoons, etc) as GIFs. Give this site a try if you’re not proficient with a graphics program: 
 - On the topic of images… if you have the time, you might want to host some of your images offline (Picasa, Flickr, etc). This might increase load times a little bit but it will keep the load off of your server. Check those sites for bandwidth restrictions, though. It wouldn’t be good to have them take down an image that’s getting you a lot of traffic.
 - You’re fine to install new plugins on the site but keep it to a minimum. Many plugins won’t affect your load time at all but some will start adding things to your header which is exactly what I worked to remove. I can, of course, do the same modification to any new plugins as well, though.
 

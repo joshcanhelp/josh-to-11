@@ -52,7 +52,7 @@ I’m only listing the first few sections of quizzes (the beginner information).
 
 “Adapt \[the script above\] to construct an array while you read through the file that contains all the titles of fragments. Now encapsulate that functionality in a PHP function GetFragmentTitles($fn) whereby $fn is name of the file and the return result is an array containing all the titles. The pseudocode for this function is as follows:
 
-`function GetFragmentTitles($fn) {<br></br>// open file $fn<br></br>// create a new array $titles<br></br>// for each $line in file $fn<br></br>// if $line represents a title<br></br>// add the title to array<br></br>// close the file<br></br>return $titles;<br></br>}`
+`function GetFragmentTitles($fn) {// open file $fn// create a new array $titles// for each $line in file $fn// if $line represents a title// add the title to array// close the filereturn $titles;}`
 
 “Construct a form where the end-user can enter (part of) the name of a fragment. A second script subsequently searches the titles to see if (part of) the name occurs in the file. Report on how many fragments are found.
 

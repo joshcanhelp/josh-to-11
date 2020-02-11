@@ -69,4 +69,4 @@ Thanks, Hugh
 
 Hugh has inspired me for a few years now and I’m guessing he’s got many more in him. If you’re reading this, I want to say thanks and you’ll see my print order just as soon as I can make up my mind.
 
-<figure aria-describedby="caption-attachment-1472" class="wp-caption aligncenter" id="attachment_1472" style="width: 300px">![mediocrity now howls in protest Hugh MacLeod](/_images/2010/03/the_web_hugh_macleod-300x205.jpg "the_web_hugh_macleod")<figcaption class="wp-caption-text" id="caption-attachment-1472">"mediocrity now howls in protest" by Hugh MacLeod</figcaption></figure>
+![mediocrity now howls in protest Hugh MacLeod](/_images/2010/03/the_web_hugh_macleod-300x205.jpg "the_web_hugh_macleod")"mediocrity now howls in protest" by Hugh MacLeod

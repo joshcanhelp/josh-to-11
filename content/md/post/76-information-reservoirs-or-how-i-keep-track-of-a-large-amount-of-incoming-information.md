@@ -14,7 +14,7 @@ wpid: 586
 
 A couple of months ago, I felt so overwhelmed and innundated by the amount of information I came across on the regular that I sat up for almost two hours with a pen and a pad of paper trying to sketch out a way to manage this insane digital life I was leading. Between photos, music, email, contacts, web links, articles, client files, school files, and scheduling stuff, I was drowning fast. I’m an overly-organized person too so this was literally eating away at my conscious mind. This is what I came up with (along with a lot of other overly complicated and, ultimately, unused solutions).
 
-<figure aria-describedby="caption-attachment-587" class="wp-caption aligncenter" id="attachment_587" style="width: 455px">![Information Overload](/_images/2009/02/info_overload.jpg "info_overload")<figcaption class="wp-caption-text" id="caption-attachment-587">Information Overload</figcaption></figure>What’s the problem?
+![Information Overload](/_images/2009/02/info_overload.jpg "info_overload")Information OverloadWhat’s the problem?
 -------------------
 
 The problem is too much, too fast. Too much good info, too many tools, too many things to remember. There’s just too much and there’s seemingly no way to hold it all.
@@ -84,7 +84,7 @@ I save all my contacts in my phone, that’s a given. My phone lets me add a lot
 - Once you have everything in a spreadsheet, save it as a CSV file (choose Save As from the file menu).
 - Import this file into your webmail of choice. If you don’t have one, I always suggest Gmail. 
   - Gmail: click on contacts on the left in Gmail, then click Import on the top right
-  - Yahoo: <http://help.yahoo.com/l/us/yahoo/mail/yahoomail/manage/manage-09.html>
+  - Yahoo: 
   - Hotmail: Click on Contact List on the left, click Manage at the top, then Import
 - Now, just make sure to keep your webmail contacts up-to date on a regular basis. Set a reminder or an appointment weekly to input everything new from your phone to your webmail.
 

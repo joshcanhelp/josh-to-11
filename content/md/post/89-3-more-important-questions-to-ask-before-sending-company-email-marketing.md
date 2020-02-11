@@ -14,7 +14,7 @@ wpid: 796
 
 [On Monday, I posted 3 questions to ask before sending your email campaign](/3-important-questions-to-ask-before-sending-an-email-campaign/). Today, I’m going to finish up this thought with three more questions.
 
-<figure class="wp-caption aligncenter" style="width: 472px">[![](/_images/2009/06/not-email.jpg)](http://www.flickr.com/photos/sage/2143086954/)<figcaption class="wp-caption-text">If you were wondering where your mail went… by Chicago Sage on Flickr</figcaption></figure>By now, you should be confident about sending the email in the first place and have a measurable outcome in mind. You’ve combed through your email list, taken a close look at the images you’re sending, and feel confident about your subject line. Now, let’s move your campaign from passive to active.
+[![](/_images/2009/06/not-email.jpg)](http://www.flickr.com/photos/sage/2143086954/)If you were wondering where your mail went… by Chicago Sage on FlickrBy now, you should be confident about sending the email in the first place and have a measurable outcome in mind. You’ve combed through your email list, taken a close look at the images you’re sending, and feel confident about your subject line. Now, let’s move your campaign from passive to active.
 
 Tip #4 – Are you getting your message across clearly, honestly, and effectively?
 --------------------------------------------------------------------------------
@@ -41,7 +41,7 @@ Don’t write like an advertiser, **write like yourself**. Watch out for too man
 
 One more thing to think about:
 
-[3 Million Emails for $500 – Seth Godin](<http://sethgodin.typepad.com/seths_blog/2005/06/3_million_email.html >)
+[3 Million Emails for $500 – Seth Godin]()
 
 > “Email marketing is not about what you can get away with. Email marketing is about treating people with respect so that they will listen to what you have to say. So you can build your brand. So you can tell your story.”
 
@@ -122,11 +122,11 @@ Last but not least, here are a few tweaks to work into your next email template.
 
 A few great, recurring resources for you:
 
-<http://www.mailchimp.com/blog/>
+
 
 http://www.retailemailblog.com/
 
-<http://www.email-standards.org/>
+
 
 http://smith-harmon.com/blog/
 

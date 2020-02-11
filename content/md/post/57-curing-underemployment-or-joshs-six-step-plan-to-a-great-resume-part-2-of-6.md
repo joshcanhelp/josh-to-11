@@ -17,7 +17,7 @@ Read the [first step towards writing a great resume, write down the positions yo
 Step 2: Write down all of the jobs you’ve ever had (within reason) and brain dump everything that happened for each one.
 ------------------------------------------------------------------------------------------------------------------------
 
-<figure class="wp-caption aligncenter" style="width: 500px">![Ready for class...](/_images/2008/12/training_room.jpg "Training room full of computers in Victoria, Canada")<figcaption class="wp-caption-text">Ready for class...</figcaption></figure>Yikes! Are you ready for this one?
+![Ready for class...](/_images/2008/12/training_room.jpg "Training room full of computers in Victoria, Canada")Ready for class...Yikes! Are you ready for this one?
 
 Start with the company you worked for, then list all of the positions you had for that company. If you’re 40 and you worked at McDonalds when you with 18, this probably isn’t too relevant… unless you were a manager after a year and worked there for 3 years. Longevity means something in this age of indecision!
 

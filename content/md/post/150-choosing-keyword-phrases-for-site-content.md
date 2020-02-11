@@ -90,7 +90,7 @@ Once you’ve decided that this is a new concept for your site, it’s time to p
 
 This is one of those tools online that not enough people use (and one that I’m surprised doesn’t cost any money \[hint: they’re trying to sell you AdWords (hint: that might not be such a bad thing)\]). This little application will not only tell you if people are searching for the terms you chose, it will also suggest many others that might be better candidate than your original choice. Here’s what to do:
 
-1. Go to <https://adwords.google.com/o/Targeting/Explorer>
+1. Go to 
 2. In the “Word or phrase” box, paste the phrases you wrote before (there should be one per line with no extra characters)
 3. The “Only show ideas closely related to my search terms” check box searches for your exact phrases so leave this unchecked if you’re open to suggestions.
 4. The “Advanced Options” link will open up a form to allow you to select other regions and languages, filter by devices (like phones), and set lower or upper limits.

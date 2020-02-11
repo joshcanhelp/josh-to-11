@@ -17,7 +17,7 @@ Yesterday, I wrote about [the 3rd step in the Josh Can Help resume process, writ
 Step 4: Put it all together (rough draft)
 -----------------------------------------
 
-<figure class="wp-caption aligncenter" style="width: 500px">[![Writing Tools by this is your brain on lithium on flickr](http://farm1.static.flickr.com/39/101561441_3761c02d29.jpg "writing a resume rough draft")](http://flickr.com/photos/klytemestra/101561441/)<figcaption class="wp-caption-text">Writing Tools by this is your brain on lithium on flickr</figcaption></figure>Now, we’re going to take those personal statements, skill lists, and positions, and start building the different resumes. Don’t worry too much about formatting right now, just build the information (baby steps).
+[![Writing Tools by this is your brain on lithium on flickr](http://farm1.static.flickr.com/39/101561441_3761c02d29.jpg "writing a resume rough draft")](http://flickr.com/photos/klytemestra/101561441/)Writing Tools by this is your brain on lithium on flickrNow, we’re going to take those personal statements, skill lists, and positions, and start building the different resumes. Don’t worry too much about formatting right now, just build the information (baby steps).
 
 Create a new document for each resume and paste the completed personal statement at the top. Next, give your skills list a heading and copy and paste each relevant skill from the major list. Don’t be too concerned about the length or how specific/general you’re being. Writing a resume is better as an iterative process (step by step, doing and correcting). What you want to concentrate on is relevancy to the position you’re going after. The more targeted your resume is, the better you’re going to look.
 

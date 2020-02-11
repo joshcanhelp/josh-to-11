@@ -51,7 +51,7 @@ I’ve never had a problem with Dropbox, it’s never deleted files, and I’ve 
 
 Dropbox gives you 2 gigs of storage which is quite a bit for what I need. If you’re only working with documents, you won’t get anywhere close to that. Image files and photographs stat to eat up space so you can upgrade to the 50 gig plan for $10/month. I have a lot of different files synced and I’m only at about 50%.
 
-<figure aria-describedby="caption-attachment-565" class="wp-caption aligncenter" id="attachment_565" style="width: 200px">[![Rememberthemilk icon by moutzouris](/_images/2009/02/remember_the_milk_icon_by_moutzouris.jpg "remember_the_milk_icon_by_moutzouris")](http://www.rememberthemilk.com)<figcaption class="wp-caption-text" id="caption-attachment-565">Rememberthemilk icon by moutzouris</figcaption></figure>Remember the Milk (RTM) online to-do list
+[![Rememberthemilk icon by moutzouris](/_images/2009/02/remember_the_milk_icon_by_moutzouris.jpg "remember_the_milk_icon_by_moutzouris")](http://www.rememberthemilk.com)Rememberthemilk icon by moutzourisRemember the Milk (RTM) online to-do list
 -----------------------------------------
 
 [Sign up for Remember the Milk](http://www.rememberthemilk.com/)

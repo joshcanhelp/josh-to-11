@@ -17,7 +17,7 @@ Yesterday, I went through the [fourth step in my resume-writing process, creatin
 Step 5: “Final” draft time… buckle down
 ---------------------------------------
 
-<figure class="wp-caption aligncenter" style="width: 500px">[![Greyhound Racing: Home Stretch by sombraala on flickr](http://farm1.static.flickr.com/146/337491782_cdd8f3867e.jpg "Greyhound Racing: Home Stretch by sombraala on flickr")](http://flickr.com/photos/sombraala/337491782/)<figcaption class="wp-caption-text">Greyhound Racing: Home Stretch by sombraala on flickr</figcaption></figure>OK, you have a resume, you’re about 80% there. Now it’s time to bring it all together.
+[![Greyhound Racing: Home Stretch by sombraala on flickr](http://farm1.static.flickr.com/146/337491782_cdd8f3867e.jpg "Greyhound Racing: Home Stretch by sombraala on flickr")](http://flickr.com/photos/sombraala/337491782/)Greyhound Racing: Home Stretch by sombraala on flickrOK, you have a resume, you’re about 80% there. Now it’s time to bring it all together.
 
 First, lay it all out. Personal statement is first, then what? Education? What is the most important thing about the job you’re applying to? If you’re applying to be a web developer, your skill set is probably more important than your BA degree from a few years ago. If, however, you’re applying to be a college professor, your education is probably pretty darn important. Don’t stress too much about the order, however, because there’s plenty more to do.
 

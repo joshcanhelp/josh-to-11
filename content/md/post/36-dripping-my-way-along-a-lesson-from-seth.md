@@ -12,7 +12,7 @@ wpid: 260
 
 # Dripping my way along... a lesson from Seth
 
-<div class="mceTemp mceIEcenter" style="text-align: left;"><dl class="wp-caption aligncenter" style="width: 510px;"><dt class="wp-caption-dt">[![Dripping in High Key by brtsergio on Flickr](http://farm3.static.flickr.com/2140/2279908675_f2104b0e52.jpg "Dripping in High Key")](http://www.flickr.com/photos/brtsergio/2279908675/)</dt><dd class="wp-caption-dd" style="text-align: center;">Dripping in High Key by brtsergio on Flickr</dd></dl></div>Seth Godin that is. The lesson [comes from this post](http://sethgodin.typepad.com/seths_blog/2008/08/the-secret-of-t.html) and only set sunk in yesterday. Key point:
+[![Dripping in High Key by brtsergio on Flickr](http://farm3.static.flickr.com/2140/2279908675_f2104b0e52.jpg "Dripping in High Key")](http://www.flickr.com/photos/brtsergio/2279908675/)Dripping in High Key by brtsergio on FlickrSeth Godin that is. The lesson [comes from this post](http://sethgodin.typepad.com/seths_blog/2008/08/the-secret-of-t.html) and only set sunk in yesterday. Key point:
 
 > I discovered a lucky secret the hard way about thirty years ago: you can outlast the other guys if you try. If you stick at stuff that bores them, it accrues. Drip, drip, drip you win.
 > 

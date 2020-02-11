@@ -16,7 +16,7 @@ For web development folks in Seattle who want to level up on Sass, SCSS, Bourbon
 
 Class will be held at the Maritime Building at 911 Western Ave.
 
-<iframe frameborder="0" height="450" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2690.1529270884184!2d-122.33739699999998!3d47.603716000000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54906ab029f9aa07%3A0x6cd499646667e6d2!2s911+Western+Ave%2C+Seattle%2C+WA+98104!5e0!3m2!1sen!2sus!4v1425583414870" style="border: 0;" width="600"></iframe>
+
 
 It will be a total of 4 evening classes, and cost around $400 for the whole burrito. If you’re interested, comment below, [contact me here](/contact/ "Contact Me"), or [tweet me @joshcanhelp](https://twitter.com/intent/tweet?text=@joshcanhelp%20RE:%20Sass%20class:%20). Limit is probably around 6 or so and we’re halfway there!
 

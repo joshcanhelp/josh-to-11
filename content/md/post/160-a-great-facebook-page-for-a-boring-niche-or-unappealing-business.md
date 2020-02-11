@@ -29,7 +29,7 @@ If you’re part of a business that’s not very interesting to talk about then 
 Ask yourself
 ------------
 
-<div>Now that you’ve crossed off all the obvious (and, yes, boring) options, it’s time to get out your thinking cap (did I just say “thinking cap?”). You’re going to sit down with a couple of people (you can do this on your own but it’s not as fun, or as productive) and you’re going to ask these two important questions:
+Now that you’ve crossed off all the obvious (and, yes, boring) options, it’s time to get out your thinking cap (did I just say “thinking cap?”). You’re going to sit down with a couple of people (you can do this on your own but it’s not as fun, or as productive) and you’re going to ask these two important questions:
 
 1. **Who** do you want to talk to (meaning who’s attention do you want to get)?
 2. **What** value are you going to provide them (meaning what are you going to do that helps them or makes them happy or makes them look good)?
@@ -90,4 +90,3 @@ Walk through this page and you see everything from found photos to breaking news
 
 The key, in this case, is being very, very well-informed for no other reason than to stay up on the industry. The person running this page was already consuming a huge amount of news and filtering through it himself; why not share that value with others? He used my [WP-Drudge news aggregation template](http://wpdrudge.com) to build a site to hold this filtered information and a Facebook page to bring more people into his world.
 
-</div>

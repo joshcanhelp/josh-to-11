@@ -14,7 +14,7 @@ wpid: 789
 
 So you want to send an email campaign. Well, guess what? Everyone else wants to send an email campaign too and that includes spammers, your competition, and others that deign to make your email marketing harder than it already is. While there’s no fool-proof strategy to ensure open rates, there’s a right way and a wrong way to run an email campaign.
 
-<figure class="wp-caption aligncenter" style="width: 500px">[![Mail](/_images/2009/06/the_mail.jpg)](http://www.flickr.com/photos/good_day/19705415/)<figcaption class="wp-caption-text">“In the days before email” by Today is a good day on Flickr</figcaption></figure>The tips here focus on planning, strategy, and common sense but there is still work to be done. Sitting on your butt while your well-written and designed emails get redirected right to a spam folder is not proper campaigning. Follow my tips here and keep experimenting and you’ll see all your statistics go up. FYI, this is part one of two. I’ve got three more questions that I’ll post later this week.
+[![Mail](/_images/2009/06/the_mail.jpg)](http://www.flickr.com/photos/good_day/19705415/)“In the days before email” by Today is a good day on FlickrThe tips here focus on planning, strategy, and common sense but there is still work to be done. Sitting on your butt while your well-written and designed emails get redirected right to a spam folder is not proper campaigning. Follow my tips here and keep experimenting and you’ll see all your statistics go up. FYI, this is part one of two. I’ve got three more questions that I’ll post later this week.
 
 Tip #1 – “Am I sure I want to send this email?”
 -----------------------------------------------
@@ -54,8 +54,8 @@ Keeping images to a minimum is an important rule of thumb. Spam checkers look fo
 
 To check the deliverability of your email try one of the two free options below:
 
-**Fast** (there are a few checkers out there, this one seemed to be the toughest): <http://spamcheck.sitesell.com/>  
-**Slow** (makes you save files as .eml format but could catch problems that other scanners don’t): <http://www.mailingcheck.com/download-spam-checker/>
+**Fast** (there are a few checkers out there, this one seemed to be the toughest):   
+**Slow** (makes you save files as .eml format but could catch problems that other scanners don’t): 
 
 Tip #3 – Will the recipient open the email?
 -------------------------------------------

@@ -33,7 +33,7 @@ Good performance comes from a good basic setup. I’m not going to cover Apache/
 
 Long story short: some hosts allow you to mess with these settings, some don’t. You’ll see a lot of different techniques for doing this but they all come down to affecting PHP settings for a particular site in some way. the WP settings you listed are [covered in-depth here](http://codex.wordpress.org/Editing_wp-config.php#Increasing_memory_allocated_to_PHP). A few things to try:
 
-- In wp-config.php (before wp-settings.php is required): <span style="font-family: 'courier new', monospace;">define(‘WP\_MEMORY\_<wbr></wbr>LIMIT’, ‘256M’);  
+- In wp-config.php (before wp-settings.php is required): <span style="font-family: 'courier new', monospace;">define(‘WP\_MEMORY\_LIMIT’, ‘256M’);  
   </span>
 - In wp-config.php: <span style="font-family: 'courier new', monospace;">ini\_set(‘memory\_limit’, ‘256M’);</span>
 - In a php.ini file in the site’s doc root: <span style="font-family: 'courier new', monospace;">memory\_limit = 256M</span>

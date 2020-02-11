@@ -15,60 +15,60 @@ wpid: 4665
 A list of the breweries in Ballard and Fremont and a few suggested schedules for the weekend days.
 
 **Urban Family Public House**  
-<http://urbanfamilypublichouse.com>  
+  
 5329 Ballard Ave NW  
 Sat: 1 pm – 2 am  
 Sun 11 am – 12 am
 
 **NW Peaks**  
-<http://nwpeaksbrewery.com>  
+  
 4912 17th Ave NW, Ste B  
 Sat: 2 pm – 8 pm  
 Sun: 12 pm – 6 pm
 
 **Hilliard’s**  
-<http://hilliardsbeer.com/>  
+  
 1550 NW 49th St  
 Sat 12 pm – 11 pm  
 Sun 12 pm – 7 pm
 
 **Peddlers**  
-<http://www.peddlerbrewing.com/>  
+  
 1514 NW Leary Way  
 Sat 4 pm – 10 pm
 
 **Reuben’s Brew**  
-<http://reubensbrews.com/>  
+  
 1406 NW 53rd St, Ste 1A  
 Sun 12pm – 5pm
 
 **Maritime**  
-<http://maritimebrewery.com/>  
+  
 1111 N.W. Ballard Way  
 Sat 11 am – 12 am  
 Sun 12 pm – 9 pm  
 HH 3 – 6
 
 **Populuxe**  
-<http://www.populuxebrewing.com/>  
+  
 826 B NW 49th St  
 Sat: 2 pm – 9 pm
 
 **Hale’s**  
-<http://halesbrewery.com/>  
+  
 4301 Leary Way NW  
 Sat 9:30 am – 11 pm  
 Sun 9:30 am – 10 pm  
 HH 9 – 10pm
 
 **Outlander Brewing**  
-<http://outlanderbrewing.com/>  
+  
 225 N.36th St  
 Sat 2 pm – 1 am  
 Sun 2 pm – 1 am
 
 **Fremont Brewing**  
-<http://www.fremontbrewing.com/>  
+  
 3409 Woodland Park Avenue North  
 Sat 11 am – 9 pm  
 Sun 11 am – 8 pm

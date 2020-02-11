@@ -22,7 +22,7 @@ In one of those “meant to be” moments, I met the founder and president of th
 
 The design team, lead by Ryan Applegate, were well-versed in WordPress but didn’t want to be hemmed in by lame theme frameworks or constantly fighting minor style changes. They didn’t want to start from scratch for each brewery they branded, creating an over-priced, completely custom site each time.
 
-<figure aria-describedby="caption-attachment-4587" class="wp-caption aligncenter" id="attachment_4587" style="width: 1024px">![I created literally nothing in or about the photo above. ](/_images/2016/10/Screenshot-2016-10-31-08.48.54-1024x502.png)<figcaption class="wp-caption-text" id="caption-attachment-4587">I created literally nothing in or about the photo above.</figcaption></figure>**Enter the custom WordPress site framework.**
+![I created literally nothing in or about the photo above. ](/_images/2016/10/Screenshot-2016-10-31-08.48.54-1024x502.png)I created literally nothing in or about the photo above.**Enter the custom WordPress site framework.**
 
 Using wireframes for the first site we would build together, we created a spec that would cover the needs of most breweries they work with. This included:
 

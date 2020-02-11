@@ -93,7 +93,7 @@ Here are a few basic resources for learning PHP:
   *in PHP!*
 - [Zend’s PHP for the absolute beginner](http://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/) – if you can believe it, this is where I started with PHP. It was on a different site I think, which is why the date is so new. I referred to this for at least 2 years after getting started.
 
-<div dir="ltr">Tips and tricks:
+Tips and tricks:
 
 - “Learning PHP” is actually just learning how to program in a specific language. Since you’re starting at the beginning, understand that you’re learning how to program  
   **and** learning PHP at the same time. Most of what you learn will be applicable to all other languages, like data structures, loops, functions, and objects. Different languages handle them differently but the key is to understand the concept behind what you’re learning, not just how to do it.
@@ -129,4 +129,3 @@ Here are a few rules of the road:
 
 There are so, so many others but these are the ones that come immediately to mind.
 
-</div>

@@ -19,7 +19,7 @@ On Friday, I posted the [5th step to a great resume, writing a “final” draft
 Step 6: Lay it out as you go through it again (and again \[and again\])
 -----------------------------------------------------------------------
 
-<figure class="wp-caption aligncenter" style="width: 500px">[![blueprint by dog on wheels on flickr](http://farm1.static.flickr.com/35/69784313_decd747ec3.jpg "blueprint by dog on wheels on flickr")](http://flickr.com/photos/domc/69784313/)<figcaption class="wp-caption-text">blueprint by dog on wheels on flickr</figcaption></figure>This is the final step and possibly the most important one. This is called “checking your work” or “avoiding the if-only-I-had’s.”
+[![blueprint by dog on wheels on flickr](http://farm1.static.flickr.com/35/69784313_decd747ec3.jpg "blueprint by dog on wheels on flickr")](http://flickr.com/photos/domc/69784313/)blueprint by dog on wheels on flickrThis is the final step and possibly the most important one. This is called “checking your work” or “avoiding the if-only-I-had’s.”
 
 If you haven’t formatted the document, now is the time. You’ll probably want to check out my guide on simple typography in any document to give you an idea on how to keep it simple and effective. Remember to style for the position. If you’re applying to a law firm, keep it tight, simple, and classy. If you’re applying to a graphic design company, spice it up a bit, use some color, and show them you know a thing or two about alignment.
 

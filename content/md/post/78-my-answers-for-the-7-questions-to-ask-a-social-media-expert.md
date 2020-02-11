@@ -100,4 +100,4 @@ Social media is social interaction surrounding submitted media. Vauge, no? The t
 
 It’s really up to you how I did. If you like what I said and want to talk, send me an email with what you had in mind and let’s connect!
 
-<figure class="wp-caption aligncenter" style="width: 400px">[![Great comic from Hugh at gapingvoid.com](http://i102.photobucket.com/albums/m93/josh054/sms227.jpg)](http://gapingvoid.com)<figcaption class="wp-caption-text">Great comic from Hugh at gapingvoid.com</figcaption></figure>
+[![Great comic from Hugh at gapingvoid.com](http://i102.photobucket.com/albums/m93/josh054/sms227.jpg)](http://gapingvoid.com)Great comic from Hugh at gapingvoid.com

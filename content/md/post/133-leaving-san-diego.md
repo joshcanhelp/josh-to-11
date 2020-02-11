@@ -28,11 +28,11 @@ The main issue here is the fact that we were left with any kind of staging area.
 
 Sunday was the official “truck day” and almost everything except the car was stacked like Tetris into their final resting place before reanimated back in Seattle. The move itself was pretty uneventful thanks to a couple of motivated newlyweds and a fantastic local friend. The ladies joined forces and their spatial reasoning capacity could not be stopped. The truck was packed like a brick smokestack (didn’t hear one noise on the way) and the storage unit was like a work of art. The photos truly speak for themselves.
 
-<div class="img-box">![](/_images/2010/08/IMG_13151.jpg "IMG_1315")
+![](/_images/2010/08/IMG_13151.jpg "IMG_1315")
 
 ![](/_images/2010/08/IMG_13171.jpg "IMG_1317")
 
-</div>Monday and Tuesday found me working and packing and found Anna cleaning and painting her butt off. By the time she was done with it, our apartment looked better than when we moved in. Part of me felt bad that she got stuck with all the grunt work but then I stopped. Hey, I’m the one working over there!
+Monday and Tuesday found me working and packing and found Anna cleaning and painting her butt off. By the time she was done with it, our apartment looked better than when we moved in. Part of me felt bad that she got stuck with all the grunt work but then I stopped. Hey, I’m the one working over there!
 
 [![](/_images/2010/08/IMG_0009.jpg "IMG_0009")](/_images/2010/08/IMG_0009.jpg)
 
