@@ -5,7 +5,7 @@ excerpt: ""
 date: 2011-05-31 04:42:33
 modified: 2019-01-04 04:54:12
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2011/07/smt_email_thumbnail-150x150.png
 wpid: 2337
 ---

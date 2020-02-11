@@ -5,7 +5,7 @@ excerpt: "&quot;WordPress is a server hog&quot; ... &quot;WordPress keeps crashi
 date: 2015-01-12 15:00:54
 modified: 2016-10-20 16:43:59
 permalink: wordpress-performance/index.html
-tags: ["hardware", "personal development"]
+tags: ["Hardware", "Personal Development"]
 featured_img: /_images/2015/01/hard-drive-install-150x150.jpg
 wpid: 2368
 ---

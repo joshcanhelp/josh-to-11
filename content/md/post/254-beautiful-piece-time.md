@@ -5,7 +5,7 @@ excerpt: ""
 date: 2017-01-24 06:06:17
 modified: 2017-01-24 06:06:17
 permalink: beautiful-piece-time/index.html
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: 
 wpid: 4736
 link_to: "http://www.newyorker.com/magazine/2016/12/19/the-secret-life-of-time"

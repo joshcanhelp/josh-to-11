@@ -5,7 +5,7 @@ excerpt: ""
 date: 2012-02-15 16:43:25
 modified: 2016-10-20 16:44:00
 permalink: how-to-be-a-better-self-promoter-in-the-creative-industry/index.html
-tags: ["personal development"]
+tags: ["Personal Development"]
 featured_img: 
 wpid: 2708
 ---

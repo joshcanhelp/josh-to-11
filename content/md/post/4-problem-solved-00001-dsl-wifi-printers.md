@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-04-09 09:20:51
 modified: 2016-04-01 03:48:57
 permalink: problem-solved-00001-dsl-wifi-printers/index.html
-tags: ["dsl", "printers", "wifi", "hardware"]
+tags: ["DSL", "printers", "Wifi", "Hardware"]
 featured_img: 
 wpid: 10
 ---

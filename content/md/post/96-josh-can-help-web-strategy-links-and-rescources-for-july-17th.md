@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-07-17 18:41:26
 modified: 2016-10-20 16:44:18
 permalink: josh-can-help-web-strategy-links-and-rescources-for-july-17th/index.html
-tags: ["fonts", "google analytics", "linkedin", "online advertising", "ps tutorials", "smashing", "social networking", "web design", "wordpress", "wordpress security", "web strategy"]
+tags: ["fonts", "Google Analytics", "linkedin", "online advertising", "PS tutorials", "Smashing", "social networking", "web design", "Wordpress", "Wordpress security", "Web Strategy"]
 featured_img: 
 wpid: 912
 ---

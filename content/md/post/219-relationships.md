@@ -5,7 +5,7 @@ excerpt: ""
 date: 2015-06-12 15:49:59
 modified: 2016-10-20 16:43:59
 permalink: false
-tags: ["personal development"]
+tags: ["Personal Development"]
 featured_img: 
 wpid: 3701
 ---

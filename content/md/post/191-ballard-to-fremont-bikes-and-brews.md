@@ -5,7 +5,7 @@ excerpt: "A list of the breweries in Ballard and Fremont and a few suggested sch
 date: 2013-08-15 04:51:40
 modified: 2013-08-15 04:51:40
 permalink: ballard-to-fremont-bikes-and-brews/index.html
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: 
 wpid: 4665
 ---

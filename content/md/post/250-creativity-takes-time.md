@@ -5,7 +5,7 @@ excerpt: ""
 date: 2016-11-26 05:47:48
 modified: 2016-11-29 05:50:20
 permalink: creativity-takes-time/index.html
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: 
 wpid: 4691
 link_to: "https://medium.com/@sparkszilla/john-cleese-on-why-creativity-takes-time-d6adee4e3609#.r3kk71hd2"

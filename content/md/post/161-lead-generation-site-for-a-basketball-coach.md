@@ -5,7 +5,7 @@ excerpt: ""
 date: 2011-09-15 23:09:30
 modified: 2019-01-04 04:54:28
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2011/09/nwelitebball_portfolio-150x150.jpg
 wpid: 2492
 link_to: "http://nwelitebasketball.com/"

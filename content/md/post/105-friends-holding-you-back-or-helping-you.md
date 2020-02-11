@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-09-03 19:43:55
 modified: 2009-09-03 19:43:55
 permalink: friends-holding-you-back-or-helping-you/index.html
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: 
 wpid: 22
 ---

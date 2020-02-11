@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-07-01 18:00:44
 modified: 2016-10-20 16:44:18
 permalink: tooting-my-own-horn-email-marketing-presentation/index.html
-tags: ["deliverability", "email", "email campaigns", "email marketing", "html email", "open rates", "about joshcanhelp", "email"]
+tags: ["deliverability", "email", "email campaigns", "email marketing", "HTML email", "open rates", "About JoshCanHelp", "Email"]
 featured_img: 
 wpid: 871
 ---

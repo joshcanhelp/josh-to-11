@@ -5,7 +5,7 @@ excerpt: "Node.js and Backbone SPA to find fun stuff along a map route. Collabor
 date: 2014-05-30 23:08:08
 modified: 2020-01-19 22:12:08
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: 
 wpid: 4618
 link_to: "https://github.com/CodeFellows-JSJAKZ/along-the-way"

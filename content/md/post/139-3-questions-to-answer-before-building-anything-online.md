@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-09-21 22:25:48
 modified: 2016-04-03 02:32:59
 permalink: 3-questions-to-answer-before-building-anything-online/index.html
-tags: ["apps", "build an app", "ideas", "web apps", "web strategy"]
+tags: ["apps", "build an app", "ideas", "web apps", "Web Strategy"]
 featured_img: 
 wpid: 1710
 ---

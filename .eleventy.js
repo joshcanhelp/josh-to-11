@@ -23,9 +23,21 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection('postsCollection', function(collection) {
     const tmpCollection = collection.getAllSorted();
     return tmpCollection.reverse().filter(function(tpl) {
-      if ( tpl.data.permalink && postLayouts.includes(tpl.data.layout) ) return tpl;
+      if ( tpl.data.permalink && postLayouts.includes(tpl.data.layout) ) {
+        return true;
+      }
     });
   });
+
+  eleventyConfig.addCollection('bestOfCollection', function(collection) {
+    const tmpCollection = collection.getAllSorted();
+    return tmpCollection.reverse().filter(function(tpl) {
+      if ( tpl.data.permalink && tpl.data.tags && tpl.data.tags.includes('Best Of') ) {
+        return true;
+      }
+    });
+  });
+
 
   eleventyConfig.addCollection('allTags', function(collection) {
     let allTags = [];

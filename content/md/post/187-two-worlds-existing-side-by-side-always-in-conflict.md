@@ -5,7 +5,7 @@ excerpt: "On how I have made a commitment, each day, to never getting mad, irrit
 date: 2013-02-18 18:30:18
 modified: 2019-06-29 20:51:08
 permalink: two-worlds-existing-side-by-side-always-in-conflict/index.html
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2013/02/IMG_0145-1-e1561841461118-150x150.jpg
 wpid: 252
 ---

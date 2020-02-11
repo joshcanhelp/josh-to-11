@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-11-09 19:27:33
 modified: 2016-03-30 18:54:49
 permalink: succeed-by-finding-your-audience/index.html
-tags: ["potential clients", "research", "web strategy", "writing for the web"]
+tags: ["potential clients", "research", "Web Strategy", "Writing for the Web"]
 featured_img: 
 wpid: 1199
 ---

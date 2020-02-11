@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-10-27 02:40:30
 modified: 2016-10-20 16:44:17
 permalink: do-it-and-then-do-it-better-an-iterative-mindset/index.html
-tags: ["iteration", "make mistakes", "design &amp; creative process", "personal development", "web strategy"]
+tags: ["iteration", "make mistakes", "Design &amp; Creative Process", "Personal Development", "Web Strategy"]
 featured_img: 
 wpid: 1173
 ---

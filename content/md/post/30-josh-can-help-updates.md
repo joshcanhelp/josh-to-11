@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-08-23 00:55:33
 modified: 2016-10-20 16:44:21
 permalink: josh-can-help-updates/index.html
-tags: ["updates", "about joshcanhelp", "design &amp; creative process"]
+tags: ["updates", "About JoshCanHelp", "Design &amp; Creative Process"]
 featured_img: 
 wpid: 203
 ---

@@ -5,7 +5,7 @@ excerpt: ""
 date: 0000-00-00 00:00:00
 modified: 2016-11-14 15:48:36
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: 
 wpid: 4509
 ---

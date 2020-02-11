@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-02-16 17:10:33
 modified: 2016-10-20 16:44:19
 permalink: craigslist-feeds-blocked-from-yahoo-pipes-via-403-error/index.html
-tags: ["craigslist", "pipes", "yahoo pipes", "everything else"]
+tags: ["craigslist", "pipes", "yahoo pipes", "Everything Else"]
 featured_img: 
 wpid: 580
 ---

@@ -5,7 +5,7 @@ excerpt: ""
 date: 2012-10-10 19:12:11
 modified: 2019-01-04 04:55:20
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2012/10/Screen-Shot-2013-04-04-at-11.42.33-AM-150x150.png
 wpid: 3049
 link_to: "http://www.smartvault.com/"

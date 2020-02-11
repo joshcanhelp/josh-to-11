@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-06-01 19:17:53
 modified: 2017-10-12 12:06:37
 permalink: 3-important-questions-to-ask-before-sending-an-email-campaign/index.html
-tags: ["email"]
+tags: ["Email"]
 featured_img: 
 wpid: 789
 ---

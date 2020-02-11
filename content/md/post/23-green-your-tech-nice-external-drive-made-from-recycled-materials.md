@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-07-31 17:01:54
 modified: 2016-04-03 02:33:18
 permalink: green-your-tech-nice-external-drive-made-from-recycled-materials/index.html
-tags: ["green tech", "hard drive", "hd", "hardware"]
+tags: ["green tech", "hard drive", "HD", "Hardware"]
 featured_img: 
 wpid: 67
 ---

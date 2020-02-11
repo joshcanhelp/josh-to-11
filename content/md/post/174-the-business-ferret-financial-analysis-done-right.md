@@ -5,7 +5,7 @@ excerpt: ""
 date: 2012-03-20 07:00:00
 modified: 2019-01-04 04:54:50
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2011/05/Screen-shot-2012-10-10-at-12.06.55-PM-150x150.png
 wpid: 2357
 link_to: "http://thebusinessferret.com/"

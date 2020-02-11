@@ -5,7 +5,7 @@ excerpt: "8-month engagement to provide engineering, strategy, code review, pair
 date: 2016-06-11 22:55:47
 modified: 2016-11-17 18:41:55
 permalink: minecraft-community-and-ecommerce/index.html
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2016/06/80-1-150x150.png
 wpid: 4617
 ---

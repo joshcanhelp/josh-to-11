@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-01-26 19:00:14
 modified: 2016-10-20 16:44:19
 permalink: creating-a-functional-useable-linkable-website-start-and-maintain-a-blog/index.html
-tags: ["blogging", "create a website", "great website", "start a blog", "writing for the web"]
+tags: ["blogging", "create a website", "great website", "start a blog", "Writing for the Web"]
 featured_img: 
 wpid: 529
 ---

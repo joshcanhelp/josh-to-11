@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-03-24 17:36:55
 modified: 2016-03-30 18:30:19
 permalink: what-is-this-blog-for/index.html
-tags: ["jch_blog", "the_beginning", "about joshcanhelp"]
+tags: ["JCH_blog", "the_beginning", "About JoshCanHelp"]
 featured_img: 
 wpid: 3094
 ---

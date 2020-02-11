@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-09-24 17:32:19
 modified: 2019-06-29 20:47:27
 permalink: reims-you-want-to-go-to-there/index.html
-tags: ["paris", "everything else"]
+tags: ["Paris", "Everything Else"]
 featured_img: /_images/2011/11/steps-150x150.jpg
 wpid: 126
 ---

@@ -5,7 +5,7 @@ excerpt: ""
 date: 2011-06-16 23:33:09
 modified: 2019-01-04 04:54:07
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2011/06/Screen-Shot-2013-04-04-at-12.19.25-PM-150x150.png
 wpid: 2454
 link_to: "http://wpdrudge.com"

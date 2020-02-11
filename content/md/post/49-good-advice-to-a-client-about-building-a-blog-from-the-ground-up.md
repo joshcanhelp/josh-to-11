@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-10-23 16:00:39
 modified: 2016-10-20 16:44:20
 permalink: good-advice-to-a-client-about-building-a-blog-from-the-ground-up/index.html
-tags: ["blogging", "self-promotion", "traffic", "web presence", "writing for the web"]
+tags: ["blogging", "self-promotion", "traffic", "web presence", "Writing for the Web"]
 featured_img: 
 wpid: 356
 ---

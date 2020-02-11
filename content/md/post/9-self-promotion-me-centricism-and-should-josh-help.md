@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-05-01 12:42:06
 modified: 2016-04-01 01:38:30
 permalink: self-promotion-me-centricism-and-should-josh-help/index.html
-tags: ["personal brand", "self-promotion", "about joshcanhelp", "personal development"]
+tags: ["personal brand", "self-promotion", "About JoshCanHelp", "Personal Development"]
 featured_img: 
 wpid: 21
 ---

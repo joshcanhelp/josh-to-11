@@ -5,7 +5,7 @@ excerpt: "Quickly add hard-coded share links badges to your Wordpress or static 
 date: 2010-01-14 18:00:21
 modified: 2016-03-30 19:10:37
 permalink: improving-website-and-wordpress-performance-with-hard-coded-share-buttons/index.html
-tags: ["facebook", "linkedin", "share articles", "share links", "twitter", "wordpress sharing", "development", "performance"]
+tags: ["Facebook", "linkedin", "share articles", "share links", "twitter", "wordpress sharing", "Development", "Performance"]
 featured_img: 
 wpid: 1322
 ---

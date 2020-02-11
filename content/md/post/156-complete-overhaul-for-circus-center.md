@@ -5,7 +5,7 @@ excerpt: ""
 date: 2011-07-01 21:58:37
 modified: 2019-01-04 04:54:23
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2011/07/Screen-Shot-2013-04-04-at-11.58.42-AM-150x150.png
 wpid: 2450
 link_to: "http://circuscenter.org/"

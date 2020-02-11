@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-04-21 16:27:18
 modified: 2016-10-20 16:44:18
 permalink: you-cant-go-wrong-with-fused-network-hosting-for-small-businesses/index.html
-tags: ["hardware"]
+tags: ["Hardware"]
 featured_img: 
 wpid: 662
 ---

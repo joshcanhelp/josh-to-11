@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-08-07 17:00:20
 modified: 2016-04-03 02:33:18
 permalink: building-a-homepage-from-a-blog-part-1-conceptualization-and-planning/index.html
-tags: ["about joshcanhelp", "web strategy"]
+tags: ["About JoshCanHelp", "Web Strategy"]
 featured_img: 
 wpid: 63
 ---

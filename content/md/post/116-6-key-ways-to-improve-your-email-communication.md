@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-12-04 20:48:14
 modified: 2013-04-06 22:40:42
 permalink: 6-key-ways-to-improve-your-email-communication/index.html
-tags: ["better communication", "electronic communication", "email", "gmail", "how to email", "email"]
+tags: ["better communication", "electronic communication", "email", "gmail", "how to email", "Email"]
 featured_img: 
 wpid: 1258
 ---

@@ -5,7 +5,7 @@ excerpt: "An incredible movie, a life-changing product, and a quote. Might be ju
 date: 2015-10-19 17:20:57
 modified: 2016-10-20 16:43:59
 permalink: inspiration-1/index.html
-tags: ["personal development"]
+tags: ["Personal Development"]
 featured_img: /_images/2015/10/Screenshot-2015-10-22-12.08.25-150x150.png
 wpid: 3767
 ---

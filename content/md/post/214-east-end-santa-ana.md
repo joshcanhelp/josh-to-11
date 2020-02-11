@@ -5,7 +5,7 @@ excerpt: "This was a collaboration with the incredibly talented Megan Gray. A si
 date: 2015-04-03 21:38:24
 modified: 2019-01-04 04:55:44
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2015/04/Screenshot-2015-04-03-14.29.45-150x150.png
 wpid: 3679
 link_to: "http://eastenddtsa.com/"

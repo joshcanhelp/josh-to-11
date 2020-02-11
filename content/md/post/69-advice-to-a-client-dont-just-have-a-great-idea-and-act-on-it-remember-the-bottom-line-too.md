@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-01-21 16:38:07
 modified: 2016-10-20 16:44:19
 permalink: advice-to-a-client-dont-just-have-a-great-idea-and-act-on-it-remember-the-bottom-line-too/index.html
-tags: ["bottom line", "creativity", "great idea", "make money", "monetize", "web strategy"]
+tags: ["bottom line", "creativity", "great idea", "make money", "monetize", "Web Strategy"]
 featured_img: 
 wpid: 517
 ---

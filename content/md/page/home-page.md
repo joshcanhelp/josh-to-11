@@ -12,7 +12,9 @@ wpid: 3820
 
 # Hi, I’m Josh.<br>Nice to meet you.
 
-I’ve been working on the web since 2007 as an engineer, UI/UX consultant, team lead, project manager, and product builder. I currently work at [Auth0](https://auth0.com/blog/authors/josh-cunningham/).
+![](https://secure.gravatar.com/avatar/ae098a33ae2acd0fd647f48749f8630c?size=300)
+
+I’ve been working on the web since 2007 as an engineer, UI/UX consultant, team lead, project manager, and product builder. I currently work at [Auth0](https://auth0.com/blog/authors/josh-cunningham/). [More about me here](/about) and [what I'm doing right now here](/now).
 
 You can find me on [Twitter](https://twitter.com/joshcanhelp), [GitHub](https://github.com/joshcanhelp), and [LinkedIn](https://www.linkedin.com/in/joshcanhelp/).
 

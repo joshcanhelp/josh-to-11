@@ -5,7 +5,7 @@ excerpt: ""
 date: 2011-09-15 23:18:09
 modified: 2019-01-04 04:54:33
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2011/09/anilol_portfolio-150x150.jpg
 wpid: 2495
 link_to: "http://anilol.com/"

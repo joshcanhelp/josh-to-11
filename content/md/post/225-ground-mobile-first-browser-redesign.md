@@ -5,7 +5,7 @@ excerpt: "Hashtag buzzwords! Used the 18f U.S. Web Design Standards framework to
 date: 2015-11-12 17:57:40
 modified: 2020-01-19 22:10:42
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: 
 wpid: 4582
 link_to: "http://thebusinessferret.com/"

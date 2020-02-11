@@ -5,7 +5,7 @@ excerpt: ""
 date: 2012-05-07 19:32:32
 modified: 2019-01-04 04:54:53
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2012/04/Screen-shot-2012-03-19-at-2.25.49-PM-150x150.png
 wpid: 2859
 link_to: "http://expectationvsreality.net/"

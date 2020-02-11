@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-10-09 20:00:09
 modified: 2016-10-20 16:44:17
 permalink: recommended-reading-for-web-site-owners/index.html
-tags: ["ebooks", "must read", "seth godin", "web strategy"]
+tags: ["ebooks", "must read", "Seth Godin", "Web Strategy"]
 featured_img: 
 wpid: 1132
 ---

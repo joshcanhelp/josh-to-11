@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-10-14 15:28:58
 modified: 2010-10-14 15:28:58
 permalink: the-strikes/index.html
-tags: ["paris", "everything else"]
+tags: ["Paris", "Everything Else"]
 featured_img: 
 wpid: 169
 ---

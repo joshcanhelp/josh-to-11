@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-10-10 18:00:55
 modified: 2016-10-20 16:44:20
 permalink: what-to-do-with-downtime-slow-going-tips-post-1/index.html
-tags: ["business how to start", "content", "email", "networking", "reaching out", "technology marketing", "update", "uuu", "website", "seo", "web strategy"]
+tags: ["Business How to Start", "content", "email", "networking", "reaching out", "Technology Marketing", "update", "UUU", "website", "SEO", "Web Strategy"]
 featured_img: 
 wpid: 334
 ---

@@ -5,7 +5,7 @@ excerpt: ""
 date: 2012-01-14 22:38:03
 modified: 2020-01-19 22:12:08
 permalink: a-veggie-sandwich/index.html
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: 
 wpid: 313
 link_to: "http://www.farmerscookseaters.com/2012/01/veggie-sandwich/"

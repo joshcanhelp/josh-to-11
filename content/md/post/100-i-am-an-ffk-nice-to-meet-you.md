@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-07-31 17:57:22
 modified: 2009-07-31 17:57:22
 permalink: i-am-an-ffk-nice-to-meet-you/index.html
-tags: ["ffk", "junk food", "lazy", "losing weight", "motivation", "exercise", "ffk pride"]
+tags: ["FFK", "junk food", "lazy", "losing weight", "motivation", "exercise", "FFK pride"]
 featured_img: 
 wpid: 3
 ---

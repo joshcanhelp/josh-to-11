@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-11-04 16:00:06
 modified: 2016-10-20 16:44:20
 permalink: spam-what-is-it-what-does-it-do-why-am-i-sending-it-who-cares/index.html
-tags: ["bulk email", "company email marketing", "html email", "mass email", "newegg", "spam", "technology marketing", "vwvortex", "email"]
+tags: ["bulk email", "Company Email Marketing", "HTML email", "mass email", "newegg", "spam", "Technology Marketing", "vwvortex", "Email"]
 featured_img: 
 wpid: 370
 ---

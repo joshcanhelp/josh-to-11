@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-10-27 20:06:01
 modified: 2016-10-20 16:44:20
 permalink: a-beautiful-day-a-piece-of-pressboard-some-montana-gold-and-an-illustration/index.html
-tags: ["art academy", "graffiti", "montana gold", "one art", "pose2", "san diego", "spray paint", "design &amp; creative process"]
+tags: ["art academy", "graffiti", "Montana Gold", "One Art", "pose2", "San Diego", "spray paint", "Design &amp; Creative Process"]
 featured_img: 
 wpid: 362
 ---

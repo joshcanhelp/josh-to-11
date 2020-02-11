@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-06-18 18:30:04
 modified: 2016-10-20 16:44:18
 permalink: what-is-web-strategy/index.html
-tags: ["social media", "social networking", "web science", "web strategy", "website", "web strategy"]
+tags: ["social media", "social networking", "web science", "web strategy", "website", "Web Strategy"]
 featured_img: 
 wpid: 816
 ---

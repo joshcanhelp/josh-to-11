@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-05-15 12:08:32
 modified: 2016-04-01 04:03:11
 permalink: please-resize-your-pics-for-the-love-of-everything-thats-good/index.html
-tags: ["digital pictures", "image size", "images", "reduce size", "resize pictures", "design &amp; creative process", "writing for the web"]
+tags: ["digital pictures", "image size", "images", "reduce size", "resize pictures", "Design &amp; Creative Process", "Writing for the Web"]
 featured_img: 
 wpid: 23
 ---

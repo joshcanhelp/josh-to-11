@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-09-22 20:14:33
 modified: 2016-10-20 16:44:20
 permalink: daily-rebirth/index.html
-tags: ["dailt rebirth", "quote", "personal development"]
+tags: ["dailt rebirth", "quote", "Personal Development"]
 featured_img: 
 wpid: 273
 ---

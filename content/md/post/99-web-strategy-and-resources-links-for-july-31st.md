@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-07-31 19:54:22
 modified: 2016-10-20 16:44:18
 permalink: web-strategy-and-resources-links-for-july-31st/index.html
-tags: ["css", "css sprite", "html5", "logo design", "non-profit", "social media", "url shortening", "web 2.0", "web strategy", "xhtml2", "web strategy"]
+tags: ["CSS", "CSS sprite", "HTML5", "logo design", "non-profit", "social media", "URL shortening", "web 2.0", "web strategy", "XHTML2", "Web Strategy"]
 featured_img: 
 wpid: 973
 ---

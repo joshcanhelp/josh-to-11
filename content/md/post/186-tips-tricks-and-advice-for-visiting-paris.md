@@ -5,7 +5,7 @@ excerpt: "Fun tips about staying, eating, and speaking in Paris. "
 date: 2013-02-13 17:50:29
 modified: 2013-02-13 17:50:29
 permalink: tips-tricks-and-advice-for-visiting-paris/index.html
-tags: ["paris", "everything else"]
+tags: ["Paris", "Everything Else"]
 featured_img: 
 wpid: 226
 ---

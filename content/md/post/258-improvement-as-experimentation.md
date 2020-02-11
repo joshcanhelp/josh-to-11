@@ -5,7 +5,7 @@ excerpt: "I've gone through many transformations in my life.  I have been lucky 
 date: 2019-06-11 18:23:53
 modified: 2020-01-20 01:33:39
 permalink: improvement-as-experimentation/index.html
-tags: ["everything else", "exercise", "ffk pride", "fitness data"]
+tags: ["Best Of", "exercise", "FFK pride", "fitness data"]
 featured_img: /_images/2019/06/IMG_1438-150x150.jpg
 wpid: 4837
 ---
@@ -30,17 +30,17 @@ So, for personal transformations, changes that require you to regularly do somet
 In these cases, I see willpower as being very similar to luck. I have fought willpower for most of my adult life. I’ve had it and lost it, over and over, for a long list of behavioral changes – exercising, eating better, less sugar, drugs and alcohol, focus, reading, programming, etc etc etc. As I read back through journals from a decade ago, I see this kind of thing over and over:
 
 > You need to do better
-> 
+>
 > This is the time
-> 
+>
 > You can’t keep doing this
 
 It’s hard to read those being written month after month, year after year. What’s harder, though, are the ones maybe a week after when the will to change didn’t stick:
 
 > You’re the worst
-> 
+>
 > How are you ever going to get this right?
-> 
+>
 > Do I even care about my family if I can’t do this?
 
 It hurts to read that. It hurt to write that. But it’s honest and it’s the result of not “being strong enough” to make an important change in my life. It’s the result of my willpower failing, once again, to bring about the changes that I need.

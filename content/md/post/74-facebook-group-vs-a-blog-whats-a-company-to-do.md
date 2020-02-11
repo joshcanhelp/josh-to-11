@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-02-11 16:00:25
 modified: 2016-10-20 16:44:19
 permalink: facebook-group-vs-a-blog-whats-a-company-to-do/index.html
-tags: ["blog", "conversation", "facebook", "facebook versus a blog", "facebook vs blog", "roi", "social media", "web strategy", "writing for the web"]
+tags: ["blog", "conversation", "Facebook", "facebook versus a blog", "facebook vs blog", "ROI", "Social Media", "Web Strategy", "Writing for the Web"]
 featured_img: 
 wpid: 576
 ---

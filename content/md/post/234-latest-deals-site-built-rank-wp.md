@@ -5,7 +5,7 @@ excerpt: "A WordPress child theme gone mad! Built-in click statistics, moderatio
 date: 2016-04-01 14:34:48
 modified: 2016-11-02 22:10:59
 permalink: latest-deals-site-built-rank-wp/index.html
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2015/01/rank-it-wp-logo-SQ-150x150.png
 wpid: 4516
 ---

@@ -5,7 +5,7 @@ excerpt: "Just in time for an announcement by Microsoft about their HoloLens pro
 date: 2016-03-30 03:25:28
 modified: 2016-11-02 22:10:59
 permalink: 8ninths-site-rebuild/index.html
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2016/04/8ninths-logo-150x150.png
 wpid: 4402
 ---

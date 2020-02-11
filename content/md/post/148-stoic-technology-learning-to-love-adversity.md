@@ -5,7 +5,7 @@ excerpt: ""
 date: 2011-03-08 16:00:04
 modified: 2016-04-03 02:32:59
 permalink: stoic-technology-learning-to-love-adversity/index.html
-tags: ["backup", "cloud", "stoic", "stoic technology", "personal development", "web strategy"]
+tags: ["backup", "cloud", "stoic", "stoic technology", "Personal Development", "Web Strategy"]
 featured_img: 
 wpid: 1726
 ---

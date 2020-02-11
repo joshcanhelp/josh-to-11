@@ -5,7 +5,7 @@ excerpt: "What started as a light update for improvement on mobile devices turne
 date: 2015-04-16 17:35:14
 modified: 2019-01-04 04:55:36
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2013/04/proper-sq-med-150x150.png
 wpid: 3689
 link_to: "http://theproperweb.com/products/"

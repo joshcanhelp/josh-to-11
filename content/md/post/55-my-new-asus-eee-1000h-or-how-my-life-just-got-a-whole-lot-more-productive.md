@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-11-24 18:00:41
 modified: 2016-10-20 16:44:20
 permalink: my-new-asus-eee-1000h-or-how-my-life-just-got-a-whole-lot-more-productive/index.html
-tags: ["asus", "eee", "hardware", "laptop", "netbook", "hardware"]
+tags: ["asus", "eee", "hardware", "laptop", "netbook", "Hardware"]
 featured_img: 
 wpid: 400
 ---

@@ -5,7 +5,7 @@ excerpt: "Fully-customized version of the WP-Drudge theme for a new tech news si
 date: 2014-08-26 22:14:51
 modified: 2020-01-19 22:12:07
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: 
 wpid: 4611
 ---

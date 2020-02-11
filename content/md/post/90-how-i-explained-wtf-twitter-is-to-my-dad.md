@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-06-12 18:00:34
 modified: 2016-10-20 16:44:18
 permalink: how-i-explained-wtf-twitter-is-to-my-dad/index.html
-tags: ["joshcanhelp", "retweets", "tweets", "twitter", "wtf is twitter", "social media"]
+tags: ["joshcanhelp", "retweets", "tweets", "twitter", "wtf is twitter", "Social Media"]
 featured_img: 
 wpid: 806
 ---

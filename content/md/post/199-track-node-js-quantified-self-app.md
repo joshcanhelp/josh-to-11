@@ -5,7 +5,7 @@ excerpt: "Collaboration at Codefellows to build a Node.js and Angular-powered SP
 date: 2014-06-26 23:12:43
 modified: 2020-01-19 22:12:08
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: 
 wpid: 4620
 link_to: "https://github.com/TrackYourself/track-yourself"

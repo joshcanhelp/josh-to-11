@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-08-25 22:10:12
 modified: 2010-08-25 22:10:12
 permalink: the-unfamiliar-and-wonderful-life-we-now-lead/index.html
-tags: ["paris", "everything else"]
+tags: ["Paris", "Everything Else"]
 featured_img: 
 wpid: 70
 ---

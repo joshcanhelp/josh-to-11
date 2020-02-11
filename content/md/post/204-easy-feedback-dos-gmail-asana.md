@@ -5,7 +5,7 @@ excerpt: "I recently needed feedback on a product I'm creating and wanted to fig
 date: 2014-11-18 22:12:19
 modified: 2016-10-20 16:43:59
 permalink: easy-feedback-dos-gmail-asana/index.html
-tags: ["gmail", "web strategy"]
+tags: ["gmail", "Web Strategy"]
 featured_img: /_images/2014/11/Screenshot-2014-11-18-13.24.46-150x150.png
 wpid: 3610
 ---

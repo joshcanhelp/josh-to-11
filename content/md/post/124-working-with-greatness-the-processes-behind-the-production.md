@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-04-08 18:45:12
 modified: 2016-03-30 18:47:31
 permalink: working-with-greatness-the-processes-behind-the-production/index.html
-tags: ["graffiti", "greatness", "the opposite of greatness", "vector illustrations", "design &amp; creative process", "personal development"]
+tags: ["graffiti", "greatness", "the opposite of greatness", "vector illustrations", "Design &amp; Creative Process", "Personal Development"]
 featured_img: 
 wpid: 1482
 ---

@@ -5,7 +5,7 @@ excerpt: "In one of those &quot;meant to be&quot; moments, I met the founder and
 date: 2016-08-09 18:46:22
 modified: 2016-11-22 17:54:59
 permalink: craft-beer-wordpress-theme-framework/index.html
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2016/08/Screenshot-2016-11-16-13.14.04-150x150.png
 wpid: 4502
 ---

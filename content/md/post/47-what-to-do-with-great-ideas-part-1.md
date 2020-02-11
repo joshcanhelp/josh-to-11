@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-10-20 16:00:22
 modified: 2016-10-20 16:44:20
 permalink: what-to-do-with-great-ideas-part-1/index.html
-tags: ["collaboration", "fruition", "google docs", "great idea", "idea", "technology marketing", "personal development", "web strategy"]
+tags: ["collaboration", "fruition", "Google Docs", "great idea", "idea", "Technology Marketing", "Personal Development", "Web Strategy"]
 featured_img: 
 wpid: 351
 ---

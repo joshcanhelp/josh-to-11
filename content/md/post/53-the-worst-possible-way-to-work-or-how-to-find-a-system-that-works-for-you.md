@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-11-07 17:00:21
 modified: 2016-10-20 16:44:20
 permalink: the-worst-possible-way-to-work-or-how-to-find-a-system-that-works-for-you/index.html
-tags: ["email", "free software", "getting things done", "organization", "productivity", "systems", "to-do lists", "work", "personal development"]
+tags: ["email", "free software", "getting things done", "organization", "productivity", "systems", "to-do lists", "work", "Personal Development"]
 featured_img: 
 wpid: 380
 ---

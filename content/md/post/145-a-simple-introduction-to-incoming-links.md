@@ -5,7 +5,7 @@ excerpt: "The incoming link concept is one of those things that is hard to get y
 date: 2010-11-30 16:00:16
 modified: 2016-04-03 02:32:59
 permalink: a-simple-introduction-to-incoming-links/index.html
-tags: ["hyperlink", "hypertext", "incoming links", "introduction", "link building", "search engine", "search engine optimization", "search engine optimization analysis", "search engine ranking", "search engines", "what is a link", "web strategy"]
+tags: ["hyperlink", "hypertext", "incoming links", "introduction", "link building", "search engine", "search engine optimization", "search engine optimization analysis", "search engine ranking", "search engines", "what is a link", "Web Strategy"]
 featured_img: 
 wpid: 1718
 ---

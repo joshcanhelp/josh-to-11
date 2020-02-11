@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-05-05 23:51:47
 modified: 2016-04-03 02:32:59
 permalink: intoxicated-by-the-possibility-of-making-mediocrity-hard-to-sustain-100ppl/index.html
-tags: ["gaping void", "hugh macleod", "intoxicated by possibility", "crazy ideas", "design &amp; creative process"]
+tags: ["gaping void", "hugh macleod", "intoxicated by possibility", "Crazy Ideas", "Design &amp; Creative Process"]
 featured_img: 
 wpid: 1559
 ---

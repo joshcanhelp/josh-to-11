@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-03-11 21:49:59
 modified: 2016-04-01 04:26:01
 permalink: make-it-simple-focused-high-performance-and-polished-my-web-philosophy/index.html
-tags: ["build a web site", "facebook", "site performance", "web philosophy", "about joshcanhelp", "agency process", "design &amp; creative process", "performance", "seo"]
+tags: ["Build A Web Site", "Facebook", "site performance", "web philosophy", "About JoshCanHelp", "Agency Process", "Design &amp; Creative Process", "Performance", "SEO"]
 featured_img: 
 wpid: 1471
 ---

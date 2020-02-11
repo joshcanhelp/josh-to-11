@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-08-01 19:14:40
 modified: 2010-08-01 19:14:40
 permalink: and-so-it-begins-planning-preparation-and-paypal/index.html
-tags: ["paris", "everything else"]
+tags: ["Paris", "Everything Else"]
 featured_img: 
 wpid: 5
 ---

@@ -5,7 +5,7 @@ excerpt: ""
 date: 2011-10-11 14:06:53
 modified: 2016-10-20 16:44:00
 permalink: share-facebook-page-items-to-profile/index.html
-tags: ["facebook", "facebook page", "facebook profile", "sharing", "social media"]
+tags: ["Facebook", "Facebook Page", "Facebook Profile", "sharing", "Social Media"]
 featured_img: 
 wpid: 2502
 ---

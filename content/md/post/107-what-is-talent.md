@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-10-06 20:00:55
 modified: 2016-10-20 16:44:17
 permalink: what-is-talent/index.html
-tags: ["musician", "talent", "work hard", "personal development"]
+tags: ["musician", "talent", "work hard", "Personal Development"]
 featured_img: 
 wpid: 1127
 ---

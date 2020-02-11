@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-02-05 16:55:06
 modified: 2016-10-20 16:44:19
 permalink: website-page-titles-how-to-pick-one-and-what-they-are-for/index.html
-tags: ["findability", "getting found", "page titles", "search engine optimization analysis", "structure elements", "seo"]
+tags: ["findability", "getting found", "page titles", "search engine optimization analysis", "structure elements", "SEO"]
 featured_img: 
 wpid: 573
 ---

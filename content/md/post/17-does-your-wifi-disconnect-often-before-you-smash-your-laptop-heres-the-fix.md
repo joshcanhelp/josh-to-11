@@ -5,7 +5,7 @@ excerpt: "Stop your wifi from disconnecting frequently in Windows"
 date: 2008-07-11 05:07:28
 modified: 2016-04-01 03:52:20
 permalink: does-your-wifi-disconnect-often-before-you-smash-your-laptop-heres-the-fix/index.html
-tags: ["cal", "coffee shops", "computing", "control panel", "disconnect", "frequently", "pcmcia wifi", "start menu", "streaming radio", "system software", "wi fi", "wifi", "wifi disconnects", "window", "windows explorer", "windows xp", "windows xp services", "wireless connection", "wireless networking", "wireless zero configuration", "hardware"]
+tags: ["cal", "coffee shops", "computing", "control panel", "disconnect", "frequently", "pcmcia wifi", "start menu", "streaming radio", "system software", "wi fi", "Wifi", "wifi disconnects", "window", "windows explorer", "Windows XP", "windows XP services", "wireless connection", "wireless networking", "wireless zero configuration", "Hardware"]
 featured_img: 
 wpid: 37
 ---

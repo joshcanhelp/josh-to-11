@@ -5,7 +5,7 @@ excerpt: ""
 date: 2012-04-03 20:56:25
 modified: 2016-10-20 16:44:00
 permalink: my-wordpress-developers-wishlist/index.html
-tags: ["crazy ideas"]
+tags: ["Crazy Ideas"]
 featured_img: 
 wpid: 2731
 ---

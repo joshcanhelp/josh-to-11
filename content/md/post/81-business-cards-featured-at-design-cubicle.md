@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-04-08 19:34:58
 modified: 2016-10-20 16:44:18
 permalink: business-cards-featured-at-design-cubicle/index.html
-tags: ["about joshcanhelp", "design &amp; creative process"]
+tags: ["About JoshCanHelp", "Design &amp; Creative Process"]
 featured_img: 
 wpid: 647
 ---

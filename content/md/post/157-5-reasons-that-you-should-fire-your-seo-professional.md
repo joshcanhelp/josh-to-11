@@ -5,7 +5,7 @@ excerpt: ""
 date: 2011-07-04 15:46:02
 modified: 2016-10-20 16:44:00
 permalink: 5-reasons-that-you-should-fire-your-seo-professional/index.html
-tags: ["bad links", "bing", "google", "link building", "search engine optimization analysis", "seo provider", "seo services", "serps", "yahoo", "seo", "web strategy", "writing for the web"]
+tags: ["bad links", "Bing", "google", "link building", "search engine optimization analysis", "SEO provider", "SEO services", "SERPs", "Yahoo", "SEO", "Web Strategy", "Writing for the Web"]
 featured_img: 
 wpid: 2262
 ---

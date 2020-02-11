@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-10-25 10:27:11
 modified: 2019-08-10 22:45:09
 permalink: staying-positive/index.html
-tags: ["paris", "everything else"]
+tags: ["Paris", "Everything Else"]
 featured_img: /_images/2010/10/IMG_2922-1-150x150.jpg
 wpid: 181
 ---

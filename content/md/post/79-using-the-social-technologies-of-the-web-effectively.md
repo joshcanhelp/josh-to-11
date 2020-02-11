@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-03-23 18:00:13
 modified: 2016-10-20 16:44:18
 permalink: using-the-social-technologies-of-the-web-effectively/index.html
-tags: ["connecting", "facebook", "groups", "linkedin", "on-line interactions", "public domain", "social media", "twitter", "social media"]
+tags: ["connecting", "Facebook", "groups", "linkedin", "on-line interactions", "public domain", "social media", "twitter", "Social Media"]
 featured_img: 
 wpid: 636
 ---

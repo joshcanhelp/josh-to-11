@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-08-21 07:24:54
 modified: 2010-08-21 07:24:54
 permalink: i-see-london-i-see-france/index.html
-tags: ["paris", "everything else"]
+tags: ["Paris", "Everything Else"]
 featured_img: 
 wpid: 59
 ---

@@ -5,7 +5,7 @@ excerpt: "Massive upgrade project for Social Media Today's 8 popular Drupal comm
 date: 2013-05-13 22:52:52
 modified: 2020-01-19 22:12:08
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: 
 wpid: 4615
 ---

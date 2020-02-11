@@ -5,7 +5,7 @@ excerpt: ""
 date: 2013-08-15 17:59:15
 modified: 2016-11-22 17:51:15
 permalink: neil-roseman-on-conversationsinterviews/index.html
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: 
 wpid: 345
 link_to: "http://firstround.com/review/The-anatomy-of-the-perfect-technical-interview-from-a-former-Amazon-VP/"

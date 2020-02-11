@@ -1,29 +1,16 @@
 {% extends "_html.njk" %}
 
+{% from "macros/postListing.njk" import postListing %}
+
 {% block content %}
 <main>
   <h1 class="jch-col--col-head">Tagged "{{ tag }}"</h1>
+  <p><a href="/archives/tags/">👈 All tags</a></p>
   <ul class="jch-list jch-list__feed">
   {% set taglist = collections[ tag ] %}
   {% for post in taglist | reverse %}
-    <li>
-      {%- if post.data.featured_img -%}
-      <a href="{{ post.url | safe }}">
-        <img src="{{ post.data.featured_img | safe }}" class="jch-list__posts--img">
-      </a>
-      {%- endif -%}
-      <div class="jch-list__posts--content">
-        <h2 class="jch-list--title">
-    			<a href="{{ post.url | safe }}">{{ post.data.title | safe }}</a>
-    		</h2>
-        <p>{{ post.data.excerpt | safe }}</p>
-        <p class="jch-list__posts--meta">
-    			<strong class="jch-list__posts--live-on">Published: </strong>
-    			<span class="jch-list__posts--date">{{ post.date | dateformat }}</span>
-    		</p>
-      </div>
-    </li>
-  {%- endfor -%}
+    {{ postListing(post) }}
+  {% endfor %}
   </ul>
 </main>
 {% endblock %}

@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-06-02 04:22:27
 modified: 2019-01-04 04:54:17
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2010/06/Screen-Shot-2013-04-04-at-12.31.38-PM-150x150.png
 wpid: 2331
 link_to: "http://sophiesarms.com/"

@@ -1,7 +1,18 @@
 {% extends "_html.njk" %}
 
+{% from "macros/postListing.njk" import postListing %}
+
 {% block content %}
 <main class="jch-post jch-post--article">
   {{ content | safe }}
 </main>
+{% if page.fileSlug === 'home-page' %}
+  <br><br>
+  <h2 class="jch-col--col-head">Best Of Posts</h2>
+  <ul class="jch-list jch-list__feed">
+  {% for post in collections.bestOfCollection %}
+    {{ postListing(post) }}
+  {% endfor %}
+  </ul>
+{% endif %}
 {% endblock %}

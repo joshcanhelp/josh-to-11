@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-08-24 21:00:50
 modified: 2016-04-03 02:32:59
 permalink: 5-reasons-why-i-wont-build-that-for-you/index.html
-tags: ["about joshcanhelp", "web strategy"]
+tags: ["About JoshCanHelp", "Web Strategy"]
 featured_img: 
 wpid: 1672
 ---

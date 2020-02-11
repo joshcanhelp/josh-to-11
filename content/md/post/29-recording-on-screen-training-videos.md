@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-08-19 19:00:06
 modified: 2016-04-03 02:33:18
 permalink: recording-on-screen-training-videos/index.html
-tags: ["camtasia", "how to", "instructional videos", "on-screen", "recording", "video training", "agency process", "documentation &amp; training"]
+tags: ["camtasia", "How To", "instructional videos", "on-screen", "recording", "video training", "Agency Process", "Documentation &amp; Training"]
 featured_img: 
 wpid: 189
 ---

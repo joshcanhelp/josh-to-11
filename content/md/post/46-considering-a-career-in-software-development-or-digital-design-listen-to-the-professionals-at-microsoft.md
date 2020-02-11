@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-10-13 18:00:53
 modified: 2016-10-20 16:44:20
 permalink: considering-a-career-in-software-development-or-digital-design-listen-to-the-professionals-at-microsoft/index.html
-tags: ["coding", "employment", "expression", "graphic design", "hiring", "job", "manager", "microsoft", "programming", "versatility", "wpf", "personal development"]
+tags: ["coding", "employment", "Expression", "graphic design", "hiring", "job", "manager", "Microsoft", "programming", "versatility", "WPF", "Personal Development"]
 featured_img: 
 wpid: 337
 ---

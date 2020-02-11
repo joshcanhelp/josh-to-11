@@ -5,7 +5,7 @@ excerpt: ""
 date: 2012-08-07 14:00:14
 modified: 2016-10-20 16:44:00
 permalink: dont-screw-around-with-your-finances/index.html
-tags: ["agency process"]
+tags: ["Agency Process"]
 featured_img: 
 wpid: 3011
 ---

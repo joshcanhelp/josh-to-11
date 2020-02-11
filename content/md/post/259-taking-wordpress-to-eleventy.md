@@ -4,7 +4,7 @@ layout: post
 excerpt: "How I converted 12 years of posts in WordPress to an Eleventy static site."
 date: 2020-02-09 06:00:00
 permalink: taking-wordpress-to-eleventy/index.html
-tags: []
+tags: [ "Best Of" ]
 featured_img:
 ---
 
@@ -245,7 +245,7 @@ TBD
 
 TBD
 
-#### 4. Pass that to the HTML to Markdown converter. 
+#### 4. Pass that to the HTML to Markdown converter.
 
 TBD
 
@@ -258,9 +258,9 @@ TBD
 
 ## First Run
 
-I tied this whole process into a WP-CLI script to make this easy to run multiple times. I figured this would all need tweaking so having a reliable way to make changes and see the output made a world of difference. 
+I tied this whole process into a WP-CLI script to make this easy to run multiple times. I figured this would all need tweaking so having a reliable way to make changes and see the output made a world of difference.
 
-The 
+The
 
 ## Additional Resources
 

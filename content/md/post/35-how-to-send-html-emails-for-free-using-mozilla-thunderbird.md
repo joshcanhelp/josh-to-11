@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-09-16 18:00:41
 modified: 2016-10-20 16:44:20
 permalink: how-to-send-html-emails-for-free-using-mozilla-thunderbird/index.html
-tags: ["emails", "html email", "insert html", "mozilla", "thunderbird", "development"]
+tags: ["emails", "HTML email", "insert HTML", "Mozilla", "Thunderbird", "Development"]
 featured_img: 
 wpid: 254
 ---

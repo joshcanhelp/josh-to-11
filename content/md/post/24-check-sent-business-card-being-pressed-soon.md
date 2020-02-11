@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-08-03 03:02:31
 modified: 2016-04-03 02:33:18
 permalink: check-sent-business-card-being-pressed-soon/index.html
-tags: ["about joshcanhelp", "design &amp; creative process"]
+tags: ["About JoshCanHelp", "Design &amp; Creative Process"]
 featured_img: 
 wpid: 78
 ---

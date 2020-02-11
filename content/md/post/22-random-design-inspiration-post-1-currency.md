@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-07-29 16:00:10
 modified: 2016-04-03 02:33:18
 permalink: random-design-inspiration-post-1-currency/index.html
-tags: ["color", "currency", "design layouts", "money", "pallet", "design &amp; creative process"]
+tags: ["color", "currency", "Design Layouts", "money", "pallet", "Design &amp; Creative Process"]
 featured_img: 
 wpid: 42
 ---

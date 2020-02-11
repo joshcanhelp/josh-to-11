@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-01-24 23:20:09
 modified: 2016-10-20 16:44:19
 permalink: amazing-hardware-re-use-hard-drive-speakers/index.html
-tags: ["hard drive speaker", "hd", "old hard drive", "tame your technology", "hardware"]
+tags: ["hard drive speaker", "HD", "old hard drive", "tame your technology", "Hardware"]
 featured_img: 
 wpid: 522
 ---

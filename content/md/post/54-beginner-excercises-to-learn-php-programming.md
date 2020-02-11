@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-11-20 20:00:21
 modified: 2016-10-20 16:44:20
 permalink: beginner-excercises-to-learn-php-programming/index.html
-tags: ["beginner", "exercises", "learning php", "php exercises", "programming", "programming exercises", "development"]
+tags: ["beginner", "exercises", "Learning PHP", "PHP exercises", "programming", "programming exercises", "Development"]
 featured_img: 
 wpid: 386
 ---

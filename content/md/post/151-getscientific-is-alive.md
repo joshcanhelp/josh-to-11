@@ -5,7 +5,7 @@ excerpt: ""
 date: 2011-05-09 15:44:44
 modified: 2016-04-03 02:32:59
 permalink: getscientific-is-alive/index.html
-tags: ["getscientific", "portfolio", "projects", "science", "about joshcanhelp", "crazy ideas"]
+tags: ["getscientific", "portfolio", "projects", "science", "About JoshCanHelp", "Crazy Ideas"]
 featured_img: 
 wpid: 2083
 ---

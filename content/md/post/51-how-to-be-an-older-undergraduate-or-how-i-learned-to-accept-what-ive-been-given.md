@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-11-01 19:25:21
 modified: 2016-10-20 16:44:20
 permalink: how-to-be-an-older-undergraduate-or-how-i-learned-to-accept-what-ive-been-given/index.html
-tags: ["personal development"]
+tags: ["Personal Development"]
 featured_img: 
 wpid: 366
 ---

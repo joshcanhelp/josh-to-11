@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-10-02 18:00:22
 modified: 2016-10-20 16:44:20
 permalink: this-a-typical-week/index.html
-tags: ["about joshcanhelp", "personal development"]
+tags: ["About JoshCanHelp", "Personal Development"]
 featured_img: 
 wpid: 317
 ---

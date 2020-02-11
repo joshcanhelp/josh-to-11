@@ -5,7 +5,7 @@ excerpt: ""
 date: 2014-04-21 23:11:21
 modified: 2016-10-20 16:44:00
 permalink: open-source-sale/index.html
-tags: ["agency process", "development", "web strategy"]
+tags: ["Agency Process", "Development", "Web Strategy"]
 featured_img: 
 wpid: 1786
 ---

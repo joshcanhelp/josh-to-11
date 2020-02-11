@@ -5,7 +5,7 @@ excerpt: ""
 date: 2011-10-25 15:18:30
 modified: 2016-10-20 16:44:00
 permalink: using-google-analytics-to-determine-a-new-pages-performance/index.html
-tags: ["analytics", "seo"]
+tags: ["Analytics", "SEO"]
 featured_img: 
 wpid: 2521
 ---

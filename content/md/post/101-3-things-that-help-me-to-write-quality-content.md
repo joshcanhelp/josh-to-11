@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-08-04 19:30:17
 modified: 2016-10-20 16:44:18
 permalink: 3-things-that-help-me-to-write-quality-content/index.html
-tags: ["content", "creative process", "creativity", "quality content", "writing", "about joshcanhelp", "writing for the web"]
+tags: ["content", "creative process", "creativity", "quality content", "Writing", "About JoshCanHelp", "Writing for the Web"]
 featured_img: 
 wpid: 977
 ---

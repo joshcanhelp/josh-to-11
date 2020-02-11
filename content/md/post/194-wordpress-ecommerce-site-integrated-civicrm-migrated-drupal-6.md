@@ -5,7 +5,7 @@ excerpt: "A massive undertaking: migrate a popular eCommerce site from unsupport
 date: 2014-02-17 23:16:45
 modified: 2016-10-27 20:14:39
 permalink: wordpress-ecommerce-site-integrated-civicrm-migrated-drupal-6/index.html
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2014/02/Screenshot-2014-11-18-15.16.43-150x150.png
 wpid: 3618
 link_to: "http://hugohouse.org/"

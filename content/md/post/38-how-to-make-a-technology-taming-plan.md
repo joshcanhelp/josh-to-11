@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-09-24 16:01:16
 modified: 2016-10-20 16:44:20
 permalink: how-to-make-a-technology-taming-plan/index.html
-tags: ["beginner", "brainstorming", "first steps", "plan", "planning", "pre-work", "tame your technology", "where to start", "web strategy"]
+tags: ["beginner", "brainstorming", "first steps", "plan", "planning", "pre-work", "tame your technology", "where to start", "Web Strategy"]
 featured_img: 
 wpid: 268
 ---

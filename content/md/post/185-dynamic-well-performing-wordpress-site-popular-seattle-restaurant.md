@@ -5,7 +5,7 @@ excerpt: ""
 date: 2013-01-19 22:53:57
 modified: 2019-01-04 04:55:26
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2013/01/Screenshot-2014-11-18-15.05.30-150x150.png
 wpid: 3615
 link_to: "http://www.rays.com/"

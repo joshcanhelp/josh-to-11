@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-10-06 08:44:25
 modified: 2019-06-29 20:49:35
 permalink: cause-for-alarm/index.html
-tags: ["paris", "everything else"]
+tags: ["Paris", "Everything Else"]
 featured_img: /_images/2010/10/IMG_0610-1-e1561841352894-150x150.jpg
 wpid: 152
 ---

@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-08-15 18:21:35
 modified: 2016-04-03 02:33:18
 permalink: building-a-homepage-from-a-blog-part-1-finalizing-the-design-and-planning-out-mark-up-and-css-structure/index.html
-tags: ["balance", "contrast", "design layouts", "designing a web site", "emphasis", "rhythm", "unity", "about joshcanhelp", "design &amp; creative process", "web strategy"]
+tags: ["balance", "contrast", "Design Layouts", "designing a web site", "emphasis", "rhythm", "unity", "About JoshCanHelp", "Design &amp; Creative Process", "Web Strategy"]
 featured_img: 
 wpid: 187
 ---

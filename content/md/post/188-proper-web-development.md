@@ -5,7 +5,7 @@ excerpt: ""
 date: 2013-04-04 19:59:23
 modified: 2016-10-20 16:44:00
 permalink: proper-web-development/index.html
-tags: ["about joshcanhelp"]
+tags: ["About JoshCanHelp"]
 featured_img: /_images/2013/04/proper-sq-med-150x150.png
 wpid: 3226
 ---

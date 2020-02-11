@@ -5,7 +5,7 @@ excerpt: ""
 date: 2012-05-08 19:16:14
 modified: 2019-01-04 04:55:03
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2012/04/Screen-shot-2012-03-19-at-2.24.16-PM-150x150.png
 wpid: 2860
 link_to: "http://www.numbersleuth.org/prefix/619-258"

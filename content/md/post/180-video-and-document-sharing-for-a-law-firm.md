@@ -5,7 +5,7 @@ excerpt: ""
 date: 2012-05-08 19:31:50
 modified: 2019-01-04 04:55:11
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2012/05/Screen-Shot-2013-04-04-at-11.49.53-AM-150x150.png
 wpid: 2858
 ---

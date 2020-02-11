@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-05-28 23:19:25
 modified: 2016-10-20 16:44:18
 permalink: what-kind-of-tech-user-are-you/index.html
-tags: ["pew internet project", "tech usage", "about joshcanhelp"]
+tags: ["Pew Internet Project", "tech usage", "About JoshCanHelp"]
 featured_img: 
 wpid: 786
 ---

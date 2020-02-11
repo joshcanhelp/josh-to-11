@@ -5,7 +5,7 @@ excerpt: "Diagnosed and recommended fixes for a very slowly loading WordPress si
 date: 2016-01-13 13:57:47
 modified: 2020-01-19 22:10:42
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: 
 wpid: 4514
 ---

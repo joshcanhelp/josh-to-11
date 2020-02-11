@@ -5,7 +5,7 @@ excerpt: ""
 date: 2017-02-07 03:43:12
 modified: 2018-07-19 03:58:02
 permalink: 1ppm-month-1-and-2/index.html
-tags: ["crazy ideas", "development"]
+tags: ["Crazy Ideas", "Development"]
 featured_img: 
 wpid: 4740
 ---

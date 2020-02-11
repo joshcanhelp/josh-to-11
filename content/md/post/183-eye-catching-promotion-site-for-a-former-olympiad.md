@@ -5,7 +5,7 @@ excerpt: ""
 date: 2012-09-25 18:07:39
 modified: 2019-01-04 04:55:15
 permalink: false
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2012/05/Screen-shot-2012-05-08-at-12.37-150x150.jpg
 wpid: 2963
 link_to: "http://petershmock.com/"

@@ -5,7 +5,7 @@ excerpt: "Alan Colmes needed a central hub for his news curation and community s
 date: 2015-04-09 17:44:40
 modified: 2016-10-20 16:43:59
 permalink: wp-drudge-on-alan-com/index.html
-tags: ["everything else"]
+tags: ["Everything Else"]
 featured_img: /_images/2015/04/Screen-Shot-2015-04-17-at-10.43.54-AM-150x150.png
 wpid: 3692
 link_to: "http://www.alan.com/"

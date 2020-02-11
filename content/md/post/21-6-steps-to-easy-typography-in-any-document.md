@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-07-23 15:00:12
 modified: 2016-04-03 02:33:18
 permalink: 6-steps-to-easy-typography-in-any-document/index.html
-tags: ["design layouts", "design typography", "documents", "fonts", "style", "typing", "design &amp; creative process"]
+tags: ["Design Layouts", "Design Typography", "documents", "fonts", "style", "typing", "Design &amp; Creative Process"]
 featured_img: 
 wpid: 40
 ---
