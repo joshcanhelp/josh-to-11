@@ -2,17 +2,19 @@
 
 title: "Taking WordPress to Eleventy"
 layout: post
-excerpt: "How I converted 12 years of posts in WordPress to an Eleventy static site."
+excerpt: "How I converted 12 years of posts in WordPress to an Eleventy static site ... and how I loved every minute of it."
 date: 2020-02-09 06:00:00
 permalink: taking-wordpress-to-eleventy/index.html
 tags: [ "Best Of" ]
-featured_img:
+featured_img: /_images/2020/02/IMG_2468-150x150.jpg
 
 ---
 
 # Taking WordPress to Eleventy
 
 For someone who likes to write, I don’t blog here a lot. I log in now and then, gasp at the number of spam comment that have piled up, maybe add or update a draft or two, then then let my session expire. Maybe it’s because I write a lot at work? Or maybe I don’t think I have much to share with the world at large? It’s hard to say.
+
+![](/_images/2020/02/IMG_2468-700x469.jpg)
 
 One thing is for sure, though. This site does not accurately reflect who I am professionally and drawing any additional attention here feels disingenuous at best. I’m not a “WordPress guy” anymore and I’m not a freelancer either. The things I’ve built in the past are not the same things I’m building now. I don’t need a place to “showcase my work,” that’s what GitHub does for me these days.
 
@@ -360,32 +362,86 @@ I'll say here ... making changes in any part of this pipeline and having my brow
 
 ## Eleventy structure
 
-So far, I've been mostly concentrating on the WordPress side of things. Eleventy is really well-documented and a lot of what you'll want to do here depends on your site. 
+So far, I've been concentrating on the WordPress side of things. Eleventy is really well-documented and a lot of what you'll want to do here depends on your site. 
 
-Still, there are a number of things we did above that will affect how the site is built so I'll cover the configure and templates I used covered in the [sample repo here](https://github.com/joshcanhelp/wordpress-to-11ty/tree/v0.0.1). This repo includes all of the template files and configure that I use, plus Markdown content that was created by importing the [WP theme unit test](https://codex.wordpress.org/Theme_Unit_Test) file into a clean install of WordPress. I ran my WP to Markdown CLI script, made a couple of changes:
+Still, there are a number of things we did above that will affect how the templates come together so I'll cover the configuration and structure that I used, which is stored in the [sample repo here](https://github.com/joshcanhelp/wordpress-to-11ty/tree/v0.0.1). This repo includes all of the template files and configuration that I use, plus Markdown content that was created by importing the [WP theme unit test](https://codex.wordpress.org/Theme_Unit_Test) file into a clean install of WordPress. I ran my WP to Markdown CLI script, made a couple of changes:
 
 - The "Markup: Title With Special Characters" post was not playing nicely with YAML so I removed the backslash
 - I changed the `page/front-page.md` to `page/home-page.md` and changed the `permalink` meta to `/index.html` so there would be a home page
 
-... and then ran Eleventy. With those small changes above, the site was built and served! See the README in that repo for more details about how to run this site locally.
+... and then ran Eleventy. With those small changes above, the site was built and served! See the README in that repo for more details about how to run this site locally and below for specifics on the Eleventy structure.
 
 ### Markdown
 
-All of the markdown is stored in `content/md` so I can output the convertor script to an isolated location.
+All of the markdown is stored in `content/md` ([GitHub](https://github.com/joshcanhelp/wordpress-to-11ty/tree/v0.0.1/content/md)) so I can output the convertor script to an isolated location. Eleventy builds or copies everything of a particular format that's located the `content` directory. All of this is determined in the configuration file. The object that is returned below is a specific format to indicate where the content should come from, `dir.input`, and where it should be processed to, `dir.output`. The `setTemplateFormats()` call tells Eleventy what to look for. The `md` files are processed and the `css` ones are just passed through.
+
+```js
+// .eleventy.js
+module.exports = function(eleventyConfig) {
+  // ...
+  eleventyConfig.setTemplateFormats([ 'md', 'css' ]);
+  
+  return {
+    dir: {
+      input: "content",
+      output: "_dist"
+    }
+  };
+};
+```
+
+Each of the Markdown files was given a `permalink` meta set to something like `the-post-name/index.html` from the CLI script. This means that the final URL is explicit and does not rely on the folder structure. Without that field, a `/content/post/post-name.md` file would be served from `xyz.com/post/post-name/index.html`. 
 
 ### Templates
 
-I included templates for:
+In the Markdown file, you indicate what template you want to use with a `layout` meta field. This can be a path to a file, relative from the template includes directory (defaults to `_includes` inside the input dir), or you can set it to an alias, like we did in the script above. Those aliases need to map to template files, and that's done in the config file:
 
-- Posts (all the different post formats use the same layout)
-- Pages
-- All posts list
-- All tags/categories list
-- Tag archive pages
+```js
+// .eleventy.js
+module.exports = function(eleventyConfig) {
+  // ...
+  eleventyConfig.addLayoutAlias('page', 'layouts/page.njk');
+  eleventyConfig.addLayoutAlias('gallery', 'layouts/gallery.njk');
+  eleventyConfig.addLayoutAlias('link', 'layouts/link.njk');
+  eleventyConfig.addLayoutAlias('post', 'layouts/post.njk');
+  eleventyConfig.addLayoutAlias('quote', 'layouts/quote.njk');
+  // ...
+};
+```
 
-### Configuration
+You might remember that we mapped post type and post format to the layout so we'll need to have an alias set up for each type. Without that, you'll get an error about a non-existent layout:
 
+```text
+> You’re trying to use a layout that does not exist: page (undefined)
+```
+
+That covers the WP-generated content but I added a few other helper templates to assist with navigation:
+
+- I added an [all posts listing](https://github.com/joshcanhelp/wordpress-to-11ty/blob/v0.0.1/content/_includes/layouts/all.njk) that displays all posts for all time. You can see in that template that I'm iterating through a `collections.postsCollection` object which I created using `eleventyConfig.addCollection`. The [Collections](https://www.11ty.dev/docs/collections/) part of Eleventy is a really powerful tool that lets you make new, well, collections of posts, metadata, tags, etc. I found it to be a very powerful way to view content, as opposed to the DB-stored model that I'm used to.
+- I also added an [all tags listing](https://github.com/joshcanhelp/wordpress-to-11ty/blob/v0.0.1/content/_includes/layouts/tags.njk) that outputs all the tags that are associated to content, linked to a tag archive page (see below) and including a count of all posts. I used another custom collection for that, which took me a while to get right but, again, was a really interesting expansion of how I viewed a bunch of stuff I've written and tagged. 
+- Finally, I used [this article](https://www.11ty.dev/docs/quicktips/tag-pages/) to build out tag pages using pagination. I have not fully wrapped my head around pagination and what's it's capable of doing but I got it working, the templates make sense, and that's all I need for now!
+
+All of the various pages extend a [base html template file](https://github.com/joshcanhelp/wordpress-to-11ty/blob/v0.0.1/content/_includes/_html.njk) that all the repeating framework around the content. I'm using [Nunjucks](https://mozilla.github.io/nunjucks/) as the templating language for no good reason other than it's from Mozilla, I'm not opinionated here (I come from WordPress, remember), and it did everything I wanted without a lot of looking things up. No complaints here.
+
+Last but not least, I followed the [syntax highlighting docs](https://www.11ty.dev/docs/plugins/syntaxhighlight/) and had that working with the sweet theme you see here in about 5 minutes. How can you beat that?!
+
+## Impressions
+
+I'll say, first and foremost, I'm **overjoyed** with how this project turned out! I was hoping for a nice, low maintenance way to write in Markdown and publish without too much trouble. What I got was a powerful and intuitive way to create, edit, combine, aggregate, and extend what I was already doing. The stack feels modern, I rarely got stuck for more than a few link clicks, and I can't believe how much I've gotten done. Between this post, the WP-CLI script, the Eleventy config and templates, and a ton of clean-up, I'm about 4 full days in total. 🤯
+
+There are a lot more gains than just productivity, though:
+
+- Writing, saving, and waiting a second or so for the browser to magically refresh, whether I'm in an Markdown file or a Sass one (with `node-sass --watch` in the background) is a **fantatic** way to work. 
+- The speed at which the site loads is really something to behold. Coming from WordPress, where a site 5x slower than this is a badge of honor, this is glorious. 
+- Defining the meta in the post, processing that into collections, then working with it in templates was a big change in paradigm but I'm really getting into it. Before, everything you need was stored and managed. Now, you make what you need on the fly and, when it's done, there is no artifact.
+- In a similar vein, this idea of running an async action like hitting an API or processing content during the build instead of with client-side JavaScript feels like a whole new world to me. I can imagine importing lists from WorkFlowy, pulling down collections of Tweets, etc.
+
+... and still more as I work with it more and more. 
+
+I would **highly** recommend trying this out if you're just getting started with a blog or are getting tired of logging in, updating plugins, clearing out spam comments, and updating core before you get down to writing. WordPress has it's place but, in terms of writing and enjoying it, Eleventy has my ❤️
+ 
 ## Additional Resources
 
+- [Eleventy project built from the WP Theme Unit Test content](https://github.com/joshcanhelp/wordpress-to-11ty)
 - [A fine post by @efjspencer about a difference approach to the same problem](https://edspencer.me.uk/posts/2019-10-16-migrating-from-wordpress-to-eleventy/)
 - [WP-CLI Commands Cookbook](https://make.wordpress.org/cli/handbook/commands-cookbook/)
