@@ -6,7 +6,7 @@ date: 2008-11-07 17:00:21
 modified: 2016-10-20 16:44:20
 permalink: the-worst-possible-way-to-work-or-how-to-find-a-system-that-works-for-you/index.html
 tags: ["Email", "Free Software", "Getting Things Done", "Organization", "Productivity", "Systems", "To-do Lists", "Work", "Personal Development"]
-featured_img: 
+featured_img:
 wpid: 380
 ---
 
@@ -42,7 +42,7 @@ If I can’t write, I don’t write and I try something different like web codin
 
 This might be the most destructive of my tendencies but so far so good.
 
-[![Unfinished and forgotten by Zach_ManchesterUK on flickr](http://farm4.static.flickr.com/3125/2297064924_969c1d40c5_m.jpg "Unfinished and forgotten by Zach_ManchesterUK on flickr")](http://flickr.com/photos/zach_manchester/2297064924/)Unfinished and forgotten by Zach\_ManchesterUK on flickrI’ve been writing an email to someone, lost the motivation to type and switched to something else immediately. I wasn’t interrupted, the connection wasn’t broken, I didn’t change my mind, I just decided not to continue emailing. I often save drafts with unfinished sentences, let alone paragraphs.
+I’ve been writing an email to someone, lost the motivation to type and switched to something else immediately. I wasn’t interrupted, the connection wasn’t broken, I didn’t change my mind, I just decided not to continue emailing. I often save drafts with unfinished sentences, let alone paragraphs.
 
 Sometimes your inspiration to complete a certain task only lasts so long. Maybe the first couple paragraphs are gold and the rest are, say, crap. Instead of just pushing through for the sake of doing so, I stop and move on to come back when the motivation re-arises.
 

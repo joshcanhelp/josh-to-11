@@ -1,16 +1,16 @@
 ---
-title: "Web strategy links and Rescources for July 17th"
+title: "Web strategy links and Resources for July 17th"
 layout: post
 excerpt: ""
 date: 2009-07-17 18:41:26
 modified: 2016-10-20 16:44:18
 permalink: josh-can-help-web-strategy-links-and-rescources-for-july-17th/index.html
-tags: ["Fonts", "Google Analytics", "Linkedin", "Online Advertising", "PS Tutorials", "Smashing", "Social Networking", "Web Design", "Wordpress", "Wordpress Security", "Web Strategy"]
-featured_img: 
+tags: ["Fonts", "Google Analytics", "LinkedIn", "Online Advertising", "Social Networking", "Web Design", "WordPress", "Web Strategy"]
+featured_img:
 wpid: 912
 ---
 
-# Web strategy links and Rescources for July 17th
+# Web strategy links and Resources for July 17th
 
 It looks like everyone liked my little [collection of links from last week](/josh-can-help-helpful-web-strategy-links-for-july-10th/) so I’m putting another list together. These are links that I’ve saved on [Delicious ](http://delicious.com/joshcanhelp)or sent over [Twitter](http://twitter.com/joshcanhelp) since last Friday that you might find useful. Everything relates back to web strategy in some way or another whether it’s improving your design, improving your code, or improving your technique. I want to help you get the most out of the web and the best way to do that is to keep learning. **So, read.**
 

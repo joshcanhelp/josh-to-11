@@ -5,8 +5,8 @@ excerpt: ""
 date: 2009-09-30 20:00:56
 modified: 2016-10-20 16:44:17
 permalink: new-custom-wordpress-theme-and-structure-at-joshcanhelp/index.html
-tags: ["New Site", "Page Templates", "Wordpress Contact Form", "Wordpress Themes", "About JoshCanHelp"]
-featured_img: 
+tags: ["New Site", "Page Templates", "WordPress", "About JoshCanHelp"]
+featured_img:
 wpid: 1108
 ---
 
@@ -22,7 +22,7 @@ I had two major goals with this site:
 With this in mind, I sat down a few months ago and began writing out the plan for the site. I wanted an area to highlight work I’ve done for specific clients and a better representation of what I do. I wanted a simple, clean layout and to ditch the ever-present blog sidebar.
 
 After settling on a structure, I went to work in Photoshop putting together a design. For whatever reason, I always find it tough to design websites for myself. It’s tough to balance what you want to say with how you want it to look. It was my chance to do whatever I wanted but I was still constrained by business sense and usability. I think the combination of being able to say anything and do anything makes the process harder. Design is about constraint, art is about freedom.  
-  
+
 After I had settled on a look, it was time to get in and work with the code. Here are a few of the highlights:
 
 - Certain pages have a template that allows them to be appended with a list of posts from a particular category. For example, [the page about Josh Can Help](/about/web-strategy-business/) is appended with announcements and information about Josh Can Help in general. This is controlled by entering in a category when I write the page.

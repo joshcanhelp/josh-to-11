@@ -12,13 +12,13 @@ wpid: 1870
 
 # 10 Tools to Create Your Own Social Network
 
-My cousin got a hold of me to talk about building something for her company to use that would help them with internal communication. We talked about a few obvious options – Facebook, Google Groups, Linkedin – but none of them fit the bill. I decided to do a little research (with some help) and came up with a list of options for people looking to build their own social media network for promotion or internal communication. We tried a few out and if you have experience with any of the others, please [leave a comment](#commentform) and let us know what you thought.
+My cousin got a hold of me to talk about building something for her company to use that would help them with internal communication. We talked about a few obvious options – Facebook, Google Groups, LinkedIn – but none of them fit the bill. I decided to do a little research (with some help) and came up with a list of options for people looking to build their own social media network for promotion or internal communication. We tried a few out and if you have experience with any of the others, please [leave a comment](#commentform) and let us know what you thought.
 
 **Side note:** The most important thing to think about before going down any of these routes is “what am I trying to do with this thing?” You could waste a lot of time starting accounts and learning platforms before you either found what you’re looking for or quit in frustration. A few questions to ask:
 
 - Is this a public group or a private one? If it’s private, make sure the platform has the privacy controls you need and set these up **first**.
 - What will you actually use it for? Think about what you already do, not what you think you might do.
-- Would a Linkedin group work? A Facebook page? A Twitter hash? Going to the where the people already are drastically increases the chance this group will take off.
+- Would a LinkedIn group work? A Facebook page? A Twitter hash? Going to the where the people already are drastically increases the chance this group will take off.
 
 OK, on with the tools…
 

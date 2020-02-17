@@ -89,9 +89,7 @@ Load that in your browser (likely at localhost:8888) and celebrate. I’m not su
 Here are a few basic resources for learning PHP:
 
 - [CodeAcademy](http://www.codecademy.com/en/tracks/php)
-- [Excellent basic reference](http://learnxinyminutes.com/docs/php/) – the entire thing is  
-  *in PHP!*
-- [Zend’s PHP for the absolute beginner](http://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/) – if you can believe it, this is where I started with PHP. It was on a different site I think, which is why the date is so new. I referred to this for at least 2 years after getting started.
+- [Excellent basic reference](http://learnxinyminutes.com/docs/php/) – the entire thing is *in PHP!*
 
 Tips and tricks:
 
@@ -128,4 +126,3 @@ Here are a few rules of the road:
 - Speaking of which, be very wary of what you read out there. StackOverflow is usually good and you can read criticism in the comments. I’ve found code snippets to be, at most, about 50% accurate in terms of doing things the right way.
 
 There are so, so many others but these are the ones that come immediately to mind.
-

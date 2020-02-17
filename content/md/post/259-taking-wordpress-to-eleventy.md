@@ -2,10 +2,11 @@
 
 title: "Taking WordPress to Eleventy"
 layout: post
-excerpt: "How I converted 12 years of posts in WordPress to an Eleventy static site ... and how I loved every minute of it."
+excerpt: "How I converted 12 years of posts in WordPress to an Eleventy static site ... and loved every minute of it."
 date: 2020-02-09 06:00:00
+modified: Last Modified
 permalink: taking-wordpress-to-eleventy/index.html
-tags: [ "Best Of" ]
+tags: [ "Best Of", "WordPress", "Eleventy" ]
 featured_img: /_images/2020/02/IMG_2468-150x150.jpg
 
 ---
@@ -20,7 +21,7 @@ One thing is for sure, though. This site does not accurately reflect who I am pr
 
 I wanted to get away from plugin updates, core updates, spam comments, logins, themes, and everything else that was such a large part of my life as a developer for so long. I started to think about what I really needed out of my site:
 
-- **It needs to be a place for my writing**. I love to write and I want to put more of what I write out there. For that to happen, it needThe next-generation editor in WordPress, Gutenberg, is way more than what I need. I want to write in Markdown, commit it, and be done.
+- **It needs to be a place for my writing**. I love to write and I want to put more of what I write out there. The next-generation editor in WordPress, Gutenberg, is way more than what I need. I want to write in Markdown, commit it, and be done.
 - **It needs to be a place for other creative stuff**. I need the liberty to mess around with something outside of the box and be able to just toss it online. Right now my options are a subdomain (annoying to maintain) or a custom page template with a DB record just for the URL.
 - **It needs to be dead-simple for me to maintain and change**. I want minimal dependencies, easy script deployment, no cache needed, no sudden problems.
 
@@ -46,7 +47,7 @@ I knew that I would need:
 - Layouts for each of the various post and page types I have (not many)
 - Markdown for the main content with somewhat involved metadata pulled from WordPress
 
-I figured the best way to handle this is to [define a "layout alias"](https://github.com/joshcanhelp/josh-to-11/blob/0.0.1/.eleventy.js#L3-L8) for each of the types that would come out of WordPress and then give them each [their own template](https://github.com/joshcanhelp/josh-to-11/tree/0.0.1/content/_includes/layouts). Then I could create a post like this:
+I figured the best way to handle this is to [define a layout alias](https://www.11ty.dev/docs/layouts/#layout-aliasing) for each of the types that would come out of WordPress and then give them each their own template (explained in the **Eleventy structure > Templates** section below). Then I could create a post like this:
 
 ```md
 ---
@@ -61,9 +62,9 @@ layout: post
 post.md > layouts/post.njk > _html.njk
 ```
 
-I'm using Nunjucks for the first time here. I like that it's from Mozilla, a lot of it looks familiar, and I'm not really expecting to do a lot in the templating engine itself. If I need to do something really different than the structure I have, it will likely be in plain HTML.
+I'm using [Nunjucks](https://mozilla.github.io/nunjucks/) for the first time here. I like that it's from Mozilla, a lot of it looks familiar, and I'm not really expecting to do a lot in the templating engine itself. If I need to do something really different than the structure I have, it will likely be in plain HTML.
 
-I had a [sample Markdown page](https://github.com/joshcanhelp/josh-to-11/blob/0.0.2/content/index.md) compiling through the template hierarchy [to HTML](https://github.com/joshcanhelp/josh-to-11/blob/0.0.2/_dist/index.html) without issues in under an hour! Everything just worked, configuration was really simple, and the defaults were all sane. I wrote a few npm scripts to simplify things and start looking at converting the WordPress content over.
+Using this combination, I had a sample Markdown page compiling through the template hierarchy to HTML without issues in under an hour! Everything just worked, configuration was really simple, and the defaults were all sane. I wrote a few npm scripts to simplify things and start looking at converting the WordPress content over.
 
 One thing I learned after some flailing around is that Eleventy ignores everything in your `.gitignore` so when I added a directive to keep the content MD files out of the repo, it said that that processed 0 files. I just had to modify the Eleventy config and I was back in business:
 
@@ -78,14 +79,14 @@ module.exports = function(eleventyConfig) {
 
 ## WordPress to Markdown
 
-I was really looking forward to this part. I have done a number of migrations to, from, and within WordPress using custom WP-CLI scripts and it's fun to try to handle all the different edge cases that come up.
+I was really looking forward to this part. I have done a number of migrations to, from, and within WordPress using custom WP-CLI scripts and it's an interesting exercise to try to handle all the different edge cases that come up.
 
 The conversion here breaks down into 2 parts:
 
 - The metadata, or "front matter", which is used in parts of the template and in collections of content.
 - The page or post content itself, which is mainly the partially formatted `post_content` field from the database but could also include metadata that is output in the WP template files.
 
-Before I get too far into the explanation here, I published the WP-CLI scripts I made here [[TODO: GITHUB LINK]]. The walk-through below is the thought process I went through to get there in case you wanted to write your own script or modify mine for your purposes.
+Before I get too far into the explanation here, I should point out that [I published the WP-CLI script I used](https://github.com/joshcanhelp/wordpress-to-markdown). The walk-through below is the thought process I went through to get there in case you wanted to write your own script or modify mine for your purposes.
 
 ### What to get
 
@@ -105,15 +106,15 @@ $get_post_args = [
 ];
 ```
 
-The `posts_per_page` needs to be there are is (but can be adjusted if you're testing out the conversion). The `post_type` needs to be set so you exclude `attachment` types (uploads) but should be expanded to include others that you might be using. If you've had the site up for a while and mutliple people have worked on it, there might be types there that you've forgotten about!
+The `posts_per_page` needs to be set to `-1` (get everything) but can be adjusted if you're testing out the conversion. The `post_type` needs to be set so you exclude `attachment` types (uploads) but should be expanded to include others that you might be using. If you've had the site up for a while and mutliple people have worked on it, there might be types there that you've forgotten about!
 
-**Note:** If you're using my WP-CLI script, you can run `wp all-post-types` to output all of the post types in your database.
+**Note:** If you're using my WP-CLI script, you can run `wp wptomd-types` to output all of the post types in your database.
 
 As you're taking inventory of what's there, it might be time to start looking at your WP theme files as well to see if there is any content being output from custom fields/postmeta. Look for `get_post_meta()` in theme files to figure out what fields are used and how. You'll want to figure out early whether these need to go in data fields (these can be used in listings and outside of the MD file) or above/below the main content.
 
 I had a few extra fields I wanted to keep:
 
-- Links to external sites (I put this in a `link_to` data field)
+- Links to external sites (I put this in a `link_to` data field in Markdown)
 - Quote attribution for special post formats (I added this below the post content, which contained the quote)
 - SEO plugin metadata (meta title was added to a data field and the meta description replaced the post excerpt)
 
@@ -123,7 +124,7 @@ I started with the metadata section to get more of a feel for Eleventy's built-i
 
 #### `permalink`
 
-This is an important one to get right as I wanted to keep as many of the existing URLs as possible without redirects. I also wanted a file naming and organizing scheme that could be different than the URL. To that end, I wanted to use the `post_name` field from the `posts` table.
+This is an important one to get right as I wanted to keep as many of the existing URLs as possible without redirects. I also wanted a file naming and organizing scheme that could be different than the URL. To that end, I used the `post_name` field from the `posts` table.
 
 As I was trying out the conversion process, I realized that I was pulling all posts and pages of any post status. There were a few that were pending or draft that I wanted to keep but didn't want to be published. It turns out, you can set `permalink: false` and an output file is not created.
 
@@ -186,7 +187,7 @@ foreach( $posts as $post ) {
 	$tags = is_array( $tags ) ? $tags : [];
 
 	$term_names = array_map( function ( $wp_term ) {
-		return '"' . strtolower( $wp_term->slug ) . '"';
+		return '"' . $wp_term->name . '"';
 	}, $terms );
 
 	$meta['tags'] = '[' . implode( ', ', $term_names ) . ']';
@@ -197,7 +198,7 @@ foreach( $posts as $post ) {
 
 I used `post_date_gmt` for the `date` field as Eleventy can handle localization of dates. I also stored `post_modified_gmt` in a `modified` field to keep that piece of data around. This means that I'm making posts with dates in GMT going forward, which I'm not wild about, but probably the best way to go about it.
 
-The GMT date is converted to local time during the build so the HTML being output is in Pacific time, which is what I want. By default, it's about the longest date I've ever seen so I added a filter to format the date into something more managable.
+The GMT date is converted to local time during the build so the HTML being output is in Pacific time, which is what I want. By default, it's about the longest date I've ever seen so I added a filter to format the date into something more manageable.
 
 ```js
 // .eleventy.js
@@ -223,9 +224,9 @@ All of the extra data I had was template-level, as opposed to large chunks of te
 
 Here are a few pieces of data I found useful to store in the template data for output later on:
 
-- `title` - I pulled this straight from the `WP_Post` object, passing it through `strip_tags()`, then `htmlspecialchars()`. It's probably best to apply the `the_title` filter as well but I knew I didn't have any transformations that needed to be applied. Make sure you sure you surround the value in quotes as well, in case any YAML-unsafe characters (like colons) are there. If you use an SEO plugin of some kind, you'll want to check for any additional meta fields being used for this.
+- `title` - I pulled this straight from the `WP_Post` object, passing it through `wp_strip_all_tags()`, then `htmlspecialchars()`. It's probably best to apply the `the_title` filter as well but I knew I didn't have any transformations that needed to be applied. Make sure you sure you surround the value in quotes as well, in case any YAML-unsafe characters (like colons) are there. If you use an SEO plugin of some kind, you'll want to check for any additional meta fields being used for this.
 - `excerpt` - I handled this the same as the title, including surrounding quotes. The filter for this value is `the_excerpt`.
-- `modified` - I added the `post_modified_gmt` to keep the data around. I believe you can use `Last Modified` here to start using the file edit date going forward.
+- `modified` - I added the `post_modified_gmt` to keep the data around. You can use `Last Modified` here to start using the file edit date going forward.
 - `featured_img` - This seemed like another good piece of data to keep around. I used `get_the_post_thumbnail_url()` here, along with the `thumbnail` size. If you keep all of your images in the `wp-content/year/month` folders when you launch the new site, everything should work well. Otherwise, you'll want to transform this URL to whatever new path you're using.
 - `wpid` - I stored the WordPress post ID here in case I ever needed to go back and check the database for some reason.
 
@@ -241,7 +242,7 @@ We want to get decent HTML to convert to Markdown so the order of operations I f
 
 This is definitely step 1 of the process. WordPress stores content as whatever was entered into the editor, then coverts that to viewable HTML in `the_content` filter. There's a lot of magic going on there, including shortcode processing, so it's best to work with the HTML post-conversion.
 
-Depending on how your theme is setup, this might also bring in addition content at the top and bottom of the post, possibly stored in postmeta. You'll want to examine your converted content and make sure that the HTML you see on your WP-powered site is more-or-less the same as what you see in your converted Markdown files. If you're missing chunks of content, look at the theme files to see where that content it coming from. This is **great** reason to have a repeatable script!
+Depending on how your theme is setup, this might also bring in additional content at the top and bottom of the post, possibly stored in postmeta. You'll want to examine your converted content and make sure that the HTML you see on your WP-powered site is more-or-less the same as what you see in your converted Markdown files. If you're missing chunks of content, look at the theme files to see where that content it coming from. This is **great** reason to have a repeatable script!
 
 #### 2. Convert HTML to Markdown
 
@@ -272,7 +273,7 @@ This step could come before or after converting to Markdown, it should not mattt
 
 #### 4. Strip additional tags
 
-Finally, I stripped all the remaining HTML with `strip_tags()`, keeping anything that would display well in the new template. Remember that, at this point, the content is converted to Markdown so the remaining tags are just ones that could not be converted. 
+Finally, I stripped all the remaining HTML with `strip_tags()`, keeping anything that would display well in the new template. Remember that, at this point, the content is converted to Markdown so the remaining tags are just ones that could not be converted.
 
 You'll want to be careful here as you can potentially lose layout that you want to keep. Since `strip_tags()` lets you indicate what you keep, instead of what you want to remove, you'll need to be explicit. I processed the content through once without the tag stripping, then searched the processed content for the first part of a closing tag:
 
@@ -283,11 +284,11 @@ You'll want to be careful here as you can potentially lose layout that you want 
 That found a number of ones I wanted to delete, like `<figure>` and `<figcaption>` used for images, and ones I wanted to keep, like `<span>` tags with styling. I ended up stripping the Markdown like so:
 
 ```php
-$the_content_md = strip_tags( 
-	$the_content_md, 
-	'<a><span><object><param><embed><del>' 
+$the_content_md = strip_tags(
+	$the_content_md,
+	'<a><span><object><param><embed><del>'
 );
-``` 
+```
 
 ### Create the file
 
@@ -328,11 +329,11 @@ On your first (or second or 100th) run, you might find a number of things to twe
 - *You might* figure out additional content conversions you want to make
 - *You might* change the directory structure of what you output
 
-... and you might hit a lot of errors in Eleventy as you figure out how the templating language and data cascade works. This is all completely normal! I probably ran the script 40-50 times before I had the output I wanted to keep. 
+... and you might hit a lot of errors in Eleventy as you figure out how the templating language and data cascade works. **This is completely fine and part of the process!** I probably ran the script 40-50 times before I had the output I wanted to keep.
 
-The trick here is to "let the robots do their job." In other words, don't start manually adjusting any of the content in the Markdown before you're sure all the repetitive stuff has been taken care of. I was running this on a local copy of my site so if I had a tag to delete or a permalink to change on a single post, I would make that change in the WP database, then keep running the script to make changes. In fact, I'm probably 95% done with the site for now and I just started making manual changes and corrections (tag curation, spelling/URL errors, etc).
+The trick here is to "let the robots do their job." In other words, don't start manually adjusting any of the content in the Markdown before you're sure all the repetitive stuff has been taken care of. I was running this on a local copy of my site so if I wanted to delete a tag or adjust a permalink on a single post, I would make that change in the WP database, then keep running the script to make changes. In fact, I'm probably 95% done with the site at this point of the post and I just started making manual changes and corrections (tag curation, spelling/URL errors, etc).
 
-Using my sample Eleventy repository (which is all of the configuration I'm using minus my content, CSS, and HTML) and the WP to Markdown WP-CLI script (the basic script plus some of the filters in `examples/` are what I used for my conversion), it looks a bit like this:
+Using my [sample Eleventy repository](https://github.com/joshcanhelp/wordpress-to-11ty) (which is all of the configuration I'm using minus my content, CSS, and HTML) and the [WP to Markdown WP-CLI script](https://github.com/joshcanhelp/wordpress-to-markdown) I made (the basic script plus some of the filters in `filters/` are what I used for my conversion), it looks a bit like this:
 
 ```bash
 ❯ cd ~/path/to/eleventy
@@ -358,29 +359,30 @@ Watching…
 
 ... or some error that needs correcting. You should be able to make changes to your Eleventy templates and see new output or change the processing script, run `wp wptomd` again, and see the output there. If you leave your local site open in your browser, it will even live reload so feedback on what you're doing comes quickly!
 
-I'll say here ... making changes in any part of this pipeline and having my browser reloaded with the changes by the time I got back to the browser window is what really made love this process! There are a lot of moving pieces but you get used to where things are (and should be) stored fairly quickly. I had a Sass processor running at the same time so I could make minor styling changes and have the compiled CSS carried over by Eleventy as well. Very powerful. 
+I'll say here ... making changes in any part of this pipeline and having my browser reloaded with the changes by the time I got back to the window is what really made love this process! There are a lot of moving pieces but you get used to where things are (and should be) stored fairly quickly. I had a Sass processor running at the same time so I could make minor styling changes and have the compiled CSS carried over by Eleventy as well. Very powerful.
 
 ## Eleventy structure
 
-So far, I've been concentrating on the WordPress side of things. Eleventy is really well-documented and a lot of what you'll want to do here depends on your site. 
+So far, I've been concentrating on the WordPress side of things. Eleventy is really well-documented and a lot of what you'll want to do here depends on your site.
 
 Still, there are a number of things we did above that will affect how the templates come together so I'll cover the configuration and structure that I used, which is stored in the [sample repo here](https://github.com/joshcanhelp/wordpress-to-11ty/tree/v0.0.1). This repo includes all of the template files and configuration that I use, plus Markdown content that was created by importing the [WP theme unit test](https://codex.wordpress.org/Theme_Unit_Test) file into a clean install of WordPress. I ran my WP to Markdown CLI script, made a couple of changes:
 
 - The "Markup: Title With Special Characters" post was not playing nicely with YAML so I removed the backslash
 - I changed the `page/front-page.md` to `page/home-page.md` and changed the `permalink` meta to `/index.html` so there would be a home page
+- I copied the `wp-content` directory into the `_dist` output directory so the images appeared correctly
 
-... and then ran Eleventy. With those small changes above, the site was built and served! See the README in that repo for more details about how to run this site locally and below for specifics on the Eleventy structure.
+... and then ran Eleventy. With those small changes above, the site was built and served without a problem! See the README in that repo for more details about how to run this site locally and below for specifics on the Eleventy structure.
 
 ### Markdown
 
-All of the markdown is stored in `content/md` ([GitHub](https://github.com/joshcanhelp/wordpress-to-11ty/tree/v0.0.1/content/md)) so I can output the convertor script to an isolated location. Eleventy builds or copies everything of a particular format that's located the `content` directory. All of this is determined in the configuration file. The object that is returned below is a specific format to indicate where the content should come from, `dir.input`, and where it should be processed to, `dir.output`. The `setTemplateFormats()` call tells Eleventy what to look for. The `md` files are processed and the `css` ones are just passed through.
+All of the markdown is stored in `content/md` ([GitHub](https://github.com/joshcanhelp/wordpress-to-11ty/tree/v0.0.1/content/md)) so I can output the convertor script to an isolated location. Eleventy builds or copies everything of a particular format that's located the `content` directory. All of this is determined in the configuration file. The object that is returned below is a specific format to indicate where the content should come from - `dir.input` - and where it should be processed to - `dir.output`. The `setTemplateFormats()` call tells Eleventy what to look for. The `md` files are processed and the `css` ones are just passed through.
 
 ```js
 // .eleventy.js
 module.exports = function(eleventyConfig) {
   // ...
   eleventyConfig.setTemplateFormats([ 'md', 'css' ]);
-  
+
   return {
     dir: {
       input: "content",
@@ -390,7 +392,7 @@ module.exports = function(eleventyConfig) {
 };
 ```
 
-Each of the Markdown files was given a `permalink` meta set to something like `the-post-name/index.html` from the CLI script. This means that the final URL is explicit and does not rely on the folder structure. Without that field, a `/content/post/post-name.md` file would be served from `xyz.com/post/post-name/index.html`. 
+Each of the Markdown files was given a `permalink` meta set to something like `the-post-name/index.html` from the CLI script. This means that the final URL is explicit and does not rely on the folder structure. Without that field, a `/content/post/post-name.md` file would be served from `xyz.com/post/post-name/index.html`.
 
 ### Templates
 
@@ -417,31 +419,32 @@ You might remember that we mapped post type and post format to the layout so we'
 
 That covers the WP-generated content but I added a few other helper templates to assist with navigation:
 
-- I added an [all posts listing](https://github.com/joshcanhelp/wordpress-to-11ty/blob/v0.0.1/content/_includes/layouts/all.njk) that displays all posts for all time. You can see in that template that I'm iterating through a `collections.postsCollection` object which I created using `eleventyConfig.addCollection`. The [Collections](https://www.11ty.dev/docs/collections/) part of Eleventy is a really powerful tool that lets you make new, well, collections of posts, metadata, tags, etc. I found it to be a very powerful way to view content, as opposed to the DB-stored model that I'm used to.
-- I also added an [all tags listing](https://github.com/joshcanhelp/wordpress-to-11ty/blob/v0.0.1/content/_includes/layouts/tags.njk) that outputs all the tags that are associated to content, linked to a tag archive page (see below) and including a count of all posts. I used another custom collection for that, which took me a while to get right but, again, was a really interesting expansion of how I viewed a bunch of stuff I've written and tagged. 
+- I added an [all posts listing](https://github.com/joshcanhelp/wordpress-to-11ty/blob/v0.0.1/content/_includes/layouts/all.njk) that displays all posts for all time. You can see in that template that I'm iterating through a `collections.postsCollection` object which I created using `eleventyConfig.addCollection`. The [Collections](https://www.11ty.dev/docs/collections/) part of Eleventy is a powerful tool that lets you make new, well, collections of posts, metadata, tags, etc. I found it to be a fascinating way to work with content, as opposed to the DB-stored model that I'm used to.
+- I also added an [all tags listing](https://github.com/joshcanhelp/wordpress-to-11ty/blob/v0.0.1/content/_includes/layouts/tags.njk) that outputs all the tags that are associated to content, linked to a tag archive page (see below) and including a count of all posts. I used another custom collection for that, which took me a while to get right but, again, was a really interesting expansion of how I viewed a bunch of stuff I've written and tagged.
 - Finally, I used [this article](https://www.11ty.dev/docs/quicktips/tag-pages/) to build out tag pages using pagination. I have not fully wrapped my head around pagination and what's it's capable of doing but I got it working, the templates make sense, and that's all I need for now!
 
-All of the various pages extend a [base html template file](https://github.com/joshcanhelp/wordpress-to-11ty/blob/v0.0.1/content/_includes/_html.njk) that all the repeating framework around the content. I'm using [Nunjucks](https://mozilla.github.io/nunjucks/) as the templating language for no good reason other than it's from Mozilla, I'm not opinionated here (I come from WordPress, remember), and it did everything I wanted without a lot of looking things up. No complaints here.
+All of the various pages extend a [base html template file](https://github.com/joshcanhelp/wordpress-to-11ty/blob/v0.0.1/content/_includes/_html.njk) that is all the repeating framework around the content.
 
 Last but not least, I followed the [syntax highlighting docs](https://www.11ty.dev/docs/plugins/syntaxhighlight/) and had that working with the sweet theme you see here in about 5 minutes. How can you beat that?!
 
 ## Impressions
 
-I'll say, first and foremost, I'm **overjoyed** with how this project turned out! I was hoping for a nice, low maintenance way to write in Markdown and publish without too much trouble. What I got was a powerful and intuitive way to create, edit, combine, aggregate, and extend what I was already doing. The stack feels modern, I rarely got stuck for more than a few link clicks, and I can't believe how much I've gotten done. Between this post, the WP-CLI script, the Eleventy config and templates, and a ton of clean-up, I'm about 4 full days in total. 🤯
+I'll say now, if it was not yet clear, I'm **overjoyed** with how this project turned out! I was hoping for a nice, low maintenance way to write in Markdown and publish without too much trouble. What I got was a powerful and intuitive way to create, edit, combine, aggregate, and extend what I was already doing. The stack feels modern, I rarely got stuck for more than a few link clicks, and I can't believe how much I've gotten done. Between this post, the WP-CLI script, the Eleventy config and templates, and a ton of clean-up, I'm about 4 full days in total. 🤯
 
 There are a lot more gains than just productivity, though:
 
-- Writing, saving, and waiting a second or so for the browser to magically refresh, whether I'm in an Markdown file or a Sass one (with `node-sass --watch` in the background) is a **fantatic** way to work. 
-- The speed at which the site loads is really something to behold. Coming from WordPress, where a site 5x slower than this is a badge of honor, this is glorious. 
+- Writing, saving, and waiting a second or so for the browser to magically refresh, whether I'm in an Markdown file or a Sass one (with `node-sass --watch` in the background) is a **fantatic** way to work.
+- The speed at which the site loads is really something to behold. Coming from WordPress, where a site 5x slower than this is a badge of honor, this is glorious.
 - Defining the meta in the post, processing that into collections, then working with it in templates was a big change in paradigm but I'm really getting into it. Before, everything you need was stored and managed. Now, you make what you need on the fly and, when it's done, there is no artifact.
 - In a similar vein, this idea of running an async action like hitting an API or processing content during the build instead of with client-side JavaScript feels like a whole new world to me. I can imagine importing lists from WorkFlowy, pulling down collections of Tweets, etc.
 
-... and still more as I work with it more and more. 
+... and still more as I work with it more and more.
 
 I would **highly** recommend trying this out if you're just getting started with a blog or are getting tired of logging in, updating plugins, clearing out spam comments, and updating core before you get down to writing. WordPress has it's place but, in terms of writing and enjoying it, Eleventy has my ❤️
- 
+
 ## Additional Resources
 
+- [WP-CLI script to convert your WordPress content to Markdown](https://github.com/joshcanhelp/wordpress-to-markdown)
 - [Eleventy project built from the WP Theme Unit Test content](https://github.com/joshcanhelp/wordpress-to-11ty)
 - [A fine post by @efjspencer about a difference approach to the same problem](https://edspencer.me.uk/posts/2019-10-16-migrating-from-wordpress-to-eleventy/)
 - [WP-CLI Commands Cookbook](https://make.wordpress.org/cli/handbook/commands-cookbook/)

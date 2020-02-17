@@ -16,14 +16,14 @@ wpid: 4655
 
 If something I want to do has a capital letter Brand Name attached to it – The Atkins Diet, Whole30, CrossFit, Intermittent Fasting – I’m so much less likely to do it and, if I do, even less likely to tell you I did. Maybe I’ll tell you I’m eating more protein and fat, trying to find the source of my allergies, or eating less than usual.
 
-That’s the feeling when I read [Dan Clay’s 30 Day Digital Detox plan](http://thirtydaydigitaldetox.com/the-detox/). See those capital letters? I got a little shiver just typing them out. But Dan’s a really good guy who I’ve worked with on a few web projects and he’s got nothing to sell so I gave the thing a try.
+That’s the feeling when I read Dan Clay’s 30 Day Digital Detox plan. See those capital letters? I got a little shiver just typing them out. But Dan’s a really good guy who I’ve worked with on a few web projects and he’s got nothing to sell so I gave the thing a try.
 
-**It was, no hyperbole, the second-best thing I did for myself this year** ([cycling more](https://www.instagram.com/p/BJocVrThvn2/) was the first). Here’s why:
+**It was, no hyperbole, the second-best thing I did for myself this year** (cycling more was the first). Here’s why:
 
-> A thought that has always resonated with meis that your life is comprised entirely of what you choose to pay attention to. This detox showed me that my attention was, quite often, somewhere inconsequential. I was not choosing to read short, meaningful content from important thought leaders in my industry, I was absent-mindedly picking up my phone when I was “bored” and scrolling through promotions, jokes, pictures, and links from people I didn’t know in whatever order it was being served. When I read, I wasn’t reading things that expanded my mind or gave me a new perspective, I was reading about people who were doing things I wasn’t, the same old rehashed “crush it with this morning routine” posts, news and opinions that didn’t matter. I wasn’t inspired and I wasn’t motivated, I was mildly depressed and down on myself for not doing more.
-> 
+> A thought that has always resonated with me is that your life is comprised entirely of what you choose to pay attention to. This detox showed me that my attention was, quite often, somewhere inconsequential. I was not choosing to read short, meaningful content from important thought leaders in my industry, I was absent-mindedly picking up my phone when I was “bored” and scrolling through promotions, jokes, pictures, and links from people I didn’t know in whatever order it was being served. When I read, I wasn’t reading things that expanded my mind or gave me a new perspective, I was reading about people who were doing things I wasn’t, the same old rehashed “crush it with this morning routine” posts, news and opinions that didn’t matter. I wasn’t inspired and I wasn’t motivated, I was mildly depressed and down on myself for not doing more.
+>
 > Put simply: I wasn’t just losing time, I was actively harming my thought process for the rest of the time that I wasn’t distracting myself. All of this consumption, in the name of doing more and better, was robbing my ability to do just that.
-> 
+>
 > My detox wasn’t about some amazing goal or changing my life forever, it was about getting my focus back, making progress towards things that are important, being more present, and shedding bad habits. It was an incremental step rather than a major milestone. I don’t have a startup I’m building or a book I’m writing or a corporation I’m running but there are so many things on my “make it” list and so many more on my bucket list that are achievable, right now, if I start making meaningful progress.
 
 I’m certainly not the one to tell you whether this is something you’ll benefit from so I’ll just share how I knew it was time for me to try it out:

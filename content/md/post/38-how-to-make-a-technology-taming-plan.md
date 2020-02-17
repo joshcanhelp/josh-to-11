@@ -66,7 +66,7 @@ Oh and **WRITE THESE DOWN**, write them all down regardless of what came out of 
 
 By the way, try to keep the list short. I’d recommend two or three items but, to be honest, that’s a bit hypocritical because I have four of them:
 
-- More online connections (Facebook, Linkedin, Twitter)
+- More online connections (Facebook, LinkedIn, Twitter)
 - Bump up my monthly freelance income to a certain amount
 - Add more people to which I can subcontract work
 - Add more/better sites to my portfolio

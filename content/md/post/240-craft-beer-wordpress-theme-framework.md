@@ -15,7 +15,7 @@ wpid: 4502
 You never who who you’ll meet in preschool.
 
 > As a design agency, we value partners like Josh who strive beyond execution and endeavor to improve the final product for our clients.
-> 
+>
 > *– Ryan Applegate, Senior Designer at Blindtiger*
 
 In one of those “meant to be” moments, I met the founder and president of the mind-bogglingly talented craft beer agency here in Seattle, [Blindtiger](http://blindtigerdesign.com/). Oceania (Oce for short) invited me down to the office to talk shop and it just clicked.
@@ -46,9 +46,13 @@ The thorough wireframes were enough to start building out a sample user interfac
 
 Custom page layouts can be made using the flexible content field, giving them lots of leeway to be creative but limited by brand guidelines for colors.
 
-[![screenshot-2016-10-31-10-21-39](/_images/2016/10/Screenshot-2016-10-31-10.21.39-1024x585.png)](/_images/2016/10/Screenshot-2016-10-31-10.21.39.png)Custom post types and taxonomies were used to create beer listings, food listings, and draft beer types that made adding new offerings very simple.
+[![screenshot-2016-10-31-10-21-39](/_images/2016/10/Screenshot-2016-10-31-10.21.39-1024x585.png)](/_images/2016/10/Screenshot-2016-10-31-10.21.39.png)
 
-[![screenshot-2016-10-31-10-23-51](/_images/2016/10/Screenshot-2016-10-31-10.23.51.png)](/_images/2016/10/Screenshot-2016-10-31-10.23.51.png)After seeing just a handful of the additional fields in action, Ryan agreed that WordPress would be the best choice for what we were trying to do here.
+Custom post types and taxonomies were used to create beer listings, food listings, and draft beer types that made adding new offerings very simple.
+
+[![screenshot-2016-10-31-10-23-51](/_images/2016/10/Screenshot-2016-10-31-10.23.51.png)](/_images/2016/10/Screenshot-2016-10-31-10.23.51.png)
+
+After seeing just a handful of the additional fields in action, Ryan agreed that WordPress would be the best choice for what we were trying to do here.
 
 Working with a design studio as talented and approachable as Blindtiger is, of course, always a pleasure but what made this project stand out as one of my favorites in a long time was thinking through 2 key components:
 
@@ -60,26 +64,26 @@ There is no universal, easy answer here but our solution was to create a system 
 
 The specific templates were:
 
-- [Single beer display](http://www.dustbowlbrewing.com/beer/therapist-imperial-ipa/) – animated flavor profile, SVG size icons, hide/show data based on admin input
+- **Single beer display** – animated flavor profile, SVG size icons, hide/show data based on admin input
 
-![3ttrfwdxqs](/_images/2016/08/3tTrfwDxQs.gif)
+![](/_images/2016/08/3tTrfwDxQs.gif)
 
-- [Packaged beer listing](http://www.dustbowlbrewing.com/beers/) – animated hover states for desktop and easy-to-scan layout for mobile, grouping by type with on-page navigation
+- **Packaged beer listing** – animated hover states for desktop and easy-to-scan layout for mobile, grouping by type with on-page navigation
 
-![screenshot-2016-10-31-11-16-50](/_images/2016/10/Screenshot-2016-10-31-11.16.50.png)
+![](/_images/2016/10/Screenshot-2016-10-31-11.16.50.png)
 
-- [Events listing](http://www.dustbowlbrewing.com/events/) – filter by type, perennial event listing for weekly unchanging ones
-- [Taproom location](http://www.dustbowlbrewing.com/taprooms/downtown/) – Digital Pour tap management integration, Untappd listing integration, custom Google Maps styling
-- [Beer finder](http://www.dustbowlbrewing.com/beers/beer-finder/) -Digital Pour location API integration, on-page AJAX interaction, link-to-search capability
+- **Events listing** – filter by type, perennial event listing for weekly unchanging ones
+- **Taproom location** – Digital Pour tap management integration, Untappd listing integration, custom Google Maps styling
+- **Beer finder** - Digital Pour location API integration, on-page AJAX interaction, link-to-search capability
 
-![wqsd2twykv](/_images/2016/08/wqSD2TwYKV.gif)
+![](/_images/2016/08/wqSD2TwYKV.gif)
 
 These pre-built templates give the kind of functionality breweries need while giving Blindtiger explicit control over the user interface to avoid breakage.
 
 Augmenting these are flexible pages that allow content listing however the site admins see fit:
 
-- [Team page](http://www.dustbowlbrewing.com/about/team/) – built with image and user listing blocks
-- [Menu pages](http://www.dustbowlbrewing.com/taprooms/brewery/menu/) – built with full-width image and food listing blocks
+- **Team page** – built with image and user listing blocks
+- **Menu pages** – built with full-width image and food listing blocks
 
 The brewery gets the flexibility they want and Blindtiger can still feel great about how their hard work on branding is displayed. **Win win!**
 
@@ -92,14 +96,14 @@ Ryan and I worked together in figuring out how this would work starting with the
 For the child theme, I made some very deliberate choices to keep us as DRY as possible but retain flexibility:
 
 - The child theme is built to pull all templates from the parent with minor overrides for, say, a different header navigation layout. This is, of course, what a child theme is for but it’s critical to pay attention to what parts are likely to be overridden, then make sure they can be accessed easily with hooks, filters, get\_template\_part(), and the correct path and URI getter functions.
-- ![screenshot-2016-10-31-11-21-18](/_images/2016/10/Screenshot-2016-10-31-11.21.18.png)All JavaScript is modular and housed/loaded from the parent theme. Different combinations of features can be created, minified, and served up depending on what features a particular site has.
+- All JavaScript is modular and housed/loaded from the parent theme. Different combinations of features can be created, minified, and served up depending on what features a particular site has.s
 - All CSS is written in BEM-style SCSS and stored entirely in the child theme. I created a starter child theme that has extends, variables, and mixins that can get reused when the project starts but there’s no fear of stomping on styles loaded elsewhere. Also, the single, minified CSS sheet keeps pages loading quick.
 - SVGs are stored in the parent theme, for the most part, and can be over-ridden in the child theme where needed.
 
 We had a great time working together to build this system and with one site launched, one site close, and one site in the works as of this writing, we’re honing our process and cutting launch time down drastically.
 
 > Josh continually exceeds our expectations by delivering new ideas, solving problems and participating in the creative process. His work ethic and promptness help us stay on-time and on-budget.
-> 
+>
 > *– Ryan Applegate*
 
 **Huge thanks to Blindtiger for a great couple of projects and many more to come!**

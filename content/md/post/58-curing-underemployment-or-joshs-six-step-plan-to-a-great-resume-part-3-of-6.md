@@ -6,7 +6,7 @@ date: 2008-12-03 19:00:37
 modified: 2016-10-20 16:44:19
 permalink: curing-underemployment-or-joshs-six-step-plan-to-a-great-resume-part-3-of-6/index.html
 tags: ["Career", "Change Careers", "Employment", "Find A Job", "Get A Job", "Resume", "Resume Writing", "Unemployment", "Write A CV", "Write A Resume", "Personal Development"]
-featured_img: 
+featured_img:
 wpid: 451
 ---
 
@@ -17,7 +17,7 @@ Check out yesterday’s post, [the second step towards writing a great resume, l
 Step 3: Write a personal statement for each of the resumes you need to create.
 ------------------------------------------------------------------------------
 
-[![write by the trial on fickr](http://farm2.static.flickr.com/1240/1241596127_8795ab63de.jpg "Write your personal statement for each job you want to apply for")](http://flickr.com/photos/thetrial/1241596127/)write by the trial on fickrThis is the worst part of writing a resume (well, next to the cover letter). Some people will tell you that these are unnecessary and I rarely see a company that requires one but better safe than sorry. Also, it’s a good exercise and won’t look BAD on there.
+This is the worst part of writing a resume (well, next to the cover letter). Some people will tell you that these are unnecessary and I rarely see a company that requires one but better safe than sorry. Also, it’s a good exercise and won’t look BAD on there.
 
 A personal statement, also known as an objective, is, in your own words, why the job you’re trying to get is good for you. It’s really the only time during the resume process that you get to be selfish. Why, in your grand plan, in your overall scheme, does this job help you? Why are you applying? Why do you care whether you get it or not?
 

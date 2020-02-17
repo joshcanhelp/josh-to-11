@@ -30,7 +30,7 @@ This is not a problem with WordPress and the community around it, this could be 
 
 Not everyone is going to fall into this trap but I definitely have and it’s been both discouraging and frustrating to find that my 10 year career in web development has left me with engineering skills of someone with maybe half that experience. To be fair to myself, a lot of the working time during those 10 years has been non-development – design, UX, SEO, technical writing, training – so this is also a Problem of the Generalist. But repeatedly failing engineering interviews and gathering long lists of comments on code reviews are tough pills to swallow.
 
-I’m currently an open source engineer at Auth0 maintaining our [PHP repos](https://github.com/auth0?utf8=%E2%9C%93&q=&type=&language=php), including a relatively large [WordPress plugin](https://github.com/auth0/wp-auth0/). My technical writing experience makes me valuable as a documentation contributer (highly valued at Auth0) and my relatively broad experience helps fill gaps where needed (like PR reviews, troubleshooting, and support requests). I’ve learned more in the past 5 months than I have in the last 4 years combined with no end in sight and I wouldn’t want it any other way.
+I’m currently an open source engineer at Auth0 maintaining our [PHP repos](https://github.com/auth0?utf8=%E2%9C%93&q=&type=&language=php), including a relatively large [WordPress plugin](https://github.com/auth0/wp-auth0/). My technical writing experience makes me valuable as a documentation contributor (highly valued at Auth0) and my relatively broad experience helps fill gaps where needed (like PR reviews, troubleshooting, and support requests). I’ve learned more in the past 5 months than I have in the last 4 years combined with no end in sight and I wouldn’t want it any other way.
 
 I wanted to collect some of the ways that I’ve lagged behind as a developer because of my WordPress focus with a goal of helping others who might be on my same path. If you love engineering, as I do, and want to continue on that path, these are a few things that might hold you back.
 
@@ -53,7 +53,7 @@ Package Management
 
 Composer is the package manager that you should be using but probably aren’t. But why not?
 
-It might be because the idea of “packages” in the WordPress world is ananagous with “plugins.” Adding additional functionality means searching the repo in a UI, installing, and activating. Extending that is using the (hopefully) existing hooks within that plugin to do what you want.
+It might be because the idea of “packages” in the WordPress world is analogous with “plugins.” Adding additional functionality means searching the repo in a UI, installing, and activating. Extending that is using the (hopefully) existing hooks within that plugin to do what you want.
 
 But there is a world of small libraries out there that help you be more productive and can, if you become familiar with the code, help you learn quite a bit about how to do things. Why write an environment parser or a logger or a router if there is a competent package out there that can do it for you?
 
@@ -149,7 +149,7 @@ Starting now, you could devote all of those extra hours you have in the evening 
 
 The only way I’ve found to make real, lasting change in my life is:
 
-- First, **acknowledge that change is hard and learning can be painful.** You’re going to feel a little dumb for a while as you get your bearings in all this new stuff. This is normal and expected. Give yourself a little slack ahead of time and remember that the uncomfort of feeling stupid will quickly be replaced by the feeling of accomplish once you’re using your new tools.
+- First, **acknowledge that change is hard and learning can be painful.** You’re going to feel a little dumb for a while as you get your bearings in all this new stuff. This is normal and expected. Give yourself a little slack ahead of time and remember that the discomfort of feeling stupid will quickly be replaced by the feeling of accomplish once you’re using your new tools.
 - Then, **focus on the benefit of the change.** In this case, you’ll be writing better code that will position you for opportunities in the future. It will also help you modernize your code writing in such a way that will help you adopt new technology (which, if you’re mostly writing 5.2 PHP for WordPress, will be a breath of fresh air). Finally, and the most motivational for the right type of person, these tools and techniques will make you more productive, no question.
 - Finally, **create situations where this new behavior is easy to practice.** You’re probably not going to upend your entire career based on a blog post but there are ways to work these changes into your day-to-day tasks. Scope your project a little higher to account for some learning time and sell it as making sure you’re delivering the best thing you can.
 

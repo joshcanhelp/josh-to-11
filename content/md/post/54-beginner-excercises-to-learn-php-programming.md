@@ -6,21 +6,19 @@ date: 2008-11-20 20:00:21
 modified: 2016-10-20 16:44:20
 permalink: beginner-excercises-to-learn-php-programming/index.html
 tags: ["Beginner", "Exercises", "Learning PHP", "PHP Exercises", "Programming", "Programming Exercises", "Development"]
-featured_img: 
+featured_img:
 wpid: 386
 ---
 
-# Beginner Excercises to Learn PHP Programming
+# Beginner Exercises to Learn PHP Programming
 
 I’ve been on a quest to try my hand at a real programming language. I get the feeling that I’m really going to like what I learn. Said another way, I really hope that I like what I learn. My brain kind of works like a computer and if I can just figure out how a computer operates on the nano level, I’ll be one step closer to understanding myself.
 
 That was a joke.
 
-After a thoroughly inexhaustive consideration of available languages, I chose PHP to learn a few things. Since I’ve been doing work in WordPress (written in PHP) and have had a few people express the need for database functionality in their webpages (PHP and MySQL can handle almost anything you can throw at it) AND I’m working on a site based on [Pligg](http://www.pligg.com) (also written in PHP), it seemed like the right direction to go. It also seems fairly simple to pick up (comparatively) and the support/community/documentation is quite robust (one of the few words I use despite the fact that I hate it).
+After a thoroughly non-exhaustive consideration of available languages, I chose PHP to learn a few things. Since I’ve been doing work in WordPress (written in PHP) and have had a few people express the need for database functionality in their webpages (PHP and MySQL can handle almost anything you can throw at it) AND I’m working on a site based on [Pligg](http://www.pligg.com) (also written in PHP), it seemed like the right direction to go. It also seems fairly simple to pick up (comparatively) and the support/community/documentation is quite robust (one of the few words I use despite the fact that I hate it).
 
 Despite the many pages dedicated to PHP tutorials, how-tos, and tips/tricks, I have not been very successful finding exercises I can practice with. I’ve been a student for longer than I care to admit, I need homework to function properly!! So I searched high and low and put together this list of beginner PHP exercises. I’m also including a link to my results so people can see the results (no guarantee of accuracy).
-
-[Zend’s Beginner’s Guide to PHP ](http://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/)is a good place to start if you need a refresher or need some help. [  ](http://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/)
 
 ### [**From the Digital Point forums**](http://forums.digitalpoint.com/showthread.php?t=642480)
 

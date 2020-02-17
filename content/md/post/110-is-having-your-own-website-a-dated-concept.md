@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-10-20 20:00:13
 modified: 2016-10-20 16:44:17
 permalink: is-having-your-own-website-a-dated-concept/index.html
-tags: ["Facebook", "Linkedin", "Pevchon", "Posterous", "Twitter", "Websites", "Social Media"]
+tags: ["Facebook", "LinkedIn", "Pevchon", "Posterous", "Twitter", "Websites", "Social Media"]
 featured_img: 
 wpid: 1167
 ---

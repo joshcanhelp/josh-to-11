@@ -1,9 +1,9 @@
 {% extends "_html.njk" %}
 
+{% block content %}
 <main class="jch-post jch-post--article">
-  {% block content %}
   {{ content | safe }}
-  {% endblock %}
 
   <p><a href="{{ link_to }}">Go there 👉</a></p>
 </main>
+{% endblock %}

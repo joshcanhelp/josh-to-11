@@ -13,7 +13,7 @@ wpid: 3847
 # Semi-eCommerce Site for a Local Composites Distributor
 
 > Working with Josh has been an absolute pleasure! He caught on very quick to our vision of what we wanted for a website. When we were initially quoted, we were given timeframes for certain segments of the website completion and he met every timeframe we were given. That in itself is priceless!
-> 
+>
 > *– Greg Fochtman, Sales Manager*
 
 Pacific Coast Composites (PCC) “stocks and distributes advanced composite materials certified for quality requirements.” What sounds, at first, like simple repackaging is, in reality, a government regulated and heavily monitored process. Materials need to be held in specific temperature ranges while being shipped all over the world, buyers need to be certified and vetted, and everything needs to happen quickly while expensive airplanes and machinery sit idle, waiting to be repaired.
@@ -60,7 +60,9 @@ The wireframes I created ended up being much more complete than they usually are
 
 **Home:** wireframe
 
-[![PCC_wire_homepage](/_images/2016/03/PCC_wire_homepage-230x300.png)](/_images/2016/03/PCC_wire_homepage.png) **Home:** complete
+[![PCC_wire_homepage](/_images/2016/03/PCC_wire_homepage-230x300.png)](/_images/2016/03/PCC_wire_homepage.png)
+
+**Home:** complete
 
 [![pcc-home-final](/_images/2015/08/pcc-home-final-326x1024.png)](/_images/2015/08/pcc-home-final.png)
 
@@ -68,7 +70,7 @@ The wireframes I created ended up being much more complete than they usually are
 
 **Product category:** wireframe
 
-[![PCC_wire_product_listing](/_images/2016/03/PCC_wire_product_listing-267x300.png)](/semi-ecommerce-site-for-a-local-composites-distributor/pcc_wire_product_listing/)
+[![PCC_wire_product_listing](/_images/2016/03/PCC_wire_product_listing-267x300.png)](/_images/2016/03/PCC_wire_product_listing.png)
 
 **Product category:** complete
 
@@ -107,5 +109,5 @@ This build was one of the largest I had taken on by myself and was a very enjoya
 From start to finish, the site took around 3.5 months to launch. The response from customers was very positive and the team took to updating and managing content quickly. This is a great example of what happens when a talented, motivated, customer-focused business takes their web presence seriously.
 
 > His knowledge of website analytics has placed our website within the first page in almost every product we carry, which in turn has improved our website traffic dramatically. In the first quarter of 2016, around 60% of all new accounts created in our system, derived from our new and improved website!
-> 
+>
 > *– Greg Fochtman, Sales Manager*

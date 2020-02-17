@@ -1,24 +1,22 @@
 ---
 title: "1PPM: month 1 (and 2)"
 layout: post
-excerpt: ""
+excerpt: "I found a group of folks online who committed to launching 1 project per month (1PPM) and it resonated with me in a big way. This is what I did for my first one."
 date: 2017-02-07 03:43:12
-modified: 2018-07-19 03:58:02
+modified: Last Modified
 permalink: 1ppm-month-1-and-2/index.html
 tags: ["Crazy Ideas", "Development"]
-featured_img: 
+featured_img: /_images/2017/02/1PPM_Logo.png
 wpid: 4740
 ---
 
 # 1PPM: month 1 (and 2)
 
-In short: I found a group of folks online who committed to launching [1 project per month (1PPM)](https://blog.1ppm.club/the-1ppm-challenge-eaed5df0ef5a#.ilvu2uoio) and it resonated with me in a big way. This is what I did for my first one.
-
 I’m not sure whether it’s my personality, what I do for a living, that I’m self-employed, or all three combined but my list of “things to learn/build/launch” pretty much just gets larger day after day. It’s not that I don’t learn or build or launch, it’s just that I sit down when I have the time and work on the thing that sounds the most interesting at the time. Or, instead, the list feels too daunting so I work on client projects and lose valuable exploration and learning time.
 
 *Woe is me.*
 
-I found 1PPM through Hacker News and, for whatever reason, it hit the right spot at the right time. Basically, you commit to launching one thing each month, that’s it. This works, for me at least, because each of the requirements hits on an important component of getting things done:
+I found [1 project per month (1PPM)](https://blog.1ppm.club/the-1ppm-challenge-eaed5df0ef5a#.ilvu2uoio) through Hacker News and, for whatever reason, it hit the right spot at the right time. Basically, you commit to launching one thing each month, that’s it. This works, for me at least, because each of the requirements hits on an important component of getting things done:
 
 - **Launching:** This is a commitment to getting something out there as well as a hard stop to your work on it. Maybe it’s a site, maybe it’s a public repo, maybe it’s something in the Unity marketplace but it has to get out there. I add my project to the [1PPM log](https://github.com/1ppm/1ppmLog/blob/master/HallOfFame.md) as a kind of public commitment at the very least.
 - **One thing:** This is a huge thing for me. [I’ve thought and acted on this a lot lately](/how-i-focus-now/) and it’s clear that having multiple things competing for my attention destroys my ability to do anything about any of them. But when I pick one thing and make that the priority, I do well. I suspect most folks would identify with this.

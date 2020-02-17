@@ -137,7 +137,7 @@ I needed a new motivation.
 
 Throughout my life, I’ve battled with depression and anxiety. I have a tendency to generate an enormous amount of stress around seemingly minor obstacles. I also find myself stuck in unhelpful and negative thought loops that often incapacitate me. I’ve always been able to get out of bed in the morning and, far more often than not, can find some inkling of motivation to keep pushing forward but it can be painful and debilitating at times.
 
-But the one thing that can shake me out of it, even if it’s just for the remainder of the day, is hard exercise. If I can get my ass on a bike or put in headphones and go for a long walk, I can usually shake the sense of dread and forboding that I’m regularly plagued with. And if I can do it on a regular basis, it stays away for longer periods of time.
+But the one thing that can shake me out of it, even if it’s just for the remainder of the day, is hard exercise. If I can get my ass on a bike or put in headphones and go for a long walk, I can usually shake the sense of dread and foreboding that I’m regularly plagued with. And if I can do it on a regular basis, it stays away for longer periods of time.
 
 It turns out that the thing that gets me into the gym or on a bike or in running shoes is not my desire to buy a smaller shirt size, it’s improving my mental health in a real way. The focus it takes to keep good form through a heavy lift or to not fall off the treadmill gives me a mini vacation from the negative thoughts and self-examination that I endure so often.
 
@@ -151,6 +151,6 @@ Hypothesis: clearing my head through a few hours per week of hard work will impr
 
 My point of all this is not to tell you what I did so you can try the same. My point is that seeing your attempts as failed experiments rather than ways that you have failed gives you permission to not only try again without shame but to abandon the methods and techniques and diets and exercises and foods that have failed you.
 
-If you can’t choose a carrot over candy, it’s the carrot that failed. If you can’t save your money for a vacation because you keep buying clothes, it’s the vacation that failed. If you can’t stop smoking despite a persistant cough, it’s the cough that failed.
+If you can’t choose a carrot over candy, it’s the carrot that failed. If you can’t save your money for a vacation because you keep buying clothes, it’s the vacation that failed. If you can’t stop smoking despite a persistent cough, it’s the cough that failed.
 
 If the motivation you keep in your mind for the things you want to change does not produce the change that you want, then the motivation has failed. Unless the conditions change, your experiment will produce the same outcome. Write down your conclusions, think up another hypothesis, and try something new.

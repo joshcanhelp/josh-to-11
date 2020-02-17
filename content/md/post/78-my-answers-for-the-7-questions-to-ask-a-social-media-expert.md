@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-03-11 19:00:33
 modified: 2016-10-20 16:44:18
 permalink: my-answers-for-the-7-questions-to-ask-a-social-media-expert/index.html
-tags: ["Digg", "Facebook", "Flickr", "Linkedin", "Popurls", "Social Media", "Social Networking", "Stumbleupon", "Twitter", "Social Media"]
+tags: ["Digg", "Facebook", "Flickr", "LinkedIn", "Popurls", "Social Media", "Social Networking", "Stumbleupon", "Twitter", "Social Media"]
 featured_img: 
 wpid: 626
 ---

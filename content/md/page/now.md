@@ -6,19 +6,19 @@ date: 2015-12-21 22:21:18
 modified: 2018-07-19 03:38:54
 permalink: now/index.html
 tags: []
-featured_img: 
+featured_img:
 wpid: 3794
 ---
 
 # Now
 
-Inspired by [this](http://nownownow.com/about).
+Inspired by [this](https://nownownow.com/about).
 
 Keeping a “now” page like this up-to-date probably means there is a concept of “then” floating around somewhere. I’m going to start keeping track of that here as well.
 
 > **6/30/2017** – “Right now my focus is paring down. I sold my WP product business … not taking on any new client projects … archived most of the things I had on my list to work on.”
 
-Afer reducing all of the professional clutter – trading it in for a “real job” I’m quite fond of – I started concentrating on the material and digital clutter around me. I’ve gotten rid of around half of the stuff I used to keep in my office and I’ll do another half more before the year is out. If this form of obsession appeals to you, I’d recommend [Marie Kondo’s first book](https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308/ref=sr_1_1).
+After reducing all of the professional clutter – trading it in for a “real job” I’m quite fond of – I started concentrating on the material and digital clutter around me. I’ve gotten rid of around half of the stuff I used to keep in my office and I’ll do another half more before the year is out. If this form of obsession appeals to you, I’d recommend [Marie Kondo’s first book](https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308/ref=sr_1_1).
 
 > **6/30/2017** – “I’m reading more, walking more, and spending more time with my family.”
 

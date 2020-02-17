@@ -5,8 +5,8 @@ excerpt: ""
 date: 2009-09-01 19:00:03
 modified: 2016-10-20 16:44:17
 permalink: improve-wordpress-performance-by-36-percent/index.html
-tags: ["HTTP Requests", "Optimization", "Website Optimization", "Wordpress", "Development", "Performance"]
-featured_img: 
+tags: ["HTTP Requests", "Optimization", "Website Optimization", "WordPress", "Development", "Performance"]
+featured_img:
 wpid: 993
 ---
 
@@ -22,7 +22,7 @@ Step 1: Assess the situation
 WordPress is notorious for being a [big server resource hog](http://www.codinghorror.com/blog/archives/001105.html) but there is little else out there that provides the kind of flexibility and extensibility on such an easy-to-use platform. I’m sure there are debates to be had but I’m a huge fan of WordPress and that’s not likely to change anytime soon.
 
 In this case, the WordPress core along with several essential but potentially resource-heavy plugins were causing the server to become unresponsive and, at times, crash for several minutes. This happened during short periods of intense traffic caused by the aforementioned temporary Digg.com front page position (called “the Digg effect”).  
-  
+
 I ran a simple [website optimization test](http://websiteoptimization.com/services/analyze/) and found several things that needed to be corrected:
 
 - The site was creating close to 90 HTTP requests. This means that the web page asked for 90 different things across the internet before it would be complete. This is really high.
@@ -54,7 +54,7 @@ With the changes made, we saw an improvement of around 36% (from 320 sec 56K loa
 
 I made a few recommendations for managing the site going forward.
 
-- The biggest thing you can do, as important as the code I changed, is to make sure your images are as small as possible. If you’re in Photoshop, save your JPGs at a 4 or 5 setting. Also, save non-photo images (logos, cartoons, etc) as GIFs. Give this site a try if you’re not proficient with a graphics program: 
+- The biggest thing you can do, as important as the code I changed, is to make sure your images are as small as possible. If you’re in Photoshop, save your JPGs at a 4 or 5 setting. Also, save non-photo images (logos, cartoons, etc) as GIFs. Give this site a try if you’re not proficient with a graphics program:
 - On the topic of images… if you have the time, you might want to host some of your images offline (Picasa, Flickr, etc). This might increase load times a little bit but it will keep the load off of your server. Check those sites for bandwidth restrictions, though. It wouldn’t be good to have them take down an image that’s getting you a lot of traffic.
 - You’re fine to install new plugins on the site but keep it to a minimum. Many plugins won’t affect your load time at all but some will start adding things to your header which is exactly what I worked to remove. I can, of course, do the same modification to any new plugins as well, though.
 
