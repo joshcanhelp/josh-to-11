@@ -1,19 +1,16 @@
 ---
 title: "HTML emails: the last word (until everything changes again)"
 layout: post
-excerpt: ""
+excerpt: "Here is everything I know about creating HTML emails. This is the most boring and most useful post I’ve ever created by far."
 date: 2008-09-11 18:00:49
 modified: 2016-10-20 16:44:21
 permalink: html-emails-the-last-word-until-everything-changes-again/index.html
-tags: ["Brochures", "Campaigns", "CAN-SPAM", "Coding", "CSS", "Email", "Gmail", "Hotmail", "Html Email Design Limitations", "HTML Emails", "Outlook", "Spam", "Technology Marketing", "Development", "Email"]
-featured_img: 
+tags: ["Marketing", "Email", "Throwback"]
+featured_img:
 wpid: 233
 ---
 
 # HTML emails: the last word (until everything changes again)
-
-Introduction
-------------
 
 Here is everything I know about creating HTML emails. This is the most boring and most useful post I’ve ever created by far. This is the aggregate of a lot of research and my own coding and testing. The title is bold, I know, but the information is solid.
 
@@ -78,11 +75,11 @@ Understanding email campaigns
 
 Permission is king. If you didn’t get someone’s permission before you sent the email then it is probably considered spam. There are a lot of companies out there just yelling their name and products and, at best, they’re getting lost in the chaos. At worst, they’re generating negative attention for themselves. When it comes to marketing, bad attention isn’t just attention, it’s a brand killer.
 
-Quality above quantity of recipients. If you have a list of 5,000 people that may not have heard of you before and might have interests that match your product, you have little more than a bullhorn and a crowd. If you have a list of 150 people that know what you’re offering and want to hear more, you have a captivated audience. It’s easy to assume that all people need to hear is what you’re offering and they’ll come running. The fact is, if there’s any sort of negative connotation to your brand (for example, showing up unnannounced in their email box), they’re not going to want what you’re selling. Strive for targeted lists of interested people instead of just bigger ones.
+Quality above quantity of recipients. If you have a list of 5,000 people that may not have heard of you before and might have interests that match your product, you have little more than a bullhorn and a crowd. If you have a list of 150 people that know what you’re offering and want to hear more, you have a captivated audience. It’s easy to assume that all people need to hear is what you’re offering and they’ll come running. The fact is, if there’s any sort of negative connotation to your brand (for example, showing up unannounced in their email box), they’re not going to want what you’re selling. Strive for targeted lists of interested people instead of just bigger ones.
 
 At the very least, your emails need to be relevant to your recipients. If someone signs up for a specific newsletter or a specific notification list, that does not mean they want everything that your institution can send out. Send less emails with better, more relevant content and you’ll see better conversion rates. In the same vein, if you can personalize emails, do it. Most HTML sending services allow you to input the names of your recipients (along with other variables) so take advantage.
 
-Mass HTML email senders have been likened to a “loaded gun.” First, there’s nothing stopping you from spamming thousands of people, on purpose or accidentally. All it takes is one bad batch and your domain might get blacklisted from your recipients’ email cients. This is definitely a bad thing; getting blacklisted from Hotmail or Gmail means you’ve lost the ability to send to millions of people. The responsibility to send out relevant, targeted emails to the right people is yours.
+Mass HTML email senders have been likened to a “loaded gun.” First, there’s nothing stopping you from spamming thousands of people, on purpose or accidentally. All it takes is one bad batch and your domain might get blacklisted from your recipients’ email clients. This is definitely a bad thing; getting blacklisted from Hotmail or Gmail means you’ve lost the ability to send to millions of people. The responsibility to send out relevant, targeted emails to the right people is yours.
 
 A good thing to keep in mind, along with the other points so far, is that these bulk emails (or any emails) cannot be recalled once they are sent. It’s easy to shoot off an email to a co-worker or a friend and correct yourself later but it’s not possible with big email campaigns.
 
@@ -155,7 +152,7 @@ Design for the preview pane of email applications. That means you’ve got about
 Styling your email
 ------------------
 
-Simple CSS is widely supported and can be used in all HTML elements with a style tag. This is called “inline” styling and is the best way to apply CSS to an HTML file being sent. This is what I mean by “explicit;” all styling cues are added to each element inidividually. To style two different paragraphs the same, the same style tag and CSS properties need to be added to both. Keep in mind, sometimes the body styles don’t carry over; stick to colors and minor “throw-away” styles in case this element is tossed out.
+Simple CSS is widely supported and can be used in all HTML elements with a style tag. This is called “inline” styling and is the best way to apply CSS to an HTML file being sent. This is what I mean by “explicit;” all styling cues are added to each element individually. To style two different paragraphs the same, the same style tag and CSS properties need to be added to both. Keep in mind, sometimes the body styles don’t carry over; stick to colors and minor “throw-away” styles in case this element is tossed out.
 
 Some sources recommend CSS shorthand to cut down on file size while others say that it should be written explicitly. Declarations like “margin: 0” are usually safe but it might be a good idea to spell out font declarations completely. This helps the design process down the line.
 
@@ -195,7 +192,7 @@ Yahoo notes
 
 - Keeps almost intact the complete original HTML sent and puts it directly in a div. So if you had any of these in the HTML, they will be found in the middle of the Yahoo! Mail HTML: DTD declaration, comments, html, head, title, style and body elements, etc. But, the DTD declaration won’t be taken in consideration by the browser since it’s in the middle of the page, same thing for the title element;
 - Will rename the body, meta and link tags xbody, xmeta and xlink, so they will be “disabled”. This means that no external stylesheet can be linked to the document through the link element.
-- Be careful with style elements; when replying or forwading this message, Yahoo! Mail will convert your style definition as plain text and your declarations will appear in the message.
+- Be careful with style elements; when replying or forwarding this message, Yahoo! Mail will convert your style definition as plain text and your declarations will appear in the message.
 - Does not block images by default
 
 Outlook notes

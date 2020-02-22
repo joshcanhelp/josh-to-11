@@ -1,12 +1,12 @@
 ---
 title: "Free Excel Invoice Template"
 layout: post
-excerpt: ""
+excerpt: "I just recently made an invoice for myself and thought I would share it with the world! It’s clean, simple, and easy to use."
 date: 2008-04-15 13:54:01
 modified: 2016-04-01 01:37:30
 permalink: free-excel-invoice-template/index.html
-tags: ["Document", "Excel", "Invoice", "Invoice Template", "Agency Process"]
-featured_img: 
+tags: ["Excel", "Freelancing", "Money"]
+featured_img: /_images/2008/04/excel_2007_logo.png
 wpid: 12
 ---
 
@@ -14,7 +14,7 @@ wpid: 12
 
 I just recently made an invoice for myself and thought I would share it with the world!
 
-[General invoice template (.XLS)](/_images/2008/04/invoice_template.xls)
+[General invoice template (.XLS)](/_files/invoice_template.xls)
 
 This took me about an hour to put together and I modeled it (slightly) after another template I found on-line (I didn’t like the format or the look). It’s clean, simple, and easy to use. Here are the steps on how to customize it a bit and use it for your business:
 

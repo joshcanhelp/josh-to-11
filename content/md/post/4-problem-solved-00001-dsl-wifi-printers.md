@@ -1,12 +1,12 @@
 ---
 title: "Problem Solved #00001 - DSL, Wifi, printers"
 layout: post
-excerpt: ""
+excerpt: "This customer called me to help him move his router, make sure wi-fi worked throughout the house, set up a printer with Vista (which was causing him problems), and possibly help him acquire a new desktop."
 date: 2008-04-09 09:20:51
 modified: 2016-04-01 03:48:57
 permalink: problem-solved-00001-dsl-wifi-printers/index.html
-tags: ["DSL", "Printers", "Wifi", "Hardware"]
-featured_img: 
+tags: ["WiFi", "Hardware", "Throwback"]
+featured_img: /_images/2008/04/2wire-1000hw.jpg
 wpid: 10
 ---
 
@@ -46,7 +46,7 @@ Yes, I was getting a little desperate.
 
 What I did next was exactly what I was supposed to do but, since I did not have the documentation, I did not do it correctly and went through another hour of mucking about trying to figure things out (I certainly did not charge for this hour).
 
-For any router you have connected to your system, you are able to access that piece of equipment in a similar way that you would a website. Just like a website, your router has an address – an IP address (I suggest Wikipedia for an <a hef="http://en.wikipedia.org/wiki/IP_address">in-depth explanation of an IP address</a>). You can type this address directly into your web browser and access your router’s software. What’s the problem? Finding the correct address. Here are the most common ones:
+For any router you have connected to your system, you are able to access that piece of equipment in a similar way that you would a website. Just like a website, your router has an address – an IP address (I suggest Wikipedia for an [in-depth explanation of an IP address](https://en.wikipedia.org/wiki/IP_address)). You can type this address directly into your web browser and access your router’s software. What’s the problem? Finding the correct address. Here are the most common ones:
 
 **2Wire address I needed but could not find:**  
 gateway.2wire.com (this isn’t an IP address as much as it is just a way to access the router)

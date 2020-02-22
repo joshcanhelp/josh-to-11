@@ -1,29 +1,24 @@
 ---
 title: "I learned something today"
 layout: post
-excerpt: ""
+excerpt: "Sometimes there is an easy way, sometimes there’s just an easIER way, and sometimes there’s just hard ways."
 date: 2008-09-09 20:00:37
 modified: 2016-10-20 16:44:21
 permalink: i-learned-something-today/index.html
-tags: ["Blog", "Ideas", "New Markets", "Podcasts", "Stay True", "Technology Marketing", "Tenacity", "Try", "Up Next", "Personal Development"]
-featured_img: 
+tags: ["Blogging", "Marketing", "Personal Development"]
+featured_img:
 wpid: 235
 ---
 
 # I learned something today
 
-Introduction
-------------
-
 There’s usually five hard ways to do something without any kind of guarantee of an available easy way. Sometimes there is an easy way, sometimes there’s just an easIER way, and sometimes there’s just hard ways. Realizing that some things just take hard work is an important step towards growing up (regardless of your numerical age) but it’s also the kind of thinking that can get you stuck. I’m a fan of hard work and, as such, sometimes I work a lot harder at something than I should. Case in point, the story I’m going to share with you.
 
-I’m new to all of this… how can this article help me?
------------------------------------------------------
+## I’m new to all of this… how can this article help me?
 
 Approaching your technology problems can be daunting – especially if you know only one way to do things and that way is a P.I.T.A. When it comes to computers and the internet, it’s important to always keep in mind that there are probably 5 pieces of software that you never knew existed that do exactly what you need, 5 pieces of hardware that could solve one nagging problem, and a 100 people out there who are better trained than you are and are chomping at the bit to help you out (that’s me). All you have to do is keep your eyes open, your mind working, and your homepage on Google and you’re a step ahead of the rest.
 
-Sometimes, there’s no need to swim uphill
------------------------------------------
+## Sometimes, there’s no need to swim uphill
 
 So I know a guy with a blog. I built the blog for this guy. Blood, sweat, tears, and love went into putting together this blog. Then, even more bodily fluids went into typing and editing his blog posts to post on his blog on a regular basis. In the meantime, exponentially more effort went into editing, designing, copyrighting, and publishing his book. I was paid for most of it but, because the project was close to me, many hours flew by sans compensation (willingly of course).
 
@@ -56,5 +51,3 @@ The way forward could be the one in your head, it could be the one in your frien
 In the end, if you don’t know exactly what you’re doing and there’s not a big risk in taking your time, maybe it’s better to explore as many options as possible and see which one fits the best. If it sucks and sucks and sucks and you’re not getting anything out of it, chances are that you’re not going to continue doing it indefinitely (and that’s a good thing). Save your tenacity for the IDEA itself, not the execution. If you know what you’ve got is gold and it’s not going anywhere then you’re probably barking up the wrong tree. If I decided it was my calling to make hip hop beats, a blog about it probably isn’t the best way to go (though it might be). If I wanted to make money off graffiti art, it’s not likely that handing out fliers at the hot club downtown would get me anywhere (though it might).
 
 There’s nothing wrong with trying something out… in fact, if you’re NOT trying out new things and exploring new markets, you’re definitely doing something wrong and probably selling yourself short. But you have to know when to bag it, when to try something else, when to stay true to your idea and just bark up a new tree. Staying true to yourself and staying true to your ideas means doing whatever is necessary. Plugging away over and over at something that isn’t going anywhere is doing a disservice to your talent and your product.
-
-If you need some help trying to find a new tree, [let me know. ](mailto:josh@joshcanhelp.com)

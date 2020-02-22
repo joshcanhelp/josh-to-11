@@ -1,12 +1,12 @@
 ---
 title: "Random design inspiration post #1 - Currency"
 layout: post
-excerpt: ""
+excerpt: "Pull a bill out and look at it really close. The detail is impressive and the layout is very interesting, particularly because it has a lot of limitations/requirements. "
 date: 2008-07-29 16:00:10
 modified: 2016-04-03 02:33:18
 permalink: random-design-inspiration-post-1-currency/index.html
-tags: ["Color", "Currency", "Design Layouts", "Money", "Pallet", "Design &amp; Creative Process"]
-featured_img: 
+tags: ["Design"]
+featured_img: /_images/2008/07/currency04_pallet-150x150.jpg
 wpid: 42
 ---
 
@@ -16,7 +16,7 @@ I’m always looking for a bit of inspiration, be it color schemes or layouts, a
 
 Pull a bill out of your wallet (if you have one) and look at it really close. The detail is impressive and the layout is very interesting, particularly because it has a lot of limitations/requirements. Currency is very ornate and acts as a representative of the country at large. Cash is like a language: it speaks volumes at home and is typically useless abroad.
 
-I found a few bills that I had been using as decoration and scanned them into my computer (fairly low resolution… is that still illegal?). I put the back and front together, then zoomed in and sampled colors that were representative of that bill. Those are the vertical brush strokes at the bottom. Then, I found a very contrasting color somewhere in the image and cut that across the middle. The result is interesting, to ay the least.
+I found a few bills that I had been using as decoration and scanned them into my computer (fairly low resolution… is that still illegal?). I put the back and front together, then zoomed in and sampled colors that were representative of that bill. Those are the vertical brush strokes at the bottom. Then, I found a very contrasting color somewhere in the image and cut that across the middle. The result is interesting, to say the least.
 
 ![Indian Rupee as a design experiment](/_images/2008/07/currency01_pallet1.jpg "currency01_pallet1")
 

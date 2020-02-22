@@ -1,12 +1,12 @@
 ---
 title: "Josh Can Help updates..."
 layout: post
-excerpt: ""
+excerpt: "I meant to use this blog as a place to update information about my business and maybe some relevant personal stuff but I’m so boring that all I write about is work and coding!"
 date: 2008-08-23 00:55:33
 modified: 2016-10-20 16:44:21
 permalink: josh-can-help-updates/index.html
-tags: ["Updates", "About JoshCanHelp", "Design &amp; Creative Process"]
-featured_img: 
+tags: ["About JoshCanHelp", "Design"]
+featured_img:
 wpid: 203
 ---
 

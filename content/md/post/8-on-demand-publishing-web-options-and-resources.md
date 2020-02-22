@@ -5,14 +5,16 @@ excerpt: "I'm looking into a low-cost method for getting a book published and av
 date: 2008-04-27 04:57:01
 modified: 2016-04-01 03:49:49
 permalink: on-demand-publishing-web-options-and-resources/index.html
-tags: ["Iuniverse", "Lulu", "On-demand Publishing", "Publish", "Self-publishing", "Design &amp; Creative Process", "Personal Development", "Web Strategy", "Writing For The Web"]
-featured_img: 
+tags: ["Self-publishing", "Writing"]
+featured_img:
 wpid: 17
 ---
 
 # On-Demand Publishing Web Options and Resources
 
-![Falling books](/_images/2008/04/books.jpg)I’m looking into a low-cost method for getting a book published and available on-line so I thought I would share what I found while combing through the web.
+![Falling books](/_images/2008/04/books.jpg)
+
+I’m looking into a low-cost method for getting a book published and available on-line so I thought I would share what I found while combing through the web.
 
 Here’s what I’m looking for:
 
@@ -21,7 +23,7 @@ Here’s what I’m looking for:
 - Is a true publication with an ISBN
 - Is easy to set-up (though I’ll work with something that handles all of the above well)
 
-The [](#other)list of links at the bottom of this page (along with Google) helped me come up with a list of potentials. The first step I took to pare down the fairly daunting list was to cut out anything that cost more than $600 (even that was a bit high, to be honest). [I’m a bootstrapper](/blog/about) and so is my client for the time being. This particular book just needs to be out there and available.
+The [](#other) list of links at the bottom of this page (along with Google) helped me come up with a list of potentials. The first step I took to pare down the fairly daunting list was to cut out anything that cost more than $600 (even that was a bit high, to be honest). I’m a bootstrapper and so is my client for the time being. This particular book just needs to be out there and available.
 
 After trimming a bit and searching, I narrowed it down to the following:
 
@@ -52,7 +54,7 @@ It looks like they have what I need but there are more questions to be answered.
 - You can choose a “published by you” option for $100 that lists you as the publisher, gives you an ISBN, distributes bibliographic information, retail price conversion, listing on a wholesale catalog (meaning that you can be distributed on Amazon, etc). Reading a little further into how you make money, “published by you” income is not considered a royalty so no taxes are withheld and it is not reported to the IRS (by Lulu).
 - You can also choose a “published by Lulu” option for, again, $100. The difference is the publisher name for the book, ISBN ownership (they own it), and distribution (they feed their data to a “global marketplace,” whatever that means). If you choose the published by Lulu option, the money you make meets the definition of royalties and is subject to tax withholdings.
 - They do offer to list ebooks (downloadable copies) and they won’t charge you anything besides their 25% commission.
-- How you are paid is quite confusing. You can get it through Paypal ([boo](http://paypalsucks.com)) or check and you receive your payment quarterly.
+- How you are paid is quite confusing. You can get it through PayPal ([boo](http://paypalsucks.com)) or check and you receive your payment quarterly.
 - They let you send thank-you notes to your buyers (aww).
 
 I like Lulu… a lot. Before I make a choice, however, I want to check out a few others.

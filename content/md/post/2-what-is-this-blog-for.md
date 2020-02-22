@@ -1,12 +1,12 @@
 ---
 title: "What is this blog for?"
 layout: post
-excerpt: ""
+excerpt: "This blog is the story of Josh Can Help (dot com) ... how it came about, how it came together, and how it’s going."
 date: 2008-03-24 17:36:55
 modified: 2016-03-30 18:30:19
 permalink: what-is-this-blog-for/index.html
-tags: ["JCH_blog", "The_beginning", "About JoshCanHelp"]
-featured_img: 
+tags: ["About JoshCanHelp", "Blogging"]
+featured_img: /_images/default-img-size-medium.png
 wpid: 3094
 ---
 
@@ -56,4 +56,4 @@ Don’t you doubt it, there will be news for sure. Anything and everything worth
 
 **. . .**
 
-The tale of JoshCanHelp (dot com) starts from the very beginning… the very, very beginning. You’ve read my intentions and you’ve now heard about my blog. Next up… how did it all begin?
+The tale of JoshCanHelp (dot com) starts from the very beginning ... the very, very beginning. You’ve read my intentions and you’ve now heard about my blog. Next up… how did it all begin?

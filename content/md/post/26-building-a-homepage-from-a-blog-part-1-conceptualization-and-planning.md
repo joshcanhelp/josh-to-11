@@ -1,12 +1,12 @@
 ---
 title: "Building a homepage from a blog: Part 1: Conceptualization and Planning"
 layout: post
-excerpt: ""
+excerpt: "When I’m complete, joshcanhelp.com will point to a home page on this blog, directing people to information about me and what I do."
 date: 2008-08-07 17:00:20
 modified: 2016-04-03 02:33:18
 permalink: building-a-homepage-from-a-blog-part-1-conceptualization-and-planning/index.html
-tags: ["About JoshCanHelp", "Web Strategy"]
-featured_img: 
+tags: ["About JoshCanHelp", "Design"]
+featured_img: /_images/2008/08/website_design1-150x150.jpg
 wpid: 63
 ---
 
@@ -26,8 +26,7 @@ To get through this long process without driving myself crazy, I’m going to us
 
 So, what does Matt recommend as step 1? A three-stage design process to wring out all of those great ideas out and onto the table. And, with that, we begin…
 
-Step 1: Design (stage 1: The Flow)
-----------------------------------
+## Step 1: Design (stage 1: The Flow)
 
 I’ve worked almost exclusively with non-designers on the web, email, and print projects I’ve been involved with and this step is always conspicuously missing. Don’t get me wrong, I’m definitely part of the problem, but two people on a mission without a concrete plan or idea of what they’re trying to communicate is a recipe for disaster.
 

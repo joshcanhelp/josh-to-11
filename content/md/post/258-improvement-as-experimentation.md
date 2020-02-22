@@ -5,7 +5,7 @@ excerpt: "I've gone through many transformations in my life.  I have been lucky 
 date: 2019-06-11 18:23:53
 modified: 2020-01-20 01:33:39
 permalink: improvement-as-experimentation/index.html
-tags: ["Everything Else", "Exercise", "FFK Pride", "Fitness Data", "Best Of"]
+tags: ["Personal Development", "Exercise", "Best Of"]
 featured_img: /_images/2019/06/IMG_1438-150x150.jpg
 wpid: 4837
 ---

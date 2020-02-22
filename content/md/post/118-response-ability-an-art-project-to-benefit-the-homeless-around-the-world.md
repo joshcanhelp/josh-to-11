@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-01-05 07:22:55
 modified: 2016-03-30 18:30:18
 permalink: response-ability-an-art-project-to-benefit-the-homeless-around-the-world/index.html
-tags: ["Art Project", "Graffiti", "Homeless", "Pose2", "Response Ability", "About JoshCanHelp", "Design &amp; Creative Process"]
+tags: ["Art Project", "Graffiti", "Homeless", "Pose2", "Response Ability", "About JoshCanHelp", "Design"]
 featured_img: 
 wpid: 1344
 ---

@@ -1,23 +1,22 @@
 ---
 title: "Did your website or blog just crash suddenly? You might have a problem with your permissions..."
 layout: post
-excerpt: ""
+excerpt: "Just recently, all the pages hosted on my account began to fall apart. I was getting 403 errors, missing graphics and styles, and pieces of code appearing randomly. It looked about as bad as it could get."
 date: 2008-08-11 16:00:39
 modified: 2016-04-03 02:33:18
 permalink: did-your-website-or-blog-just-crash-suddenly-you-might-have-a-problem-with-your-permissions/index.html
-tags: ["File Permissions", "Development"]
-featured_img: 
+tags: ["Hosting"]
+featured_img:
 wpid: 173
 ---
 
 # Did your website or blog just crash suddenly? You might have a problem with your permissions...
 
-So I’m still mad at my web hosting company… really mad. Just recently, all the pages hosted on my account began to fall apart. I was getting 403 errors, missing graphics and styles, and pieces of code appearing randomly. It looked about as bad as it could get and I was at a total loss about what to do with it.
+So I’m still mad at my web hosting company. Really mad. Just recently, all the pages hosted on my account began to fall apart. I was getting 403 errors, missing graphics and styles, and pieces of code appearing randomly. It looked about as bad as it could get and I was at a total loss about what to do with it.
 
 Without going too far into detail, my hosting company was of absolutely no help to me whatsoever despite, in the end, this being a problem on their end (as far as I can tell). Long story short, my [.htaccess file](http://httpd.apache.org/docs/1.3/howto/htaccess.html) got messed up somehow and all the permissions on my folders and files were changed. Are you lost yet? I was too before some major Google research.
 
-What are hosted file permissions/attributes?
---------------------------------------------
+## What are hosted file permissions/attributes?
 
 Each of your files and folders have a code attached to them to tell the server who gets to see them, write to them, and execute them. There are basically nine “yes or no” checkboxes that can be checked for each pile or folder on your webhost. Here is the permissions screen from [Filezilla](http://filezilla-project.org/):
 
@@ -28,8 +27,7 @@ For your webpage to be functioning properly (I learned), the public permissions 
 
 One night, this mystical .htaccess file in my root public directory (the main one) became ill, I guess, and vomited incorrect permissions arbitrarily over my site. The consequences of this were random files unable to be seen from the outside and, hence, broken websites. Files that described how the site looked (CSS files) and images became inaccessible, as did all of the files that make a blog do all the fun things it does. In the end, I went through each site manually and changed the permissions to the numerical value of “755,” the magical number (allows everything except write permissions for Group and Public).
 
-How can you tell if this happens to you?
-----------------------------------------
+## How can you tell if this happens to you?
 
 Here’s what I was seeing…
 
@@ -45,8 +43,7 @@ You can see your text and HTML formatting (order of text, heading formatting) bu
 
 If you’re just getting an “Internal Server Error,” it might be indicative of a different problem but, combined with no styles and/or 403 errors all over, you’re seeing exactly what I was seeing and it’s time to take action
 
-Crap, I’m seeing all these signs… what next?
---------------------------------------------
+## Crap, I’m seeing all these signs… what next?
 
 First and foremost, contact your host and get a trouble ticket started. If you have a responsive host, they can change the .htaccess back to what it was and hopefully correct the problem. If they are not responding or don’t know what to do (which is ridiculous, let me just say that) then you’ll need to get in there yourself. Can you FTP into your files on the host? If you don’t manage your own site, contact your webmaster and tell them you might be having permissions issues with your site. If you do, then get to work…
 

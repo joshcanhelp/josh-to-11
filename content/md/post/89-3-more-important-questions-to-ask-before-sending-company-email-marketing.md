@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-06-04 21:42:03
 modified: 2016-10-20 16:44:18
 permalink: 3-more-important-questions-to-ask-before-sending-company-email-marketing/index.html
-tags: ["Email", "Email Marketing", "HTML Email", "Email"]
+tags: ["Email", "Email", "Email", "Email"]
 featured_img: 
 wpid: 796
 ---

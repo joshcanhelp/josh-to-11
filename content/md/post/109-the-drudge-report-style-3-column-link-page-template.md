@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-10-11 22:10:33
 modified: 2019-01-08 00:18:32
 permalink: the-drudge-report-style-3-column-link-page-template/index.html
-tags: ["Drudge Report", "Drudge Report Template", "Drudge Report Website", "Drudge-style Page", "Drudgereport Template", "Free Template", "Google Docs", "Site Template", "Website Template", "Design &amp; Creative Process", "Development"]
+tags: ["Drudge Report", "Drudge Report Template", "Drudge Report Website", "Drudge-style Page", "Drudgereport Template", "Free Template", "Google Docs", "Site Template", "Website Template", "Design", "Development"]
 featured_img: 
 wpid: 1161
 ---

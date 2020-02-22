@@ -1,12 +1,12 @@
 ---
 title: "How to Tame Your Technology in Four Easy Steps"
 layout: post
-excerpt: ""
+excerpt: "I alway take a second look at what I do and what I own (or want to own) to make sure I don’t fly off the deep end and create more work/stress for myself. Here’s what I do to keep it all together."
 date: 2008-06-14 07:47:06
 modified: 2016-03-30 18:52:49
 permalink: how-to-tame-your-technology-in-four-easy-steps/index.html
-tags: ["Save Money", "Taming Your Technology", "Theory", "Hardware"]
-featured_img: 
+tags: ["Hardware"]
+featured_img:
 wpid: 30
 ---
 

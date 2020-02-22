@@ -5,8 +5,8 @@ excerpt: ""
 date: 2016-11-21 17:51:41
 modified: 2016-11-22 17:52:27
 permalink: quit-social-media/index.html
-tags: ["Personal Development"]
-featured_img: 
+tags: ["Personal Development", "Social Media"]
+featured_img:
 wpid: 4685
 link_to: "http://www.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html?_r=0"
 citation: "Cal Newport"

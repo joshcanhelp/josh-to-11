@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-10-22 16:00:28
 modified: 2016-10-20 16:44:20
 permalink: pose2-speaks-about-graffiti-art-his-process-and-his-future/index.html
-tags: ["Graffiti", "Pose2", "Video", "Vimeo", "Design &amp; Creative Process"]
+tags: ["Graffiti", "Pose2", "Video", "Vimeo", "Design"]
 featured_img: 
 wpid: 359
 ---

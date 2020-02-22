@@ -5,8 +5,8 @@ excerpt: ""
 date: 2008-06-13 10:09:35
 modified: 2016-04-01 03:52:16
 permalink: why-i-freelance-a-picture-story/index.html
-tags: ["Freelance Story", "Funny", "Personal Development"]
-featured_img: 
+tags: ["Throwback", "Freelancing"]
+featured_img:
 wpid: 28
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: "New business card design"
 layout: post
-excerpt: ""
+excerpt: "Layer-by-layer, inch-by-inch. The message is more effective as a snowball, building momentum and speed and power and influence over time, than as one massive onslaught. A better presence is made by just that: presence."
 date: 2008-04-12 15:08:25
 modified: 2016-04-01 01:18:42
 permalink: new-business-card-design/index.html
-tags: ["Business Card", "Design Layouts", "Technology Marketing", "About JoshCanHelp", "Design &amp; Creative Process"]
-featured_img: 
+tags: ["Business Cards", "Design", "Marketing", "About JoshCanHelp"]
+featured_img: /_images/2008/04/biz_card_v2_245x245.jpg
 wpid: 11
 ---
 
@@ -18,7 +18,7 @@ Sharing the front face of my next business card:
 
 For anyone following, this is my second iteration and definitely the one most closely related to what I’m actually doing.
 
-The last business card I had made was mostly a product of me being completely enthralled with cartoonist and blogger extraordinaire, Hugh MacLeod of [gapingvoid](http://gapingvoid.com) fame. I found his cartoons a few years ago and really enjoyed their honesty. Hugh made the great move of making his cartoons available as business cards through a site called [StreetCards.com](http://www.streetcards.com). Through a link on his site, you logged into StreetCards, picked an appropriate (or inappropriate) card, added your information, gave them the 16 digits, and waited for a shipment from the UK. I had nothing to promote besides my blog (a different one than this which didn’t even have ads on it at the time) but I felt like I needed an easy way to network and meet people.
+The last business card I had made was mostly a product of me being completely enthralled with cartoonist and blogger extraordinaire, Hugh MacLeod of [gapingvoid](https://www.gapingvoid.com/) fame. I found his cartoons a few years ago and really enjoyed their honesty. Hugh made the great move of making his cartoons available as business cards through a site called StreetCards.com. Through a link on his site, you logged into StreetCards, picked an appropriate (or inappropriate) card, added your information, gave them the 16 digits, and waited for a shipment from the UK. I had nothing to promote besides my blog (a different one than this which didn’t even have ads on it at the time) but I felt like I needed an easy way to network and meet people.
 
 Well, now it’s April 2008 and I need business cards… for a good reason. I wouldn’t say this whole JoshCanHelp thing is blowing up per say but I definitely have found myself in a couple situations where having a small piece of card stock would be handy. Designing a card has been on my to-do list for a few months but I always had it in my mind that I would learn the digital layout software Quark first and then submit a design to a local printer. Not only is the Quark thing on hold for the moment (I’m trying to pick an enormous, expensive software program to use and Quark isn’t winning) but I could definitely benefit from having something, ANYTHING, right now. So I drew up a few designs, settled the one I liked, set my free, simple drawing program to high resolution, and went to work.
 

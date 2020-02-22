@@ -1,12 +1,12 @@
 ---
 title: "6 steps to easy typography in any document"
 layout: post
-excerpt: ""
+excerpt: "This small primer serves as either an introduction to typography or all the information you’ll ever need to know as a non-designer."
 date: 2008-07-23 15:00:12
 modified: 2016-04-03 02:33:18
 permalink: 6-steps-to-easy-typography-in-any-document/index.html
-tags: ["Design Layouts", "Design Typography", "Documents", "Fonts", "Style", "Typing", "Design &amp; Creative Process"]
-featured_img: 
+tags: ["Design", "Typography", "Fonts"]
+featured_img:
 wpid: 40
 ---
 
@@ -18,8 +18,7 @@ This guide is for anyone and everyone who knows little about fonts, typefaces, a
 
 I’m going to start this guide off with a warning: don’t dig too deep. Take what I say in this guide at face value and proceed no further. The art of typography is a complete mystery until you take that first step, read that first blog post, and fall deep into an obsessive-compulsive well. Before long, you’ll be second-guessing everything you thought was true and wondering if maybe, just maybe, you could try your hand at designing a typeface. Trust me on this one; take the relatively minute but very useful information that I’m giving you and leave it at that. You’ve been warned.
 
-Who cares about typography?
----------------------------
+## Who cares about typography?
 
 The only people, ultimately, who care about the typography you present are the readers that are subjected to your work. I realized this after receiving a TERRIBLY designed assignment in class and wondered what that woman was thinking. I have seen the gamut of documents over the years and it’s more often than not that someone goes outside of the “safe zone” of Arial and Times and pulls it off well.
 
@@ -29,8 +28,7 @@ Am I implying that there is no hope for the design challenged? Not in the slight
 
 We’ll walk through the (very) basic vocabulary of type and show you a few ways to add some personality to your documents without going overboard. I’ll show you some simple ways to make that PowerPoint presentation shine without losing control. I’ll also show you a few places where I get my fonts and a great link for taking that next step.
 
-Step 1 – Write your document
-----------------------------
+## Step 1 – Write your document
 
 There are people who write, there are people who design and then there are people who do both. If you are on one side of the fence or the other, you have somewhat of an advantage. By focusing on just one aspect of document creation and functionally ignoring the other, you can put all of your energy into that one task and really make it shine. If you do both, however, you might feel pulled in two directions at once and end up stuck and frustrated. It’s an ancient battle: content versus design.
 
@@ -48,8 +46,7 @@ You might wonder why I called Word a design program. Word is there to make your 
 
 Write first, design later. Your final product will reflect your focus segregation.
 
-Step 2 – Add to your design program and choose an outline format
-----------------------------------------------------------------
+## Step 2 – Add to your design program and choose an outline format
 
 Once all of your text is written down and edited as best you can in whatever program you’re using, now it’s time to place it in the program you will use to modify the design of the document. Notepad or any other text program that does not format your content is great for this step because you won’t be adding text embellishments to baseline formatting. When you copy from Word back into another Word document, there are two sets of formatting that the program can use. When you copy from notepad, there is only one.
 
@@ -61,8 +58,7 @@ The first thing to do now that your text has been added is to take the notes reg
 
 If you’re writing a document for a website or a blog, the end product will not be a “Word document” or a “PowerPoint presentation.” Whether you write your websites directly in text or you use a different program like Dreamweaver or Nvu, I still recommend formatting your document in a word processing program. You want your final product to look polished and it is much easier to quickly edit the style in a word processor than it is in HTML. Write your doc, format and style it in a different program, then add the unformatted text to your web design program and make the appropriate changes there. It is a few extra steps but your document will look better and, in the end, you will save time. Oh, and the spell check is pretty handy too.
 
-Step 3 – Choose and add section styles and list elements.
----------------------------------------------------------
+## Step 3 – Choose and add section styles and list elements.
 
 For this step, you’re just going to concentrate only on the headers of the document (the titles for your PowerPoint slides or the names of the different sections for your how-to guide, for example). Change the whole document to a basic font (I recommend Arial) and make sure your headings are separated from the rest of your text (meaning a line/break in between them so you can differentiate it visually). Also, make sure that the page dimensions you are working with match the final product. Set the margins of your document to give you the correct width of your final product (this is more important for web documents where there may be width constraints on the page).
 
@@ -84,8 +80,7 @@ After headings, play around with numbered or bulleted lists if you have any. My 
 
 At this point, your document should look almost completely presentable, if potentially boring (remember: boring looks for a document is not always a bad thing). Next, we’re going to chose a font and line spacing. Yay!
 
-Step 4 – Pick a font and line spacing
--------------------------------------
+## Step 4 – Pick a font and line spacing
 
 Ok, here’s the tricky part, picking a font that works. Here are the basic rules:
 
@@ -133,8 +128,7 @@ If you can’t find the perfect font to fit the tone you’re trying for and you
 
 Once you settle on a particular font for your document, work with your line spacing. Documents are much easier to read and look more appealing when they are spaced somewhere between 1.2 and 1.8 times the size of the font. This can be done with your word processing program (typically you’ll find the option by itself as “line spacing” or under the “Paragraph” formatting option). Try 1.2 and 1.5 and see what you think. Your document will span an extra page or two but the presentation will be much better.
 
-Added: Step 5 – Watch your alignment
-------------------------------------
+## Added: Step 5 – Watch your alignment
 
 Here is something I picked up from reading a great, very simple book about design, Robin William’s (no, not that one) [The Non-Designer’s Design &amp; Type Books](http://www.amazon.com/Non-Designers-Design-Type-Books-Deluxe/dp/0321534050/).This is a great start for anyone without design experience that either want to get their feet wet in what design means or want nothing to do with design but want their documents/webpages/anything printed to look better.
 
@@ -146,8 +140,7 @@ This is easy in Word because it formats the text and, for the most part (ahem) k
 
 ![Good alignment versus bad alignment](/_images/2008/07/good_bad_align.jpg)
 
-Step 6 – Try something new
---------------------------
+## Step 6 – Try something new
 
 So your document is basically finished! It sounds great, it looks great, it’s the whole enchilada. Now save it. Save it again. OK, now let’s try something fun.
 
@@ -161,7 +154,6 @@ Most often, the times when I found something that worked really well in a docume
 
 Another technique is to just leave it alone for a day. Try something new, save it as a different file name, then come back to it the next day. You may like it more, less or not at all. You also might come up with another little tweak to go along with your first one that really ties things together. Give it time, let it marinate, and you may just end up with something you can be really excited about.
 
-Step 7 – Follow the rules
--------------------------
+## Step 7 – Follow the rules
 
 For the detail-orientated, I’ll direct you to a great list of typography rules to follow. There are quite a few of them but if you want that professional look, you would be wise to glance through and make sure you’re not including some glaring errors. The list was be found [here](http://desktoppub.about.com/od/typerules/Typography_Rules_Typesetting_Guidelines.htm), at About.com.

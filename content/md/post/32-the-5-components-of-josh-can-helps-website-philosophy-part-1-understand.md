@@ -1,21 +1,18 @@
 ---
 title: "One component of Josh Can Help's website philosophy - Understanding"
 layout: post
-excerpt: ""
+excerpt: "One of the most challenging and interesting parts of what I do is bridging the gap between potentially confusing technology and people who are far removed from how it works."
 date: 2008-08-28 17:09:59
 modified: 2016-10-20 16:44:21
 permalink: the-5-components-of-josh-can-helps-website-philosophy-part-1-understand/index.html
-tags: ["Compromise", "Design Layouts", "Designer", "Philosophy", "Time", "Trust", "Understanding", "Web Sites", "Design &amp; Creative Process", "Personal Development"]
-featured_img: 
+tags: ["Design", "Personal Development"]
+featured_img:
 wpid: 210
 ---
 
 # One component of Josh Can Help's website philosophy - Understanding
 
-Introduction
-------------
-
-One of the most challenging and interesting parts of what I do is bridging the gap between potentially confusing technology and people who are far removed from how it works. I think people intentionally avoid this massive gray area because of lack of patience, lack of interest, or inability (or no desire) to communicate properly. It can difficult to explain concepts like table-free design, search engine optimization, and digitizing art for print to people without the necessary experience. Despite that, it’s necessary for people who are promoting themselves or their business to understand these concepts on a basic level and realize how they can expland their work into new, expanding markets.
+One of the most challenging and interesting parts of what I do is bridging the gap between potentially confusing technology and people who are far removed from how it works. I think people intentionally avoid this massive gray area because of lack of patience, lack of interest, or inability (or no desire) to communicate properly. It can difficult to explain concepts like table-free design, search engine optimization, and digitizing art for print to people without the necessary experience. Despite that, it’s necessary for people who are promoting themselves or their business to understand these concepts on a basic level and realize how they can expand their work into new, expanding markets.
 
 I’ve taught billing systems and wireless networking to customer service representatives, math and science to family members and classmates, and blogs and social networking to colleagues and clients. What I’ve found to be the hardest concept to get across to people is the proper way to design and implement a website. I’m not exaggerating; explaining standards-based, table-free, search-optimized design to people without any experience can be a painful process to all parties involved. Clients want to understand what they are paying for – explicitly – and the only way to make this happen is to explain why I do what I do and why they want me to keep doing it that way.
 
@@ -36,7 +33,7 @@ Understand: Web design is it’s own discipline with it’s own subsets.
 I have always known this but it took [an article at A List Apart](http://www.alistapart.com/articles/understandingwebdesign), one of the most reputable voices in web design, standards, and usability, to really solidify this in my head. To quote the article (to avoid unnecessary paraphrasing):
 
 > Web design is not book design, it is not poster design, it is not illustration, and the highest achievements of those disciplines are not what web design aims for. Although websites can be delivery systems for games and videos, and although those delivery systems can be lovely to look at, such sites are exemplars of game design and video storytelling, not of web design. So what is web design?
-> 
+>
 > Web design is the creation of digital environments that facilitate and encourage human activity; reflect or adapt to individual voices and content; and change gracefully over time while always retaining their identity.
 
 At the risk of flinging this topic from comprehensible to hopelessly high-concept, it is important to address the implicit abilities and obstacles of this very interesting medium.

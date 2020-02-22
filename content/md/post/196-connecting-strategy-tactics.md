@@ -5,7 +5,7 @@ excerpt: ""
 date: 2014-04-29 21:45:13
 modified: 2016-10-20 16:44:00
 permalink: connecting-strategy-tactics/index.html
-tags: ["Crazy Ideas", "Design &amp; Creative Process", "Personal Development"]
+tags: ["Crazy Ideas", "Design", "Personal Development"]
 featured_img: /_images/2014/03/strategy_process-150x150.jpg
 wpid: 3505
 ---

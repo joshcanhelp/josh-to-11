@@ -5,8 +5,8 @@ excerpt: ""
 date: 2008-12-11 18:00:56
 modified: 2016-10-20 16:44:19
 permalink: review-for-the-youngentrepreneur-blog/index.html
-tags: ["Blog", "Blog Review", "YEB", "Young Entrepreneur", "Everything Else"]
-featured_img: 
+tags: ["Blogging"]
+featured_img:
 wpid: 467
 ---
 
@@ -14,8 +14,7 @@ wpid: 467
 
 The folks over at Young Entrepreneur’s blog (YEB)have been kind enough to review the structure of my blog in exchange for a review and link to their blog. Happy to oblige!This is a blog I subscribe to and read on a regular basis because of their solid content.
 
-Why I read this blog
---------------------
+## Why I read this blog
 
 I started reading YEB because I am young (ish?) and an entrepreneur, for the most part. I figured, hey, this thing must be written for me.
 

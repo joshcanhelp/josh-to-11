@@ -1,12 +1,12 @@
 ---
 title: "Please, resize your pics, for the love of everything that's good!"
 layout: post
-excerpt: ""
+excerpt: "This post goes out to the habitual offenders and for those who do it and do it right but want others to do the same."
 date: 2008-05-15 12:08:32
 modified: 2016-04-01 04:03:11
 permalink: please-resize-your-pics-for-the-love-of-everything-thats-good/index.html
-tags: ["Digital Pictures", "Image Size", "Images", "Reduce Size", "Resize Pictures", "Design &amp; Creative Process", "Writing For The Web"]
-featured_img: 
+tags: []
+featured_img: /_images/2008/05/flower_400x300-150x150.jpg
 wpid: 23
 ---
 

@@ -1,21 +1,18 @@
 ---
 title: "How to send HTML emails for free using Mozilla Thunderbird"
 layout: post
-excerpt: ""
+excerpt: "This is just a quick tip for anyone out there that wants to send a few HTML emails from their desktop and don’t have access to an HTML sending service like MailChimp or something similar."
 date: 2008-09-16 18:00:41
 modified: 2016-10-20 16:44:20
 permalink: how-to-send-html-emails-for-free-using-mozilla-thunderbird/index.html
-tags: ["Emails", "HTML Email", "Insert HTML", "Mozilla", "Thunderbird", "Development"]
-featured_img: 
+tags: ["Email"]
+featured_img: /_images/2008/09/thunderbird_logo.jpg
 wpid: 254
 ---
 
 # How to send HTML emails for free using Mozilla Thunderbird
 
-Introduction
-------------
-
-![](/_images/2008/09/thunderbird_logo.jpg "Mozilla Thunderbird logo")This is just a quick tip for anyone out there that wants to send a few HTML emails from their desktop and don’t have access to an HTML sending service like MailChimp or something similar. The program is called [Thunderbird ](http://www.mozilla.com/en-US/thunderbird/)and it’s made by the same wonderful folks who put together the first-class web browser, [Firefox](http://www.mozilla.com/en-US/firefox/) (you are using Firefox, right?). This is not a great option for mailing hundreds of emails out because I’m sure your email host will not be too happy about it. If, however, you want to send out, say, 50 email invites to friends or a tight customer list, this might work for you.
+This is just a quick tip for anyone out there that wants to send a few HTML emails from their desktop and don’t have access to an HTML sending service like MailChimp or something similar. The program is called [Thunderbird](http://www.mozilla.com/en-US/thunderbird/) and it’s made by the same wonderful folks who put together the first-class web browser, [Firefox](http://www.mozilla.com/en-US/firefox/) (you are using Firefox, right?). This is not a great option for mailing hundreds of emails out because I’m sure your email host will not be too happy about it. If, however, you want to send out, say, 50 email invites to friends or a tight customer list, this might work for you.
 
 I’m new to this… how will this help?
 ------------------------------------
@@ -73,5 +70,3 @@ Remember:
 
 - Make sure that code is well-formed, images are small, and your reason for sending HTML is benevolent. [See my HTML email guide, please!](/html-emails-the-last-word-until-everything-changes-again/)
 - Using this method, keep your recipient list SHORT. This is NOT a good way to push emails to a bunch of people. Start getting a lot of bounces (invalid or rejected addresses) or spam clicks and you could get banned from your SMTP.
-
-Want to get the most out of HTML emails for you or your company? [Contact me](mailto:josh@joshcanhelp.com) and I’ll be glad to help!

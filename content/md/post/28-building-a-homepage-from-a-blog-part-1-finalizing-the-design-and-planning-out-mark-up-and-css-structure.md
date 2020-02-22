@@ -1,19 +1,16 @@
 ---
 title: "Building a homepage from a blog: Part 2: Finalizing the design and planning out mark-up and CSS structure."
 layout: post
-excerpt: ""
+excerpt: "After weeks of stressing out in Illustrator, I finally decided on a design I like."
 date: 2008-08-15 18:21:35
 modified: 2016-04-03 02:33:18
 permalink: building-a-homepage-from-a-blog-part-1-finalizing-the-design-and-planning-out-mark-up-and-css-structure/index.html
-tags: ["Balance", "Contrast", "Design Layouts", "Designing A Web Site", "Emphasis", "Rhythm", "Unity", "About JoshCanHelp", "Design &amp; Creative Process", "Web Strategy"]
-featured_img: 
+tags: ["Design", "Blogging", "About JoshCanHelp"]
+featured_img: /_images/2008/08/website_design_06_sm-300x300.jpg
 wpid: 187
 ---
 
-# Building a homepage from a blog: Part 2: Finalizing the design and planning out mark-up and CSS structure.
-
-Introduction
-------------
+# Building a homepage from a blog Part 2: Design, Markup, and CSS.
 
 [Last time we left off](/building-a-homepage-from-a-blog-part-1-conceptualization-and-planning/), I had put together a structure of what I wanted my website to display and what it might look like. After about weeks of stressing out in Illustrator, I finally decided on a design I like.
 
@@ -21,8 +18,7 @@ Introduction
 
 A now-defunct article, mentioned in the previous post, speaks to a high quality design and says that the following elements should be present for a design to be considered “high-quality:” balance, unity, emphasis, contrast, and rhythm.
 
-I’m new to all of this… how can this article help me?
------------------------------------------------------
+## I’m new to all of this… how can this article help me?
 
 Welcome to the new format of all of my blog posts (news items and quick ones not included). I’m worried that I might be struggling in a vacant gray area between the “knows” and the “know nots.” This blog is specifically for people who are just starting to explore what technology can do for them and their business. As such, I want to position everything that I write to face towards the novice, not the expert. I feel like a perpetual novice, always learning, and when I share that knowledge, I feel like I know it better in the end.
 

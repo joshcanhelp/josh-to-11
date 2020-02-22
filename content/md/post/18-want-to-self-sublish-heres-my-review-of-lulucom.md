@@ -1,23 +1,22 @@
 ---
 title: "Want to self-publish? Here's my review of Lulu.com"
 layout: post
-excerpt: ""
+excerpt: "I liked Lulu the best from my research and chose them to publish my client’s book. Here are my impressions about the whole writing, publishing, and uploading experience."
 date: 2008-07-14 16:00:27
 modified: 2019-01-08 00:16:52
 permalink: want-to-self-sublish-heres-my-review-of-lulucom/index.html
-tags: ["Book", "Lulu", "Lulu.com", "Self-publish", "Writing", "Design &amp; Creative Process"]
-featured_img: 
+tags: ["Self-publishing", "Writing"]
+featured_img: /_images/2008/07/lulu_rev_07_sm-150x150.jpg
 wpid: 38
 ---
 
 # Want to self-publish? Here's my review of Lulu.com
 
+> **Please Note:** This post was published in 2008 so the information here is quite out-of-date. I have not used Lulu in a very long time so I cannot, currently, vouch for their quality or service.
+
 [I posted a while back with my armchair analysis](/on-demand-publishing-web-options-and-resources/) (no experience) of a few of the many self-publishing outfits available. I liked Lulu the best from my initial look and, as such, went with them to publish my client’s book. Here are my impressions about the whole writing, publishing, and uploading experience.
 
-![](http://static.lulu.com/images/persuasion/lulu-logo.gif)
-
-Why Lulu?
----------
+## Why Lulu?
 
 My review post tells a bit more about why I picked this route but, to sum it all up:
 
@@ -27,8 +26,7 @@ My review post tells a bit more about why I picked this route but, to sum it all
 
 There is something to be said about a company that just puts it all out there. Between all of their FAQs and their user community, it seemed hard to go wrong with them. The most important, however, was the price. My client didn’t have any intention of building a marketing campaign behind his book besides what he could conjure up himself. Consequently, extra services, add-ons, and packages were simply of no interest. Lulu is bare-bones: you get an ISBN and you get listed everywhere important. That’s all we wanted and, for $100, that’s what we got.
 
-How does it work?
------------------
+## How does it work?
 
 [Lulu lists out all the steps in their help section](http://connect.lulu.com/t5/ISBN-Distribution/Publishing-for-Distribution-Print-Books/ta-p/33617) and it really didn’t stray from that (so far).
 
@@ -51,8 +49,7 @@ How does it work?
 9. Online booksellers like Amazon decide whether or not they would like to list the book. (In our experience, they almost always list it.  
   Once a month, online booksellers update their databases with new books. When they update (if the booksellers choose to list your book), you will see the book listed as “currently available.” This can take 6-8 weeks.
 
-How did it go?
---------------
+## How did it go?
 
 **Step 1: “Purchase Published by Lulu or Published by You service and receive an ISBN.”**
 
@@ -122,8 +119,7 @@ We made a total of 3 revisions (putting us on the 4th revision edition) before a
 
 ![Lulu.com approval message](/_images/2008/07/approve_lulu.jpg)
 
-Anything else to know?
-----------------------
+## Anything else to know?
 
 I just approved the book before writing this article so there might be more to say about the publishing process. All-in-all, I’m very pleased with how this came out and I look forward to doing business with them in the future.
 
