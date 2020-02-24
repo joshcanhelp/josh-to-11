@@ -144,8 +144,6 @@
 			float: right
 			margin: 0 0 1em 1em
 
-
-
 	iframe
 		width: 100%
 		max-width: 100%
@@ -155,29 +153,14 @@
 
 	blockquote
 		@extend %big_blockquote
-		font-size: $f_size_large
 		margin: 1.5em 0
+		font-size: $f_size_medium
 
 %big_blockquote
 	background: $c_g_lightest
-	padding: 1.5em 2em
+	padding: 0.9em 1.1em
 	border-radius: 1px
 	position: relative
-
-	&:before,
-	&:after
-		position: absolute
-		color: white
-		font-size: 26px
-		content: '"'
-
-	&:before
-		top: 2px
-		left: 0
-
-	&:after
-		bottom: 2px
-		right: 0
 
 	p
 

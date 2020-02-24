@@ -1,12 +1,12 @@
 ---
 title: "Spam: what is it? what does it do? why am I sending it? who cares?"
 layout: post
-excerpt: ""
+excerpt: "I had an interesting conversation with a colleague recently about what constitutes spam email and how we could go about avoiding it."
 date: 2008-11-04 16:00:06
 modified: 2016-10-20 16:44:20
 permalink: spam-what-is-it-what-does-it-do-why-am-i-sending-it-who-cares/index.html
-tags: ["Email", "Email", "Email", "Email", "Newegg", "Spam", "Technology Marketing", "Vwvortex", "Email"]
-featured_img: 
+tags: ["Email", "Marketing"]
+featured_img:
 wpid: 370
 ---
 
@@ -17,7 +17,7 @@ I had an interesting conversation with a colleague recently about what constitut
 Spam is…
 --------
 
-[![](/_images/2008/11/spam.jpg)](http://www.flickr.com/photos/santos/56256773/)
+![](/_images/2008/11/spam.jpg)
 
 What is spam? My personal definition of email spam is this:
 
@@ -39,7 +39,9 @@ What about everything else that makes spam annoying?
 Spam is unrequested.
 --------------------
 
-![](/_images/2008/11/donotwant.jpg)The disagreement I had revolved around what constitutes responsible emailing. My colleague is of the mindset that as long as we aren’t breaking the rules, risking litigation, or getting swear word replies, we’re doing the right thing. There’s no “No Email” list out there like the Federal “No Call” list right?
+![](/_images/2008/11/donotwant.jpg)
+
+The disagreement I had revolved around what constitutes responsible emailing. My colleague is of the mindset that as long as we aren’t breaking the rules, risking litigation, or getting swear word replies, we’re doing the right thing. There’s no “No Email” list out there like the Federal “No Call” list right?
 
 My point is that if you intend to send emails to people you think might want to buy your product, you should be making sure that you’re sending them out in the right way lest you get a hold of people like me who really hate getting emails they didn’t ask for. If there’s nothing telling you not to do something, is it always ok to still do it? It’s not illegal for me to give you the finger on the I-5 when you cut me off so does that means it’s always the right reaction?
 

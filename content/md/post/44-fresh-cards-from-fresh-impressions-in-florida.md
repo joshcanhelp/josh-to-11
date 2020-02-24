@@ -5,8 +5,8 @@ excerpt: ""
 date: 2008-10-03 20:45:55
 modified: 2016-10-20 16:44:20
 permalink: fresh-cards-from-fresh-impressions-in-florida/index.html
-tags: ["Business Cards", "Fresh Impressions", "Letterpress", "About JoshCanHelp", "Design"]
-featured_img: 
+tags: ["Business Cards", "Letterpress", "About JoshCanHelp", "Design"]
+featured_img:
 wpid: 325
 ---
 
@@ -27,9 +27,9 @@ The check was sent, cleared, and cashed, the paper ordered, the plate created, a
 When the cards showed up, they weren’t really what I expected. I was new to the process so I may have been confused but I wanted to talk to them about the final product. Preston told me explicitly “BE HONEST” when I told my opinion so I typed out an email detailing my issues. Here was the response:
 
 > I talked with my ‘business partner’ and we both agreed that we would be more than happy to reprint them. Unfortunately, last night we did a little more printing and we were able to fine tune the press even more. It turns out we were using our roller gauge incorrectly so we were putting down too much ink, therefore creating an inconsistent ink density as well as impression.
-> 
+>
 > If you would like, I will express you some of the samples we printed last night on various stocks to show the quality we have reached now. We will not be able to reprint on 220lb because it is so much more expensive, but hopefully we will be able to do the pearl 110lb now or we also have access to some really amazing handmade paper that receives a beautiful impression. I can send all of this to you today if you would like me to and you can choose what you want your reprint printed on.
-> 
+>
 > Again, I apologize for you not being happy with it and hopefully this doesn’t affect our relationship and you will accept our offer.
 
 I was honest, he was honest and nothing beats complete honesty in a business relationship.

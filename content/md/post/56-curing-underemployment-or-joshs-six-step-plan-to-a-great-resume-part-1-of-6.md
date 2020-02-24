@@ -5,16 +5,16 @@ excerpt: ""
 date: 2008-12-01 19:00:37
 modified: 2016-10-20 16:44:20
 permalink: curing-underemployment-or-joshs-six-step-plan-to-a-great-resume-part-1-of-6/index.html
-tags: ["CV", "Employment", "Find A Job", "Get A Job", "Job", "Resume", "Unemployment", "Write A Resume", "Writing A Resume", "Personal Development"]
-featured_img: 
+tags: ["Personal Development"]
+featured_img:
 wpid: 447
 ---
 
 # Curing Underemployment  (or) Josh’s Six Step Plan to a Great Resume (part 1 of 6)
 
-I’m helping a colleague of mine put together her resume for the first time in many years and I thought I’d share the process with you . I’m not convinced that there is a totally right way or wrong way to do this but I DO know that there is a right (read: beneficial) outcome and a wrong (read: detrimental) one.
+I’m helping a colleague of mine put together her resume for the first time in many years and I thought I’d share the process with you. I’m not convinced that there is a totally right way or wrong way to do this but I DO know that there is a right (read: beneficial) outcome and a wrong (read: detrimental) one.
 
-[![What a job! by roarpett on flickr](http://farm1.static.flickr.com/90/234838351_6879b2ab3a.jpg "Get the job you want")](http://flickr.com/photos/roarpett/234838351/)What a job! by roarpett on flickrWhat Should a Good Resume Do for You?
+What Should a Good Resume Do for You?
 -------------------------------------
 
 I think a lot of people approach the resume process like they would approach, say, their biography. All stories should be told, all skills described, all experience disclosed. While it’s definitely good to be honest and thorough with a company you want to work for, by putting everything in your resume, you’re taking away a lot from the other big part of getting a job: the interview.
@@ -25,7 +25,7 @@ Your resume should, essentially, qualify you exactly for the position you’re a
 
 Your resume should also be FLAWLESS. There are enough jokes floating around out there about misspellings, bad grammar, incorrect references, and embarrassing mistakes, don’t become one of them. Reserve at least a quarter of your resume-writing time to correcting mistakes, checking for errors, and formatting as best as you can.
 
-[![bday 132 resume writing/b by bhoneyrider/b at flickr](http://farm2.static.flickr.com/1342/800673467_f918096b3c.jpg "Writing a resume can be difficult but not impossible...")](http://flickr.com/photos/julieastaub/800673467/)day 132 'resume writing' by honeyrider at flickrStep 1: Write down the job positions you want
+Step 1: Write down the job positions you want
 ---------------------------------------------
 
 Your first step is having a clear picture of what you want. If you don’t know where you want to apply or what you want to do then you’re going to be at a specific disadvantage compared to the other people applying for the position. I’m not saying you need to come to brass tacks about your career and your life and your direction (well, you probably should at some point) but you need to at least know what jobs you want, what you’re qualified for, and why you’re applying for them. Think about it: you might be saving yourself a lot of pain down the road if you decide against a job you would have mindlessly applied to in the first place.

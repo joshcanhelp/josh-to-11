@@ -1,12 +1,12 @@
 ---
 title: "This, a typical week"
 layout: post
-excerpt: ""
+excerpt: "I have been talking recently (more in person than anywhere) about being a generalist and what that means to me. I am, in every sense of the word, a generalist, a mash-up artist, comfortable between groups than deep within them."
 date: 2008-10-02 18:00:22
 modified: 2016-10-20 16:44:20
 permalink: this-a-typical-week/index.html
 tags: ["About JoshCanHelp", "Personal Development"]
-featured_img: 
+featured_img:
 wpid: 317
 ---
 
@@ -16,7 +16,7 @@ I have been talking recently (more in person than anywhere) about being a genera
 
 Personally, I find this generalist position to be a bit uncomfortable. I can learn anything but I’m a master of nothing. Once I pick something up and it’s clear to me that I could learn it to much greater extent, the skill becomes logged and I feel the urge to move onto something else. I don’t abandon the things I learn, rather I build libraries of resources, try to stay remotely informed on the topic, and exercise what I know when I can.
 
-I see this behavior over and over and over and it’s becoming clear to me that [I belong on the edges](http://gapingvoid.com/blog/2008/08/27/live-on-the-edges-or-not-at-all/), not in the middle. I work much better straddling two (or ten) different disciplines and skill sets than I do dedicating myself to one in particular. I’m beginning to understand this more as an advantage I have then a disadvantage. The reason I’m having a problem figuring this out is because…
+I see this behavior over and over and over and it’s becoming clear to me that [I belong on the edges](https://www.gapingvoid.com/blog/2008/08/27/live-on-the-edges-or-not-at-all/), not in the middle. I work much better straddling two (or ten) different disciplines and skill sets than I do dedicating myself to one in particular. I’m beginning to understand this more as an advantage I have then a disadvantage. The reason I’m having a problem figuring this out is because…
 
 There are JOBS out there
 ------------------------

@@ -5,8 +5,8 @@ excerpt: ""
 date: 2009-01-12 17:00:38
 modified: 2016-10-20 16:44:19
 permalink: the-mad-printer-an-interesting-coffeeshop-activity/index.html
-tags: ["Coffeeshop", "Inkjet Printer", "Lion's Coffee", "Mad Printer", "Printing", "Everything Else"]
-featured_img: 
+tags: ["Hardware", "Throwback"]
+featured_img:
 wpid: 488
 ---
 

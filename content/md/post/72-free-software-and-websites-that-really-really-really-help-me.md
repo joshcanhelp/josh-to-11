@@ -1,12 +1,12 @@
 ---
 title: "Free software and websites that really, really, really help me"
 layout: post
-excerpt: ""
+excerpt: "The following computer-based implements have become so essential to me that I would pay good money to keep them. They happen, however, to be completely free."
 date: 2009-02-02 15:00:14
 modified: 2016-10-20 16:44:19
 permalink: free-software-and-websites-that-really-really-really-help-me/index.html
-tags: ["Backups", "Data", "Dropbox", "Freeware", "Great Tools", "Productivity Tools", "Remember The Milk", "Software", "Syncback", "Synchronization", "Agency Process"]
-featured_img: 
+tags: ["Productivity", "Software", "Freelancing"]
+featured_img:
 wpid: 556
 ---
 
@@ -14,8 +14,7 @@ wpid: 556
 
 From time to time, I go searching for a utility, website, or document to help me with whatever I’m doing. It usually takes no more than 15 minutes to find, install, or read whatever I find and implement it towards a solution. The solution typically completely satisfies the need and sometimes goes beyond. Some discoveries, however, go so far above and beyond what I was attempting to do that they integrate themselves completely into my digital life and make me wonder what I did before finding it (which always leads to the now philosophical question, what did I do before the internet). The following computer-based implements have become so essential to me that I would pay good money to keep them. They happen, however, to be completely free.
 
-![sync-update-derp-im-sleepy-128x128](/_images/2009/02/sync-update-derp-im-sleepy-128x128.png "sync-update-derp-im-sleepy-128x128")Syncback Freeware backup software
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Syncback Freeware backup software
 
 [Get Syncback Freeware back-up software here (click “DOWNLOAD” next to “Syncback Freeware)](http://www.2brightsparks.com/freeware/freeware-hub.html)
 
@@ -51,8 +50,10 @@ I’ve never had a problem with Dropbox, it’s never deleted files, and I’ve 
 
 Dropbox gives you 2 gigs of storage which is quite a bit for what I need. If you’re only working with documents, you won’t get anywhere close to that. Image files and photographs stat to eat up space so you can upgrade to the 50 gig plan for $10/month. I have a lot of different files synced and I’m only at about 50%.
 
-[![Rememberthemilk icon by moutzouris](/_images/2009/02/remember_the_milk_icon_by_moutzouris.jpg "remember_the_milk_icon_by_moutzouris")](http://www.rememberthemilk.com)Rememberthemilk icon by moutzourisRemember the Milk (RTM) online to-do list
+Remember the Milk (RTM) online to-do list
 -----------------------------------------
+
+[![Rememberthemilk icon by moutzouris](/_images/2009/02/remember_the_milk_icon_by_moutzouris.jpg "remember_the_milk_icon_by_moutzouris")](http://www.rememberthemilk.com)
 
 [Sign up for Remember the Milk](http://www.rememberthemilk.com/)
 

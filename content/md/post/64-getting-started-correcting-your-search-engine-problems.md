@@ -5,15 +5,12 @@ excerpt: ""
 date: 2008-12-16 18:00:07
 modified: 2016-10-20 16:44:19
 permalink: getting-started-correcting-your-search-engine-problems/index.html
-tags: ["Keywords", "Optimization", "Search Engine", "Search Engine Optimization Analysis", "SEO"]
-featured_img: 
+tags: ["SEO"]
+featured_img:
 wpid: 477
 ---
 
 # Getting started correcting your search engine problems.
-
-Who cares?
-----------
 
 Search engines are complicated, proprietary, heartless machines that chew up poor, unsuspecting websites and spit out a category based on what it tastes like. These categories are used to literally rank a site’s individual pages based on their relevancy for particular word or phrase. The rank, as it is referred to, is the key to getting more people coming to your website (called traffic) which can lead to more sales/appointments/contacts (called conversions).
 
@@ -48,8 +45,4 @@ These keywords should be used as-is throughout the site, it’s structure, image
 
 Each step comes with it’s own set of complexities but, if you’ve walked through these steps, even if you’re confused by the end of it, you’re a step ahead of many, many people on the web.
 
-Building a functional keyword strategy is not something you just do once. Seach engine optimization is something you need to do on a regular basis. I see it as a scientific process. You start with an idea, a hypothesis (“my clients will find me by searching ‘eye care’ and ‘cataract correction'”). Then you design an experiment to test your original hypothesis (“We’re going to write a few pages of content, each one concentrating on a different part of the keywords we chose”). Data is gathered and analyzed and a new path is chosen (“Our traffic went up 30% with these keywords… are we getting all the benefit that we can?”). Time and culture will change search patterns so what used to be a golden word for you, may become stale and unpopular. Keep checking those analytics reports!
-
-Need help?
-
-If you’re looking to increase traffic on your business website and need some help with all of this, give me a call (contact info on the top left of this site), I’d be glad to help. SEO techniques are important and confusing and it helps to have someone there to guide your efforts.
+Building a functional keyword strategy is not something you just do once. Search engine optimization is something you need to do on a regular basis. I see it as a scientific process. You start with an idea, a hypothesis (“my clients will find me by searching ‘eye care’ and ‘cataract correction'”). Then you design an experiment to test your original hypothesis (“We’re going to write a few pages of content, each one concentrating on a different part of the keywords we chose”). Data is gathered and analyzed and a new path is chosen (“Our traffic went up 30% with these keywords… are we getting all the benefit that we can?”). Time and culture will change search patterns so what used to be a golden word for you, may become stale and unpopular. Keep checking those analytics reports!

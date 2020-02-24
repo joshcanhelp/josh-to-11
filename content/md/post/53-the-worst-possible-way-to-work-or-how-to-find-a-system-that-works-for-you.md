@@ -1,23 +1,20 @@
 ---
 title: "The Worst Possible Way to Work (or) How to Find a System That Works for You"
 layout: post
-excerpt: ""
+excerpt: "I’m going to share with you how I work. This method would/will drive certain people nuts. This method is not foolproof but none of them are."
 date: 2008-11-07 17:00:21
 modified: 2016-10-20 16:44:20
 permalink: the-worst-possible-way-to-work-or-how-to-find-a-system-that-works-for-you/index.html
-tags: ["Email", "Free Software", "Getting Things Done", "Organization", "Productivity", "Systems", "To-do Lists", "Work", "Personal Development"]
+tags: ["Email", "Systems", "Personal Development"]
 featured_img:
 wpid: 380
 ---
 
 # The Worst Possible Way to Work (or) How to Find a System That Works for You
 
-Introduction
-------------
-
 I was listening to a BBC program the other day that was talking about whether grandparents raising their grandkids was a good thing or a bad thing. Some people called in to say, yes, it was good but also bad. Other people called in to say it was bad, but also good. In the end, it seemed like the show’s host, whether on directive or personally motivated, was looking for “the truth,” in the sense that she wanted an answer – **the** answer. This is the format of most discourse in modern-day media, it seems, because it simplifies the issue down to the proverbial black and white. Instead of looking for some perspective on things, the conversation, apparently, always needs to come to a conclusion.
 
-[![Self Help by hagner_james on flickr](http://farm4.static.flickr.com/3001/2854880466_19c66a3255_m.jpg "Self Help by hagner_james on flickr")](http://flickr.com/photos/hagner_james/2854880466/)Self Help by hagner\_james on flickrI see this mentality a lot when I read the prolific “self-help” &amp; “personal-growth” genre of blogs. There are “keys to success,” “paths to financial freedom” and, my favorite, “rock-solid ways to improve productivity.” If you’re familiar with blogs, then you’ll know the format of a catchy title, a hooky intro, and subsequent headers that are action-packed and full of information (cough). Knowing this, it’s hard to be TOO critical of the content because, hey, people are reading it and subscribing to it and linking to it and people are getting paid and everything is great. Still, there is something a bit funny about someone who discovered their path to productivity on their own but then shares it as the gospel of getting things done.
+I see this mentality a lot when I read the prolific “self-help” &amp; “personal-growth” genre of blogs. There are “keys to success,” “paths to financial freedom” and, my favorite, “rock-solid ways to improve productivity.” If you’re familiar with blogs, then you’ll know the format of a catchy title, a hooky intro, and subsequent headers that are action-packed and full of information (cough). Knowing this, it’s hard to be TOO critical of the content because, hey, people are reading it and subscribing to it and linking to it and people are getting paid and everything is great. Still, there is something a bit funny about someone who discovered their path to productivity on their own but then shares it as the gospel of getting things done.
 
 So, I’m going to share with you how I work. This method would/will drive certain people nuts. This method is not foolproof but none of them are. It also doesn’t work for absolutely everything, but none of the other ones do either. I read a lot of the productivity posts out there, internalize the message, and typically end up rejecting a lot of it. My system is probably a hybrid of all the things I’ve read about “making work happen.” Still, I modified it to be my own and, while I’m always changing and improving, it’s working well for me (ask the friends and family I don’t talk to enough).
 
@@ -64,7 +61,7 @@ This helps me keep very current with everything I’m doing and helps me to cons
 4. I stay very organized
 ------------------------
 
-[![](http://static.rememberthemilk.com/img/logo.png "I use remember the milk to stay organized")](http://rememberthemilk.com)I wouldn’t say that I’m anal about everything but everything definitely has it’s place.
+I wouldn’t say that I’m anal about everything but everything definitely has it’s place.
 
 Emails get saved if they’re important and should stay as emails. Otherwise, their content gets stripped quickly and moved into an appropriate secondary system (like my contacts or my calendar). My USB drive is full and it’s easy to find everything that I need. My pictures are listed and sorted in a way that makes sense to my brain.
 

@@ -6,7 +6,7 @@ excerpt: "Should you specialize and go deep or generalize and go broad? I'd argu
 date: 2019-06-27 06:00:00
 modified: Last Modified
 permalink: specializing-vs-generalizing/index.html
-tags: ["Development", "Improvement", "Best Of"]
+tags: ["Personal Development", "Best Of"]
 featured_img: /_images/2019/06/i-dont-know.png
 
 ---
@@ -27,7 +27,7 @@ The first thing we learned today is that a Google search is not a good provider 
 
 This “specialist versus generalist” debate is an old one and a question that might come up in your mind as you are planning or exploring your career path. It usually comes down to:
 
-> Should I concentrate on a specific industry/technology/platform/framework or should I try to learn about as many different industries/technologies/platforms/frameworks as I can?
+> Should I concentrate on a specific industry, technology, platform, or framework or should I try to learn about as many different industries, technologies, platforms, and frameworks as I can?
 
 So, let’s break that down a bit.
 

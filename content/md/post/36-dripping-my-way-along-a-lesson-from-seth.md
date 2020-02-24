@@ -1,7 +1,7 @@
 ---
 title: "Dripping my way along... a lesson from Seth"
 layout: post
-excerpt: ""
+excerpt: "If you put your name on it, put your best into it. The work you do now could come back to haunt you later and it’s up to you whether this phantom is benevolent or not."
 date: 2008-09-18 15:48:33
 modified: 2016-10-20 16:44:20
 permalink: dripping-my-way-along-a-lesson-from-seth/index.html
@@ -28,4 +28,4 @@ Now, let’s say you get busy elsewhere and you stop correcting errors, stop che
 
 One day months later you get a call from your friend and he’s all smiles. He talked to someone that wants to talk to you about a job and he has two people with your card that want to call you about the site. Suddenly, you hope they didn’t click on that one link or notice the wrong copyright date. Maybe they saw a 404 or a few typos and reconsidered. Maybe they got the impression you were a full-time webmaster and were confused why everything wasn’t in tip-top shape. Suddenly, you wished that realized that payoff can take some time.
 
-If you put your name on it, put your best into it. The work you do know could (and should) come back to haunt you later and it’s up to you whether this phantom is benevolent or not. Deliver on time repeatedly, concentrate on quality output (be it product or service), and take care of your customers so when someone inevitably asks them “Hey, where did you get that?” the respond will be “Oh, Josh made it, he’s great, here’s his email” rather then “Ugh, don’t ask.”
+If you put your name on it, put your best into it. The work you do now could (and should) come back to haunt you later and it’s up to you whether this phantom is benevolent or not. Deliver on time repeatedly, concentrate on quality output (be it product or service), and take care of your customers so when someone inevitably asks them “Hey, where did you get that?” the respond will be “Oh, Josh made it, he’s great, here’s his email” rather then “Ugh, don’t ask.”

@@ -18,7 +18,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.setUseGitIgnore(false);
 
-  eleventyConfig.setTemplateFormats([ 'md', 'css' ]);
+  eleventyConfig.setTemplateFormats([ 'md', 'css', 'html' ]);
 
   eleventyConfig.addCollection('postsCollection', function(collection) {
     const tmpCollection = collection.getAllSorted();

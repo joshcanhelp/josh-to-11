@@ -5,8 +5,8 @@ excerpt: ""
 date: 2008-12-02 19:00:00
 modified: 2016-10-20 16:44:19
 permalink: curing-underemployment-or-joshs-six-step-plan-to-a-great-resume-part-2-of-6/index.html
-tags: ["Find A Job", "Get A Job", "Resume", "Resume Writing", "Write A CV", "Write A Resume", "Personal Development"]
-featured_img: 
+tags: ["Personal Development"]
+featured_img:
 wpid: 449
 ---
 
@@ -14,10 +14,9 @@ wpid: 449
 
 Read the [first step towards writing a great resume, write down the positions you want](/curing-underemployment-or-joshs-six-step-plan-to-a-great-resume-part-1-of-6/)
 
-Step 2: Write down all of the jobs you’ve ever had (within reason) and brain dump everything that happened for each one.
-------------------------------------------------------------------------------------------------------------------------
+## Step 2: Write down all of the relevant jobs you’ve ever had and what happened at each one.
 
-![Ready for class...](/_images/2008/12/training_room.jpg "Training room full of computers in Victoria, Canada")Ready for class...Yikes! Are you ready for this one?
+Yikes! Are you ready for this one?
 
 Start with the company you worked for, then list all of the positions you had for that company. If you’re 40 and you worked at McDonalds when you with 18, this probably isn’t too relevant… unless you were a manager after a year and worked there for 3 years. Longevity means something in this age of indecision!
 

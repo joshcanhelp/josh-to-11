@@ -426,25 +426,14 @@ body, .jch-list {
     display: block;
     margin: 1.5em 0; }
   .jch-post--article blockquote {
-    font-size: 1.2em;
-    margin: 1.5em 0; }
+    margin: 1.5em 0;
+    font-size: 1.05em; }
 
 .jch-post--article blockquote, .jch-list__posts blockquote, .jch-list__feed blockquote {
   background: #ededf2;
-  padding: 1.5em 2em;
+  padding: 0.9em 1.1em;
   border-radius: 1px;
   position: relative; }
-  .jch-post--article blockquote:before, .jch-list__posts blockquote:before, .jch-list__feed blockquote:before, .jch-post--article blockquote:after, .jch-list__posts blockquote:after, .jch-list__feed blockquote:after {
-    position: absolute;
-    color: white;
-    font-size: 26px;
-    content: '"'; }
-  .jch-post--article blockquote:before, .jch-list__posts blockquote:before, .jch-list__feed blockquote:before {
-    top: 2px;
-    left: 0; }
-  .jch-post--article blockquote:after, .jch-list__posts blockquote:after, .jch-list__feed blockquote:after {
-    bottom: 2px;
-    right: 0; }
   .jch-post--article blockquote p:last-child, .jch-list__posts blockquote p:last-child, .jch-list__feed blockquote p:last-child {
     margin-bottom: 0;
     border: none; }

@@ -5,8 +5,8 @@ excerpt: ""
 date: 2008-12-12 17:00:49
 modified: 2016-10-20 16:44:19
 permalink: search-engine-optimization-as-a-metaphor-for-life/index.html
-tags: ["Help People", "Keywords", "Life", "Search Engine Optimization Analysis", "What To Do", "SEO"]
-featured_img: 
+tags: ["SEO"]
+featured_img:
 wpid: 470
 ---
 

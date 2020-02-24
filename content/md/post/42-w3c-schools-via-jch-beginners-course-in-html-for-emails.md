@@ -1,25 +1,24 @@
 ---
 title: "W3C Schools (via JCH) Beginner's Course in HTML for Emails"
 layout: post
-excerpt: ""
+excerpt: "I bring to you the W3C (via JCH) Beginner’s Course in HTML for Emails. A list of classes on the W3C site along with instructions for how to use it."
 date: 2008-09-30 18:00:29
 modified: 2016-10-20 16:44:20
 permalink: w3c-schools-via-jch-beginners-course-in-html-for-emails/index.html
-tags: ["CSS", "Email", "HTML", "Email", "Learn HTML", "W3 Schools", "Development", "Email"]
-featured_img: 
+tags: ["CSS", "Email", "HTML"]
+featured_img:
 wpid: 290
 ---
 
 # W3C Schools (via JCH) Beginner's Course in HTML for Emails
 
-Introduction
-------------
+![](/_images/2008/09/sent-mail-128x128.png)
 
-[![](/_images/2008/09/sent-mail-128x128.png "sent-mail-128x128")](/_images/2008/09/sent-mail-128x128.png)[My first post about HTML emails](/html-emails-the-last-word-until-everything-changes-again/) was a bit premature. This list should have come first, then that post, then [this one about sending HTML via Thunderbird](/how-to-send-html-emails-for-free-using-mozilla-thunderbird/). I realize my mistake and I apologize. I think that’s a good firt step towards regaining your trust. I hope we can move on from this, I really do.
+[My first post about HTML emails](/html-emails-the-last-word-until-everything-changes-again/) was a bit premature. This list should have come first, then that post, then [this one about sending HTML via Thunderbird](/how-to-send-html-emails-for-free-using-mozilla-thunderbird/). I realize my mistake and I apologize. I think that’s a good first step towards regaining your trust. I hope we can move on from this, I really do.
 
 I also realize that I might be missing my audience by posting this potentially overly-technical information. I am, however, consciously taking the risk for a very important reason: I hope, like me, that you always want to learn more. Maybe you have no interest in putting an HTML email together from scratch, that’s just fine. This blog is about figuring things out, doing the best with what you have, and understanding the stuff that you might, in the end, contract out to another individual (hopefully me).
 
-I bring to you the **W3C (via JCH) Beginner’s Course in HTML for Emails.** This list below are links to classes on the W3C site along with instructions for how to use it. Because you use a limited subset of HTML and CSS to put together emails, it’s probably a good idea to just concentrate on this subset. Go ahead, learn everything, but if the point of learning HTML is strictly for emails, you might end up confusing what is allowed with what is not.
+I bring to you the **W3C (via JCH) Beginner’s Course in HTML for Emails.** This list below links to classes on the W3C site along with instructions for how to use it. Because you use a limited subset of HTML and CSS to put together emails, it’s probably a good idea to just concentrate on this subset. Go ahead, learn everything, but if the point of learning HTML is strictly for emails, you might end up confusing what is allowed with what is not.
 
 If you already know HTML and CSS, it might be a good idea to walk through these anyways. You might regain a long-lost HTML tag or element you never thought about anymore. It’s also a good idea to get am HTML table refresher (because you don’t use them hardly at all, right?).
 

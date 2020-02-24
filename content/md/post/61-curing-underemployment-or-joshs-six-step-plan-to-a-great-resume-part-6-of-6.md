@@ -5,8 +5,8 @@ excerpt: ""
 date: 2008-12-08 19:00:29
 modified: 2016-10-20 16:44:19
 permalink: curing-underemployment-or-joshs-six-step-plan-to-a-great-resume-part-6-of-6/index.html
-tags: ["Career", "Change Careers", "Employment", "Find A Job", "Get A Job", "Resume", "Resume Writing", "Unemployment", "Write A CV", "Write A Resume", "Personal Development"]
-featured_img: 
+tags: ["Personal Development"]
+featured_img:
 wpid: 461
 ---
 
@@ -19,7 +19,7 @@ On Friday, I posted the [5th step to a great resume, writing a “final” draft
 Step 6: Lay it out as you go through it again (and again \[and again\])
 -----------------------------------------------------------------------
 
-[![blueprint by dog on wheels on flickr](http://farm1.static.flickr.com/35/69784313_decd747ec3.jpg "blueprint by dog on wheels on flickr")](http://flickr.com/photos/domc/69784313/)blueprint by dog on wheels on flickrThis is the final step and possibly the most important one. This is called “checking your work” or “avoiding the if-only-I-had’s.”
+This is the final step and possibly the most important one. This is called “checking your work” or “avoiding the if-only-I-had’s.”
 
 If you haven’t formatted the document, now is the time. You’ll probably want to check out my guide on simple typography in any document to give you an idea on how to keep it simple and effective. Remember to style for the position. If you’re applying to a law firm, keep it tight, simple, and classy. If you’re applying to a graphic design company, spice it up a bit, use some color, and show them you know a thing or two about alignment.
 

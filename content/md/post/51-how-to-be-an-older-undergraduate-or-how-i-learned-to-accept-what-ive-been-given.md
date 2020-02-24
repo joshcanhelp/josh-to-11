@@ -1,12 +1,12 @@
 ---
 title: "How to be an old(er) undergraduate or How I learned to accept what I've been given"
 layout: post
-excerpt: ""
+excerpt: "I've been thinking about my past as a student and how far I’ve come as a person. I wanted to share a bit about what I’ve learned as the oldest dude in my graduating class (except that other guy)."
 date: 2008-11-01 19:25:21
 modified: 2016-10-20 16:44:20
 permalink: how-to-be-an-older-undergraduate-or-how-i-learned-to-accept-what-ive-been-given/index.html
 tags: ["Personal Development"]
-featured_img: 
+featured_img:
 wpid: 366
 ---
 
@@ -53,7 +53,7 @@ Thinking about going back to school in your 20s? 30s? 40s?
 The easy answer would be “yes, do it! Do it for you and me and them! Go back! Always” but I’m not going to say that because I’ve also learned that college just isn’t for anyone. Here’s what I think:
 
 - If you go back, do it for something that excites you. I would have never stuck with this degree if I didn’t like the subject. As you get older, your time, especially your time off, becomes increasingly valuable. If you’re going to classes that aren’t interesting, skipping time with your family and friends to study, and generally “losing life” (that’s what it feels like sometimes) to your degree, the least you can do is study something that you find interesting.
-- Don’t go back without calculating the opportunity cost along with the actual cost. Here’s how… 
+- Don’t go back without calculating the opportunity cost along with the actual cost. Here’s how…
   - Calculate the amount that the schooling will actually cost (tuition, books, supplies).
   - Calculate how much you’ll be making while in school (if anything) and multiply it by the time you’ll be in school (so if you can make $15,000/year in a part-time job and the school takes, say, 4 years, you’ll make $60,000 total during that time).
   - Now calculate how much you would be making if you WEREN’T in school (if you could make $40,000 per year average for those 4 years then you’re at $160,000 for four years).

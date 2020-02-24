@@ -5,8 +5,8 @@ excerpt: ""
 date: 2008-12-05 09:00:21
 modified: 2016-10-20 16:44:19
 permalink: curing-underemployment-or-joshs-six-step-plan-to-a-great-resume-part-5-of-6/index.html
-tags: ["Career", "Change Careers", "Employment", "Find A Job", "Get A Job", "Resume", "Resume Writing", "Unemployment", "Write A CV", "Write A Resume", "Personal Development"]
-featured_img: 
+tags: ["Personal Development"]
+featured_img:
 wpid: 459
 ---
 
@@ -17,7 +17,7 @@ Yesterday, I went through the [fourth step in my resume-writing process, creatin
 Step 5: “Final” draft time… buckle down
 ---------------------------------------
 
-[![Greyhound Racing: Home Stretch by sombraala on flickr](http://farm1.static.flickr.com/146/337491782_cdd8f3867e.jpg "Greyhound Racing: Home Stretch by sombraala on flickr")](http://flickr.com/photos/sombraala/337491782/)Greyhound Racing: Home Stretch by sombraala on flickrOK, you have a resume, you’re about 80% there. Now it’s time to bring it all together.
+OK, you have a resume, you’re about 80% there. Now it’s time to bring it all together.
 
 First, lay it all out. Personal statement is first, then what? Education? What is the most important thing about the job you’re applying to? If you’re applying to be a web developer, your skill set is probably more important than your BA degree from a few years ago. If, however, you’re applying to be a college professor, your education is probably pretty darn important. Don’t stress too much about the order, however, because there’s plenty more to do.
 

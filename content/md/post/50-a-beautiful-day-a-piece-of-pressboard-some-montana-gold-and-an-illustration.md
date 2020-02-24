@@ -1,12 +1,12 @@
 ---
 title: "A beautiful day, a piece of pressboard, some Montana Gold, and an illustration"
 layout: post
-excerpt: ""
+excerpt: "I finally got around to throwing up some paint in my graffiti class. It had been a while since I last held a can and, because the last go-around was so disappointing, I was afraid it might happen again."
 date: 2008-10-27 20:06:01
 modified: 2016-10-20 16:44:20
 permalink: a-beautiful-day-a-piece-of-pressboard-some-montana-gold-and-an-illustration/index.html
-tags: ["Art Academy", "Graffiti", "Montana Gold", "One Art", "Pose2", "San Diego", "Spray Paint", "Design"]
-featured_img: 
+tags: ["Graffiti", "Design"]
+featured_img:
 wpid: 362
 ---
 

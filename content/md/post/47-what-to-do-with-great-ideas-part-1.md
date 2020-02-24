@@ -5,8 +5,8 @@ excerpt: ""
 date: 2008-10-20 16:00:22
 modified: 2016-10-20 16:44:20
 permalink: what-to-do-with-great-ideas-part-1/index.html
-tags: ["Collaboration", "Fruition", "Google Docs", "Great Idea", "Idea", "Technology Marketing", "Personal Development", "Web Strategy"]
-featured_img: 
+tags: ["Marketing", "Personal Development"]
+featured_img:
 wpid: 351
 ---
 
@@ -20,8 +20,9 @@ See, I had a great idea at the end of last month. It started out as a cool idea 
 
 I wanted to write about this great idea not to actually introduce the idea (because that would be silly at this point) but to chronicle what’s going on and what I’m doing about it. I look forward to more of these great ideas in the future and I hope to learn from my mistakes as well as my good moves. Also, if you have a GREAT idea and don’t know where to start, maybe this will help.
 
-![](/_images/2008/10/Public-128x128.png)First, find someone.
---------------------------------------------------------------------------------------------------
+## First, find someone.
+
+![](/_images/2008/10/Public-128x128.png)
 
 Find someone and find them quickly, especially if you have sense that your idea is a really good one. Find someone you trust and find someone that knows what they’re talking about with respect to your idea. If you have a software idea, talking to an English major might not be too helpful, especially as you’re trying to put the different pieces together.
 
@@ -35,8 +36,9 @@ So, step one, go talk to someone you trust, someone that knows what they’re ta
 
 Talk to this person you find, blab the whole idea, and then get their honest feedback.
 
-![](/_images/2008/10/drawing.jpg "Quick scribble of website layout")Second, get it down on PAPER.
----------------------------------------------------------------------------------------------------------------------------------------
+## Second, get it down on PAPER.
+
+![](/_images/2008/10/drawing.jpg "Quick scribble of website layout")
 
 Literally on paper. Paper and pen is underrated these days (ever thought that would be said). Write furiously, draw sketches of what it looks like, take notes, just get it all down. Get the idea as it is and get the idea of what it could be. Write down everything you want it to do/be and everything it could do/be. Get everything down, the bad, the good, the ridiculous, the impossible, put it all down. Do this with the person from above if they want to be involved or by yourself if not. Keep taking notes for a few days, mull it over, let it sink in.
 
@@ -44,8 +46,7 @@ The other thing to say about this step is that you might find yourself with an i
 
 There’s no substitute for a good plan that outlines everything you could expect in the beginning but don’t wear yourself out planning absolutely every single move you are going to make.
 
-![](/_images/2008/10/goog_doc_logo.jpg)Third, get it down on computer.
-------------------------------------------------------------------------------------------------------------
+## Third, get it down on computer.
 
 Now it’s time to boil that plan down a bit. Type your notes up and start mocking things up that need pictures. Here’s a few tips:
 
@@ -53,8 +54,10 @@ Now it’s time to boil that plan down a bit. Type your notes up and start mocki
 - If you’re working with 2 or more people on this, use something like Zoho or Google Docs so everyone can share. There’s no reason to be emailing master documents between people and risk losing changes. Just put it on line and relieve some stress.
 - Remember to always be painting a picture. If you can use Photoshop, make realistic models of the interface you want to design or the web page you want to build. Make a video, draw something on paper and scan it into your computer, take a screenshot of a similar site and change it around in a Paint program. You’re going to need to explain things to people eventually (or right away) and if you can show them a little piece of the reality you’re creating, you’ll go a long way towards selling them on the concept.
 
-![](/_images/2008/10/what_money.jpg "Money sign with a question mark superimposed")Fourth, think long and hard about the money, the time, and the marketing.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Fourth, think long and hard about the money, the time, and the marketing.
+
+
+![](/_images/2008/10/what_money.jpg)
 
 Listen, I haven’t been neck deep in business forever but if there’s one thing that I know it’s that this is where things quickly break down. If you’re taking out loans for this great idea, you better have a solid plan on how you’re going to pay them back. If you’re using your down payment money for your house, make sure you have things in place to pay yourself back.
 

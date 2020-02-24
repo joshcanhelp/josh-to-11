@@ -5,8 +5,8 @@ excerpt: ""
 date: 2008-10-13 18:00:53
 modified: 2016-10-20 16:44:20
 permalink: considering-a-career-in-software-development-or-digital-design-listen-to-the-professionals-at-microsoft/index.html
-tags: ["Coding", "Employment", "Expression", "Graphic Design", "Hiring", "Job", "Manager", "Microsoft", "Programming", "Versatility", "WPF", "Personal Development"]
-featured_img: 
+tags: ["Programming", "Personal Development"]
+featured_img:
 wpid: 337
 ---
 
@@ -25,7 +25,9 @@ Here’s what he had to say (verbatim but broken down):
 
 > I think that the online design/development world is currently going through some major changes. This is both product wise as well as company/business wise. Over the past year there have been a lot of changes around Adobe, Corel, Apple and even here at MS. Check out Expression, if you haven’t, to see some of the things that we are starting to do. I think a large trend is moving from overall design to building experience that are truly media rich (video, interactive, etc).
 
-![](/_images/2008/10/express_blend.jpg "Microsoft Expression Blend software for Windows Presentation Foundation")I just started working with Expression Blend 2 to design a Windows user interface for a developing piece of software. This software allows you to draw things in completely scalable format and then see the XAML code that was created. I liken this to being able to draw vector graphics in Adobe Illustrator and then seeing the equations that are needed to make the artwork.
+![](/_images/2008/10/express_blend.jpg "Microsoft Expression Blend software for Windows Presentation Foundation")
+
+I just started working with Expression Blend 2 to design a Windows user interface for a developing piece of software. This software allows you to draw things in completely scalable format and then see the XAML code that was created. I liken this to being able to draw vector graphics in Adobe Illustrator and then seeing the equations that are needed to make the artwork.
 
 The application also lets you manage the “code behind” files (created in a language that I don’t understand like C# \[“see-sharp”\]) which creates an interesting “generalist” situation where I can have a hand in both the aesthetic design and the application code itself.
 
@@ -61,6 +63,8 @@ Last but not least, my recruiter friend makes a very astute observation about th
 
 The relics of the past clinging to old processes, dusty and stagnant tradition, and archaic methods are finally beginning to see some competition from people who know how to manage their time and are smart enough and brave enough to see past the status quo and blaze a new path. The people clinging on to the “same old same old” are getting surpassed, naturally, by those who have an open mind. Maybe the old way to do things is a way that’s going to be around for a while (think about books and the Amazon Kindle) but if you’re not at least looking at other options then you’re going to be blindsided when change happens.
 
-![](/_images/2008/10/hddvd_logo.jpg "HD DVD logo")Just think of all the industries, products, and companies that seemed like they would be around forever – newspapers, fax machines, radio, any of the number of collapsed financial institutions. When you assume nothing is going to change and when you take it for granted that the way things are is the way they will continue (and the way they should be without question), you put on the figurative blinders. Learning new tools, new techniques, new pieces of software, meeting new people, trying new things… these all either lead to great new innovations and change they way everything is done for the better OR they reinforce what is already in place which is just as good. Nothing has replaced HTML as a web presentation language (unless you count XHTML which I guess you could) because there isn’t anything better right now. What did affect HTML was CSS and now that’s the standard. Sadly, there are still people coding exclusively in HTML but this won’t go on forever.
+![](/_images/2008/10/hddvd_logo.jpg "HD DVD logo")
+
+Just think of all the industries, products, and companies that seemed like they would be around forever – newspapers, fax machines, radio, any of the number of collapsed financial institutions. When you assume nothing is going to change and when you take it for granted that the way things are is the way they will continue (and the way they should be without question), you put on the figurative blinders. Learning new tools, new techniques, new pieces of software, meeting new people, trying new things… these all either lead to great new innovations and change they way everything is done for the better OR they reinforce what is already in place which is just as good. Nothing has replaced HTML as a web presentation language (unless you count XHTML which I guess you could) because there isn’t anything better right now. What did affect HTML was CSS and now that’s the standard. Sadly, there are still people coding exclusively in HTML but this won’t go on forever.
 
 So, there’s a bit of job advice from a guy in the know and a little analysis from the guy who breaks it all down. **If you think you match what they’re looking for up there in Redmond, feel free to send me your resume and I’ll pass it on!**

@@ -1,18 +1,20 @@
 ---
 title: "How to make a Technology Taming Plan"
 layout: post
-excerpt: ""
+excerpt: "If you like learning how to use things and do it quickly then maybe more time should be spent picking things up, playing with them, and deciding whether or not to use them. If, like most of us, you have limited time and want to simplify your daily life, it’s time to make a Technology Taming Plan."
 date: 2008-09-24 16:01:16
 modified: 2016-10-20 16:44:20
 permalink: how-to-make-a-technology-taming-plan/index.html
-tags: ["Beginner", "Brainstorming", "First Steps", "Plan", "Planning", "Pre-work", "Tame Your Technology", "Where To Start", "Web Strategy"]
-featured_img: 
+tags: ["Freelancing"]
+featured_img: /_images/2008/07/lp_card_07_final-296x296.jpg
 wpid: 268
 ---
 
 # How to make a Technology Taming Plan
 
-![](/_images/2008/09/tamer_dark_sm.jpg "The Technology Tamer, Josh Cunningham")**Which is harder to do:** using technology or figuring out what technology you should be using? This question is perfectly relative to each person who approaches it and, in the end, it doesn’t really matter how difficult or easy something is if you truly want to get it done.
+![](/_images/2008/09/tamer_dark_sm.jpg "The Technology Tamer, Josh Cunningham")
+
+**Which is harder to do:** using technology or figuring out what technology you should be using? This question is perfectly relative to each person who approaches it and, in the end, it doesn’t really matter how difficult or easy something is if you truly want to get it done.
 
 The reason to ask yourself this question (repeatedly) is to make sure that the time you invest in learning new things goes to good use. If you like learning how to use things and do it quickly then maybe more time should be spent picking things up, playing with them, and deciding whether or not to use them. If, like most of us, you have limited time and want to simplify your daily life, **it’s time to make a Technology Taming Plan.**
 
@@ -42,7 +44,7 @@ I’m going to go out on a limb and say that being an artist these days is a lot
 
 The artists that I help don’t seem to be affected so much by this sociological construct but they still want more work than they are getting right now. So, we talk about expanding into new markets. The first thing that needs to get nailed down is literally what they want to accomplish in the end.
 
-![](http://www.google.com/intl/en_ALL/images/logo.gif)One thing everyone on the internet wants to do is to be more visible on search engines; this includes artists. Putting your art on a website is tough, partially because it’s hard to search for particular images (if they are not tagged properly) and partially because art doesn’t have to always lend itself to a long description (making it even harder to find). This, however, is a great first step. The goal is “**get better search ratings in the major search engines**.” Congrats, that’s a goal! You’re not seeing enough people from the internet, you’re not getting as many hits as you think you should, and you’d like to improve that.
+One thing everyone on the internet wants to do is to be more visible on search engines; this includes artists. Putting your art on a website is tough, partially because it’s hard to search for particular images (if they are not tagged properly) and partially because art doesn’t have to always lend itself to a long description (making it even harder to find). This, however, is a great first step. The goal is “**get better search ratings in the major search engines**.” Congrats, that’s a goal! You’re not seeing enough people from the internet, you’re not getting as many hits as you think you should, and you’d like to improve that.
 
 Another thing I hear from artists is that they want to teach more people and lead more classes. More students means more tuition and more tuition means the bills are getting paid. This is another perfectly legitimate goal, “**enroll more paying students in my classes**.” You’re teaching 10, you have space for 15 so you want to boost enrollment by 50%. Or you teach one-on-one three times a week, you’d like to do it 5 times a week to fill up your time. Every time you talk to someone, hand out a card, send out an email, or take any step forward, think about asses in seats and you’ll stay on target.
 
@@ -52,7 +54,7 @@ I know a very successful freelance financial consultant who does not have a web 
 
 So, this consultant decides he wants to “**find qualified people that I can train to handle certain parts of my business**.” This is an ambitious, well-directed goal that, at worst, will make you meet a few new people and really figure out if this is the direction you want to go. You’re starting out working 16 hours a day and you’d like to maintain your income but only work 10. Or, you can hardly keep up with what you’ve got and need help keeping it all straight. You want to expand but you need the right people. This is a great place to start.
 
-[![People by PieterMusterd on Flickr](http://farm3.static.flickr.com/2235/1858568495_9c88019e78_m.jpg "People by PieterMusterd on Flickr")](http://www.flickr.com/photos/piet_musterd/1858568495/)"People" by PieterMusterd on FlickrNow that you’ve found a few junior accountants to take some of the math off of your hands, you want to find businesses that need your help. You want to “**discover specific potential clients who need your expertise**.” You work with 100 businesses and you want 300 in your Rolodex. You helped sell 5 businesses last year, this year you want to triple that. You know exactly where you’re at now and you have a clear idea of where you want to be soon.
+Now that you’ve found a few junior accountants to take some of the math off of your hands, you want to find businesses that need your help. You want to “**discover specific potential clients who need your expertise**.” You work with 100 businesses and you want 300 in your Rolodex. You helped sell 5 businesses last year, this year you want to triple that. You know exactly where you’re at now and you have a clear idea of where you want to be soon.
 
 In addition to building your business, you’re going to need to know what other people are doing as well. You want a unique and useful offering for people to come to you and start buying what you have. You want to price competitively (or contrastingly) and make sure that you’re not missing the boat on something else. You need to “**collect good competitive intelligence to shape your offerings**.”
 
@@ -85,8 +87,6 @@ You have the toughest step out of the way, choosing the outcome. Now let’s sta
 1. Keywords (choosing them and using them)
 2. Incoming links (sites that have a direct link to you…more popular sites and more reputable sites are always better)
 3. Content following Seth’s 3U’s: useful, unique, and updated.
-
-[![](http://digitalwaveriding.files.wordpress.com/2008/01/sethgodin.jpg "Seth Godin and some Purple Cow milk")](http://sethgodin.typepad.com/)
 
 Sounds simple, doesn’t it? It is simple but it isn’t easy.
 

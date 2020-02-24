@@ -1,12 +1,12 @@
 ---
 title: "Good advice to a client about building a blog from the ground up"
 layout: post
-excerpt: ""
+excerpt: "My honest take on starting a blog from scratch. Do it because you like it and don’t assume you don’t like it because you have no idea what you’re doing."
 date: 2008-10-23 16:00:39
 modified: 2016-10-20 16:44:20
 permalink: good-advice-to-a-client-about-building-a-blog-from-the-ground-up/index.html
-tags: ["Blogging", "Self-promotion", "Traffic", "Web Presence", "Writing For The Web"]
-featured_img: 
+tags: ["Blogging"]
+featured_img:
 wpid: 356
 ---
 
@@ -14,11 +14,11 @@ wpid: 356
 
 I built a blog a couple weeks ago for a very talented teacher and graffiti artist who stays here in San Diego. We were both excited to create something that could easily hold updates and be a central place for fans and potential clients. It has an urban feeling but is still classy, well-laid-out, and very functional.
 
-So, now he’s got this blog… how does he build this blog up. The actual question:
+So, now he’s got this blog. How does he build this blog up. The actual question:
 
-ok so my blog is hooked up how do i send it and link it to other peoples sites… get it out there?
+> ok so my blog is hooked up how do i send it and link it to other peoples sites ... get it out there?
 
-This is a key question, especially for someone who wants to use the internet to gani a bit of exposure. His current web presence is very static and not easy to manuever at all. The blog was my idea and, by the time I had explained it to him, he loved it.
+This is a key question, especially for someone who wants to use the internet to gain a bit of exposure. His current web presence is very static and not easy to maneuver at all. The blog was my idea and, by the time I had explained it to him, he loved it.
 
 So, here’s what I told him, appended after the fact with a bit more information.
 
@@ -65,5 +65,3 @@ Now, I write about my career, what I’m learning, what I’m doing, and how thi
 Blogging, now, is a release for me rather than a chore. This is the only way to keep a blog going. It might even be a good thing not to monitor your audience (if you’re not interested in making money from advertisements). It’s like dieting without a scale: the depression of not losing weight can easily outweigh (har har) the elation of losing a couple pounds.
 
 So, that’s my honest take on starting a blog from scratch. Do it because you like it and don’t assume you don’t like it because you have no idea what you’re doing. Really put yourself into it, find your voice, and screw what others are doing. Then, make sure the most amount of people know about what you’re doing in ways that are sustainable for your life.
-
-Good luck! Come find me on Facebook or Twitter if you want to chat some more

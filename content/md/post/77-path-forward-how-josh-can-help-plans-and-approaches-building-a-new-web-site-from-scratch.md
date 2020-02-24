@@ -1,12 +1,12 @@
 ---
 title: "Path forward: How Josh Can Help Plans and Approaches Building a New Web Site from Scratch"
 layout: post
-excerpt: ""
+excerpt: "When I create a website, I have a plan but it might be good to share this with everyone who is curious about what goes into building a web site from scratch."
 date: 2009-03-02 18:00:23
 modified: 2016-10-20 16:44:19
 permalink: path-forward-how-josh-can-help-plans-and-approaches-building-a-new-web-site-from-scratch/index.html
-tags: ["Build A New Web Site", "Build A Web Site", "Website", "Design", "Web Strategy"]
-featured_img: 
+tags: ["Design"]
+featured_img:
 wpid: 619
 ---
 
@@ -81,4 +81,4 @@ I ask that all changes and modifications be submitted within a couple weeks of f
 
 When the site is completed and approved, I burn all files (PSD, HTML, JPG, everything) to a CD and, once the final payment is made, I upload all the files, send the CD, and test the site one last time. Your sales go through the roof, praise comes from far and wide, and the book/movie deals come rolling in (results may vary).
 
-**Sounds good, doesn’t it? If you need a website, blog, or other kind of on-line presence,** [**download my pre-website homework form**](/_images/2009/03/prewebsite_template.pdf) **and let’s get it started!**
+**Sounds good, doesn’t it? If you need a website, blog, or other kind of on-line presence,** [**download my pre-website homework form**](/_files/prewebsite_template.pdf) **and let’s get it started!**
