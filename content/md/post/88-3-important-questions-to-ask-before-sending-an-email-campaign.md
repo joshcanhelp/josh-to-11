@@ -1,12 +1,12 @@
 ---
 title: "3 Important Questions to Ask Before Sending an Email Campaign"
 layout: post
-excerpt: ""
+excerpt: "So you want to send an email campaign. Well, guess what? Everyone else wants to send an email campaign too and that includes spammers, your competition, and others that deign to make your email marketing harder than it already is."
 date: 2009-06-01 19:17:53
 modified: 2017-10-12 12:06:37
 permalink: 3-important-questions-to-ask-before-sending-an-email-campaign/index.html
 tags: ["Email"]
-featured_img: 
+featured_img:
 wpid: 789
 ---
 
@@ -39,7 +39,7 @@ The other component of deliverability is the spam rating of your email. There ar
 [How HTML Code Affects E-Mail Deliverability – ClickZ](http://www.clickz.com/3490146)
 
 > “Using outdated or incorrect code is a major reason why email\[s\] … are blocked or delivered to bulk or junk mail folders.
-> 
+>
 > “Make sure your email designer/programmer is familiar with W3C standards. Before distributing an email, run the message through an HTML validator.”
 
 Most of these problems can be solved by validating your template code (you can copy and paste it here). Keep it simple: when I code emails I keep the elements to a minimum (**html**, **head**, **body**, **table**, **tr**, **td**, **p**, **b**, **i**, **span**, **a**, and **img**).
@@ -47,7 +47,7 @@ Most of these problems can be solved by validating your template code (you can c
 [Most Common Span Filter Triggers – MailChimp](http://www.mailchimp.com/blog/most-common-spam-filter-triggers/)
 
 > TYPING IN ALL CAPS = SCREAMING AND IS RUDE. Don’t type in all caps in your emails, please. Who does that?
-> 
+>
 > …the rest of the detections on that list basically mean that the senders sent way, way too many images, and not enough readable text. Spam filters can’t read images. Spammers know that, so they often send spam that’s nothing but a big, ginormous image. And spam filters know that, so they in turn block email that they can’t read.
 
 Keeping images to a minimum is an important rule of thumb. Spam checkers look for an image to text ratio (each spam checker is different). when you’re trying to keep your content concise, this means that your images must be minimal. I usually use no more than 3 images, only one of which is for the design (a simple, effective header). This keeps the email size low and the content front and center.
@@ -55,7 +55,7 @@ Keeping images to a minimum is an important rule of thumb. Spam checkers look fo
 To check the deliverability of your email try one of the two free options below:
 
 **Fast** (there are a few checkers out there, this one seemed to be the toughest):   
-**Slow** (makes you save files as .eml format but could catch problems that other scanners don’t): 
+**Slow** (makes you save files as .eml format but could catch problems that other scanners don’t):
 
 Tip #3 – Will the recipient open the email?
 -------------------------------------------
@@ -85,7 +85,7 @@ So, how do you break the curve and get better open rates? The benchmark link abo
 You can’t win them all but that doesn’t mean you have an excuse to stop trying:
 
 > Short-term efforts: subject lines and other headers; timing; frequency
-> 
+>
 > Long-term efforts: improve overall strategy and approach; refine sign-up procedures and targeting; get people to add you to their address list
 
 The answer no one wants to hear: **work harder**. Tweak the timing (what day and what time) and frequency (how often) while you improve your campaign with each and every email. Think scientifically: come up with an idea on how to improve your open rate, give it a try and collect data, analyze what happened, and improve on your next go-around.
@@ -93,7 +93,7 @@ The answer no one wants to hear: **work harder**. Tweak the timing (what day and
 Need a little more long-term strategy ideas?
 
 > Poor list quality, bad content…
-> 
+>
 > The only thing that really guarantees a consistently high open rate is great, relevant content.
 
 It doesn’t get any more straight forward then that. Send out crap and expect crappy statistics.

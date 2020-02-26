@@ -1,12 +1,12 @@
 ---
 title: "3 MORE Important Questions to Ask Before Sending Company Email Marketing"
 layout: post
-excerpt: ""
+excerpt: "On Monday, I posted 3 questions to ask before sending your email campaign. Today, I’m going to finish up this thought with three more questions."
 date: 2009-06-04 21:42:03
 modified: 2016-10-20 16:44:18
 permalink: 3-more-important-questions-to-ask-before-sending-company-email-marketing/index.html
-tags: ["Email", "Email", "Email", "Email"]
-featured_img: 
+tags: ["Email", "Marketing"]
+featured_img:
 wpid: 796
 ---
 
@@ -14,7 +14,9 @@ wpid: 796
 
 [On Monday, I posted 3 questions to ask before sending your email campaign](/3-important-questions-to-ask-before-sending-an-email-campaign/). Today, I’m going to finish up this thought with three more questions.
 
-[![](/_images/2009/06/not-email.jpg)](http://www.flickr.com/photos/sage/2143086954/)If you were wondering where your mail went… by Chicago Sage on FlickrBy now, you should be confident about sending the email in the first place and have a measurable outcome in mind. You’ve combed through your email list, taken a close look at the images you’re sending, and feel confident about your subject line. Now, let’s move your campaign from passive to active.
+![](/_images/2009/06/not-email.jpg)
+
+By now, you should be confident about sending the email in the first place and have a measurable outcome in mind. You’ve combed through your email list, taken a close look at the images you’re sending, and feel confident about your subject line. Now, let’s move your campaign from passive to active.
 
 Tip #4 – Are you getting your message across clearly, honestly, and effectively?
 --------------------------------------------------------------------------------
@@ -26,9 +28,9 @@ Jacob Nielsen, the king of pragmatism, weighs in:
 [Transactional and conformational emails – Jacob Nielsen](http://www.useit.com/alertbox/confirmation-email.html)
 
 > Users frequently told us that they were too busy to deal with certain email messages, and that they considered any fluff in messages a waste of time. People just want to be done with most email, and quickly move past anything that is not absolutely essential. It has long been a strong usability guideline to be brief when writing for the Web; email writers must be even briefer.
-> 
+>
 > In most cases, the From field should show a recognizable brand name… The main differentiator \[between effective and ineffective subject lines\] was the degree to which the subject line explicitly related to a customer-initiated transaction.
-> 
+>
 > In general, you should write a message according to the users’ priorities, starting with the information they’re typically looking for.
 
 With your goal in mind, how do you give your recipients what they need to make this happen? Don’t waste everyone’s time with fluff in your message; cut to the chase and people will remember that your emails are informative and brief. Remember Strunk and White: **OMIT NEEDLESS WORDS**.
@@ -59,7 +61,7 @@ Same goes for your business, whatever it is. If you want people to buy your prod
 Here’s a quick case study on the king of the next step for emails, ProFlowers:
 
 > By leveraging data and customer intelligence across channels – including Web and e-mail – \[ProFlowers\] has built a highly effective e-mail program that drives acquisition, conversion and purchases. Here’s how:
-> 
+>
 > - e-mail acknowledges a recent Web site visit and provides an additional incentive to purchase…
 > - offers additional recommendations to consider
 > - prompts a user to share the offer with a friend
@@ -119,15 +121,3 @@ Last but not least, here are a few tweaks to work into your next email template.
 - Pre-header information for email previews (The very first readable text that appears in your email will also appear in the summary line in certain email programs; make sure yours is clear, informative, and useful)
 - List your intentions right away, numbered list, table of contents (Have three things to say? Bullet point them at the beginning)
 - Big, bold headline (have one great thing to say? SAY IT LOUD)
-
-A few great, recurring resources for you:
-
-
-
-http://www.retailemailblog.com/
-
-
-
-http://smith-harmon.com/blog/
-
-**If you need help with your email marketing or want a custom template designed for your mailings, [contact me!](/contact)**

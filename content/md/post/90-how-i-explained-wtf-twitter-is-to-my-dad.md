@@ -1,12 +1,12 @@
 ---
 title: "How I explained WTF Twitter is to my Dad"
 layout: post
-excerpt: ""
+excerpt: "My dad and I have been working on a plan for a website to promote his business valuation report for a few months now. The site that inevitably came up that was Twitter."
 date: 2009-06-12 18:00:34
 modified: 2016-10-20 16:44:18
 permalink: how-i-explained-wtf-twitter-is-to-my-dad/index.html
-tags: ["Joshcanhelp", "Retweets", "Tweets", "Twitter", "Wtf Is Twitter", "Social Media"]
-featured_img: 
+tags: [ "Twitter", "Social Media", "Marketing"]
+featured_img: /_images/2009/06/joshcanhelp-twitter-page-186x186.png
 wpid: 806
 ---
 
@@ -16,7 +16,9 @@ My dad and I have been working on a plan for a website to promote his business v
 
 During this conversation, the topic of how to market and promote the site came up. [Dad has already joined LinkedIn](http://www.linkedin.com/in/danieljcunningham) and, with a little help, gotten his profile up and running. The site that inevitably came up after that was Twitter. I can’t say I was surprised; I saw a few articles in his pile of “things to discuss” so I knew the question was coming: “**WTF is Twitter?**”
 
-[![joshcanhelp-twitter-page](/_images/2009/06/joshcanhelp-twitter-page.jpg "joshcanhelp-twitter-page")](http://twitter.com/joshcanhelp)In the end, Twitter is different things for different people but the information below definitely got a sincere “A-HA” out of dad.
+[![joshcanhelp-twitter-page](/_images/2009/06/joshcanhelp-twitter-page.jpg "joshcanhelp-twitter-page")](http://twitter.com/joshcanhelp)
+
+In the end, Twitter is different things for different people but the information below definitely got a sincere “A-HA” out of dad.
 
 Twitter is digital networking
 -----------------------------

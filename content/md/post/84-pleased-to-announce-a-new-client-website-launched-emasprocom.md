@@ -1,12 +1,12 @@
 ---
 title: "Pleased To Announce a New Client Website Launched: EMASPro.com"
 layout: post
-excerpt: ""
+excerpt: "I’m very excited to announce the culmination of a lot of planning, design, and coding. The site emaspro.com went live on Monday night without any major fiascoes, issues, meltdowns, or problems."
 date: 2009-04-30 18:00:43
 modified: 2016-10-20 16:44:18
 permalink: pleased-to-announce-a-new-client-website-launched-emasprocom/index.html
-tags: ["Create A Website", "CSS", "Emaspro", "Forms", "Layout", "Learning PHP", "XHTML", "Design"]
-featured_img: 
+tags: ["Design"]
+featured_img: /_images/2009/04/emaspro01-150x150.jpg
 wpid: 680
 ---
 
@@ -44,7 +44,7 @@ Other features
 A lot of time, energy, and planning went into building this site. This is easily the most well-planned, fully designed site I’ve ever built. A few things I’m really psyched about:
 
 - The whole thing is completely valid XHTML and CSS written by hand from scratch. It is served through PHP to make it easier to add pages and make changes. In the future, I’ll have certain pieces of content served up through XML (or CSV) so other members of the marketing team can switch around the content.  
-  ![Valid XHTML 1.0 Transitional](http://www.w3.org/Icons/valid-xhtml10)![Valid CSS!](http://jigsaw.w3.org/css-validator/images/vcss)
+  ![Valid XHTML 1.0 Transitional](http://www.w3.org/Icons/valid-xhtml10) ![Valid CSS!](http://jigsaw.w3.org/css-validator/images/vcss)
 - We created a general keyword strategy for the site which is miles apart from what existed before. On the old site, we were accidentally ranking for a few different words. This new site is optimized for those words and a few others.
 - Navigation at the top and the site map in the footer at the bottom make sure people don’t get lost in any particular section. I also added a dynamic breadcrumb function just below the header that keeps track of where people are in the site.  
   ![emaspro04](/_images/2009/04/emaspro04.jpg "emaspro04")
@@ -64,5 +64,3 @@ The site is not quite complete but needed to be launched. Here’s what’s just
 - Tighten up the keywords used for each page
 - A few more design touches here and there (pull quotes, a little more texture on the sidebar, etc)
 - More context for the Contact Us box (or, potentially, remove it completely).
-
-**Hope you like it! If you’re interested in something similar for your business, please don’t hesitate to [contact me for an estimate](/contact)!**

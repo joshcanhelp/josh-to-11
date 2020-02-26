@@ -1,12 +1,12 @@
 ---
 title: "The Search for a New Cell Phone"
 layout: post
-excerpt: ""
+excerpt: "What do I replace my HTC Hermes with? Nokia E71? Blackberry Bold? Samsung BlackJack 2? Samsung Epix? Motorola Q? Samsung Propel?"
 date: 2009-04-13 19:00:20
 modified: 2016-10-20 16:44:18
 permalink: the-search-for-a-new-cell-phone/index.html
-tags: ["Buy A New Cell Phone", "Cell Phone", "Choose A Cell Phone", "HTC Hermes", "Nokia E71", "Wireless Internet", "Hardware"]
-featured_img: 
+tags: ["Throwback", "Hardware"]
+featured_img: /_images/2009/04/htc_hermes.jpg
 wpid: 652
 ---
 
@@ -24,6 +24,7 @@ To be fair, my formal training in chemistry probably had something to do with it
 My most recent “major obstacle to overcome” is a new cell phone. I bought an HTC Hermes (aka AT&amp;T 8525 aka over-featured, under-performing brick) about a year and a half ago with the intention of tripling my productivity through complete connectivity (har har har). There was this wireless network just begging to be used – who was I to deny it? I dutifully paid my $30 a month and tried desperately, bill after bill, to use it to its maximum. I ended up using it just to rationalize paying for it. That didn’t last for very long.
 
 ![htc_hermes](/_images/2009/04/htc_hermes.jpg "htc_hermes")  
+
 Now, my “mini-computer” is too big, too heavy, showing its age, and causing frustration. Time to move on to a new one. Queue the scientific method…
 
 1) What are my requirements?
@@ -71,7 +72,7 @@ I came up with a good list of options:
 - **Blackberry Bold** (I’ve heard great things about Blackberrys from most people using them. Might be overkill though)
 - **Samsung BlackJack 2** (I’ve heard good things about this one but it’s Windows Mobile)
 - **Samsung Epix** (Windows Mobile is mostly a deal-breaker but, if the processor is fast enough, it might be OK)
-- **Motorlola Q** (A little unsure about this one too)
+- **Motorola Q** (A little unsure about this one too)
 - **Samsung Propel** (might not do what I need it to but I love the size and, after playing around with one for a minute, found it to be VERY fast which was nice)
 
 3) What’s next?

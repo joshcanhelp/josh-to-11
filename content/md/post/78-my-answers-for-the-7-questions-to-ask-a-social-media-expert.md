@@ -1,12 +1,12 @@
 ---
 title: "My Answers for the 7 Questions to Ask a Social Media Expert"
 layout: post
-excerpt: ""
+excerpt: "7 questions to ask a social media consultant before you hire them and my answers as a social media participant."
 date: 2009-03-11 19:00:33
 modified: 2016-10-20 16:44:18
 permalink: my-answers-for-the-7-questions-to-ask-a-social-media-expert/index.html
-tags: ["Digg", "Facebook", "Flickr", "LinkedIn", "Popurls", "Social Media", "Social Networking", "Stumbleupon", "Twitter", "Social Media"]
-featured_img: 
+tags: ["Social Media"]
+featured_img: \_images\2009\02\facebook_logo.png
 wpid: 626
 ---
 
@@ -16,7 +16,7 @@ A post with a title like that definitely needs to come with a disclaimer so here
 
 **Josh is not a social media expert, consultant, or maven. Josh is a social media/network participant, promoter, and fan.**
 
-I saw this post, [“8 Questions You should Ask Your ‘Social Media Expert'”](http://davefleet.com/2009/02/8-questions-to-ask-your-social-media-expert/) and I liked the thought process is sparked. I’m a big fan of posts that call people out for two reasons: 1) schadenfreude and 2) because, if I can answer a couple of them, I feel good. In an effort to make my professional life as transparent as possible, here is my $0.50 on the subject.
+I saw this post, [“8 Questions You should Ask Your ‘Social Media Expert'”](http://davefleet.com/blog/2009/02/05/8-questions-to-ask-your-social-media-expert/) and I liked the thought process is sparked. I’m a big fan of posts that call people out for two reasons: 1) schadenfreude and 2) because, if I can answer a couple of them, I feel good. In an effort to make my professional life as transparent as possible, here is my $0.50 on the subject.
 
 It should be said, if it wasn’t implied, that the questions below come verbatim from the link above. I omitted the 8th one because it was silly and I’m dead serious. That was a joke.
 
@@ -26,7 +26,7 @@ For the time being, the social media “work” I’m doing are just suggestions
 
 With clients, my BREAKTHROUGH VICTORIES are as follows:
 
-- I convinced one client to get on LinkedIn to help her [artist representation company](http://arnaudinternational.com). She’s slowly but surely getting up to speed.
+- I convinced one client to get on LinkedIn to help her artist representation company. She’s slowly but surely getting up to speed.
 - I’ve seen another client start to get active on Facebook to connect with potential fans.
 - I got my marriage counselor client to start blogging (indirectly) to gain attention for his book.
 
@@ -45,7 +45,7 @@ Gears are turning…
 
 ### How do you monitor what people are saying about you?
 
-I [Google myself](http://www.google.com/search?client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&channel=s&hl=en&q=joshcanhelp&btnG=Google+Search) (still sounds dirty to me) and my business, of course. I also check up on Twitter search now and then. I haven’t signed up for alerts yet because it just feels egotistical.
+I Google myself (still sounds dirty to me) and my business, of course. I also check up on Twitter search now and then. I haven’t signed up for alerts yet because it just feels egotistical.
 
 For clients looking to monitor their brand, Google Alerts and Twitter Search are essential, of course. Trying the different search engines with various combinations of keywords is important (with spaces and without, misspelled, with “.com” or “.net”).
 
@@ -55,14 +55,11 @@ I maintain a pretty solid web presence, half for networking and half because I r
 
 - You can find me blogging weekly here at joshcanhelp.com
 - You can [find me on LinkedIn](https://www.linkedin.com/in/joshcanhelp) posting in groups and writing recommendations
-- You can [](http://twitter.com/joshcanhelp)[find me on ](http://twitter.com/joshcanhelp)twitter.com/joshcanhelp retweeting good tips and posting my own
+- You can [find me on twitter.com/joshcanhelp](http://twitter.com/joshcanhelp) retweeting good tips and posting my own
 - My friends and family can find me on Facebook commenting on pictures and posting links (I don’t really use it for business networking)
 - You can [find me on Flickr](http://www.flickr.com/photos/joshcanhelp/)… sorta. I don’t take a lot of photos but I some up now and then
-
-![](http://farm4.static.flickr.com/3224/2998948311_623d725790_m.jpg)
-
-- You can [find me at vwvortex.com](http://forums.vwvortex.com/member.php?141912) talking about design and car nerd stuff
-- You can find me on stumbleupon, liking links from time to time
+- You can find me at vwvortex.com talking about design and car nerd stuff
+- You can find me on StumbleUpon, liking links from time to time
 
 I think that about covers it!
 
@@ -95,9 +92,3 @@ Social media is social interaction surrounding submitted media. Vauge, no? The t
 - It’s a place to find like-minded people and garner attention for things that merit, in your mind, more attention.
 - It’s the perfect place to start if you have no idea where you want to go
 - It’s a time sink
-
-### How did I do?
-
-It’s really up to you how I did. If you like what I said and want to talk, send me an email with what you had in mind and let’s connect!
-
-[![Great comic from Hugh at gapingvoid.com](http://i102.photobucket.com/albums/m93/josh054/sms227.jpg)](http://gapingvoid.com)Great comic from Hugh at gapingvoid.com

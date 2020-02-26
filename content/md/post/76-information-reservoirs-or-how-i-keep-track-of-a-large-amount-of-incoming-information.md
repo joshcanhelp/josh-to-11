@@ -93,4 +93,4 @@ I save all my contacts in my phone, that’s a given. My phone lets me add a lot
 Summary
 -------
 
-The point I’m trying to make is not just to use the internet more, it’s to find the big deluges of information and figure out a way to store them quickly. Depending on your passion(s) or industry(ies), you could have totally different information to keep track of. Still, there’s probably an easy way to collect that information without having to parse it all. **Collect now, worry later.**
+The point I’m trying to make is not just to use the internet more, it’s to find the big deluges of information and figure out a way to store them quickly. Depending on your passion(s) or industry(ies), you could have a totally different set of information to monitor. Still, there’s probably an easy way to collect that information without having to parse it all. **Collect now, worry later.**

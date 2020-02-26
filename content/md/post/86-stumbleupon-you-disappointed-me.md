@@ -1,12 +1,12 @@
 ---
 title: "StumbleUpon: You Disappointed Me"
 layout: post
-excerpt: ""
+excerpt: "Poor usability abound but, for some things, there are no excuses."
 date: 2009-05-18 18:00:58
 modified: 2016-10-20 16:44:18
 permalink: stumbleupon-you-disappointed-me/index.html
-tags: ["Bad Usability", "Social Networking", "Spam", "Stumbleupon", "Usability", "Social Media"]
-featured_img: 
+tags: ["Social Media", "UX"]
+featured_img: /_images/2009/05/stumbleupon_logo.png
 wpid: 746
 ---
 

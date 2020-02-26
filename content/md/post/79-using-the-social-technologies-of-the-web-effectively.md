@@ -5,14 +5,14 @@ excerpt: ""
 date: 2009-03-23 18:00:13
 modified: 2016-10-20 16:44:18
 permalink: using-the-social-technologies-of-the-web-effectively/index.html
-tags: ["Connecting", "Facebook", "Groups", "LinkedIn", "On-line Interactions", "Public Domain", "Social Media", "Twitter", "Social Media"]
-featured_img: 
+tags: ["Social Media"]
+featured_img:
 wpid: 636
 ---
 
 # Using the social technologies of the web effectively while staying out of trouble
 
-I’ve been using LinkedIn more and more these days on the recommendation of two people I’m currently working with. Part of what makes LinkedIn such a great networking tool is it’s active set of groups, each with their own discussion board. The conversation is great, the information is top-notch, and people are so ready and willing to share the information that made them successful in the first place (myself included).
+I’ve been using LinkedIn more and more these days on the recommendation of two people I’m currently working with. Part of what makes LinkedIn such a great networking tool is it’s an active set of groups, each with their own discussion board. The conversation is great, the information is top-notch, and people are so ready and willing to share the information that made them successful in the first place (myself included).
 
 I really enjoy poking around in the design group that I’m a part of and have been recently adding my two cents here and there. One of person I responded to, [Breanna Cooke](http://www.breannacooke.com/), reached out to me directly through LinkedIn and asked me a question. I thought I’d share my answer with everyone…
 
@@ -28,7 +28,7 @@ I use LinkedIn differently. I restrict connections to people I know personally o
 
 I think the biggest piece of advice I can offer is to always keep in mind that online conversations CAN and WILL cross over, no matter how separate you try and keep them. Being comfortable with this mingling I part of being a good social technology user. That assume that everything you write, every comment, every post, every picture, unless it’s being shared over email to someone you trust, has the possibility of becoming very public. I might have something unconstructive to say about someone or something but, unless I’m prepared to put my name behind it (like a bad review of a product/service/company), I’m not going to type it out and post it.
 
-Keeping in mind that your online life is, for the most part, entirely public offers you a chance to show a unique side of yourself. Not many people want to hire an automaton and, if they do, you’re probably doing yourself a favor by scaring them off with your fun personal life. My humor and personality and creativity flows through a lot of what I do and that makes me a gerat person to work with if you’re interested in doing something interesting, trying something new, or pushing the boundaries a little bit. I see the sum of my personal and professional interactions online as a vibrant, intimate resume that goes far beyond what I can compile in a PDF.
+Keeping in mind that your online life is, for the most part, entirely public offers you a chance to show a unique side of yourself. Not many people want to hire an automaton and, if they do, you’re probably doing yourself a favor by scaring them off with your fun personal life. My humor and personality and creativity flows through a lot of what I do and that makes me a great person to work with if you’re interested in doing something interesting, trying something new, or pushing the boundaries a little bit. I see the sum of my personal and professional interactions online as a vibrant, intimate resume that goes far beyond what I can compile in a PDF.
 
 So, to summarize:
 
