@@ -1,20 +1,20 @@
 ---
 title: "What Is Web Strategy?"
 layout: post
-excerpt: ""
+excerpt: "I've realized in the last year that my passion is centered around the web and how people connect to one another, use simple online tools to solve their problems, and create a name for themselves or their business in a way that was never possible before."
 date: 2009-06-18 18:30:04
 modified: 2016-10-20 16:44:18
 permalink: what-is-web-strategy/index.html
-tags: ["Social Media", "Social Networking", "Web Science", "Web Strategy", "Website", "Web Strategy"]
-featured_img: 
+tags: ["Social Media", "Web Strategy"]
+featured_img: /_images/2009/06/chemistry-lab01-150x150.jpg
 wpid: 816
 ---
 
 # What Is Web Strategy?
 
-When I started Josh Can Help, I billed myself as a “technology tamer,” boldly fighting overcomplication, annoyance, disconnection, and frustration across the battlefields of the small business landscape. I wanted to fix computers, build websites, design documents, teach people mobile technology, and construct networks. I would do it all!
+When I started Josh Can Help, I billed myself as a “technology tamer,” boldly fighting over-complication, annoyance, disconnection, and frustration across the battlefields of the small business landscape. I wanted to fix computers, build websites, design documents, teach people mobile technology, and construct networks. I would do it all!
 
-![tamer_150](/_images/2009/06/tamer_150.jpg "tamer_150")
+![](/_images/2009/06/tamer_150.jpg)
 
 While I gained more experience over the last year, I realized my passion really centered around the web but it was more than just laying out sites and coding them. I was enthralled by how people could connect to one another, use simple tools to solve their problems, and create a name for themselves or their business in a way that was never possible before. What motivated me was how anyone could [leverage fairly simple technology to reach their goals](/how-to-make-a-technology-taming-plan/). **I realized that my energy was amplified when I was talking about WEB STRATEGY.**
 
@@ -56,7 +56,7 @@ Web strategy … is focused on returns
 
 ![money01](/_images/2009/06/money01.jpg "money01")
 
-I consider [my aesthetic sense](/type/gallery) very pragmatic. I like looking my best as much as possible but you’ll never see me in a pair of shoes that hurt me throughout the day. I’m also a big car nut but I just wouldn’t enjoy driving a car that isn’t comfortable or one that I was filling up twice a week.
+I consider my aesthetic sense very pragmatic. I like looking my best as much as possible but you’ll never see me in a pair of shoes that hurt me throughout the day. I’m also a big car nut but I just wouldn’t enjoy driving a car that isn’t comfortable or one that I was filling up twice a week.
 
 Relating this to [what I do professionally](/resume), **I’m always seeking to place function in front of form in all of things I produce** – documents, websites, logos, etc. I start my designs in a text file mapping out the information structure and the content organization before I ever open Photoshop. An idea of how I want the site to look appears in my head very early but I don’t make that design come to life until I know what the underlying structure will be.
 
@@ -95,5 +95,3 @@ This trip back found me in a conversation about the web with almost everyone I s
 Everyone I talked to was really energized by what I told them about what this limitless online world. One friend made me iterate through each site that I use and why I used it. [My dad wanted to understand blogs, LinkedIn, and Twitter better](/how-i-explained-wtf-twitter-is-to-my-dad/). My mom wanted to know how we could use the web to promote this great idea she had. Another close friend was all ears as I told her about how we could increase the amount of money coming into her non-profit. No one was bored, everyone wanted to know more.
 
 **The web is one hell of a place right now and it’s poised to improve without bounds.** Sure there are thieves, viruses, hackers, assholes, and problems on the web but what you can achieve and learn there is worth the effort.
-
-**If you’re excited as I am about this whole thing and just don’t know where to start, [contact me](/contact) and I’ll get get the gears moving!**

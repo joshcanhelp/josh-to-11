@@ -5,7 +5,7 @@ excerpt: "When I create a website, I have a plan but it might be good to share t
 date: 2009-03-02 18:00:23
 modified: 2016-10-20 16:44:19
 permalink: path-forward-how-josh-can-help-plans-and-approaches-building-a-new-web-site-from-scratch/index.html
-tags: ["Design"]
+tags: ["Design", "Web Strategy"]
 featured_img:
 wpid: 619
 ---

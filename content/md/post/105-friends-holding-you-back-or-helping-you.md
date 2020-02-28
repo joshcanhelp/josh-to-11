@@ -1,12 +1,12 @@
 ---
 title: "Friends: holding you back or helping you?"
 layout: post
-excerpt: ""
+excerpt: "By the end of my cigarette smoking career, it had taken me about 40 tries to put those damn things down but, one day, for no good reason, I did it.  Was it just one of those great miracles of life? Maybe not ..."
 date: 2009-09-03 19:43:55
 modified: 2009-09-03 19:43:55
 permalink: friends-holding-you-back-or-helping-you/index.html
-tags: ["Everything Else"]
-featured_img: 
+tags: ["Personal Development"]
+featured_img:
 wpid: 22
 ---
 
@@ -34,7 +34,7 @@ Almost everyone I knew in Washington smoked. You could smoke in bars and I spent
 
 A big change for me when I moved down was the inability to smoke in bars. California passed a law many years before I moved here that banned smoking indoors in public establishments. I was initially disappointed (this disappointment, however, was greatly outweighed by my joy stemming from the ability to buy liquor in grocery stores, convenience stores, and my “happy place,” BevMo) at losing some of my favorite past times but this passed quickly. There were many benefits to not having the option of sitting in one place and smoking for hours and, hell, it was California so going outside was never a problem.
 
-After about 6 months in the state, I generally felt like an outcast because of my habit. Very few of my new friends smoked and when I went outside or was smoking on a patio somewhere, I was one of maybe two people smoking. There are[ less smokers in California](http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5638a2.htm) but not by much. Still, it was hard to shake the feeling that smoking was **extra** bad in California.
+After about 6 months in the state, I generally felt like an outcast because of my habit. Very few of my new friends smoked and when I went outside or was smoking on a patio somewhere, I was one of maybe two people smoking. There are [less smokers in California](http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5638a2.htm) but not by much. Still, it was hard to shake the feeling that smoking was **extra** bad in California.
 
 ### Less contact with friends who smoked
 
@@ -69,11 +69,11 @@ This isn’t to say that the people around you are bad people (though I’m sure
 What’s a social human being to do?
 ----------------------------------
 
-I certainly wouldn’t want point out a glaring problem without giving you a little help to deal with it. I’ve dealt with a lot of this over the years to varying degrees of success. I’ve also played a part in others’ wagon-falling (with a very guilty conscience aftewards). Here’s what I recommend:
+I certainly wouldn’t want point out a glaring problem without giving you a little help to deal with it. I’ve dealt with a lot of this over the years to varying degrees of success. I’ve also played a part in others’ wagon-falling (with a very guilty conscience afterwards). Here’s what I recommend:
 
 - **First and foremost, commit fully to not being part of the problem.** Encourage your friends and family to do good for themselves in the gym and everywhere else. Swallow your bullshit jealousy, your snide comments about how they don’t need to work out, and your pride and cheer them on. If you find this difficult to do and you can’t seem to get better at it, maybe it’s time to speak to a counselor… I’m not joking.
 - **The easiest way to avoid the guilt is to avoid the situation.** If you need to lose weight (I’m not talking to people who want more definition in their abs, I’m talking to FFKs) and you’re doing well, avoid restaurants and bars like the plague. Suggest places that won’t get you into trouble like restaurants where you know the right things to order. Fight against the late-night taco shack run (your judgment will be impaired, I understand). Do what you have to do to avoid the conflict or tension.
-- **Pick on them too.** Is your chunky friend trying to guilt you into splitting a pizza? Pick on him for eating so poorly. Getting called a spoil-sport for not pounding a 300 calorie Jaeger-bomb? Sip your diet coke and tell them we’ll all go out for beers after their first heart attack. When you’re backed into a corner, fight back. It’s not right that you’re being made to feel guilty for making god desicions. Fire back.
+- **Pick on them too.** Is your chunky friend trying to guilt you into splitting a pizza? Pick on him for eating so poorly. Getting called a spoil-sport for not pounding a 300 calorie Jaeger-bomb? Sip your diet coke and tell them we’ll all go out for beers after their first heart attack. When you’re backed into a corner, fight back. It’s not right that you’re being made to feel guilty for making god decisions. Fire back.
 - **Lie like a dog.** I’m writing a post on this soon but this is my favorite technique. Asked why you’re not eating much? Tell them you just ate. Asked why you’re not drinking “enough?” Tell them you feel like doo-doo. Want to avoid it altogether? Fake other plans. Gotta do what you gotta do.
 
 ### Good luck out there!

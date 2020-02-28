@@ -1,12 +1,12 @@
 ---
 title: "Insane Ideas Are Life's Great Equalizer"
 layout: post
-excerpt: ""
+excerpt: "Between amazing web applications, unprecedented communication options, and practically incomprehensible medical technology advances, we’re living in a time of incredible ideas that have come to fruition."
 date: 2009-12-30 00:50:15
 modified: 2016-04-01 04:25:34
 permalink: insane-ideas-are-lifes-great-equalizer/index.html
-tags: ["Great Ideas", "Hugh", "Insane Ideas", "Motivation", "Crazy Ideas"]
-featured_img: 
+tags: ["Iteration"]
+featured_img: /_images/2009/12/lightbulb_jch-150x150.png
 wpid: 1307
 ---
 
@@ -16,8 +16,8 @@ If you take a good look around, you’ll probably find it’s completely overwhe
 
 ***Why can’t I come up with an idea like that?***
 
-![lightbulb_jch](/_images/2009/12/lightbulb_jch1.png "lightbulb_jch")  
-  
+![lightbulb_jch](/_images/2009/12/lightbulb_jch1.png)  
+
 The insinuation here is that all of us are just one fantastic idea from fame and fortune. I believe this to be true. The more subtle insinuation here, however, is that it’s only the lack of a great idea that’s keeping us away from the success that is rightfully ours. This part is totally ridiculous.
 
 Guess what…
@@ -34,7 +34,7 @@ Your obsession means everything.
 
 To some, this “idea as a starting gunshot” concept is familiar. It still marks a long road of hard work ending in potentially catastrophic failure but the fear that this causes is more closely related to a roller coaster than it is to a serial killer (with the understanding that some of us have similar issues with roller coasters as we do with serial killers). This fear becomes a challenge and our strong desire to meet this challenge comes in the form of obsession.
 
-There’s more to idea-based success than just obsession but it’s the first thing you’ll want to look for when you’re evaluating the probability of your success. If you have an idea (any idea) and an obsession with making it a reality, the road ahead will be as clear as it possibly can be. Your task isn’t easy and your sucess anything but guaranteed but the car is packed, the tank is full, and the kids just started a movie. Pick a good route, stay alert, and stop regularly and you’ll have a nice trip.
+There’s more to idea-based success than just obsession but it’s the first thing you’ll want to look for when you’re evaluating the probability of your success. If you have an idea (any idea) and an obsession with making it a reality, the road ahead will be as clear as it possibly can be. Your task isn’t easy and your success anything but guaranteed but the car is packed, the tank is full, and the kids just started a movie. Pick a good route, stay alert, and stop regularly and you’ll have a nice trip.
 
 Meet the insane idea.
 ---------------------
@@ -60,7 +60,7 @@ The first thing you’ll notice is this strange tingling in what feels like the 
 
 Next comes frantic planning. We’re talking drawings, sketches, late-night to early morning typing, writing, and researching. The idea isn’t fully formed yet so it feels incomplete. You’ll add features and benefits and add-ons and bells and whistles. There’s no sense of how the idea will come together or if it is sound, just frenetic, unfocused activity.
 
-At some point during this planning stage, you reach a stage that traps many, many people (for good reason). All this planning has brought you to where you need to actually take a step forward to make the idea happen. The problem is multifaceted: there are so many steps to take and so many ways to take each of them. If you had the domain experience to generate the idea, you’re probably missing the necessary business, marketing, and technological acumen to nuture this idea to maturity. Conversely, if you’ve got the goods in the acumen department, you’re probably missing the domain knowledge about the market you’re charging into headlong.
+At some point during this planning stage, you reach a stage that traps many, many people (for good reason). All this planning has brought you to where you need to actually take a step forward to make the idea happen. The problem is multifaceted: there are so many steps to take and so many ways to take each of them. If you had the domain experience to generate the idea, you’re probably missing the necessary business, marketing, and technological acumen to nurture this idea to maturity. Conversely, if you’ve got the goods in the acumen department, you’re probably missing the domain knowledge about the market you’re charging into headlong.
 
 The decisions you make at this step plant the seeds for success or failure (remembering that your idea is a failure right up to when it succeeds). Read more than you think you can handle, discuss things with a broad range of people, and take advice from people who have been down this path before. Paramount to that, don’t make decisions until you have to and, when you do make them, follow through. Nothing will derail you faster than ignorance combined with indecision. Hang on tight.
 

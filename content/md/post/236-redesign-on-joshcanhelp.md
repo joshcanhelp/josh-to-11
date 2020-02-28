@@ -15,7 +15,7 @@ wpid: 4573
 Working on your own stuff is hard. And it doesn’t get much easier the more you do it. My theory is that, just like looking into the mirror and seeing how other people see you, it’s very difficult to make something that reflects who you are as a person/company/organization while also appealing to who you need to appeal to. You want to appear a certain way but is that the same way that will vibe with your customers?
 
 > Is there any possibility to get the theme of joshcanhelp.com? I fell in love with that site
-> 
+>
 > *– Nice dude trying to buy my theme*
 
 This is the 5th iteration of my site and I wanted it to last for a long while. While I really love to tinker and build fun things, spending too much time on my own stuff feels a bit … selfish? Navel-gazing? Boring? So I came up with a few high points for what I wanted to accomplish with the site to keep my itchy dev fingers in check:
@@ -51,7 +51,7 @@ What’s next? Well, let me consult my overly-ambitious Trello list of internal 
 
 - Enter literally every relevant web project I’ve ever done since starting almost a decade ago.
 - Write and post 6 detailed work write-ups for recent projects (5 once I hit publish on this one)
-- Add technology tags with a filter on my [work](/work) section; make that all AJAX-y
+- Add technology tags with a filter on my work section; make that all AJAX-y
 - Switch commenting to be on-page without reloading (considering React for this since I’m moving in that direction but probably overkill unless I’m using it everywhere else)
 - Finish the 4 posts that have been sitting as drafts for a while
 - Turn [this post](/ideas-1/) into a React-powered votable list using [Airtable](https://airtable.com/) (amazing piece of software)

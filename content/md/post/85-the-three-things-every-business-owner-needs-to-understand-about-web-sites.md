@@ -5,7 +5,7 @@ excerpt: "I find myself often explaining how a website works, what is needed to 
 date: 2009-05-11 18:00:03
 modified: 2016-10-20 16:44:18
 permalink: the-three-things-every-business-owner-needs-to-understand-about-web-sites/index.html
-tags: ["Hosting"]
+tags: ["Hosting", "Web Strategy"]
 featured_img: /_images/2009/05/the-host-150x150.jpg
 wpid: 699
 ---

@@ -57,5 +57,3 @@ Give it a try
 **It’s hard to put into words exactly how much information you’re missing out on without this analysis.** Seeing your finances laid bare is one-part wake-up call and once part complete relief. Once you know that you can’t be caught off-guard by your finances, you can make better decisions and start to think far more strategically than you’ve ever been able to before.
 
 The ability to avoid disasters, grow sustainably, and accurately predict where you’ll be in 5 years is priceless. **Don’t be in the dark with your money.**
-
-Have any questions about this? [Drop me a line](/contact), I’m happy to help where I can or get the answers you need.

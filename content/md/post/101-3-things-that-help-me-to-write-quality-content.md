@@ -1,12 +1,12 @@
 ---
 title: "3 things that help me to write quality content"
 layout: post
-excerpt: ""
+excerpt: "I am fascinated by how people are able (or unable) to consume the amount of information that is available on so many topics. I am also perpetually interested in improving my own ability at presenting information."
 date: 2009-08-04 19:30:17
 modified: 2016-10-20 16:44:18
 permalink: 3-things-that-help-me-to-write-quality-content/index.html
-tags: ["Content", "Creative Process", "Creativity", "Quality Content", "Writing", "About JoshCanHelp", "Writing For The Web"]
-featured_img: 
+tags: ["Blogging", "Writing", "About JoshCanHelp"]
+featured_img: /_images/2009/08/eee-writing-150x150.jpg
 wpid: 977
 ---
 
@@ -48,7 +48,7 @@ To combat this scourge, all I can do is just not fall into that trap. I’m not 
 I write well when I can write well
 ----------------------------------
 
-I’ve been reading a lot lately about the creative process. I thought [Twyla Tharp’s book The Creative Process](http://www.amazon.com/Creative-Habit-Learn-Use-Life/dp/0743235274/ref=sr_1_3?ie=UTF8&s=books&qid=1249395583&sr=1-3) was a great dissection of a hard-working creative’s life and found [Hugh MacLeod’s book Ignore Everybody](http://www.amazon.com/Ignore-Everybody-Other-Keys-Creativity/dp/159184259X/ref=sr_1_1?ie=UTF8&s=books&qid=1249395493&sr=1-1) to be a fairly comprehensive summary of some really potent life lessons. Oh, and [Anne Lamott’s book Bird By Bird](http://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/ref=sr_1_1?ie=UTF8&s=books&qid=1249395402&sr=8-1) which really spoke to me. The more I explore the mysteries of creativity the more I understand my own successes and my own miserable, awful failures.
+I’ve been reading a lot lately about the creative process. I thought [Twyla Tharp’s book The Creative Process](https://www.amazon.com/Creative-Habit-Learn-Use-Life/dp/0743235274/ref=sr_1_3?ie=UTF8&s=books&qid=1249395583&sr=1-3) was a great dissection of a hard-working creative’s life and found [Hugh MacLeod’s book Ignore Everybody](https://www.amazon.com/Ignore-Everybody-Other-Keys-Creativity/dp/159184259X/ref=sr_1_1?ie=UTF8&s=books&qid=1249395493&sr=1-1) to be a fairly comprehensive summary of some really potent life lessons. Oh, and [Anne Lamott’s book Bird By Bird](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/ref=sr_1_1?ie=UTF8&s=books&qid=1249395402&sr=8-1) which really spoke to me. The more I explore the mysteries of creativity the more I understand my own successes and my own miserable, awful failures.
 
 So, let’s say I’m writing about something I care about and I happen to have a lot of experience with it. I have days where I can take this great position and make something really compelling. I also have days where everything I type sounds like I’ve read it thirty times before. Moon phases, rising Mercuries, wind speed, and air density all, I’m convinced, play a part in this silly little game I play with my writing so, I’ve decided I’m totally powerless.
 

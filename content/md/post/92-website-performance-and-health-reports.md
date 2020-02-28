@@ -1,12 +1,12 @@
 ---
 title: "Website performance and health reports"
 layout: post
-excerpt: ""
+excerpt: "Without close monitoring and regular reporting, websites run the risk of losing traffic, accumulating errors, and becoming difficult to search."
 date: 2009-06-24 18:00:03
 modified: 2016-10-20 16:44:18
 permalink: website-performance-and-health-reports/index.html
-tags: ["Analytics", "Google Analytics", "Google Webmaster Tools", "Traffic", "Website Health", "Website Performance", "Analytics", "Performance"]
-featured_img: 
+tags: ["Analytics", "Site Optimization"]
+featured_img: /_images/2009/06/analytics-472x472.png
 wpid: 865
 ---
 
@@ -49,5 +49,3 @@ In addition to GA and GWT, other tools should be used to find presentation, brow
 - Web site code should also be validated across the site. Invalid code can lead to accessibility problems, display issues, and on-screen errors.
 - Broken links on the site should be scanned for and corrected on a regular basis.
 - Search engine optimization including keyword strategy, keyword placement, and meta information should be examined and reviewed on a quarterly basis.
-
-**Lost already? [Contact me](/contact) and we can work together to get your site up and running great!**

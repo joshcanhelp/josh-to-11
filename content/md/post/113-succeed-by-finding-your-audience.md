@@ -1,12 +1,12 @@
 ---
 title: "Succeed by Finding Your Audience"
 layout: post
-excerpt: ""
+excerpt: "I think the fundamental issue with many, many websites out there is that few people have identified what activities contribute the most to their bottom line."
 date: 2009-11-09 19:27:33
 modified: 2016-03-30 18:54:49
 permalink: succeed-by-finding-your-audience/index.html
-tags: ["Potential Clients", "Research", "Web Strategy", "Writing For The Web"]
-featured_img: 
+tags: ["Web Strategy"]
+featured_img:
 wpid: 1199
 ---
 
@@ -20,7 +20,7 @@ Many people tell me that their website costs more than it brings in. For many, t
 - The other thing a successful site should be doing is concentrating on the actions that bring in revenue. Helping people find out about what you have to offer is great and, at this point, basically due diligence for all businesses. Identifying what it is that you want to do and where your revenue needs to come from is a critical step to having a site that pays for itself and more.
 
 OK, here’s the straight dope, ready? **I think the fundamental issue with many, many websites out there is that few people have identified what activities contribute the most to their bottom line.** Who buys what you have to sell? Who emails you about your product? Who perks up when you talk about what you do? Who do you really want to work with?  
-  
+
 Here are a few things to think about:
 
 - Do you know who your buyers are? Do you have an idea in your head about who buys your product or hires you? This is critical. If you don’t know who it is you need to talk to then your message will be weak and your efforts unfocused.
@@ -39,5 +39,6 @@ Here’s a few steps to move this process forward. Each of these steps could tak
 
 Sound a bit like stalking? Well, if you’re concentrating on one person then, yes, I imagine this feels a little creepy. But the goal here is to discover a profile of a person, the theoretical client. If you’re not right where your clients are, where are you? Where are your competitors?
 
-I know this is more “brain storm” than “step-by-step” guide to success but I’m much more of a fan of finding your own path. I also find it hard to believe that one persons path to success will work for everyone else. Without a true desire to succeed and the ability to just get out there and try a few things, you’re not going to get anywhere.  
+I know this is more “brain storm” than “step-by-step” guide to success but I’m much more of a fan of finding your own path. I also find it hard to believe that one persons path to success will work for everyone else. Without a true desire to succeed and the ability to just get out there and try a few things, you’re not going to get anywhere.
+
  **Sit down with a laptop and a pad of paper and FIND YOUR AUDIENCE!**

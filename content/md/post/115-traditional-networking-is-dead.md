@@ -1,12 +1,12 @@
 ---
 title: "Traditional networking is dead"
 layout: post
-excerpt: ""
+excerpt: "I think I’ve found my calling: exchanging ideas and talking them through. What’s that pay nowadays?"
 date: 2009-11-19 23:03:37
 modified: 2016-04-01 04:12:24
 permalink: traditional-networking-is-dead/index.html
-tags: ["Networking", "Technology Marketing", "Twitter", "Virtual Networking", "Social Media"]
-featured_img: 
+tags: ["Networking", "Marketing", "Social Media"]
+featured_img: /_images/2009/11/308357541_222d1b2e2a-150x150.jpg
 wpid: 1216
 ---
 
@@ -16,7 +16,11 @@ I think I’ve found my calling: exchanging ideas and talking them through. What
 
 I always like sharing my interactions with people here on my blog. Partly because it adds a really human side to my business and shows prospective clients that I’m more than just an email address. The main reason, though, is it creates a much deeper understanding for me when I write it all out and re-experience the conversation. Like many,[ I need to iterate to understand](/do-it-and-then-do-it-better-an-iterative-mindset/) and it’s easy for me to forget an important insight I came across while interacting with someone else if I don’t work it through after the fact.
 
-[!["network cables" by pascal.charest on Flickr](/_images/2009/11/308357541_222d1b2e2a.jpg "308357541_222d1b2e2a")](http://www.flickr.com/photos/pascalcharest/308357541/)"network cables" by pascal.charest on FlickrSo, this is a “conversation” I had with someone about networking. By conversation I mean it was a transcript of a monologue on his side and an email reply on mine. Quotes are, for the most part, complete and without editing.
+[!["network cables" by pascal.charest on Flickr](/_images/2009/11/308357541_222d1b2e2a.jpg "308357541_222d1b2e2a")](https://www.flickr.com/photos/pascalcharest/308357541/)
+
+<small>[pascal.charest on Flickr](https://www.flickr.com/photos/pascalcharest/308357541/)</small>
+
+So, this is a “conversation” I had with someone about networking. By conversation I mean it was a transcript of a monologue on his side and an email reply on mine. Quotes are, for the most part, complete and without editing.
 
 > With all this networking going on by different business owners you would think we’d all be highly successful. The truth is I don’t think networking works at all, and if and when it does, it is in very few circumstances.
 
@@ -28,7 +32,7 @@ That’s disturbing to me but it makes sense and fits into my experience. It see
 
 > Under most circumstances, networking is highly inefficient, time consuming, and the return for input is miserable if not totally useless. Over the last four years, I can remember two people that referred more than two clients to me over that period. One of them was an attorney that I had never met. The other is a woman who owns a catering service and is really into networking. But that’s it for me.
 
-I can say at least half of my business now has come through interaction through twitter or person-to-person email. [I have great word-of-mouth](http://maps.google.com/maps/place?cid=3819238085794648287&q=josh%2Bcan%2Bhelp), a big virtual network, and people who know me as the go-to guy. Did I network to get them? I’m not sure but I certainly didn’t advertise (in the traditional sense) or market (again, traditionally). I’m branded as Josh Can Help and I answer every question people send me through Twitter or otherwise. **Interaction**.
+I can say at least half of my business now has come through interaction through twitter or person-to-person email. I have great word-of-mouth, a big virtual network, and people who know me as the go-to guy. Did I network to get them? I’m not sure but I certainly didn’t advertise (in the traditional sense) or market (again, traditionally). I’m branded as Josh Can Help and I answer every question people send me through Twitter or otherwise. **Interaction**.
 
 > The only way to gain scale for a business is to have a method to get it out to a lot of people that you’d don’t know. It used to be mass mailing and now it’s the Internet. But with as many eyes and ears that can be reached by the Internet people still do not use it effectively because of a lack of understanding, the time involved, and the expense. That sounds like me.
 
@@ -51,16 +55,27 @@ I threw the question out on Twitter (“Networking is dead… what say you?”) 
 [@DavidandGoliath](http://twitter.com/davidandgoliath)
 
 > That’s a damned lie. :p  
+>
 > Resulted in me being a half-millionaire. //shrugs.  
+>
 > Least on paper. :D But really, networking is everything.  
+>
 > And I don’t mean walking around at dinner parties handing out business cards, either. Or handing out any business cards.  
+>
 > Sitting on twitter \*is\* networking.  
+>
 > The ROI of word of mouth is limitless. Problem is it can bite back in the same way.  
+>
 > And really, it’s a better way to spend time than IM &amp; facebook ;)  
-> Marketing is worthless. Ads don’t get clicked. Branding &amp; interaction pay off.  
+>
+> Marketing is worthless. Ads don’t get clicked. Branding &amp; interaction pay off.
+>
 > Sure, but ‘traditional’ is dead. Again, what we’re doing now is networking. Here, now, twitter.  
+>
 > Life isn’t about making money. Nor should that be the sole reason to meet people, that’d be a boring life.  
-> Me on the beach has more ROI than handing someone a business card.  
+>
+> Me on the beach has more ROI than handing someone a business card.
+>  
 > The problem with traditional channels is there’s too much time spent moving. Instant, scalable and doesn’t interrupt life.
 
 **What do you think about this whole thing? Do you attend events? Is it productive?**

@@ -25,7 +25,7 @@ After reading several articles and a great book, [Deep Work by Cal Newport](http
 
 To that end, [I tried out a digital detox](/digital-detox/) and came away with clarity about the role the internet plays in my life. I’m not hopelessly addicted but every day is undermined in some way by access to endless channels of endless information.
 
-My work as a [software developer of the web variety](/type/gallery/) means I can’t really unplug while I’m working. I also work from home with two kids so the opportunity for distraction and interrupt is constant. **The struggle is real.**
+My work as a software developer of the web variety means I can’t really unplug while I’m working. I also work from home with two kids so the opportunity for distraction and interrupt is constant. **The struggle is real.**
 
 Over the last year, I’ve noticed that my billable hours have gone down and the amount of time I spend learning or building has gone down, but the total time in front of my computer has stayed about the same. In my mind, this represents a big problem; **I’m wasting time in the worst way possible.**
 

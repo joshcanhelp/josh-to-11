@@ -5,7 +5,7 @@ excerpt: "Sometimes it’s the things you don’t see that make the biggest diff
 date: 2009-02-05 16:55:06
 modified: 2016-10-20 16:44:19
 permalink: website-page-titles-how-to-pick-one-and-what-they-are-for/index.html
-tags: ["SEO"]
+tags: ["SEO", "Web Strategy"]
 featured_img:
 wpid: 573
 ---

@@ -1,12 +1,12 @@
 ---
 title: "Tracking your body data to stay motivated"
 layout: post
-excerpt: ""
+excerpt: "One of the hardest things for me to wrap my head around when I started to lose weight was how to actually do it. When the time came to get down to business and start losing the chub, I was lost before I even started."
 date: 2009-08-04 18:40:17
 modified: 2009-08-04 18:40:17
 permalink: tracking-your-body-data-to-stay-motivated/index.html
-tags: ["Body Fat", "Data Tracking", "Excel", "Fitness Tracking", "Spreadsheet", "Weight", "Exercise", "Fitness Data", "Motivation"]
-featured_img: 
+tags: ["Personal Data", "Losing Weight", "Exercise"]
+featured_img:
 wpid: 13
 ---
 
@@ -23,7 +23,7 @@ One of the things I learned from Men’s Health was the concept of keeping track
 General Tracking
 ----------------
 
-There are three types of tracking you’ll want to do, especially when you first start: caloric intake, exercise, and general statistics. The big pain in the ass on that list is caloric intake, a topic I’ll cover in a future post (it’s safe to say that it played a major part in my weight loss then, now, and forever). The other two, general stats and exercise, can be combined together to make things easier. I made a[ simple fitness tracking spreadsheet](/docs/fitness.tracking.xls) you can use (it’s got all my data so you can see how I use it).
+There are three types of tracking you’ll want to do, especially when you first start: caloric intake, exercise, and general statistics. The big pain in the ass on that list is caloric intake, a topic I’ll cover in a future post (it’s safe to say that it played a major part in my weight loss then, now, and forever). The other two, general stats and exercise, can be combined together to make things easier. I made a [simple fitness tracking spreadsheet](/_files/fitness.tracking.xls) you can use (it’s got all my data so you can see how I use it).
 
 What you track is up to you and depends on what you’re doing. I recommend, at minimum, tracking the following:
 
@@ -52,7 +52,7 @@ Is this motivational? **Damn straight it is.** If you’ve never tried it, now i
 Tips and tricks for collecting data
 -----------------------------------
 
-- I think the real power of data comes when you can visualize it so graph that shit! I set my verical axis to include my starting point and my goal so I don’t get an unrealistic view of the information. I also only graph the weekly numbers because those are the only ones that truly matter. You need a couple of weeks to make this worth your while.
+- I think the real power of data comes when you can visualize it so graph that shit! I set my vertical axis to include my starting point and my goal so I don’t get an unrealistic view of the information. I also only graph the weekly numbers because those are the only ones that truly matter. You need a couple of weeks to make this worth your while.
 
 ![tracking-weight-BF-miles](/_images/2009/08/tracking-weight-bf-miles.jpg "tracking-weight-BF-miles")
 

@@ -1,12 +1,12 @@
 ---
 title: "Create a simple website with the Google Docs CMS"
 layout: post
-excerpt: ""
+excerpt: "In attempt to solve one problem, I figured out a way to easily publish and manage data on the web by using a simple Google Documents spreadsheet."
 date: 2009-11-12 20:44:25
 modified: 2016-04-01 04:21:40
 permalink: create-a-simple-website-with-the-google-docs-cms/index.html
-tags: ["Easy CMS", "GDocs CMS", "Google Docs", "Google Docs CMS", "Google Docs RSS", "Crazy Ideas", "Development", "Web Strategy"]
-featured_img: 
+tags: ["Products"]
+featured_img:
 wpid: 1207
 ---
 
@@ -19,13 +19,11 @@ The Google Docs CMS
 
 **Update 5/19/2011:** There was a bug in this script that only allowed for 9 menu options. Apologies for the trouble and this has been corrected. Just download the new package below and replace your index.php with the new one (make sure to update your feed URL).
 
-[**See the GDocs CMS in action!**](/google-docs-cms/?page=home)
-
-[Download the GDocs CMS](/google-docs-cms/?page=download-and-info)
+[Download the Google Docs CMS](/_files/gdocs-cms.zip)
 
 For those not in the know, a CMS is a Content Management System, a web application that lets you add and edit live web content. WordPress, the system I use over-and-over (for good reason), is a CMS and a great one at that. But, in some cases, it is a bit over the top. What if you just needed to publish information without a lot of regard to the intricacies of presentation? That’s where this system comes in.
 
-The Google Docs CMS lets you publish and manage information on the web using just a Google Docs spreadsheet published as RSS (easy to do, I’ll show you how). The script takes each row and turns it into its own page then creates a list of pages on the left. A site example (which serves as documentation) can be seen here: [Google Docs CMS](/google-docs-cms/).
+The Google Docs CMS lets you publish and manage information on the web using just a Google Docs spreadsheet published as RSS (easy to do, I’ll show you how). The script takes each row and turns it into its own page then creates a list of pages on the left.
 
 How do I use it?
 ----------------

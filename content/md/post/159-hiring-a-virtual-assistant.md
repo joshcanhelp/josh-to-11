@@ -6,7 +6,7 @@ date: 2011-07-19 13:47:00
 modified: 2016-10-20 16:44:00
 permalink: hiring-a-virtual-assistant/index.html
 tags: ["Assistant", "Help Josh", "Virtual Assistant", "About JoshCanHelp"]
-featured_img: 
+featured_img:
 wpid: 2405
 ---
 
@@ -26,15 +26,15 @@ The Job
 -------
 
 > It’s time to get a bit more help doing what I’m doing. I’m a freelance web developer, designer, and strategy guy who is looking for someone to help me with client support and some of the minutiae of running a business. Tasks might include:
-> 
+>
 > - Responding to clients and potential clients to set appointments
 > - Doing minimal bookkeeping stuff like expenses, PayPal exports, and invoice tracking
 > - Working with website administration panels to enter content, make changes, and manage certain components
 > - Minimal data entry, spreadsheet parsing, and scanning
 > - Web research and compilation
-> 
+>
 > I’m not sure exactly how to structure this because I may not have a steady number of hours each week. I can do one of two things: you can turn in a time sheet every 2 weeks/month/whatever or I can pay you in advance for a bucket of hours. It’s my hope that within a year or less that I can pay you on a much more regular basis but, for the time being, it has to be as-needed. As such, I’ll assume you have another job or other responsibilities so I’m not going to be calling you at 11pm to do something ASAP; I’m not that guy and I don’t want you or I to have that life.
-> 
+>
 > I’ve listed a few requirements and desirements below. If you aren’t a right fit based on the requirements below, that’s OK, just don’t apply.
 
 Required
@@ -124,6 +124,6 @@ I don’t want to set an hourly rate so I’ll let you tell me what you’d like
 
 Again, just nice to know, no right answer here.
 
-So, that’s the list. and the breakdown. If you have any feedback or experiences you can share, please do let me know in the comments below. If you’re someone that’s applying for the spot, put “**I read your post**!” in the subject line when you answer the question above and you’ll get considered before everyone. If you want to know a bit more about who I am you can read [about me and this company on my about page](/about). I’m also open to questions directly through [my contact form](/contact/ "Contact Me") or in the comments below.
+So, that’s the list. and the breakdown. If you have any feedback or experiences you can share, please do let me know in the comments below. If you’re someone that’s applying for the spot, put “**I read your post**!” in the subject line when you answer the question above and you’ll get considered before everyone. If you want to know a bit more about who I am you can read [about me and this company on my about page](/about).
 
 Thank you in advance!

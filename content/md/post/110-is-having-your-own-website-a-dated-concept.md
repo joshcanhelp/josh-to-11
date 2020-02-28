@@ -1,16 +1,16 @@
 ---
 title: "Is having your own website a dated concept"
 layout: post
-excerpt: ""
+excerpt: "For the record, this is one of the reasons I find immense value in Twitter: exposure to a broad range of opinions on an equally broad range of topics. Since this particular option pertained to what I do, I figured I’d chime in."
 date: 2009-10-20 20:00:13
 modified: 2016-10-20 16:44:17
 permalink: is-having-your-own-website-a-dated-concept/index.html
-tags: ["Facebook", "LinkedIn", "Pevchon", "Posterous", "Twitter", "Websites", "Social Media"]
-featured_img: 
+tags: ["Web Strategy", "Twitter", "Social Media"]
+featured_img:
 wpid: 1167
 ---
 
-# Is having your own website a dated concept
+# Is having your own website a dated concept?
 
 For the record, this is one of the reasons I find immense value in Twitter: exposure to a broad range of opinions on an equally broad range of topics. Since this particular option pertained to what I do, I figured I’d chime in.
 
@@ -21,7 +21,7 @@ Tweet in question:
 Holy crap, I hope not! There goes an income source…
 
 You can gauge (if you couldn’t predict) my first reaction: um, no.  
-  
+
 [![joshcanhelp-tweet](/_images/2009/10/joshcanhelp-tweet.png "joshcanhelp-tweet")](http://twitter.com/joshcanhelp/status/4999881258)
 
 What I’m meaning to say in so few characters is that “having a company website” is like saying “having a steady job,” **it doesn’t say anything specific**. One company website could be a static, 8 page online brochure built poorly in 2002 and not kept up-to-date (but left online for due diligence). Another company website could be a WordPress-based blog site with a Twitter feed, a Flickr feed, a Facebook group widget, and loaded with videos from Youtube. These are both company websites.

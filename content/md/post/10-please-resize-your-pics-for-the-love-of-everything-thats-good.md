@@ -128,4 +128,4 @@ Lastly, choose the save pictures options (**Enlarge if needed** will enlarge any
 
 That’s all you need to make your digital life (and those of others) just a little bit better! Please share this link with anyone you think could use it and, for those “net-challenged” folks, download the PDF, print it, and hand it to them.
 
-[Download this guide as a PDF](/_images/2008/05/JCH_resizing_digi_photos.pdf)
+[Download this guide as a PDF](/_files/JCH_resizing_digi_photos.pdf)

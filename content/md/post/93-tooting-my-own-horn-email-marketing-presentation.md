@@ -1,18 +1,18 @@
 ---
 title: "Tooting my own horn - Email marketing presentation"
 layout: post
-excerpt: ""
+excerpt: "I just recently gave an hour long talk on email marketing titled '6 Questions to Ask Before Sending an Email Campaign.' I thought I’d toot my own horn a bit and post the feedback that I got."
 date: 2009-07-01 18:00:44
 modified: 2016-10-20 16:44:18
 permalink: tooting-my-own-horn-email-marketing-presentation/index.html
-tags: ["Deliverability", "Email", "Email Campaigns", "Email", "Email", "Open Rates", "About JoshCanHelp", "Email"]
-featured_img: 
+tags: ["About JoshCanHelp", "Email"]
+featured_img: /_images/default-img-size-medium.png
 wpid: 871
 ---
 
 # Tooting my own horn - Email marketing presentation
 
-I just recently gave an hour long talk on email marketing titled “6 Questions to Ask Before Sending an Email Campaign \[Piece\].” This was based on two blog posts I made recently. The posts actually came from the presentation preparation so I got to hype them a bit during the talk. I thought I’d toot my own horn a bit and post the feedback that I got.
+I just recently gave an hour long talk on email marketing titled “6 Questions to Ask Before Sending an Email Campaign.” This was based on two blog posts I made recently. The posts actually came from the presentation preparation so I got to hype them a bit during the talk. I thought I’d toot my own horn a bit and post the feedback that I got.
 
 I felt good about it because I felt like I had everyone’s attention. I really wanted to add some value to these folks and introduce them to a few things they had never seen or heard about. I was speaking to college admissions professionals which, for the most part, are expected to be jacks of all trades. Great questions were thrown out there and I was pulled aside a few times before and after by audience members which means I sparked something.
 

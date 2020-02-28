@@ -5,8 +5,8 @@ excerpt: ""
 date: 2010-03-11 21:49:59
 modified: 2016-04-01 04:26:01
 permalink: make-it-simple-focused-high-performance-and-polished-my-web-philosophy/index.html
-tags: ["Build A Web Site", "Facebook", "Site Performance", "Web Philosophy", "About JoshCanHelp", "Agency Process", "Design", "Performance", "SEO"]
-featured_img: 
+tags: ["Build A Web Site", "Facebook", "Site Optimization", "Web Philosophy", "About JoshCanHelp", "Agency Process", "Design", "Site Optimization", "SEO"]
+featured_img:
 wpid: 1471
 ---
 
@@ -20,7 +20,7 @@ I was asked recently by a potential client what my “philosophy of the web” i
 2. Ones that just see the web as another medium to conduct business. Decisions on the web are made the same way any other decision in the business is made. Should we change our health care provider? Should we move our office to another city? [Should we invest time in a Facebook page](/facebook-group-vs-a-blog-whats-a-company-to-do/)?
 3. Ones that have a sincere passion for the web and what it can do for people. These are people who contribute valuable work to open source projects, manage vibrant communities of people, and write about these things because they can’t help themselves.
 
-  
+
 I whole-heartedly fall into the third category; **I love the web and everything it can do**. I’ve been using this crazy conglomeration of pipes and nodes since its birth and have been contributing and building for at least 5 years in various capacities. The [breadth and depth of humanity expressed on the web](http://www.kiva.org/) never ceases to impress me and I’m proud to be a part of this amazing global community by giving where I can and helping others do the same.
 
 Being a designer/developer, I have a unique perspective on the web compared to other small businesses. I know what it looks like under the hood and can tell the difference between a Yugo and a Lexus. I know what works most of the time, what doesn’t work any of the time, and what needs to be explored and tested before putting it in place. I’ve also [worked with many different businesses in many different industries](/wordpress-web-design-portfolio/) and can appreciate different needs and approaches.
@@ -60,7 +60,7 @@ I see three major components to web performance. These are measurable and correc
 
 **1)** **Page load speed –** This is the low-hanging fruit of most sites. I’d estimate that 90% of the sites I come into contact with could have their loading speed improved (mine included but it’s in the upper percentile :) ). A faster site has been proven to increase the number of pages a visitor views (people are more likely to click around and stay on a site that moves quickly) and increase the likelihood someone will share a site with others.
 
-Page loading speed comes down to how many things you’re loading on your page and how large those things are. The less your load, the faster the page. Keep your code small and combined into as few files as possible, optimize your images in an image editor like GIMP or Photoshop, and [load as few external scripts (like share buttons and widgets) as possible](/improving-website-and-wordpress-performance-with-hard-coded-share-buttons/) and you’ll be in good shape. If you need an analysis of what can be done on your site, [contact me](/contact/).
+Page loading speed comes down to how many things you’re loading on your page and how large those things are. The less your load, the faster the page. Keep your code small and combined into as few files as possible, optimize your images in an image editor like GIMP or Photoshop, and [load as few external scripts (like share buttons and widgets) as possible](/improving-website-and-wordpress-performance-with-hard-coded-share-buttons/) and you’ll be in good shape.
 
 **2)** **Search engine optimization (SEO) –** Another piece of web site performance is how well it’s constructed for search engines. On average, about a third of your traffic should be coming from search engines (more if you’re a content-based site like mine). If you’re under 20% then something might be wrong and you may need an analysis.
 

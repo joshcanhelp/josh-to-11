@@ -6,7 +6,7 @@ date: 2009-03-11 19:00:33
 modified: 2016-10-20 16:44:18
 permalink: my-answers-for-the-7-questions-to-ask-a-social-media-expert/index.html
 tags: ["Social Media"]
-featured_img: \_images\2009\02\facebook_logo.png
+featured_img: /_images/2009/02/facebook_logo.png
 wpid: 626
 ---
 

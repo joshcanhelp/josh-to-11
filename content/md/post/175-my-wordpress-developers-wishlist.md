@@ -6,7 +6,7 @@ date: 2012-04-03 20:56:25
 modified: 2016-10-20 16:44:00
 permalink: my-wordpress-developers-wishlist/index.html
 tags: ["Crazy Ideas"]
-featured_img: 
+featured_img:
 wpid: 2731
 ---
 
@@ -84,8 +84,3 @@ So I try to use the XML exporter on a regular basis. This generally works fine b
 Also, media attachments can be tricky. If you copy the while uploads folder over, the site works fine, no broken links, but the galleries on the posts themselves are lost unless you download and attach through the import process which doesn’t work if you’re moving from a local install to a live one.
 
 This is one of those features that is half-way there, which makes it a great candidate to fix!
-
-Hey, are you from Automattic?
------------------------------
-
-If I got your attention, let me know if I can help provide feedback or contribute code towards any of this. I’d love to be a part of fixing something to my specification and it would be a great learning experience to have the WP Gods review and tear apart my code. [Get a hold of me!](/contact)

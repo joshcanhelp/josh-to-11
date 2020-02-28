@@ -6,13 +6,13 @@ date: 2011-11-29 06:16:53
 modified: 2016-10-20 16:44:00
 permalink: analysis-keywords-and-monitoring-3-steps-to-improve-seo/index.html
 tags: ["Analytics", "SEO", "Writing For The Web"]
-featured_img: 
+featured_img:
 wpid: 2574
 ---
 
 # Analysis, Keywords and Monitoring: 3 Steps to Improve SEO
 
-I’ll just say it right up front: the target audience for this post is for business owners and entrepreneurs who are online and understand the importance of optimizing their site for search but aren’t sure where to start. If you’re unconcerned with search traffic, that conversation is for another day. If you’re looking for in-depth topics, start with one of my other [SEO posts](/category/seo/) like [Choosing Keyword Phrases for Site Content](/choosing-keyword-phrases-for-site-content/). You know you’ve got a problem but you don’t know how to correct it. **Don’t worry, Josh Can Help.**
+I’ll just say it right up front: the target audience for this post is for business owners and entrepreneurs who are online and understand the importance of optimizing their site for search but aren’t sure where to start. If you’re unconcerned with search traffic, that conversation is for another day. If you’re looking for in-depth topics, start with one of my other [SEO posts](/tag/seo/) like [Choosing Keyword Phrases for Site Content](/choosing-keyword-phrases-for-site-content/). You know you’ve got a problem but you don’t know how to correct it. **Don’t worry, Josh Can Help.**
 
 [![](/_images/2011/11/steps.jpg "steps")](/?p=2574)Think of yourself at the bottom facing up...Once the SEO bug bites, it’s tough to shake the feeling that you’re not doing something – *or anything* – right. There are stated, universal things one can do to improve ranking but the black-box nature of search engine algorithms makes for a tense situation, especially if you’re already ranking well for a few key terms. Combine this mysterious environment with the stories everyone has about the almighty Google fist striking a site completely off the ranking pages and you have a recipe for abject paranoia.
 
