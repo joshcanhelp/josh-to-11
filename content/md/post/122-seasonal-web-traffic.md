@@ -5,8 +5,8 @@ excerpt: "Does your traffic dip during the holiday season? Don't freak out, it's
 date: 2010-02-26 19:45:36
 modified: 2016-04-01 04:25:16
 permalink: seasonal-web-traffic/index.html
-tags: ["Analytics", "Holiday Traffic", "Seasonal Traffic", "Web Traffic Slump", "Analytics"]
-featured_img: 
+tags: ["Analytics"]
+featured_img:
 wpid: 1453
 ---
 
@@ -23,7 +23,7 @@ Turns out that the significant down-turn cleared itself up by the first non-holi
 ![](/_images/2010/02/seasonal-3.png "seasonal-3")  
 ![](/_images/2010/02/seasonal-4.png "seasonal-4")  
 ![](/_images/2010/02/seasonal-2.png "seasonal-2")  
-  
+
 As you can see, the sites saw a big dip in traffic that came on slowly and recouped immediately after the last holiday weekend. We were quite relieved.
 
 But, still, there was the question of how to potentially prevent this problem in the future. I wanted to figure out if there was some kind of obvious pattern that this dip was following so I looked at the traffic sources for one of the sites (the last graph above). It confirmed my suspicion that we were just seeing an overall decrease in web use:

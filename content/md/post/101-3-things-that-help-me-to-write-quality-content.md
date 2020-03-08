@@ -5,7 +5,7 @@ excerpt: "I am fascinated by how people are able (or unable) to consume the amou
 date: 2009-08-04 19:30:17
 modified: 2016-10-20 16:44:18
 permalink: 3-things-that-help-me-to-write-quality-content/index.html
-tags: ["Blogging", "Writing", "About JoshCanHelp"]
+tags: ["Writing For The Web", "Writing", "About JoshCanHelp"]
 featured_img: /_images/2009/08/eee-writing-150x150.jpg
 wpid: 977
 ---

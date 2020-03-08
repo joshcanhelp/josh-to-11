@@ -5,7 +5,7 @@ excerpt: "This blog is the story of Josh Can Help (dot com) ... how it came abou
 date: 2008-03-24 17:36:55
 modified: 2016-03-30 18:30:19
 permalink: what-is-this-blog-for/index.html
-tags: ["About JoshCanHelp", "Blogging"]
+tags: ["About JoshCanHelp", "Writing For The Web"]
 featured_img: /_images/default-img-size-medium.png
 wpid: 3094
 ---

@@ -5,7 +5,7 @@ excerpt: "I was having coffee at a local coffee shop recently and came across on
 date: 2012-02-15 16:43:25
 modified: 2016-10-20 16:44:00
 permalink: how-to-be-a-better-self-promoter-in-the-creative-industry/index.html
-tags: ["Personal Development", "Marketing"]
+tags: ["Personal Brand", "Marketing", "Community"]
 featured_img:
 wpid: 2708
 ---

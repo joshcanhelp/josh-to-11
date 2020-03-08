@@ -5,7 +5,7 @@ excerpt: ""
 date: 2010-02-03 22:57:50
 modified: 2016-04-01 03:03:59
 permalink: give-someone-a-social-hand-and-write-a-review/index.html
-tags: ["Facebook", "Twitter", "Social Media"]
+tags: ["Facebook", "Twitter", "Social Media", "Community"]
 featured_img: /_images/2010/02/thumbs_up.jpg
 wpid: 1380
 ---

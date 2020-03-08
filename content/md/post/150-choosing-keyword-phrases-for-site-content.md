@@ -5,8 +5,8 @@ excerpt: "A step-by-step guide on how to choose the right keywords for your site
 date: 2011-04-12 15:00:12
 modified: 2016-04-03 02:32:59
 permalink: choosing-keyword-phrases-for-site-content/index.html
-tags: ["Choosing Keyword", "Computing", "Content", "Google", "Google Search", "Keyword", "Keyword Optimization", "Keyword Phrase", "Keyword Phrases", "Keyword Research", "Keyword Stuffing", "Pages", "Phrases", "Search Engine", "Search Engine Keywords", "Search Engine Optimization", "Search Engine Ranking", "Search Engines", "Web Search Engine", "World Wide Web", "Analytics", "SEO", "Web Strategy", "Writing For The Web"]
-featured_img: 
+tags: ["Analytics", "SEO", "Web Strategy", "Writing For The Web"]
+featured_img:
 wpid: 2054
 ---
 
@@ -90,12 +90,12 @@ Once you’ve decided that this is a new concept for your site, it’s time to p
 
 This is one of those tools online that not enough people use (and one that I’m surprised doesn’t cost any money \[hint: they’re trying to sell you AdWords (hint: that might not be such a bad thing)\]). This little application will not only tell you if people are searching for the terms you chose, it will also suggest many others that might be better candidate than your original choice. Here’s what to do:
 
-1. Go to 
+1. Go to
 2. In the “Word or phrase” box, paste the phrases you wrote before (there should be one per line with no extra characters)
 3. The “Only show ideas closely related to my search terms” check box searches for your exact phrases so leave this unchecked if you’re open to suggestions.
 4. The “Advanced Options” link will open up a form to allow you to select other regions and languages, filter by devices (like phones), and set lower or upper limits.
 5. Once you’ve got all the right options entered in, click “Search.” If you left the checkbox in step 3 unchecked, you’re likely to get many different keywords and phrases. The more options you put in the “Word or phrase” box, the more words you’re going to get.
-6. What you’re looking for in a good keyword phrase is a combination of: 
+6. What you’re looking for in a good keyword phrase is a combination of:
   - **Low monthly searches** – if you’re creating a new page and you don’t already have a lot of “SEO juice” on your site, you’ll definitely want to look below 1000 searches per month, probably also below 500. In fact, I like to pick mine from near the bottom of the list because a #1 ranking for a term with 50 searches is going to send a lot more (and specific) traffic than a #20 ranking for a term with 500 searches.
   - **How well it relates to what you’re writing about** – you want this phrase to be directly related to what you’re writing. Don’t chose a phrase that has good numbers if you’re not specifically writing about it. Set that one aside for your next page or post and find one that fits better.
   - **Low competition or CPC** – competition and CPC (cost per click) are both metrics that tell you about paid search. We’re not doing any paid search here but this is a good indicator of how valuable – both generally and monetarily – that search term is.
@@ -107,7 +107,7 @@ This is one of those tools online that not enough people use (and one that I’m
 The last step of this process is using a search engine to make sure you’re not going head-to-head with very tough competition. Ranking for a keyword comes from the words you chose, how well they are positioned in your structure, and everyone else who is trying to do the same.
 
 1. Search your keyword phrase by itself in a search engine
-2. Now, just look over the results. The number of results is less important than the sites that are coming up for the same phrase. The kind of sites you don’t want to compete against are (in order)… 
+2. Now, just look over the results. The number of results is less important than the sites that are coming up for the same phrase. The kind of sites you don’t want to compete against are (in order)…
   1. Big names like Wikipedia, About, Amazon, etc
   2. Government agencies or educational institutions
   3. A long list of sites that are already optimized for this exact phrase (you see your exact phrase appear in bold in the page titles)

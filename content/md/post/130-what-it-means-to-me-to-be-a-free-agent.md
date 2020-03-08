@@ -5,8 +5,8 @@ excerpt: ""
 date: 2010-06-24 22:51:21
 modified: 2016-04-03 02:32:59
 permalink: what-it-means-to-me-to-be-a-free-agent/index.html
-tags: ["Customer Service", "Free Agent", "Freelance", "About JoshCanHelp", "Personal Development"]
-featured_img: 
+tags: ["Customer Service", "Freelancing", "About JoshCanHelp", "Personal Development"]
+featured_img:
 wpid: 1626
 ---
 

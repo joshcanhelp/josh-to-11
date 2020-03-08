@@ -5,7 +5,7 @@ excerpt: "Here is everything I know about creating HTML emails. This is the most
 date: 2008-09-11 18:00:49
 modified: 2016-10-20 16:44:21
 permalink: html-emails-the-last-word-until-everything-changes-again/index.html
-tags: ["Marketing", "Email", "Throwback"]
+tags: ["Marketing", "Email", "Throwback", "Yahoo"]
 featured_img:
 wpid: 233
 ---

@@ -5,7 +5,7 @@ excerpt: "The following computer-based implements have become so essential to me
 date: 2009-02-02 15:00:14
 modified: 2016-10-20 16:44:19
 permalink: free-software-and-websites-that-really-really-really-help-me/index.html
-tags: ["Productivity", "Software", "Freelancing"]
+tags: ["Productivity", "Freelancing"]
 featured_img:
 wpid: 556
 ---

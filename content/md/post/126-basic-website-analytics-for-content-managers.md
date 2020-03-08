@@ -5,8 +5,8 @@ excerpt: ""
 date: 2010-04-22 22:24:03
 modified: 2016-04-03 02:32:59
 permalink: basic-website-analytics-for-content-managers/index.html
-tags: ["Content Management", "Google Analytics", "Pageviews", "Site Analytics", "Site Visitors", "Traffic Analysis", "Analytics"]
-featured_img: 
+tags: ["Content Management", "Analytics"]
+featured_img:
 wpid: 1539
 ---
 

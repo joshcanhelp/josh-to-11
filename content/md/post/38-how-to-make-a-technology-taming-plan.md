@@ -5,7 +5,7 @@ excerpt: "If you like learning how to use things and do it quickly then maybe mo
 date: 2008-09-24 16:01:16
 modified: 2016-10-20 16:44:20
 permalink: how-to-make-a-technology-taming-plan/index.html
-tags: ["Freelancing"]
+tags: ["Freelancing", "Yahoo"]
 featured_img: /_images/2008/07/lp_card_07_final-296x296.jpg
 wpid: 268
 ---

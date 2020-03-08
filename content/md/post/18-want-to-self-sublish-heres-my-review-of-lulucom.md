@@ -5,7 +5,7 @@ excerpt: "I liked Lulu the best from my research and chose them to publish my cl
 date: 2008-07-14 16:00:27
 modified: 2019-01-08 00:16:52
 permalink: want-to-self-sublish-heres-my-review-of-lulucom/index.html
-tags: ["Self-publishing", "Writing"]
+tags: ["Self-publishing", "Writing", "Photoshop"]
 featured_img: /_images/2008/07/lulu_rev_07_sm-150x150.jpg
 wpid: 38
 ---

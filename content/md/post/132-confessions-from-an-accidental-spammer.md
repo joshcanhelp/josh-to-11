@@ -5,8 +5,8 @@ excerpt: ""
 date: 2010-08-10 15:36:19
 modified: 2016-04-03 02:32:59
 permalink: confessions-from-an-accidental-spammer/index.html
-tags: ["Email", "Email", "Opt-in List", "Spam Filter", "Spam Folder", "Email"]
-featured_img: 
+tags: ["Email"]
+featured_img:
 wpid: 1663
 ---
 
@@ -17,7 +17,7 @@ wpid: 1663
 I wrote [a post a long while ago about spam](/spam-what-is-it-what-does-it-do-why-am-i-sending-it-who-cares/). A conversation at a previous employer sparked my thoughts on the matter and, from that conversation forward, I became a nearly-militant anti-spam campaigner. My colleague argued that spam is just junk mail that people don’t want but how do you know if people don’t want it unless you try it out. My argument was that spam is email that was not asked for explicitly. It’s one thing to send a one-to-one email out of the blue, it’s another to send a bulk mailing to people who “probably wouldn’t mind.”
 
 ![](/_images/2010/08/IMG_1305.jpg "IMG_1305")  
-  
+
 Just this last spring I decided I wanted to start sending out a semi-regular email to my clients, friends, and family about my business and how things are going. I wanted to introduce my impending new logo, notify everyone of my change in work situation, and rekindle a few business relationships. I also wanted a reason to comb through my Gmail contacts and classify like a crazy person.
 
 It took me a while to get everything together for this MOMENTOUS OCCASION but I finally had the logo complete, the template written, and my contacts classified. Little did I know that this occasion would be a bit too momentous.

@@ -5,7 +5,7 @@ excerpt: "Sometimes there is an easy way, sometimes there’s just an easIER way
 date: 2008-09-09 20:00:37
 modified: 2016-10-20 16:44:21
 permalink: i-learned-something-today/index.html
-tags: ["Blogging", "Marketing", "Personal Development"]
+tags: ["Writing For The Web", "Marketing", "Personal Development"]
 featured_img:
 wpid: 235
 ---

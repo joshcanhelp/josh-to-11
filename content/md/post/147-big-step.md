@@ -1,11 +1,11 @@
 ---
 title: "Big Step"
 layout: post
-excerpt: ""
+excerpt: "This is the first time I’ve ever had the opportunity to move away from something I really enjoy towards something I expect to enjoy even more. This is also the first time that I won’t have a check appear at a specific time for a specific amount anymore."
 date: 2011-02-25 18:17:41
 modified: 2016-04-03 02:32:59
 permalink: big-step/index.html
-tags: ["About JoshCanHelp", "Crazy Ideas"]
+tags: ["About JoshCanHelp"]
 featured_img:
 wpid: 1809
 ---

@@ -5,7 +5,7 @@ excerpt: "Pull a bill out and look at it really close. The detail is impressive 
 date: 2008-07-29 16:00:10
 modified: 2016-04-03 02:33:18
 permalink: random-design-inspiration-post-1-currency/index.html
-tags: ["Design"]
+tags: ["Design", "Photoshop"]
 featured_img: /_images/2008/07/currency04_pallet-150x150.jpg
 wpid: 42
 ---

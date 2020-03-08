@@ -5,7 +5,7 @@ excerpt: "I was having a virtual conversation with a colleague last week and the
 date: 2009-02-11 16:00:25
 modified: 2016-10-20 16:44:19
 permalink: facebook-group-vs-a-blog-whats-a-company-to-do/index.html
-tags: ["Facebook", "Social Media", "Blogging", "Web Strategy"]
+tags: ["Facebook", "Social Media", "Writing For The Web", "Web Strategy"]
 featured_img: /_images/2009/02/facebook_logo.png
 wpid: 576
 ---

@@ -5,7 +5,7 @@ excerpt: "Here are 10 tools you can use to create a community or social network 
 date: 2011-07-12 12:55:08
 modified: 2016-10-20 16:44:00
 permalink: 10-tools-to-create-your-own-social-media-network/index.html
-tags: ["Community", "Social Network", "Socialgo", "Crazy Ideas", "Web Strategy"]
+tags: ["Community", "Web Strategy"]
 featured_img:
 wpid: 1870
 ---

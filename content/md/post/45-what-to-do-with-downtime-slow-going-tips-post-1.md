@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-10-10 18:00:55
 modified: 2016-10-20 16:44:20
 permalink: what-to-do-with-downtime-slow-going-tips-post-1/index.html
-tags: ["Freelancing", "Email", "Marketing", "Update", "SEO" ]
+tags: ["Freelancing", "Email", "Marketing", "SEO" ]
 featured_img:
 wpid: 334
 ---

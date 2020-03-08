@@ -5,7 +5,7 @@ excerpt: "Here are a few things that I think should exist, with my help or witho
 date: 2015-10-22 19:06:26
 modified: 2016-10-20 16:43:59
 permalink: ideas-1/index.html
-tags: ["Ideas", "Design"]
+tags: ["Ideas", "Design", "Community"]
 featured_img: /_images/2015/10/File-Oct-22-12-03-58-PM-150x150.jpg
 wpid: 3771
 ---

@@ -5,11 +5,9 @@ excerpt: "It took me a long time (4 years) to get to the point where almost ever
 date: 2012-02-24 04:50:59
 modified: 2016-11-02 22:11:00
 permalink: quora-are-cmss-are-more-awkward-than-helpful-a-lot-of-the-time/index.html
-tags: ["WordPress"]
+tags: ["WordPress", "Content Management"]
 featured_img:
 wpid: 3984
-link_to: ""
-citation: ""
 ---
 
 # Quora: Are CMSs are more awkward than helpful a lot of the time?

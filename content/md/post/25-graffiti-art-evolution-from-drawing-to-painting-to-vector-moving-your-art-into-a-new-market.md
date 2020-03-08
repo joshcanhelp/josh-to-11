@@ -5,7 +5,7 @@ excerpt: "If you paint pictures, you can design shirts. If you draw cartoons, yo
 date: 2008-08-04 17:00:08
 modified: 2016-04-03 02:33:18
 permalink: graffiti-art-evolution-from-drawing-to-painting-to-vector-moving-your-art-into-a-new-market/index.html
-tags: ["Graffiti", "Design"]
+tags: ["Graffiti", "Design", "Photoshop"]
 featured_img: /_images/2008/08/graf_step07-150x150.jpg
 wpid: 75
 ---

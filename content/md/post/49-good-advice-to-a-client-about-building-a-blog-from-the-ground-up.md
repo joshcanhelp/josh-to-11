@@ -5,7 +5,7 @@ excerpt: "My honest take on starting a blog from scratch. Do it because you like
 date: 2008-10-23 16:00:39
 modified: 2016-10-20 16:44:20
 permalink: good-advice-to-a-client-about-building-a-blog-from-the-ground-up/index.html
-tags: ["Blogging"]
+tags: ["Writing For The Web"]
 featured_img:
 wpid: 356
 ---

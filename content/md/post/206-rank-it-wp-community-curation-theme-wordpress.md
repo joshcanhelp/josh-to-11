@@ -5,7 +5,7 @@ excerpt: "My latest shipment comes in the form of a premium theme called Rank It
 date: 2015-01-08 17:43:23
 modified: 2020-01-19 22:15:01
 permalink: product-hunt-wordpress-theme/index.html
-tags: ["WordPress"]
+tags: ["WordPress", "Community"]
 featured_img: /_images/2015/01/rank-it-wp-logo-SQ-150x150.png
 wpid: 3637
 ---

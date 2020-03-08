@@ -5,7 +5,7 @@ excerpt: "I started from scratch and made this very simple, lightweight, one-fil
 date: 2009-10-11 22:10:33
 modified: 2019-01-08 00:18:32
 permalink: the-drudge-report-style-3-column-link-page-template/index.html
-tags: ["Products"]
+tags: ["Product"]
 featured_img:
 wpid: 1161
 ---

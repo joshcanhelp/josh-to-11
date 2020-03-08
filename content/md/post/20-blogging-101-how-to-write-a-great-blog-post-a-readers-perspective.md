@@ -5,7 +5,7 @@ excerpt: "By posting a great piece of advice or a guide for someone or your prof
 date: 2008-07-21 15:00:08
 modified: 2013-04-06 22:40:45
 permalink: blogging-101-how-to-write-a-great-blog-post-a-readers-perspective/index.html
-tags: ["Writing", "Blogging"]
+tags: ["Writing", "Writing For The Web", "Community"]
 featured_img:
 wpid: 39
 ---

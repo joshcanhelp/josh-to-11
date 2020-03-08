@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-01-05 18:00:58
 modified: 2016-10-20 16:44:19
 permalink: josh-can-help-brings-you-2009-technology-resolutions/index.html
-tags: ["Tech Resolutions", "About JoshCanHelp"]
+tags: ["About JoshCanHelp"]
 featured_img:
 wpid: 479
 ---
