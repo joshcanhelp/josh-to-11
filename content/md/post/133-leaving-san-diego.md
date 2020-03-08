@@ -1,18 +1,18 @@
 ---
 title: "Leaving San Diego"
 layout: post
-excerpt: ""
+excerpt: "I’m sitting here at LAX wondering how I can communicate how intense this last week has been. I don’t think I can ... and I don’t think it matters. Still, let me share what our final week in San Diego had in store for us. "
 date: 2010-08-13 11:10:23
 modified: 2010-08-13 11:10:23
 permalink: leaving-san-diego/index.html
 tags: ["Paris"]
-featured_img:
+featured_img: /_images/2010/08/IMG_0009-300x300.jpg
 wpid: 4663
 ---
 
 # Leaving San Diego
 
-I’m sitting here at LAX wondering how I can communicate how intense this last week has been. I don’t think I can… and I don’t think it matters. Still, let me share what our final week in San Diego had in store for us. I think you’ll agree: this could have gone much, much worse.
+I’m sitting here at LAX wondering how I can communicate how intense this last week has been. I don’t think I can ... and I don’t think it matters. Still, let me share what our final week in San Diego had in store for us. I think you’ll agree: this could have gone much, much worse.
 
 The little stuff:
 
@@ -34,9 +34,11 @@ Sunday was the official “truck day” and almost everything except the car was
 
 Monday and Tuesday found me working and packing and found Anna cleaning and painting her butt off. By the time she was done with it, our apartment looked better than when we moved in. Part of me felt bad that she got stuck with all the grunt work but then I stopped. Hey, I’m the one working over there!
 
-[![](/_images/2010/08/IMG_0009.jpg "IMG_0009")](/_images/2010/08/IMG_0009.jpg)
+![](/_images/2010/08/IMG_0009.jpg "IMG_0009")
 
-[](/_images/2010/08/IMG_0009.jpg)[![](/_images/2010/08/IMG_0001.jpg "IMG_0001")](/_images/2010/08/IMG_0001.jpg)
+![](/_images/2010/08/IMG_0009.jpg)
+
+![](/_images/2010/08/IMG_0001.jpg "IMG_0001")
 
 Last night was our final dinner in San Diego and we spent it at Starlite, one of my favorite places to… well, just to exist. The inside of this place is so comforting and gorgeous, it’s hard not to have a good time. The Mules help out too (ginger beer, vodka, and bitters in a copper mug).
 
@@ -44,6 +46,6 @@ When we got home, we were dead-set on staying up all night to make sure we were 
 
 Today, however, was really the day to end all days. The feeling was one part school finals (too much to do, not enough time), one part very sad departure (leaving a place and people that have been with me for half a decade), and one part nervous anticipation (new country, unfamiliar language, totally different working situation). All these intense emotions and thoughts and worries worked together to assault me both mentally and physically. Combined with sleep deprivation, soreness from all the heavy lifting, and a crooked spine from the air mattress, I did not feel ready to take on the day. After a great breakfast and a fun ride to LAX with the aforementioned fantastic friend.
 
-[![](/_images/2010/08/IMG_0023.jpg "IMG_0023")](/_images/2010/08/IMG_0023.jpg)
+![](/_images/2010/08/IMG_0023.jpg "IMG_0023")
 
 But, in the end, it all worked out. The apartment looks amazing, almost everything we own is resting quietly in an expensive room in a warehouse, and we’re at the airport, hours ahead of time, waiting to start a brilliant adventure. We planned ahead and our hard-earned karma/kismet/providence got us through the dicey parts. Team Cunningham is, once again, victorious and off to celebrate life elsewhere.

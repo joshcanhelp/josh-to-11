@@ -1,18 +1,18 @@
 ---
 title: "Cause for Alarm?"
 layout: post
-excerpt: ""
+excerpt: "I was informed that Europe was on alert and later learned that the State Department probably would be releasing an alert. A quick news search found countless articles about heightened security, new intelligence, and possible targets."
 date: 2010-10-06 08:44:25
 modified: 2019-06-29 20:49:35
 permalink: cause-for-alarm/index.html
-tags: ["Paris", "Everything Else"]
+tags: ["Paris"]
 featured_img: /_images/2010/10/IMG_0610-1-e1561841352894-150x150.jpg
 wpid: 152
 ---
 
 # Cause for Alarm?
 
-First, I want to thank the people who warned me personally about heightened security in France. This post speaks is about the media and the State Department, not the people who thought of me. I thought I should make that clear in case there was any misunderstanding.
+First, I want to thank the people who warned me personally about heightened security in France. This post is about the media and the State Department, not the people who thought of me. I thought I should make that clear in case there is any misunderstanding.
 
 Unless you’ve been living under a rock (which I have), you’ll know that Europe is at a heightened state of alert for terrorism attacks. I was informed by a few people that the State Department released a warning that Americans traveling abroad should be careful. Actually, that’s incorrect. I was informed that Europe was on alert and later learned that the State Department probably would be releasing an alert. A quick news search found countless articles about heightened security, new intelligence, and possible targets.
 

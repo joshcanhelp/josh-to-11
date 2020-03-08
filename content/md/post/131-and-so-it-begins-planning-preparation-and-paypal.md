@@ -1,12 +1,12 @@
 ---
 title: "And so it begins - planning, preparation, and PayPal"
 layout: post
-excerpt: ""
+excerpt: "I decided to start this little travel blog of sorts to share the newlyweds’ adventures across a few different countries. Imagine my surprise when my very private and, at times, very shy wife seemed almost more excited than I was."
 date: 2010-08-01 19:14:40
 modified: 2010-08-01 19:14:40
 permalink: and-so-it-begins-planning-preparation-and-paypal/index.html
-tags: ["Paris", "Everything Else"]
-featured_img: 
+tags: ["Paris"]
+featured_img: /_images/2010/08/chunnel.jpg
 wpid: 5
 ---
 
@@ -42,7 +42,13 @@ If I sound like I’m complaining, I should assure you that I am but only a litt
 
 Let me digress slightly for a moment to help you understand how truly amazing our modern connected world really is. When we got the address for this apartment, we punched it into Google Maps and literally walked up and down the streets in our neighborhood, making a mental list of all the places we wanted to check out. We found out that we’re just a few blocks from the cafe in Amelie, which is, in turn, just across the street form a charcuterie (aka butcher, kinda) and a fromagerie (aka cheese shop). We’re also just above a creperie. I guess my plan to lose 20 pounds in Europe is out the window… [Want to see it too](http://www.parisattitude.com/apartment.asp?numProduit=3276)?
 
-[![](/_images/2010/08/01_ent-150x150.jpg "01_ent")](/_images/2010/08/01_ent.jpg)[![](/_images/2010/08/03_liv-150x150.jpg "03_liv")](/_images/2010/08/03_liv.jpg)[![](/_images/2010/08/70_ex1-150x150.jpg "70_ex1")](/_images/2010/08/70_ex1.jpg)Other fantastic highlights on the horizon:
+![](/_images/2010/08/01_ent.jpg)
+
+![](/_images/2010/08/03_liv.jpg)
+
+![](/_images/2010/08/70_ex1.jpg)
+
+Other fantastic highlights on the horizon:
 
 - A close friend who lives over there is moving (back) to Imperia, Italy with her fiance. While I was very much looking forward to spending time with her in Paris, this might have to preclude an early exit from France to spend a couple weeks there. I’m sure I’ll get over it.
 - My cousin, Jenn, (aka “the ring bearer’s mom”) was, coincidentally enough, planning a trip to the south of France to work on a farm for a couple of weeks. Nice sounds nice, no? Stupid jokes that have probably been made close to a billion times over the course of time aside, this is very, very exciting!

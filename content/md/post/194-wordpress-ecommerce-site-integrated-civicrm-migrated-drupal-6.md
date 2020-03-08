@@ -5,17 +5,17 @@ excerpt: "A massive undertaking: migrate a popular eCommerce site from unsupport
 date: 2014-02-17 23:16:45
 modified: 2016-10-27 20:14:39
 permalink: wordpress-ecommerce-site-integrated-civicrm-migrated-drupal-6/index.html
-tags: ["Everything Else"]
+tags: ["WordPress"]
 featured_img: /_images/2014/02/Screenshot-2014-11-18-15.16.43-150x150.png
 wpid: 3618
-link_to: "http://hugohouse.org/"
+link_to: "https://hugohouse.org/"
 citation: ""
 ---
 
 # Redesign, Drupal migration, and WooCommerce to CiviCRM Integration
 
 > Working with Josh is a total joy. He makes my life so much easier. He’s able to juggle a variety of time sensitive projects, even when our staff struggle to stay on top of it all! He’s automated a lot of the way in which our CRM and website speak to each other, which has consequently saved us hundreds of staff hours that otherwise would have been dedicated to manual data entry.
-> 
+>
 > *– Kellen Braddock, Business &amp; Operations at Hugo House*
 
 Hugo House, is a non-profit writer’s group located in the Capitol Hill neighborhood of Seattle. Well-known among local writers, Hugo House is a valuable resource staffed with caring, talented staff.
@@ -37,7 +37,7 @@ Working with the on-staff technical contact for the site, we recorded the functi
 In the end, instead of upgrading Drupal (which was on the table), we chose to migrate all relevant content and current users to WordPress and build out a CiviCRM API wrapper for WooCommerce to use. **Easier said than done.**
 
 > My favorite part about working with Josh is how easy and stress-free it is. Because website and database problems tend to be so high stress, I cannot emphasize Josh’s patience and urgency enough. He cares about making our organization successful. Through troubleshooting, he has saved our organization countless hours of staff work time, and has always been willing to define and identify issues, systems repairs, and what we can do to improve as a staff when it comes to our website and database.
-> 
+>
 > *– Richard Chiem, Finance &amp; Evaluation*
 
 For the migration, I wrote up a migration scheme – what content in Drupal becomes what content in WordPress and how it will be redirected – and built the script using WP-CLI. This was the largest migration I had done to date but WP-CLI made the whole thing very straightforward. Posts, pages, and events were mapped to similar content types in WordPress and user and their profile data were passed over as-is.
@@ -99,9 +99,9 @@ Every quarter, almost a hundred new classes are added to the site for purchase. 
 WooCommerce includes a coupon functionality which is great for one-time discounts but Hugo House wanted to offer online gift certificates to be purchased the same way as classes and memberships. We use the WooCommerce Smart Coupons plugin to handle the purchasing side of things and extended the CiviCRM wrapper to record the purchase and redemption of gift certificates separately in the financial reports. Gift certificates are emailed to the purchaser to give to the lucky recipient so purchases are added to a processing queue and an admin is notified regularly if this queue needs to be processed.
 
 > \[Josh is\] fast and quick to inform. If we have a website problem, I know I can completely trust Josh to help me find a solution, and he always does.
-> 
+>
 > *– Richard Chiem, Finance &amp; Evaluation*
 
 > Josh is always willing and happy to explain system repairs and work with us to vision improvements. I wholeheartedly recommend Josh to any prospective clients.
-> 
+>
 > *– Kellen Braddock, Business &amp; Operations at Hugo House*

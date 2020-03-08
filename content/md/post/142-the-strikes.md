@@ -1,12 +1,12 @@
 ---
 title: "The Strikes"
 layout: post
-excerpt: ""
+excerpt: "We saw a strike parade in Dinan, France and it had a good energy to it. People were chanting a bit, walking slowly through the streets, showing their support for the opposition to a change in the retirement age."
 date: 2010-10-14 15:28:58
 modified: 2010-10-14 15:28:58
 permalink: the-strikes/index.html
-tags: ["Paris", "Everything Else"]
-featured_img: 
+tags: ["Paris"]
+featured_img: /_images/2010/10/dinan_protest-300x300.jpg
 wpid: 169
 ---
 
@@ -57,7 +57,7 @@ Well-formed and based on hours of research this opinion is not but I’m glad I 
 
 **RANDOM PHOTO OF PARIS!!!**
 
-**![](/_images/2010/10/IMG_2301.jpg "IMG_2301")**
+![](/_images/2010/10/IMG_2301.jpg "IMG_2301")
 
 **Traveling updates:**
 

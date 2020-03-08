@@ -5,7 +5,7 @@ excerpt: "This week I’ve got some great links about SEO, Twitter, and marketin
 date: 2009-07-24 19:00:00
 modified: 2016-10-20 16:44:18
 permalink: 9-great-web-strategy-links-for-july-24th-2009/index.html
-tags: ["Analytics", "SEO", "Marketing", "Twitter", "Design", Web Strategy"]
+tags: ["Analytics", "SEO", "Marketing", "Twitter", "Design", "Web Strategy"]
 featured_img:
 wpid: 941
 ---

@@ -1,12 +1,12 @@
 ---
 title: "Miles to go before we sleep"
 layout: post
-excerpt: ""
+excerpt: "Paris is a walking city. Someone told me that before I left San Diego and they were completely correct. If you can’t get there by foot, you walk to the Metro and take the train."
 date: 2010-09-17 19:04:40
 modified: 2010-09-17 19:04:40
 permalink: miles-to-go-before-we-sleep/index.html
 tags: ["Paris"]
-featured_img:
+featured_img: /_images/2010/09/IMG_0513-300x300.jpg
 wpid: 115
 ---
 
@@ -43,5 +43,3 @@ Walking through Paris and highlighting roads when we return has become one of my
 ![](/_images/2010/09/space_invaders.jpg "space_invaders")
 
 And so we walk, everyday, until this whole amazing city has felt our footsteps.
-
-[**More pictures here…**](http://www.facebook.com/album.php?aid=214903&id=588768836&l=7bb0abe451)

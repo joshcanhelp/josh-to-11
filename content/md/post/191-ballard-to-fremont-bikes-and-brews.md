@@ -1,12 +1,12 @@
 ---
 title: "Ballard to Fremont - Bikes and Brews"
 layout: post
-excerpt: "A list of the breweries in Ballard and Fremont and a few suggested schedules for the weekend days. "
+excerpt: "A list of the breweries in Ballard and Fremont and a few suggested schedules for the weekend days."
 date: 2013-08-15 04:51:40
 modified: 2013-08-15 04:51:40
 permalink: ballard-to-fremont-bikes-and-brews/index.html
-tags: ["Everything Else"]
-featured_img: 
+tags: ["Seattle"]
+featured_img:
 wpid: 4665
 ---
 
@@ -15,60 +15,60 @@ wpid: 4665
 A list of the breweries in Ballard and Fremont and a few suggested schedules for the weekend days.
 
 **Urban Family Public House**  
-  
+
 5329 Ballard Ave NW  
 Sat: 1 pm – 2 am  
 Sun 11 am – 12 am
 
 **NW Peaks**  
-  
+
 4912 17th Ave NW, Ste B  
 Sat: 2 pm – 8 pm  
 Sun: 12 pm – 6 pm
 
 **Hilliard’s**  
-  
+
 1550 NW 49th St  
 Sat 12 pm – 11 pm  
 Sun 12 pm – 7 pm
 
 **Peddlers**  
-  
+
 1514 NW Leary Way  
 Sat 4 pm – 10 pm
 
 **Reuben’s Brew**  
-  
+
 1406 NW 53rd St, Ste 1A  
 Sun 12pm – 5pm
 
 **Maritime**  
-  
+
 1111 N.W. Ballard Way  
 Sat 11 am – 12 am  
 Sun 12 pm – 9 pm  
 HH 3 – 6
 
 **Populuxe**  
-  
+
 826 B NW 49th St  
 Sat: 2 pm – 9 pm
 
 **Hale’s**  
-  
+
 4301 Leary Way NW  
 Sat 9:30 am – 11 pm  
 Sun 9:30 am – 10 pm  
 HH 9 – 10pm
 
 **Outlander Brewing**  
-  
+
 225 N.36th St  
 Sat 2 pm – 1 am  
 Sun 2 pm – 1 am
 
 **Fremont Brewing**  
-  
+
 3409 Woodland Park Avenue North  
 Sat 11 am – 9 pm  
 Sun 11 am – 8 pm

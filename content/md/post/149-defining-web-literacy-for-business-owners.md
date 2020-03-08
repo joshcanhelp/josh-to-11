@@ -5,8 +5,8 @@ excerpt: "This is a pool of topics that I consider essential for business owners
 date: 2011-03-15 09:00:23
 modified: 2016-04-03 02:32:59
 permalink: defining-web-literacy-for-business-owners/index.html
-tags: ["Basic", "Basic Web", "Business", "Business Owner", "Communication Design", "For Business", "Internet Marketing", "Literacy", "Site Optimization", "Owner", "Owners", "Search Engine Optimization", "Search Engine Optimization Analysis", "Site Structure", "Technology Marketing", "Topic", "Traffic", "Understand", "Web", "Design", "Web Developers", "Web Literacy", "Website", "Websites Business", "Web Strategy"]
-featured_img: 
+tags: ["Marketing", "Site Optimization", "SEO", "Design", "Web Strategy"]
+featured_img:
 wpid: 1828
 ---
 

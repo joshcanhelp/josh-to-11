@@ -12,13 +12,15 @@ wpid: 3226
 
 # PROPER Web Development
 
+> **Please Note**: I sold this company several years after this post and am no longer involved in managing or supporting the products that it sells. 
+
 May 18th of 2012, I decided to take a personal day to figure out what the next steps were, in a general sense, with my professional life. I had spent the last few months listless, intentionally overworked, and doing all the things I know make me less capable – too much coffee, staying logged into email 24/7, not getting any exercise, rarely taking breaks from the computer.
 
 I started a journal exactly a month before this meeting with myself. Professionally, I felt stagnant. I was committed to my clients and still very much enjoyed what I was doing every day. I knew then, as I know now, that working on the web is where I’d be until I died, my crooked hands resting on a trackpad (or whatever newfangled control device we’re using in the future). But something had to change.
 
-So I took a meeting with myself. I blocked off half the day and went to a Starbucks in the Columbia Center downtown (I’m not at all a fan of Starbucks but this place is one of a kind … see above). I turned off my phone, swore off email, and went to work. During this meeting, [PROPER Web Development](http://theproperweb.com) was born.
+So I took a meeting with myself. I blocked off half the day and went to a Starbucks in the Columbia Center downtown (I’m not at all a fan of Starbucks but this place is one of a kind … see above). I turned off my phone, swore off email, and went to work. During this meeting, **PROPER Web Development** was born.
 
-[![proper_banner_1000x250](/_images/2013/04/proper_banner_1000x250.png)](http://theproperweb.com)
+![proper_banner_1000x250](/_images/2013/04/proper_banner_1000x250.png)
 
 What is PROPER Development?
 ---------------------------

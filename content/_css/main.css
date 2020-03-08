@@ -358,23 +358,23 @@ body, .jch-list {
     line-height: 1.1em;
     clear: both; }
   .jch-post--article h1 {
-    font-size: 2em;
+    font-size: 1.9em;
     margin: 0 0 0.5em; }
   
   .jch-post--article h2 {
-    font-size: 1.8em; }
+    font-size: 1.55em; }
   
   .jch-post--article h3 {
-    font-size: 1.6em; }
+    font-size: 1.38em; }
   
   .jch-post--article h4 {
-    font-size: 1.4em; }
+    font-size: 1.25em; }
   
   .jch-post--article h5 {
-    font-size: 1.2em; }
+    font-size: 1.1em; }
   
   .jch-post--article h6 {
-    font-size: 1.1em; }
+    font-size: 1em; }
   .jch-post--article p,
   .jch-post--article ol,
   .jch-post--article ul {
@@ -577,7 +577,7 @@ pre[class*="language-"] {
 .jch-tag {
   display: inline-block;
   padding: 0.5em 0.75em;
-  margin: 0 3px 3px 0;
+  margin: 0 2px 5px 0;
   white-space: nowrap;
   line-height: 1.25em;
   font-size: 0.9em;

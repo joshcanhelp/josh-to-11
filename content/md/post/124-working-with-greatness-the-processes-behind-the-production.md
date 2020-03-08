@@ -5,8 +5,8 @@ excerpt: ""
 date: 2010-04-08 18:45:12
 modified: 2016-03-30 18:47:31
 permalink: working-with-greatness-the-processes-behind-the-production/index.html
-tags: ["Graffiti", "Greatness", "The Opposite Of Greatness", "Vector Illustrations", "Design", "Personal Development"]
-featured_img: 
+tags: ["Graffiti", "Design", "Personal Development"]
+featured_img:
 wpid: 1482
 ---
 
@@ -14,7 +14,7 @@ wpid: 1482
 
 Something interesting happens when you let someone into your life to take care of things you’re unable or unwilling to do for yourself. There’s this fascinating level of intimacy that develops over a short period of time as one aspect of your life or business is cracked open and laid bare before someone else, a person with which you may not already have a relationship.
 
-[![](/_images/2010/04/maxx_painting.jpg "maxx_painting")](/_images/2010/04/maxx_painting.jpg)
+![](/_images/2010/04/maxx_painting.jpg)
 
 In order to fix the leaky pipe, get the car to start, or, in my case, remedy an ailing website, you have to give someone the keys and stand back. We, the service providers, have to get up close and personal with the inner workings of your house/car/website/life to correct the problem. It’s this unintentional close examination of what’s broken and the surrounding area that can tell a distinct story to the people who want to listen.
 

@@ -1,12 +1,12 @@
 ---
 title: "Taking Your First Steps on Twitter: The 30 - 40 - 30 Plan"
 layout: post
-excerpt: ""
+excerpt: "This post is for anyone who just signed up for Twitter and thought, 'OK, now what?' It’s for the businesses and individuals curious about how to get started on Twitter and have fun with it."
 date: 2012-02-26 22:27:10
 modified: 2016-10-20 16:44:00
 permalink: taking-your-first-steps-on-twitter-the-30-40-30-plan/index.html
-tags: ["About JoshCanHelp", "Social Media", "Writing For The Web"]
-featured_img: 
+tags: ["Social Media", "Twitter"]
+featured_img:
 wpid: 2722
 ---
 
@@ -14,7 +14,7 @@ wpid: 2722
 
 This post is for anyone who just signed up for Twitter and thought, “OK, now what?” It’s for the businesses and individuals curious about how to get started on Twitter and have fun with it. This isn’t about ROI, it isn’t about analytics, and it isn’t about strategy. It’s about what I like to create and engage with and, simply, where to start if you’re taking the first step and you’re already lost.
 
-[![](/_images/2012/02/first_steps_on_twitter.jpg "first_steps_on_twitter")](/?p=2722)
+![](/_images/2012/02/first_steps_on_twitter.jpg "first_steps_on_twitter")
 
 As always, I’ll begin with a disclaimer: this isn’t a rulebook. This is just a way to simplify your thinking about what can be done with this active and fascinating social network. I’m of the mind that more people using these networks to communicate, rather than just promote what they’re doing, makes the experience stronger and much more enjoyable.
 

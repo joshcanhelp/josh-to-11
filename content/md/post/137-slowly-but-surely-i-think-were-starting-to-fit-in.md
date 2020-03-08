@@ -1,12 +1,12 @@
 ---
 title: "Slowly but surely, I think we're starting to fit in"
 layout: post
-excerpt: ""
+excerpt: "With a haircut by a French barber and just enough French to get by, I’m claiming honorary (though temporary) status as a Parisian."
 date: 2010-09-06 21:17:41
 modified: 2010-09-06 21:17:41
 permalink: slowly-but-surely-i-think-were-starting-to-fit-in/index.html
 tags: ["Paris"]
-featured_img:
+featured_img: /_images/2010/09/IMG_1293-300x300.jpg
 wpid: 94
 ---
 
@@ -24,7 +24,7 @@ Thankfully, I had the presence of mind to ask someone (a guy with a good haircut
 
 **Apres, un Parisian:**
 
-**![](/_images/2010/09/apres.gif "apres")**
+![](/_images/2010/09/apres.gif "apres")
 
 **Pas mal, oui?**
 

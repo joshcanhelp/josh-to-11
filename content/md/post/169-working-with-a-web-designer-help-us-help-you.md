@@ -6,7 +6,7 @@ date: 2012-01-10 17:54:31
 modified: 2016-10-20 16:44:00
 permalink: working-with-a-web-designer-help-us-help-you/index.html
 tags: ["Design", "Web Strategy"]
-featured_img: 
+featured_img:
 wpid: 2679
 ---
 
@@ -14,9 +14,9 @@ wpid: 2679
 
 I’m a very retrospective person, particularly when it comes to how I do business. I’m always looking back at projects, looking for what I could have done better and making changes to my planning process along the way. During this retrospection, I find myself coming back to the design process far, far more often than any of the other steps. There’s a million reasons why this portion can become so sticky, but that’s only indirectly why I’m writing this. This post is about helping me help you to come up with the best design we possibly can.
 
-[![](/_images/2012/01/mona_lisa.jpg "mona_lisa")](https://www.joshcanhelp.com)
+![](/_images/2012/01/mona_lisa.jpg "mona_lisa")
 
-Design is just one of those things, isn’t it? First of all, it’s hugely relative … to a point. There are rules – alignment, sizing, consistency, contrast, etc – but even adhering to those leaves you with a near-infinite number of combinations of colors, fonts, shapes, photos, and sizes, all of which have fans and foes. What looks clean and elegant to one person can look boring and uninspired to another.
+Design is just one of those things, isn’t it? First of all, it’s relative ... to a point. There are rules – alignment, sizing, consistency, contrast, etc – but even adhering to those leaves you with a near-infinite number of combinations of colors, fonts, shapes, photos, and sizes, all of which have fans and foes. What looks clean and elegant to one person can look boring and uninspired to another.
 
 On top of that, design has to actually do something, it has a goal. Some of the best-looking web sites out there are hard to use, incompatible with various devices, and disturbingly hard to maintain. On the web in particular, looking good is just one component of a long list of requirements.
 

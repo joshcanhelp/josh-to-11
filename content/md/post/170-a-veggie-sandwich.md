@@ -1,14 +1,13 @@
 ---
 title: "A Veggie Sandwich"
 layout: post
-excerpt: ""
+excerpt: "Is there a more polarizing set of words in the English language than “veggie sandwich?”"
 date: 2012-01-14 22:38:03
 modified: 2020-01-19 22:12:08
 permalink: a-veggie-sandwich/index.html
-tags: ["Everything Else"]
-featured_img: 
+tags: ["Nutrition"]
+featured_img:
 wpid: 313
-link_to: "http://www.farmerscookseaters.com/2012/01/veggie-sandwich/"
 citation: ""
 ---
 

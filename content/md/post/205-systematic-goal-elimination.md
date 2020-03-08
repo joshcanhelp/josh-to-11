@@ -5,7 +5,7 @@ excerpt: "Scott Adams: &quot;To put it bluntly, goals are for losers. That’s l
 date: 2015-01-05 15:01:58
 modified: 2016-11-19 23:04:53
 permalink: systematic-goal-elimination/index.html
-tags: ["Exercise", "FFK Pride"]
+tags: ["Exercise", "FFK Pride", "Personal Development"]
 featured_img: /_images/2015/01/IMG_0633_fix01-1-150x150.jpg
 wpid: 378
 ---
@@ -25,7 +25,7 @@ Having achieved a number of things I set out to do (and being proud of myself fo
 Right before starting this post, I read [an article by Scott Adams](http://www.wsj.com/articles/SB10001424052702304626104579121813075903866) that perfectly words how I feel about goals, resolutions, and achievements:
 
 > To put it bluntly, goals are for losers. That’s literally true most of the time. For example, if your goal is to lose 10 pounds, you will spend every moment until you reach the goal—if you reach it at all—feeling as if you were short of your goal. In other words, goal-oriented people exist in a state of nearly continuous failure that they hope will be temporary.
-> 
+>
 > If you achieve your goal, you celebrate and feel terrific, but only until you realize that you just lost the thing that gave you purpose and direction. Your options are to feel empty and useless, perhaps enjoying the spoils of your success until they bore you, or to set new goals and re-enter the cycle of permanent presuccess failure.
 
 The line about “a state of nearly continuous failure that they hope will be temporary” is exactly what I’d like to avoid, a place I’ve been in many times before. That’s why a resolution or a goal is not going to work for what I want to accomplish. I don’t want to exercise in January, I want to do it forever. I don’t want to lose weight for Spring, I want it gone. I don’t want to eat healthy through the Winter, I want to do it for the rest of my life. I need a system that will help me get there and stay there.
@@ -97,22 +97,22 @@ I wrote out a directed journal entry that addressed why I wanted to make these c
 > This is the Josh that will live to 90 rather than 70.  
 > This is the Josh that I can be proud of and feel great about.  
 > This is the Josh that \[my daughter\] can truly look up to.
-> 
+>
 > This won’t be hard, nor arduous, nor feel like torture or restriction or asceticism.  
 > This is a process of gaining, not of losing.  
 > This is a choice I’m making, both willingly and happily.  
 > This is the most important thing that I’ll ever do (again) and I’ll never have to do it again.  
 > This is a gift to myself from myself, not a set of rules being imposed.
-> 
+>
 > That this is something I’ve tried before to little/no avail is irrelevant.  
 > That this is something people more often fail at than succeed is inconsequential.  
 > That this comes at the end of the year and smacks of “resolution” is coincidental.  
 > My belief that the unhealthy things I do is my escape and essential to my happiness is false.
-> 
+>
 > \[…\]
-> 
+>
 > This is not about:
-> 
+>
 > – Keeping my word  
 > – Self-deprecation  
 > – Proving myself to anyone  

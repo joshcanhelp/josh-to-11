@@ -5,7 +5,7 @@ excerpt: "For web development folks in Seattle who want to level up on Sass, SCS
 date: 2015-03-05 19:31:32
 modified: 2016-10-20 16:43:59
 permalink: intermediate-sass-scss-class-seattle/index.html
-tags: ["CSS", "Personal Development"]
+tags: ["CSS", "Personal Development", "Seattle"]
 featured_img: /_images/2015/03/Sass_Logo-150x150.png
 wpid: 3660
 ---

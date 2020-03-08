@@ -37,7 +37,9 @@ But the look of the site was only a part of the work we did together. Alan posts
 
 ![alan-dot-com-post-order](/_images/2015/04/alan-dot-com-post-order.png)
 
-![alan-dot-com-post-ui](/_images/2015/04/alan-dot-com-post-ui.png)We also thought up a few simple ways to make the publishing process faster through a number of controls available when a post is created:
+![alan-dot-com-post-ui](/_images/2015/04/alan-dot-com-post-ui.png)
+
+We also thought up a few simple ways to make the publishing process faster through a number of controls available when a post is created:
 
 - Flag a post as breaking or exclusive
 - Add the post to a specific place on the grid
@@ -46,7 +48,9 @@ But the look of the site was only a part of the work we did together. Alan posts
 - Add an iframe to the post on the single post page
 - Add the post to specific feeds based on the category
 
-![Alan Colmes alan.com mobile](/_images/2015/04/Screenshot-2016-03-30-11.00.36.png)With over a half-million post records in the database and high traffic on breaking and popular stories, we needed to think about how all this would come together and not take the site down. Alan uses a very capable host but a big spike of concurrent users on the homepage could be a problem so I worked in transient query caching through, updated on save events. This means complex content feeds can be used without causing load issues.
+![Alan Colmes alan.com mobile](/_images/2015/04/Screenshot-2016-03-30-11.00.36.png)
+
+With over a half-million post records in the database and high traffic on breaking and popular stories, we needed to think about how all this would come together and not take the site down. Alan uses a very capable host but a big spike of concurrent users on the homepage could be a problem so I worked in transient query caching through, updated on save events. This means complex content feeds can be used without causing load issues.
 
 Recently, we added responsive styling to all pages except the homepage to assist the large mobile audience using the site. We decided on a user agent filter redirecting mobile agents to a specific mobile landing page. We wanted to decrease the load by a lot and rejiggering the homepage to be responsive would have taken quite a bit of work. The mobile homepage loads smaller images and a special header to be quick and easy to scan.
 

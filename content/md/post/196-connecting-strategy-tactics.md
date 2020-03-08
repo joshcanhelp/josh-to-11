@@ -1,11 +1,11 @@
 ---
 title: "Connecting Strategy to Tactics"
 layout: post
-excerpt: ""
+excerpt: "Like a lot of people, I have many, many ideas going on at once and many, many tasks that need my time and attention, both of which are in short supply. Where do I start? What do I do? Where is my direction?"
 date: 2014-04-29 21:45:13
 modified: 2016-10-20 16:44:00
 permalink: connecting-strategy-tactics/index.html
-tags: ["Crazy Ideas", "Design", "Personal Development"]
+tags: ["Design", "Personal Development"]
 featured_img: /_images/2014/03/strategy_process-150x150.jpg
 wpid: 3505
 ---
@@ -14,7 +14,9 @@ wpid: 3505
 
 Like a lot of people reading this post, I have many, many ideas going on at once and many, many tasks that need my time and attention, both of which are in short supply. Recently, I’ve been cleaning up files and cleaning out my [Dropbox](https://db.tt/JsDYt1P) and found countless lists and documents and mind maps signifying repeated attempts to wrap my head around big, complex issues surrounding work, web strategy, and my life in general.
 
-![Screenshot 2014-04-29 14.36.03](/_images/2014/03/Screenshot-2014-04-29-14.36.03-300x190.png)I’m a list addict, I’ve come to terms with that, and I would argue that writing it all down is better than not. I don’t do obsessive digital organizing to remember everything, it’s not memory that’s an issue for me. My hope is that I get it all down on “paper” and these disparate pieces will align themselves and I can find some priority therein. *This is typically a false hope.*
+![Screenshot 2014-04-29 14.36.03](/_images/2014/03/Screenshot-2014-04-29-14.36.03-300x190.png)
+
+I’m a list addict, I’ve come to terms with that, and I would argue that writing it all down is better than not. I don’t do obsessive digital organizing to remember everything, it’s not memory that’s an issue for me. My hope is that I get it all down on “paper” and these disparate pieces will align themselves and I can find some priority therein. *This is typically a false hope.*
 
 After putting everything together on, say, a complete sales strategy for a theme, I end up with this huge list comprising many components, each representing a week or more of work. I feel good about the overall plan but I find myself at a loss of where to start. I could just pick something and go but the lists and plans I end up with are not concrete tasks, they’re concepts and areas of focus.
 

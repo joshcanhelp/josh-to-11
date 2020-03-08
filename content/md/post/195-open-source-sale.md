@@ -1,12 +1,12 @@
 ---
 title: "Why Open Source? Why For Sale?"
 layout: post
-excerpt: ""
+excerpt: "A question I’m often asked by friends and colleagues is how I decide what I sell and what I give away. There’s no formula but there is a rationale."
 date: 2014-04-21 23:11:21
 modified: 2016-10-20 16:44:00
 permalink: open-source-sale/index.html
-tags: ["Agency Process", "Development", "Web Strategy"]
-featured_img: 
+tags: ["Development", "Web Strategy", "Open Source"]
+featured_img:
 wpid: 1786
 ---
 

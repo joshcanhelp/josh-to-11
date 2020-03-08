@@ -4,7 +4,7 @@ layout: post
 excerpt: "Advice to a few friends on learning web development."
 date: 2017-04-12 16:25:00
 permalink: self-teach-or-go-back-to-school/index.html
-tags: ["Development"]
+tags: ["Development", "Open Source"]
 featured_img:
 wpid: 4757
 ---

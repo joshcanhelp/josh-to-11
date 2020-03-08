@@ -5,7 +5,7 @@ excerpt: "I found a group of folks online who committed to launching 1 project p
 date: 2017-02-07 03:43:12
 modified: Last Modified
 permalink: 1ppm-month-1-and-2/index.html
-tags: ["Crazy Ideas", "Development"]
+tags: ["Crazy Ideas", "Development", "Open Source"]
 featured_img: /_images/2017/02/1PPM_Logo.png
 wpid: 4740
 ---
