@@ -5,7 +5,7 @@ excerpt: "This is a summary of an email I sent to someone who wants to get into 
 date: 2015-03-23 00:27:39
 modified: 2016-11-22 17:56:13
 permalink: become-a-wordpress-developer-overnight-after-4-months-of-work/index.html
-tags: ["Development", "Personal Development"]
+tags: ["Development", "Personal Development", "WordPress"]
 featured_img: /_images/2015/03/new-123-150x150.jpg
 wpid: 2428
 ---

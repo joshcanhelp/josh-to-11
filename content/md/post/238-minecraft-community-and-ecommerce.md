@@ -5,7 +5,7 @@ excerpt: "8-month engagement to provide engineering, strategy, code review, pair
 date: 2016-06-11 22:55:47
 modified: 2016-11-17 18:41:55
 permalink: minecraft-community-and-ecommerce/index.html
-tags: ["Everything Else"]
+tags: ["WordPress"]
 featured_img: /_images/2016/06/80-1-150x150.png
 wpid: 4617
 ---
@@ -13,7 +13,7 @@ wpid: 4617
 # Community and eCommerce Site for Massive Minecraft Community
 
 > Josh’s WordPress experience, mentorship and acumen laid a solid foundation for this project and motivated a supportive and empowering work environment for the entire development and design team. It brought me great confidence knowing I could rely on Josh to help navigate such a complex project.
-> 
+>
 > *– Lindsay Shelmire, 8ninths*
 
 This project started in November 2015 with a great meeting in a quirky building on Elliott Avenue here in Seattle, the old home of [8ninths](http://8ninths.com/). I was introduced to their team by a friend I met at Codefellows, [Kyle Warbis](https://github.com/UWarbs). He asked “hey, you know WordPress pretty well, right?” I said yes, and it lead to one of the longest, most fun projects I’ve ever been a part of with one of my favorite teams to date.

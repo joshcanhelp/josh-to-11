@@ -5,7 +5,7 @@ excerpt: "Just in time for an announcement by Microsoft about their HoloLens pro
 date: 2016-03-30 03:25:28
 modified: 2016-11-02 22:10:59
 permalink: 8ninths-site-rebuild/index.html
-tags: ["Everything Else"]
+tags: ["WordPress"]
 featured_img: /_images/2016/04/8ninths-logo-150x150.png
 wpid: 4402
 ---
@@ -13,7 +13,7 @@ wpid: 4402
 # 8ninths Site Rebuild
 
 > The project was challenging due to a condensed timeline and hard launch date. We had to release the website in coordination with the launch of our Holographic Workstation project with Microsoft HoloLens, and also to support inquires about our Mixed Reality and Virtual Reality services. The stakes were high and it came as a great relief to have such a seasoned professional help us with the development.
-> 
+>
 > *– William Lai, 8ninths President*
 
 Designing and building your own stuff is tough, trust me. There is a lot of internal pressure to get it perfectly, exactly, thoroughly correct. Even if you’ve built and designed 1,000 sites before, your own will always be the hardest.
@@ -41,5 +41,5 @@ The team and I stayed focused during the last week before the launch, adding a f
 It was a pleasure to put together such an impressive design for such an impressive team of people. A big congrats on the launch and the announcement!
 
 > It was an absolute pleasure working with Josh on the development and launch of our company’s new website. We couldn’t have asked for a better outcome.
-> 
+>
 > *– William Lai, 8ninths *President**

@@ -5,7 +5,7 @@ excerpt: "A WordPress child theme gone mad! Built-in click statistics, moderatio
 date: 2016-04-01 14:34:48
 modified: 2016-11-02 22:10:59
 permalink: latest-deals-site-built-rank-wp/index.html
-tags: ["Everything Else"]
+tags: ["WordPress"]
 featured_img: /_images/2015/01/rank-it-wp-logo-SQ-150x150.png
 wpid: 4516
 ---
@@ -13,7 +13,7 @@ wpid: 4516
 # Latest Deals Site Built on Rank It WP
 
 > Josh is the developer you’ve been looking for. Easy to work with, professional and punctual. Always communicative, he built a deal sharing platform for us which helped people save money. I would recommend him again and again.
-> 
+>
 > *– Tom Church, founder*
 
 Selling premium WordPress products has been a huge learning experience and a great deal of fun. One of the great side-effects was finding clients who loved the basic theme concept that I was selling but wanted even more functionality. I’ve worked with a number of clients over the years that I’ve met through my product business.

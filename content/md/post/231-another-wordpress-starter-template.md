@@ -5,7 +5,7 @@ excerpt: "This theme is an extension of a framework created for a local agency t
 date: 2016-01-18 20:35:42
 modified: 2016-10-20 16:43:59
 permalink: another-wordpress-starter-template/index.html
-tags: ["Everything Else"]
+tags: ["WordPress"]
 featured_img: /_images/2016/03/default-img-size-large-150x150.png
 wpid: 3892
 ---

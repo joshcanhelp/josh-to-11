@@ -5,7 +5,7 @@ excerpt: "A few details about the current (5th) iteration of this site. "
 date: 2016-04-02 16:58:57
 modified: 2016-11-02 22:10:59
 permalink: redesign-on-joshcanhelp/index.html
-tags: ["Everything Else"]
+tags: ["Design", "About JoshCanHelp", "WordPress"]
 featured_img: /_images/2016/10/IMG_0326-150x150.jpg
 wpid: 4573
 ---

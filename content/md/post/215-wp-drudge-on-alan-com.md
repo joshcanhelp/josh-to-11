@@ -5,17 +5,16 @@ excerpt: "Alan Colmes needed a central hub for his news curation and community s
 date: 2015-04-09 17:44:40
 modified: 2016-10-20 16:43:59
 permalink: wp-drudge-on-alan-com/index.html
-tags: ["Everything Else"]
+tags: ["WordPress"]
 featured_img: /_images/2015/04/Screen-Shot-2015-04-17-at-10.43.54-AM-150x150.png
 wpid: 3692
-link_to: "http://www.alan.com/"
 citation: ""
 ---
 
 # WP-Drudge on Alan.com
 
 > Josh’s work is excellent. He gets it done on time and on budget. And he often comes up with solutions so good, you’re glad you had a problem in the first place. It’s pleasure to work with him.
-> 
+>
 > *– Alan Colmes*
 
 I met Alan Colmes, radio and TV personality, several years ago in that funny way you sometimes meet people online. He was redesigning his site and found my [WP-Drudge](http://wpdrudge.com) template. Alan is the thoughtful, Liberal counterpoint to the loud, Conservative voices in Medialand and so he saw his website as a counterpoint to The Drudge Report. We worked together to build a custom version of the site which served him well for years with regular iterations.
@@ -54,5 +53,5 @@ Recently, we added responsive styling to all pages except the homepage to assist
 Alan has been great to work with and the work on the site has improved load times, pages per session, and time on site.
 
 > With each iteration of my site, the numbers increase, in no small part because of Josh’s work.
-> 
+>
 > *– Alan Colmes*

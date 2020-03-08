@@ -5,7 +5,7 @@ excerpt: "This site was a partial migration from a custom PHP and MySQL applicat
 date: 2015-08-19 19:19:16
 modified: 2016-10-20 16:43:59
 permalink: semi-ecommerce-site-for-a-local-composites-distributor/index.html
-tags: ["Everything Else"]
+tags: ["WordPress"]
 featured_img: /_images/2015/08/pacific-coast-composites-logo-150x150.png
 wpid: 3847
 ---

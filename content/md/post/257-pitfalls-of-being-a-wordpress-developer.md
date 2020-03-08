@@ -5,7 +5,7 @@ excerpt: "Something happens to you as a developer when you start on and stick wi
 date: 2018-07-10 19:28:18
 modified: 2019-06-11 18:24:41
 permalink: pitfalls-of-being-a-wordpress-developer/index.html
-tags: ["Development", "Documentation &amp; Training", "Personal Development", "Best Of"]
+tags: ["WordPress", "Personal Development", "Best Of", "Development"]
 featured_img: /_images/2018/07/IMG_1437-150x150.jpg
 wpid: 4799
 ---
