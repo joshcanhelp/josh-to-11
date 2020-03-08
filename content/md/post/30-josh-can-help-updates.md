@@ -18,7 +18,7 @@ I meant to use this blog as a place to update information about my business and 
 
 ![](/_images/2008/08/joshplate_sm.jpg "Letterpress plate ready to print")
 
-Thanks to Preston Grubbs for a great deal and awesome customer communication. I’ll be giving him official props on here once my cards show up and he gets his website up. Needless to say, I’m very excited. If you’re interested in [cards like mine](/check-sent-business-card-being-pressed-soon/), I can design them and get them printed for a great price.
+Thanks to Preston Grubbs for a great deal and awesome customer communication. I’ll be giving him official props on here once my cards show up and he gets his website up. Needless to say, I’m very excited. If you’re interested in cards like mine, I can design them and get them printed for a great price.
 
 ### Client Success!
 
@@ -34,13 +34,13 @@ On that same note, I was asked to do a live video training on building HTML emai
 
 In the meantime, here are some excellent references:
 
-[How To Code HTML Email Newsletters](http://www.reachcustomersonline.com/2009/01/23/09.27.00/)
+**[How To Code HTML Email Newsletters](http://www.reachcustomersonline.com/2009/01/23/09.27.00/)**
 
 Sitepoint gives a great break-down of how to create HTML emails that most people can read. It covers the necessary table layout, how to use CSS, best-practices, and information on Gmail (which, surprisingly, doesn’t support very much CSS at all).
 
-[HTML Email Tips for Web Designers](http://www.mailchimp.com/blog/html-email-tips-for-web-designers/)
+**HTML Email Tips for Web Designers (gone)**
 
-MailChimp (my new favorite little company) has a great blog that shows off interesting email campaigns and shares best practice information. The link above goes to an entry that gives some great tips for people coding emails. Also [check out their template library](http://www.mailchimp.com/resources/templates/) for some free templates (they need a little bit of work, in my opinion but they’re free and work very well for the most part).
+MailChimp (my new favorite little company) has a great blog that shows off interesting email campaigns and shares best practice information. The link above goes to an entry that gives some great tips for people coding emails. Also [check out their template library](https://mailchimp.com/email-marketing) for some free templates (they need a little bit of work, in my opinion but they’re free and work very well for the most part).
 
 [Word 2007 HTML and CSS Rendering Capabilities in Outlook 2007](http://msdn.microsoft.com/en-us/library/aa338201.aspx)
 

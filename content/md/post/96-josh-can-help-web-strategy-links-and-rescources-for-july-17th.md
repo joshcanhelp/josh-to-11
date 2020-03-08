@@ -27,7 +27,7 @@ There are an unbelievable about of Photoshop (and Illustrator and web design and
 
 > With hundreds of Photoshop tutorial sites around these days it’s easy to forget some of the classic posts that have shaped and inspired the community for years. These kinds of posts are in a sense timeless, and have inspired countless designers (including myself) to begin writing their own tutorials.
 
-## [12 Essential Security Tips and Hacks for WordPress](https://www.webfx.com/blog/web-design/12-essential-security-tips-and-hacks-for-wordpress/")
+## [12 Essential Security Tips and Hacks for WordPress](https://www.webfx.com/blog/web-design/12-essential-security-tips-and-hacks-for-wordpress/)
 
 I’m a big, huge, unrelenting, obnoxious fan of WordPress. The more I learn, the more I love. I’m always looking for ways to improve on what’s there and create a strong, secure, easy-to-use web site for my clients. This article covers both back end changes as well as admin panel changes that can be made in WordPress to make sure you keep people out of your installation. Beginners should concentrate on 1, 4, 5, and 7. If you feel comfortable with any of the rest, do it.
 

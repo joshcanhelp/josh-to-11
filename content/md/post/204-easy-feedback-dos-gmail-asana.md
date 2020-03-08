@@ -1,7 +1,7 @@
 ---
 title: "Easy Feedback To-dos with Gmail and Asana"
 layout: post
-excerpt: "I recently needed feedback on a product I'm creating and wanted to figure out the easiest way to get feedback from contacts who were generous enough to give it. Maybe this will work for you too. "
+excerpt: "I recently needed feedback on a product I'm creating and wanted to figure out the easiest way to get feedback from contacts who were generous enough to give it. Maybe this will work for you too."
 date: 2014-11-18 22:12:19
 modified: 2016-10-20 16:43:59
 permalink: easy-feedback-dos-gmail-asana/index.html
@@ -14,7 +14,7 @@ wpid: 3610
 
 I recently needed feedback on a product I’m creating and wanted to figure out the easiest way to get feedback from contacts who were generous enough to give it. There’s a balance, though, between making feedback as easy as possible to give (a reply to an email is about as easy as it gets) and making it as easy as possible for me to *act on* (easiest, in my world, is an Asana task). I don’t want to make it a pain in the butt to tell me what they found but I also don’t want to waste time parsing out bullet points into tasks. **What’s a guy to do?!**
 
-Asana has a great feature that lets you [add new tasks via email](https://asana.com/guide/learn/tags-email/email-incoming). You get a unique address for a specific project that, when formatted properly, will add tasks for you to complete. Combine this with Gmail filters and you have something great. Here’s how to set it up:
+Asana has a great feature that lets you [add new tasks via email](https://asana.com/guide/help/email/email-to-asana). You get a unique address for a specific project that, when formatted properly, will add tasks for you to complete. Combine this with Gmail filters and you have something great. Here’s how to set it up:
 
 1. Either create a new project in Asana or load an existing one. This will be where your tasks will appear.
 2. Click the down arrow near the project name and select ****Add Tasks by Email****![Screenshot 2014-11-18 13.24.46](/_images/2014/11/Screenshot-2014-11-18-13.24.46.png)
@@ -23,7 +23,7 @@ Asana has a great feature that lets you [add new tasks via email](https://asana.
 5. Click **Forwarding and POP/IMAP**, then click the **Add a forwarding address** button that appears
 6. Paste the email address you got from Asana into the field and click **Next**
 7. Watch your Asana project for a task to appear (takes less than a minute). This is the confirmation email from Gmail to allow the forwarding. Click on the task and look for a long link. Click on that link and you should see the confirmation that the address can be used
-8. The next few steps are optional but a great way to streamline the feedback process 
+8. The next few steps are optional but a great way to streamline the feedback process
   1. Click the **Inbox** link to go back and click the red **Compose** button
   2. Type out a simple, reusable reply text. I used: “Thank you so much for your help with this! I’ve logged your feedback as tasks to complete and will reach out if I have any questions.”
   3. Look for the small down arrow icon next to the trash can on the bottom right. Click that, hover on “Canned responses,” and click **New canned response**

@@ -6,7 +6,7 @@ date: 2017-01-13 04:19:01
 modified: 2018-07-19 04:36:44
 permalink: false
 tags: ["Everything Else"]
-featured_img: 
+featured_img:
 wpid: 4819
 ---
 
@@ -107,4 +107,4 @@ Several pages of printer paper, a stick of mechanical pencil lead, and half an e
 
 Here is a bit more color, literally and figuratively:
 
-[![](/_images/2017/01/AHundredThings.png)](/_images/2018/07/AHundredThings.pdf)
+[![](/_images/2017/01/AHundredThings.png)](/_files/AHundredThings.pdf)

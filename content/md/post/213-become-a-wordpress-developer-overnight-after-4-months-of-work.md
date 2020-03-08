@@ -43,7 +43,7 @@ I’m combining these two together because they’ll serve you well forever rega
 
 Here are a few good resources I’ve found online to start with for HTML and basic CSS:
 
-- [CodeAcademy’s basic walk-through](http://www.codecademy.com/en/tracks/web) – this is definitely step 1. Go through all the exercises and, if you already know it, still review.
+- [CodeAcademy’s basic walk-through](https://www.codecademy.com/learn/paths/learn-how-to-build-websites) – this is definitely step 1. Go through all the exercises and, if you already know it, still review.
 - [Shay Howe’s learn to code HTML &amp; CSS](http://learn.shayhowe.com/html-css/) – this guy writes excellent tutorials
 - [MDN’s HMTL resource](https://developer.mozilla.org/en-US/learn/html) – MDN is excellent for JS so I have to assume they’re the same for HTML. Lots and lots of information here, the more you get through the better. **Edit:** MDN has a “[Learning the Web](https://developer.mozilla.org/en-US/Learn)” starter page that looks great.
 
@@ -88,7 +88,7 @@ Load that in your browser (likely at localhost:8888) and celebrate. I’m not su
 
 Here are a few basic resources for learning PHP:
 
-- [CodeAcademy](http://www.codecademy.com/en/tracks/php)
+- [CodeAcademy](https://www.codecademy.com/learn/learn-php)
 - [Excellent basic reference](http://learnxinyminutes.com/docs/php/) – the entire thing is *in PHP!*
 
 Tips and tricks:

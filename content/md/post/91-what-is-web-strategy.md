@@ -23,7 +23,7 @@ What is Web Strategy?
 
 For all I know, I could be stealing a term from someone else so I apologize if this has been coined in some way before. It’s important to me to know what everyone else thinks about this term as well so **your comments are appreciated** (but, you know, read this post first).
 
-[![Seafaring Cities and Knights of Catan by P M M on Flickr](http://farm3.static.flickr.com/2414/2891448564_cb778cb50b.jpg "Seafaring Cities and Knights of Catan by P M M on Flickr")](http://www.flickr.com/photos/p-m-m/2891448564/)"Seafaring Cities and Knights of Catan" by P M M on FlickrIn one sentence, **web strategy is creating a track-able, improvable, and repeatable plan to achieve a specific goal on the internet.** If I could add another sentence I’d also say that this strategic plan would always seek to provide a clear [return on investment](/advice-to-a-client-dont-just-have-a-great-idea-and-act-on-it-remember-the-bottom-line-too/) and would be simple and (relatively) inexpensive to execute.
+In one sentence, **web strategy is creating a track-able, improvable, and repeatable plan to achieve a specific goal on the internet.** If I could add another sentence I’d also say that this strategic plan would always seek to provide a clear [return on investment](/advice-to-a-client-dont-just-have-a-great-idea-and-act-on-it-remember-the-bottom-line-too/) and would be simple and (relatively) inexpensive to execute.
 
 That sums the term up nicely but there are very important components to creating a plan that works for your specific situation. I’m going to give you my take on the subject and I invite you to help me come up with more components.
 
@@ -58,7 +58,7 @@ Web strategy … is focused on returns
 
 I consider my aesthetic sense very pragmatic. I like looking my best as much as possible but you’ll never see me in a pair of shoes that hurt me throughout the day. I’m also a big car nut but I just wouldn’t enjoy driving a car that isn’t comfortable or one that I was filling up twice a week.
 
-Relating this to [what I do professionally](/resume), **I’m always seeking to place function in front of form in all of things I produce** – documents, websites, logos, etc. I start my designs in a text file mapping out the information structure and the content organization before I ever open Photoshop. An idea of how I want the site to look appears in my head very early but I don’t make that design come to life until I know what the underlying structure will be.
+Relating this to [what I do professionally](/about), **I’m always seeking to place function in front of form in all of things I produce** – documents, websites, logos, etc. I start my designs in a text file mapping out the information structure and the content organization before I ever open Photoshop. An idea of how I want the site to look appears in my head very early but I don’t make that design come to life until I know what the underlying structure will be.
 
 This all relates back to **RETURNS**. Spending money on any kind of web technology before you’re clear on [how that technology can help you achieve your goals](/how-to-make-a-technology-taming-plan/) is wasteful and definitely not strategic.
 

@@ -6,7 +6,7 @@ date: 2011-01-13 14:45:06
 modified: 2016-04-03 02:32:59
 permalink: thoughts-on-web-design-and-development-pricing/index.html
 tags: ["Hourly Rate", "Pricing", "Project Fee", "Website Cost", "Agency Process", "Design", "Development"]
-featured_img: 
+featured_img:
 wpid: 1750
 ---
 
@@ -48,7 +48,7 @@ Back in my shoes (will, house shoes since I work from home) now…
 
 **When I create something, there are two things on my mind**: did I create something great and do I feel like it was worth my time? There is a balance here and the key is choosing the right projects. There are fun projects that help me learn new things and there are projects that pay a lot but are arduous, boring, and tough to produce something I’m really proud of. The key to happiness for a developer is being able to find the fun, lucrative projects that challenge what we know and give us a lot of creative freedom. I want to say something sarcastic to the tune of “too bad there isn’t a fountain of those” but I have a pretty good track record so far. But, again, I digress…
 
-So I want make clients happy while building things that are fun and making sure my bills get paid. It shouldn’t surprise you that these things are very tightly tied together. If I’m having a great time with the project and the people involved, the money that I eventually receive is much less important. Taken to the extreme, this is why I build side projects like the ([Drudge Report website template](/drudge-report-website-template/) or the WP-Drudge WordPress template). Sure, I sell them online but I have complete control and I build what sounds interesting (and the sales don’t quite make up for the time it took). Taken to the other extreme, I have turned down several projects that I know I won’t enjoy and I won’t be proud to display in my portfolio. I’m not interested in trading my finite number of hours on this planet just for cash; there has to be meta-compensation (i.e. pride in workmanship or design, learning a new skill, working with a fun group or person, etc).
+So I want make clients happy while building things that are fun and making sure my bills get paid. It shouldn’t surprise you that these things are very tightly tied together. If I’m having a great time with the project and the people involved, the money that I eventually receive is much less important. Taken to the extreme, this is why I build side projects. Sure, I sell them online but I have complete control and I build what sounds interesting (and the sales don’t quite make up for the time it took). Taken to the other extreme, I have turned down several projects that I know I won’t enjoy and I won’t be proud to display in my portfolio. I’m not interested in trading my finite number of hours on this planet just for cash; there has to be meta-compensation (i.e. pride in workmanship or design, learning a new skill, working with a fun group or person, etc).
 
 I want to make people happy and I want to enjoy what I’m doing. During this love-fest, however, I also have rent and a car payment so I need some income. Being uncreative, I can charge one of two ways: I can charge by the hour or I can come up with an estimate and charge a fixed price. There are, of course, pros and cons to both:
 

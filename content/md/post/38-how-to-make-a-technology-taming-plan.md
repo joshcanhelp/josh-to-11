@@ -141,8 +141,8 @@ Plain and simple, the only way to do this properly is to start at the bottom and
 **Making yourself known** is one half of the equation. There are seemingly infinite ways to gain some ground on this but here is what I’ve been doing:
 
 - Started a blog. Read other blogs, commented on them, linked to my blog.
-- Signed up for Facebook (I know a lot of people on there anyways). Signed up for Twitter (took a while to build any kind of following on there… try following others). Linked the two together.
-- Signed up for LinkedIn. built a great profile, recommended many former co-workers. Now, their counter-recommendations act as [testimonials on this site](/resume).
+- Signed up for Facebook (I know a lot of people on there anyways), signed up for Twitter (took a while to build any kind of following on there… try following others), and linked the two together.
+- Signed up for LinkedIn. built a great profile, recommended many former co-workers. Now, their counter-recommendations act as testimonials on this site.
 - Signed up and spend some time on a few different forums. I try to give at least as much as I ask for.
 - Stay in touch with many people
 

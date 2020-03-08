@@ -14,8 +14,6 @@ wpid: 400
 
 Despite the fact that I’m not the type of person who needs new, cool things all the time, I seem to have found my way to several new electronic devices recently. One of these devices has changed what I do so drastically that it’s my obligation to talk about it.
 
-![](_images/2008/11/eee08_sm.jpg)
-
 ![Asus EEE black](/_images/2008/11/eee07_sm.jpg "ASUS EEE 1000H netbook computer")
 
 I bit the bullet and bought an Asus EEE 1000H (in black) and I’m psyched about it. I’m really uninterested in giving you a walk-through of every little, tiny thing so I offer the now-answered questions that formed pre-purchase, a couple of the drawbacks, and a few things I love about it.

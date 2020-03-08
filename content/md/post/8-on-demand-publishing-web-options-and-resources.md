@@ -117,12 +117,6 @@ This company offers a free software program to layout your book called [BookSmar
 
 The problem I have with this company is that it takes a while to actually figure out what’s going on with their service. This isn’t so much a publishing and distributing service as it is a way to make custom books. You design it, make it with their software, upload it to their server, buy at least one copy, and they display it on their site. They charge you a flat rate for printing (per book) and you keep everything on top of that. It’s all pretty straight-forward, ever if it isn’t really what I’m looking for right now.
 
-A few neat features:
-
-- [They’ll dump your whole blog into a book!](http://www.blurb.com/create/book/blogbook) I’d love to do that with joshisjosh.com.
-- [Cookbooks](http://www.blurb.com/create/book/cookbook)
-- [Portfolios](http://www.blurb.com/create/book/portfolio)
-
 I really like their service but they are a bit expensive. The lowest-cost option is a 20-40 page 7×7 inch square book for $12.95 (not including shipping).
 
 ### …in summary…

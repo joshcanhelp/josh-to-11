@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/joshcanhelp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.joshcanhelp.com
+  * I am joshcanhelp (https://keybase.io/joshcanhelp) on keybase.
+  * I have a public key with fingerprint 8703 9194 46F1 49DD 05BA  772E 7E34 CED3 7442 9737
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "8703919446f149dd05ba772e7e34ced374429737",
+            "host": "keybase.io",
+            "key_id": "7e34ced374429737",
+            "uid": "08c46d10999ef01ff8a59c55b0221b00",
+            "username": "joshcanhelp"
+        },
+        "service": {
+            "hostname": "www.joshcanhelp.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396306170,
+    "expire_in": 157680000,
+    "prev": "41bf5b305e639c4014e4c4c10dde0b52f483e968a3898eb273ba360855273a0b",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.1
+Comment: https://keybase.io/crypto
+
+yMHyAnicbZFfSFRZHMdncjUdxzINUVvWupobYcO59577l0ykF5+iFBzCP8P9c65z
+V713unec0UaNZaWYjH0RwQd9UGjFkMqHbCsfxATtDwYKPUjFCv5JNmZ72M0pST0z
+GOxD5+Wc8/t9vt/v4fxms1IcLmf4RG53Rd1ujfPF9Habo0b4+CVCyKbaQYgRohkl
+N003mpAVsHQjSIgEzwFaIAUIWY2EgqoCRpY4jkIcoqGCVJqDkBI4miPKCL9pJxTY
+RpZs5NFNXMMXn67i6nf4tmQD8ApkVRIIgoA0QGoaLzGCwjAyoChSBiAB2sgypFaE
+6V9M269Ihh+1BIiuMgI3QrqCG5Fk+j4UDoc9/wM9itmKXQKWGTQVswUD/mAwICb0
+wY5AUoBk376VT9YNFf8AFoSQZeumQYgkJpWgnvAmaYGlAUtyoIxA7QHdQj49QTAc
+ywO8EjEohC0hKWuMTAMGsbSgQEBCBBWokEBVEZAZSoM8jQSWl2he4JFMcbQs0Szg
+GQYfJSDjfBtdMUxCpPEzpSZsaetNhhRssxDRNTNd/4PD6XKkpR5IzNDhysj+Ntl/
+ug/u2uudwwMZpWNLVpePvD3Uc99TNLMW02vZqRtE+n+L0dF4+njz/OyhP13Ll/76
+dbf98h/Zd/nOzbSjKz/eqoeZb0qeXn0/nNOz5n1cNxp1fhh6Fhspqiw+u5E/Ql8/
+8/r36MLEfN9OQ6pnNZt7V7tcPQi3Jnm1v/dz6RPqa+657U/OLa47tORav+bdenXY
+8/OYkS+O3VtYbSxMzajyNv/9b4EbFRSLVEuNshJt8G42jlb3ojR1MpeN5Yw/KvyJ
+NU9PVB13bwyfFFMu3Oy76Ds2GIg8jOftTDVk9qt588Jc+cvyjni40n2k4rf4qYXn
+cEDreXunhKCzFh+cd8fm9gAt2hBY
+=y4Zn
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joshcanhelp
+
+==================================================================
+

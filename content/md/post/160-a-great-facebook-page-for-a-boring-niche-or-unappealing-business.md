@@ -6,7 +6,7 @@ date: 2011-08-03 13:55:41
 modified: 2016-10-20 16:44:00
 permalink: a-great-facebook-page-for-a-boring-niche-or-unappealing-business/index.html
 tags: ["Social Media"]
-featured_img: 
+featured_img:
 wpid: 2402
 ---
 
@@ -55,7 +55,7 @@ Oh, and here’s a hint: **the answer to this question is not “everyone.”** 
 **What?**
 ---------
 
-You’re starting off at a disadvantage: you want something, their attention. Problem is, everyone wants their attention and, as you’ve probably noticed as both a producer and a customer, it’s pretty frickin’ noisy out there. You’re breaking through the noise here and you’re not going to be able to do it by shouting louder or doing nothing.
+You’re starting off at a disadvantage: you want something, their attention. Problem is, everyone wants their attention and, as you’ve probably noticed as both a producer and a customer, it’s noisy out there. You’re breaking through the noise here and you’re not going to be able to do it by shouting louder or doing nothing.
 
 Let’s do a little thought experiment. Let’s say everyone you would want to ever connect with suddenly found themselves clicking “Like” on your page. You did it, social media hat trick, incredible. Wait … now what?
 
@@ -74,19 +74,18 @@ Examples of great niche Facebook pages
 
 Advice like this can be tough to put into practice without examples so how about a few?
 
-### Upstage Designs \[[facebook](http://www.facebook.com/pages/Upstage-Designs/207069492652461)\]
+### Upstage Designs - [Facebook](https://www.facebook.com/SeiloStyle/)
 
-[![](http://profile.ak.fbcdn.net/hprofile-ak-snc4/195745_207069492652461_6926089_n.jpg)](http://www.facebook.com/pages/Upstage-Designs/207069492652461)These two great ladies run a growing home staging company here in Seattle. They are definitely a niche business and it would be really easy to just share photos of what they’re doing but that would have a pretty short shelf life. Plus, they already have a portfolio page, no need to turn Facebook into a repeat of the same.
+These two great ladies run a growing home staging company here in Seattle. They are definitely a niche business and it would be really easy to just share photos of what they’re doing but that would have a pretty short shelf life. Plus, they already have a portfolio page, no need to turn Facebook into a repeat of the same.
 
 What you might not know about home stagers is that they are absolutely, positively the best people to know if you need a piece of furniture. You see, along with a knack for making any home look good to any person comes a near-fanatical drive to gather inexpensive but stylish rugs, tables, chairs, shelves, linens, and lamps. Home staging turns you into a Craigslist virtuoso.
 
 So, along with the announcements, photos, and inspirations, Upstage posts Craigslists deals in the Seattle area for really great furniture. From vintage tables to post-modern couches, if it’s an amazing value for something that you’d be proud to show off, they’ll find it. And if you ask nice, they’ll even keep their eyes out for something special for you.
 
-### Equine News Today \[[facebook](http://www.facebook.com/EquineNewsToday)\]
+### Equine News Today - [facebook](https://www.facebook.com/EquineNewsToday)
 
 This Facebook page has grown faster than I’ve ever seen a page grow and, started, literally, from nothing. Equine News Today is run by a guy who, clearly, loves horses and consumes information on all aspects of the industry. He runs a news site for everything horse-related but it’s the Facebook page that is a real thoroughbred. Who knew this niche industry was so enormous? Well, Equine News Today did.
 
 Walk through this page and you see everything from found photos to breaking news, deals, promotions, and quotes. There are videos, links, questions, polls, and everything else under the sun. And people are engaged.
 
-The key, in this case, is being very, very well-informed for no other reason than to stay up on the industry. The person running this page was already consuming a huge amount of news and filtering through it himself; why not share that value with others? He used my [WP-Drudge news aggregation template](http://wpdrudge.com) to build a site to hold this filtered information and a Facebook page to bring more people into his world.
-
+The key, in this case, is being very, very well-informed for no other reason than to stay up on the industry. The person running this page was already consuming a huge amount of news and filtering through it himself; why not share that value with others? He used my WP-Drudge news aggregation template to build a site to hold this filtered information and a Facebook page to bring more people into his world.

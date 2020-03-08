@@ -44,7 +44,7 @@ The other component of deliverability is the spam rating of your email. There ar
 
 Most of these problems can be solved by validating your template code (you can copy and paste it here). Keep it simple: when I code emails I keep the elements to a minimum (**html**, **head**, **body**, **table**, **tr**, **td**, **p**, **b**, **i**, **span**, **a**, and **img**).
 
-[Most Common Span Filter Triggers – MailChimp](http://www.mailchimp.com/blog/most-common-spam-filter-triggers/)
+Most Common Span Filter Triggers – MailChimp (gone)
 
 > TYPING IN ALL CAPS = SCREAMING AND IS RUDE. Don’t type in all caps in your emails, please. Who does that?
 >
@@ -78,7 +78,7 @@ So, how do you break the curve and get better open rates? The benchmark link abo
 
 **Just be honest.** Tell your recipients what they are getting. Being a little more specific:
 
-[Change Up Those Subject Lines – MailChimp](http://www.mailchimp.com/blog/change-up-those-subject-lines/)
+Change Up Those Subject Lines – MailChimp (gone)
 
 > It’s not easy thinking of new subject lines when you’re sending daily or weekly emails. Maybe it’s impossible, and you have to save the good ones for special occasions.
 

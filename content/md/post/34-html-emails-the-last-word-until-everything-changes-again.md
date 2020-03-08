@@ -217,8 +217,6 @@ HTML coding sources
 
 [How To Code HTML Email Newsletters](http://www.sitepoint.com/print/code-html-email-newsletters/)
 
-[HTML Email Tips for Web Designers](http://www.mailchimp.com/blog/html-email-tips-for-web-designers/)
-
 Word 2007 HTML and CSS Rendering Capabilities in Outlook 2007
 
 [Optimising CSS usage for email](http://www.campaignmonitor.com/blog/archives/2005/08/optimizing_css_1.html)

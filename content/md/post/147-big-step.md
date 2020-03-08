@@ -6,7 +6,7 @@ date: 2011-02-25 18:17:41
 modified: 2016-04-03 02:32:59
 permalink: big-step/index.html
 tags: ["About JoshCanHelp", "Crazy Ideas"]
-featured_img: 
+featured_img:
 wpid: 1809
 ---
 
@@ -27,14 +27,14 @@ I’ve been thinking about this move since January. Well, I’ve been thinking a
 The conversation with Mark, the CTO at SMT, was as short and positive as it was difficult to initiate. I explained where I was coming from and that I would stay around as long as they needed to find the coverage. Mark was kind and understanding and wrote the following email to everyone (edited for length and content):
 
 > I want to let everyone know that Josh is looking to reduce the number of hours that he allocates to work with SMT so that he can devote more time to other projects. This isn’t a big surprise. We have always understood that Josh wanted to continue serving other clients besides SMT, and, as our own development needs have expanded, it seemed likely that we would reach a point where we would need more attention than Josh was prepared to give.
-> 
+>
 > But that doesn’t make this any easier. In the \[two\] years that Josh has been with us, he has become central to our success. We’ve come to rely on his good judgment, good humor, and expertise in all the many tasks he handles. Speaking personally, I don’t know how I would have gotten through these last years, or how I will get through the next several, without him.
-> 
+>
 > But I guess we’re going to find out. We’re going to move quickly to recruit a new Josh–or some pale imitation thereof … .
 
 This is the first time I’ve ever had the opportunity to move away from something I really enjoy towards something I expect to enjoy even more. This is also the first time that I won’t have a check appear at a specific time for a specific amount anymore. I’m scared sh\*tless, to be perfectly honest, but I also know that it’s going to work out for the absolute best.
 
-Harder than just stepping out into the unknown, though, is leaving such a dynamic, intelligent, and talented team of people and leaving behind an enormous web property that has my fingerprints all over it. We built something amazing together, something that started without me and will continue without me (at least without my daily toiling). It has been such a pleasure working with everyone there and I’m so excited to see where SMT goes, however I am involved. On that note, if you’re a talented, Drupal-familiar developer with an attention to detail and good communication skills, there’s a [director of development job](http://socialmediatoday.com/Jobs/#DirDev) waiting for you at a great company. Tell Mark that Josh Can Help sent you…
+Harder than just stepping out into the unknown, though, is leaving such a dynamic, intelligent, and talented team of people and leaving behind an enormous web property that has my fingerprints all over it. We built something amazing together, something that started without me and will continue without me (at least without my daily toiling). It has been such a pleasure working with everyone there and I’m so excited to see where SMT goes, however I am involved. On that note, if you’re a talented, Drupal-familiar developer with an attention to detail and good communication skills, there’s a director of development job waiting for you at a great company. Tell Mark that Josh Can Help sent you…
 
 So what’s to come for me now? I’m incredibly excited to start putting more of my time and ability towards some very personal projects which you’ll hear much more about as time goes on. In the meantime, a big thank you to everyone for your patience with my nightmare schedule, your support to make this transition, and your projects that keep me going. I’m looking forward to building a few really incredible things this year as well as writing more, selling more downloads, and **taking more time off**. Oh, and a facelift on this site. And more involvement on social networks. And maybe an ebook.
 

@@ -110,7 +110,7 @@ Though I was a little wary about this part because I don’t have a lot of exper
 
 I was working with an HP Photosmart 2575 All-in-One printer that was network capable (you can plug it right into your home network and print to it from any computer \[theoretically\]). To test it, I downloaded the XP drivers onto my laptop, connected to the network (with a cord), and tried it out. It went through without a hitch and printed like a charm.
 
-Since the customer did not have any ethernet cables on-hand, I offered to leave mine behind. He said he would pick some up the next day so not to worry about it. To set him up to do it on his own, I downloaded the correct HP Vista drivers onto a USB drive and transferred it to his desktop and laptop. [Vista drivers are located here](http://h10025.www1.hp.com/ewfrf/wc/softwareCategory?product=441240&cc=us&lc=en&dlc=en&product=441240).
+Since the customer did not have any ethernet cables on-hand, I offered to leave mine behind. He said he would pick some up the next day so not to worry about it. To set him up to do it on his own, I downloaded the correct HP Vista drivers onto a USB drive and transferred it to his desktop and laptop.
 
 I started the driver install on the desktop and left it at a screen where the computer needed to find the printer. I told him once the cables were plugged in from the desktop to the router and the router to the printer to finish the install and try to print. I left it at that.
 

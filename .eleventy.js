@@ -18,8 +18,6 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.setUseGitIgnore(false);
 
-  eleventyConfig.setTemplateFormats([ 'md', 'css', 'html' ]);
-
   eleventyConfig.addCollection('postsCollection', function(collection) {
     const tmpCollection = collection.getAllSorted();
     return tmpCollection.reverse().filter(function(tpl) {
@@ -64,6 +62,8 @@ module.exports = function(eleventyConfig) {
     dir: {
       input: "content",
       output: "_dist"
-    }
+    },
+    templateFormats: [ 'md', 'css', 'html', 'txt', 'ico', 'png', 'jpg', 'gif', 'htaccess' ],
+    passthroughFileCopy: true
   };
 };

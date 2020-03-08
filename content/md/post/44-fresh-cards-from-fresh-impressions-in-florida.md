@@ -22,7 +22,7 @@ Many iterations, a page orientation change, and many hours bumbling though Illus
 
 All through the design process, I had Preston Grubbs, co-founder of Fresh Impressions printing, on my Google Talk application, talking me through the design, making suggestions, and teaching me about the process. He was helpful, friendly, and a complete professional. We chatted at long length about paper weight, ink color, design elements, and the process in general. I had never met him before, never talked on the phone, but I was already convinced that I would be completely satisfied by the end of the process.
 
-The check was sent, cleared, and cashed, the paper ordered, the plate created, and [pictures to ease my anxiety](/letterpress-cards-cut-packed-and-on-their-way/) about the whole thing. Finally everything was complete and I had a tracking number. Here’s where Preston and his partner really started to shine.
+The check was sent, cleared, and cashed, the paper ordered, the plate created, and pictures to ease my anxiety about the whole thing. Finally everything was complete and I had a tracking number. Here’s where Preston and his partner really started to shine.
 
 When the cards showed up, they weren’t really what I expected. I was new to the process so I may have been confused but I wanted to talk to them about the final product. Preston told me explicitly “BE HONEST” when I told my opinion so I typed out an email detailing my issues. Here was the response:
 

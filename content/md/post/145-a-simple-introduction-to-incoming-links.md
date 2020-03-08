@@ -6,7 +6,7 @@ date: 2010-11-30 16:00:16
 modified: 2016-04-03 02:32:59
 permalink: a-simple-introduction-to-incoming-links/index.html
 tags: ["Hyperlink", "Hypertext", "Incoming Links", "Introduction", "Link Building", "Search Engine", "Search Engine Optimization", "Search Engine Optimization Analysis", "Search Engine Ranking", "Search Engines", "What Is A Link", "Web Strategy"]
-featured_img: 
+featured_img:
 wpid: 1718
 ---
 
@@ -56,7 +56,7 @@ So what kind of links to you want? Here are the best kind of links you can have:
 Other kinds of links are better than nothing and still help your search engine position in aggregate but are secondary to the ones above. For these links, it’s quantity over quality:
 
 - **Links exchanged with other sites**. If you’ve had a website for a while, you’ve probably gotten the email about exchanging links from a random person with their own site. For the most part, this kind of linking is unhelpful to either party but people still ask. Exchange links with friends, colleagues, and clients in or near your industry and ignore the rest.
-- **Links from Twitter and Twitter aggregators**. These move fast, are huge in numbers, and are ethereal in relevance. Links to your site shared on Twitter are a good thing in general but aren’t going to do a lot, directly, for your search engine rank. **Update 12/7/2010:** Just found this great article about [using Twitter to build links](http://socialmediatoday.com/provoke/249585/link-building-twitter)… looks like Twitter can make a difference!
+- **Links from Twitter and Twitter aggregators**. These move fast, are huge in numbers, and are ethereal in relevance. Links to your site shared on Twitter are a good thing in general but aren’t going to do a lot, directly, for your search engine rank.
 - **Links from images**. I’ve read a few views on this but it looks like, in general, images that are linked to your site (i.e. images someone can click on and get to your site) are less important than text links for a variety of reasons, most centering around lack of descriptive text in the image.
 - **Links from site profiles, directories, and blog comments.** These is the trickiest of them all but I put it under “good but not great” for a a few reasons. First, sometimes these links are marked as “no follow,” which means, simply, that it’s not going to help your ranking. Second, sometimes these sites are only viewable to people logged into the site so search engines can’t see them. Third, you don’t always have control over the text for these links so they aren’t going to be strong. Build these link whenever you can but these links, by themselves aren’t going to help much with search engine rank.
 

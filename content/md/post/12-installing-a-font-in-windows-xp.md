@@ -5,7 +5,7 @@ excerpt: "This is a companion to my article I wrote a while back. Here is the qu
 date: 2008-06-06 04:06:18
 modified: 2016-04-01 03:52:13
 permalink: installing-a-font-in-windows-xp/index.html
-tags: ["Fonts", "Throwback", "Windows"]
+tags: ["Fonts", "Throwback"]
 featured_img: /_images/2008/06/font_cp01-150x150.jpg
 wpid: 26
 ---

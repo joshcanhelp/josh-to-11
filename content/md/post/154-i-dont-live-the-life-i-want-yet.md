@@ -6,7 +6,7 @@ date: 2011-06-21 16:01:35
 modified: 2016-10-20 16:44:01
 permalink: i-dont-live-the-life-i-want-yet/index.html
 tags: ["About JoshCanHelp", "Personal Development"]
-featured_img: 
+featured_img:
 wpid: 2218
 ---
 
@@ -16,7 +16,7 @@ I wonder if there is an English word that describes a state of being where you w
 
 **I should mention up-front** that this is neither specifically web-related nor some subtle hint to people. This is about me getting better at managing what I do.
 
-What I’m experiencing these days is a constant feeling of being behind, always at the edge of letting people down. This is a heavy burden for me to bear because I have an acute sense of accountability combined with a [portfolio of clients](/wordpress-web-design-portfolio/) that I’m committed to and enjoy helping. I find myself rushing through things instead of taking my time and enjoying the process, falling back on what I know I can do instead of taking the time to learn an advanced technique, putting off “extemporaneous” things like family, friends, and time off in an effort to catch up with something that’s running 10% faster than I am.
+What I’m experiencing these days is a constant feeling of being behind, always at the edge of letting people down. This is a heavy burden for me to bear because I have an acute sense of accountability combined with a portfolio of clients that I’m committed to and enjoy helping. I find myself rushing through things instead of taking my time and enjoying the process, falling back on what I know I can do instead of taking the time to learn an advanced technique, putting off “extemporaneous” things like family, friends, and time off in an effort to catch up with something that’s running 10% faster than I am.
 
 I’m tempted to point the finger directly at email, with a sideways glance at Skype. The Terrible Twosome of communication, these two have a way of wreaking havoc on a potentially productive period of time. But you can’t place blame on something you’ve allowed to misbehave so poorly; you can’t blame a 3-year-old for burning down a fifth house if they were never disciplined properly after the first.
 
@@ -38,7 +38,7 @@ I keep coming back to email and communication in general but there are a few “
 
 - Some of it is keeping up-to-date on current technology. This excuse only goes so far because I could do this all day every day and still not be completely up to date. Clearly, the issue is prioritizing, which I actually do fairly well here.
 - Some of it is working on [projects that will serve me in the long term](/getscientific-is-alive/ "It Actually Happened – GetScientific is Alive!"). These are, again, projects I could put long hours in on every day and be happy as a clam but, at the moment, they aren’t generating the income needed to support us.
-- Some of it is keeping the pipeline full, current clients happy, and [WP-Drudge](/wp-drudge-wordpress-news-aggregation-theme) users question and bug-free. Sales is fun for me because I believe in the product (sites that I create, rebuild, or improve) and I like talking to people I know I can help. Client support is great too for the same reason as sales. The WP-Drudge project was my second foray into making something that would generate income based on previous work and the users have been a lot of fun to get to know. Put these all together, though, and that’s an immense amount of time on the phone and over email and something that would be tough to farm out.
+- Some of it is keeping the pipeline full, current clients happy, and users question and bug-free. Sales is fun for me because I believe in the product (sites that I create, rebuild, or improve) and I like talking to people I know I can help. Client support is great too for the same reason as sales. The WP-Drudge project was my second foray into making something that would generate income based on previous work and the users have been a lot of fun to get to know. Put these all together, though, and that’s an immense amount of time on the phone and over email and something that would be tough to farm out.
 - Some of it is boring, annoying, but satisfying and critical admin work: taxes, bills, scheduling, banking, etc.
 - Some of it, of course, is good old-fashioned online goofing off. I check popurls.com at least twice a day (mostly just the Reddit headlines) and can easy follow a path out from that site to many, many others. I get sidetracked with useless organization projects on my computer (sometimes these pay off, sometimes they are a complete waste) and do silly things like take breaks (I know, what the hell?). Some days are worse than others but I’m grateful that I can’t spend half of a day screwing around on the internet like I used to.
 

@@ -5,8 +5,8 @@ excerpt: ""
 date: 2010-08-13 11:10:23
 modified: 2010-08-13 11:10:23
 permalink: leaving-san-diego/index.html
-tags: ["Paris", "Everything Else"]
-featured_img: 
+tags: ["Paris"]
+featured_img:
 wpid: 4663
 ---
 

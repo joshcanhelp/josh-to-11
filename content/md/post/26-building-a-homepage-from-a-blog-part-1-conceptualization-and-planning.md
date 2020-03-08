@@ -38,7 +38,7 @@ Let’s nail down what I’m trying to do with this project (keep in mind that I
 - The clients that I want/expect are not going to be greatly technologically savvy. As such, everything needs to be easy to use and easy to find. Form MUST take a back seat to function; this is not so much a creative outlet as it is a funnel for the technologically challenged.
 - Because I like to write and my writing brings clicks and new people, the blog feed needs to be prominent on the site and be an integral part of the process. I want to post news, happenings, hirings, new projects, completed projects, design inspiration, and how-to guides. Anything new added to the site will likely end up being posted on my blog at the same time.
 - I need a portfolio to put my completed work and anything extra that I do for myself. There are a few different types of work that I do and each one needs a bit different type of “gallery”
-- I need a place for my resume ([I have a page for now](/resume)). This includes experience, qualifications, mad skills, recommendations from LinkedIn, and completed projects.
+- I need a place for my resume. This includes experience, qualifications, mad skills, recommendations from LinkedIn, and completed projects.
 - The site needs to generally match [the style of my business card](/new-new-business-card-design-the-process-feedback/). Either white or off-white background with a concentration on typography and simplicity. My target audience is not designers or tech-savvy people so I want a layout that’s very easy to use and visually appealing.
 
 **Skeleton Styles**

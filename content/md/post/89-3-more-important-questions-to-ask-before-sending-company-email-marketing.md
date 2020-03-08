@@ -92,8 +92,6 @@ I’ll say, right at the beginning of this one, **if you’re not spending the b
 
 How about animated GIFs. Did I seriously just recommend that?
 
-[Animated GIFs in Email – MailChimp](http://www.mailchimp.com/blog/trend-watch-animated-gifs-in-email/)
-
 At first a thought “oh crap… please no” but I saw these creative uses and thought twice:
 
 Most Inspired Use of Animated GIFs – The Retail Email Blog (the Land’s End campaign)
@@ -102,7 +100,7 @@ Should you use them? I’d say try them out but watch the file size. Also, make 
 
 How about videos in email? Not many clients will allow an actual email to be embedded (major security concerns) but there are a few options if you have a compelling video you want to share.
 
-[Video email update: can you embed them? – Email Marketing Reports](http://www.email-marketing-reports.com/iland/2008/09/video-email-update-can-you-embed-them.html)
+**Video email update: can you embed them? – Email Marketing Reports (gone)**
 
 > - Put the video up on a website.
 > - Take a screenshot of the video player in action.
@@ -115,8 +113,6 @@ Using Email to Make “Friends” – Smith-Harmon
 > In order to receive any information on the special offer, you need to click through to Perry Ellis’s facebook or twitter pages. Once there, you are able to view a variety of special offers, including promo codes, new arrival information and more.
 
 Last but not least, here are a few tweaks to work into your next email template. Try them out and see if your stats improve.
-
-[Enticing Subject Lines Are Not Enough – MailChimp](http://www.mailchimp.com/blog/enticing-subject-lines-are-not-enough/)
 
 - Pre-header information for email previews (The very first readable text that appears in your email will also appear in the summary line in certain email programs; make sure yours is clear, informative, and useful)
 - List your intentions right away, numbered list, table of contents (Have three things to say? Bullet point them at the beginning)

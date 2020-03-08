@@ -91,7 +91,7 @@ Everything that worked last month has been carried over into February with a few
 
 - I edited my mantra down to the items above and added a few more things to think about (see below)
 - I changed the scoresheet a bit to reflect my natural progression during the day; this is likely something I’ll be doing every new month
-- I signed up for 2 cycling events this year, the [Chilly Hilly](http://www.cascade.org/chillyhilly) in a few weeks (short 33 mile ride around Bainbridge) and the [Flying Wheels Century](http://www.cascade.org/ride-major-rides/alaska-airlines-flying-wheels-summer-century) at the end of May (100-mile ride on the Eastside, one I missed last year); impending pain and suffering due to insufficient training seems to be a good motivator for me
+- I signed up for 2 cycling events this year, the [Chilly Hilly](http://www.cascade.org/chillyhilly) in a few weeks (short 33 mile ride around Bainbridge) and the [Flying Wheels Century](https://www.cascade.org/rides-and-events-major-rides/flying-wheels) at the end of May (100-mile ride on the Eastside, one I missed last year); impending pain and suffering due to insufficient training seems to be a good motivator for me
 
 The big change, though, is a concentration on a new way of thinking for me.
 

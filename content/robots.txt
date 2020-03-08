@@ -1,0 +1,7 @@
+# BEGIN XML-SITEMAP-PLUGIN
+Sitemap: http://www.joshcanhelp.com/sitemap.xml
+# END XML-SITEMAP-PLUGIN
+
+User-agent: *
+Disallow: /test/
+Disallow: /wp-admin/

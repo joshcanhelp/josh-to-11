@@ -1,22 +1,20 @@
 ---
 title: "I see London, I see France"
 layout: post
-excerpt: ""
+excerpt: "Determined to make the most of our time in London, we dug the sweaters and raincoats from the bottoms of our suitcases and bravely ventured into the cold and rain. We did as the locals and drank room temperature pints on mid-afternoon sight-seeing breaks."
 date: 2010-08-21 07:24:54
 modified: 2010-08-21 07:24:54
 permalink: i-see-london-i-see-france/index.html
-tags: ["Paris", "Everything Else"]
-featured_img: 
+tags: ["Paris"]
+featured_img: /_images/2010/08/IMG_0195_sm-300x300.jpg
 wpid: 59
 ---
 
 # I see London, I see France
 
-**Note: Several of our favorite pictures here but [more can be seen on this page](http://www.facebook.com/album.php?aid=193340&id=588768836&l=838d0d2076) (you don’t need an account)**
-
 Today \[written 8/18\] marks the first day we’ve seen the sun since we arrived last Thursday. I mistakenly was expecting August in London and Paris to be like, well, summer. How wrong I was. In place of the anticipated heat and humidity, we were welcomed at Heathrow by weather no different than that of a chilly Seattle October.
 
-Determined to make the most of our time in London, we dug the sweaters and raincoats from the bottoms of our suitcases and bravely ventured into the cold and rain. After a quick stop at our local pub for a pint and some pie and chips, we hopped the Piccadilly line to Hyde Park Corner. Pubs in London, by the way, are about as common a sight as coffee shops in Seattle. You will, however, be met with a quizzical look from your barkeep should you try to order anything other than a bitter, lager or ale, as apparently all British beers fall into only these three categories. Josh tried to order a hefewiezen and was asked, “Is that a bitter or a lager?” So we did as the locals and drank room temperature pints on mid-afternoon sight-seeing breaks.
+Determined to make the most of our time in London, we dug the sweaters and raincoats from the bottoms of our suitcases and bravely ventured into the cold and rain. After a quick stop at our local pub for a pint and some pie and chips, we hopped the Piccadilly line to Hyde Park Corner. Pubs in London, by the way, are about as common a sight as coffee shops in Seattle. You will, however, be met with a quizzical look from your barkeep should you try to order anything other than a bitter, lager or ale, as apparently all British beers fall into only these three categories. Josh tried to order a hefeweizen and was asked, “Is that a bitter or a lager?” So we did as the locals and drank room temperature pints on mid-afternoon sight-seeing breaks.
 
 ![](/_images/2010/08/IMG_0123.jpg "IMG_0123")
 
@@ -42,8 +40,6 @@ Despite leaving an hour before we had to be at St. Pancras station to catch the 
 
 \*\*We spent about 40 minutes at customs at Heathrow airport trying to convince the agent that we weren’t going to try to stay in Europe indefinitely. We had thought it would be a clever idea to wait to buy one-way tickets home so we could leave whenever we want to (within our intended 3 months, of course). In hindsight, however, it is now quite evident how suspicious this could appear to a foreign customs agent. He let us through, only because we had Eurostar tickets to Paris, with the admonition that we buy return tickets back to the US before we encounter the French customs agents at the train station on Sunday. They are much more stringent about whom they allow into their country, says he, and we will almost certainly be turned away unless we can prove we have plans to leave eventually. So, Saturday night, we reluctantly chose a date to fly home, bought our tickets and printed the proof for our impending visit with French customs. And on Sunday, before we boarded the Eurostar, we approached the customs agent window, passports in hand and ready for a lengthy chat. The agent no more than glanced at our photos, and without a word gave each of our passports a quick European Union stamp and sent us on our way. We both looked at each other like, “That was it?” Better safe than sorry, I guess.
 
-**Again [more photos here.](http://www.facebook.com/album.php?aid=193340&id=588768836&l=838d0d2076)**
-
 *Added by Josh: We’re safe and sound in Paris getting settled and trying terribly hard not to look like tourists. We’ll catch you up on the situation here this weekend complete with pictures of our place! As a teaser, here is the view:*
 
-*![](http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs003.snc4/33504_415583853836_588768836_4808857_4467205_n.jpg)*
+![](/_images/2010/08/paris_apartment_view.jpg)

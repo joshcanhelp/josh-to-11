@@ -6,7 +6,7 @@ date: 2010-05-27 20:03:30
 modified: 2016-04-03 02:32:59
 permalink: laymans-intro-to-semantic-web-web-3-0-ontology-rdfa/index.html
 tags: ["Ontologies", "RDF", "RDFa", "Semantic Web", "SPARQL", "Web 3.0", "SEO"]
-featured_img: 
+featured_img:
 wpid: 1596
 ---
 
@@ -59,7 +59,8 @@ Once these types of connections are made, context and information can be given t
 Think about this like Facebook for EVERYTHING (it shouldn’t be a surprise that Facebook is adopting this semantic way of processing). There are many things you can do on Facebook but it’s limited by what the software will let you do. You can friend people, like pages, like posts, say things, add apps, and more. Each action, however, is defined by the system. You can’t “not like” things, for example. There are a limited number of things you can do because you’re interacting with a machine.
 
 This is a fairly basic description of the semantic web but I hope it helps you wrap your head around where this is going. If you need a bit more (along with potential downsides to this system), watch this excellent short film by Kate Ray:  
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="300" width="400"><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="src" value="http://vimeo.com/moogaloop.swf?clip_id=11529540&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1"></param><embed allowfullscreen="true" allowscriptaccess="always" height="300" src="http://vimeo.com/moogaloop.swf?clip_id=11529540&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1" type="application/x-shockwave-flash" width="400"></embed></object>
+
+<iframe src="https://player.vimeo.com/video/11529540" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 [Web 3.0](http://vimeo.com/11529540) from [Kate Ray](http://vimeo.com/kateray) on [Vimeo](http://vimeo.com).
 
@@ -97,7 +98,7 @@ I’m writing about this stuff as though it was set in stone and an impending gl
 
 To keep things brief (finally), I’ll say this: In a perfect world, this system would drastically improve how the web functions. In the real world, I’m not sure how we’re going to get there.
 
-Also, a summary of a [comment ](http://socialmediatoday.com/SMC/200945#17441)I left on a post that led me to the video above:
+Also, a summary of a comment I left on a post that led me to the video above:
 
 > On the web, these semantic relationships would have to be almost effortless to create or else the only relationships that would be expressed would be ones surrounding the organizations that have the resources and the motivation to create these links, i.e. businesses that benefit from, say, the SEO improvement or organizations that did it just because it’s the right thing to do. The rest, blithely making connections, creating content, and generally adding to the web (just like right now) would not be bothered.
 

@@ -6,7 +6,7 @@ date: 2011-07-12 12:55:08
 modified: 2016-10-20 16:44:00
 permalink: 10-tools-to-create-your-own-social-media-network/index.html
 tags: ["Community", "Social Network", "Socialgo", "Crazy Ideas", "Web Strategy"]
-featured_img: 
+featured_img:
 wpid: 1870
 ---
 
@@ -88,16 +88,15 @@ Bigtent is less “build your own social network” and more “bring your like-
 [yuku ![](/_images/2011/03/url_icon.gif "url_icon")](http://www.yuku.com)
 ---------------------------------------------------------------------------------------------------------------
 
-[![](https://lh4.googleusercontent.com/-aB93ayo0m94/ThuNyqu2SMI/AAAAAAAABAw/RTZSnzBfxTg/create_social_network_yuku.png)](http://www.yuku.com/)
+![](https://lh4.googleusercontent.com/-aB93ayo0m94/ThuNyqu2SMI/AAAAAAAABAw/RTZSnzBfxTg/create_social_network_yuku.png)
 
 **Pricing:** free, $12/year for premium features for individual forum members
 
-Yuku brands itself as a better alternative to Ning. They have lots of premium features to offer (use your own domain name, unlimited storage and bandwidth, free of ads) and the Official Cher Community chose them so you can’t possibly go wrong. What I noticed about the sample sites (affectionately called the “YukuVerse”) is that they were all forums so I’m wondering how much more is possible (their [features page](http://www.yuku.com/portal/features) suggests more). I think what really won me over, though, was the part where they told me that making a nice page was so “dead-simple even grandma could razzle-dazzle us.” I couldn’t remember the last time I heard razzle-dazzle in a sentence but I can now.
+Yuku brands itself as a better alternative to Ning. They have lots of premium features to offer (use your own domain name, unlimited storage and bandwidth, free of ads) and the Official Cher Community chose them so you can’t possibly go wrong. What I noticed about the sample sites (affectionately called the “YukuVerse”) is that they were all forums so I’m wondering how much more is possible. I think what really won me over, though, was the part where they told me that making a nice page was so “dead-simple even grandma could razzle-dazzle us.” I couldn’t remember the last time I heard razzle-dazzle in a sentence but I can now.
 
-[mixxt ![](/_images/2011/03/url_icon.gif "url_icon")](http://www.mixxt.com)
------------------------------------------------------------------------------------------------------------------
+## mixxt ![](/_images/2011/03/url_icon.gif "url_icon")
 
-[![](https://lh3.googleusercontent.com/-_pHsNSkO_ZU/ThuNx9PULDI/AAAAAAAABAg/d-tfUtK8nOc/create_social_network_mixxt.png)](http://www.mixxt.com/)
+![](https://lh3.googleusercontent.com/-_pHsNSkO_ZU/ThuNx9PULDI/AAAAAAAABAg/d-tfUtK8nOc/create_social_network_mixxt.png)
 
 **Pricing:** free trial then 9-19 Euros/mo depending on desired features
 
