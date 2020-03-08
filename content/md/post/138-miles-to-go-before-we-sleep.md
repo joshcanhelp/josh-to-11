@@ -5,8 +5,8 @@ excerpt: ""
 date: 2010-09-17 19:04:40
 modified: 2010-09-17 19:04:40
 permalink: miles-to-go-before-we-sleep/index.html
-tags: ["Paris", "Everything Else"]
-featured_img: 
+tags: ["Paris"]
+featured_img:
 wpid: 115
 ---
 

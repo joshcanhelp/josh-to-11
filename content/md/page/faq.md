@@ -6,7 +6,7 @@ date: 2016-03-17 15:00:28
 modified: 2016-10-17 17:36:23
 permalink: faq/index.html
 tags: []
-featured_img: 
+featured_img:
 wpid: 3822
 ---
 
@@ -62,7 +62,7 @@ Absolutely! I’m a former corporate trainer and technical writer so I pride mys
 
 #### <a id="why-wp"></a>Why WordPress?
 
-WordPress is the de-facto standard for content management on the web in 2016 and beyond. Current market share is widely quoted as 26% of all sites, and, when just examining sites that use a CMS (rather than just hard-coded files), [some sources estimate as high as 68%](http://www.opensourcecms.com/general/cms-marketshare.php). While popularity certainly does not guarantee quality, there are a number of reasons for this dominance:
+WordPress is the de-facto standard for content management on the web in 2016 and beyond. Current market share is widely quoted as 26% of all sites, and, when just examining sites that use a CMS (rather than just hard-coded files), [some sources estimate as high as 68%](https://www.opensourcecms.com/cms-market-share/). While popularity certainly does not guarantee quality, there are a number of reasons for this dominance:
 
 - WordPress, on its own, is a very secure and high-performing platform maintained by a very smart and dedicated team (I’ve been lucky to work closely with several of them). Stories of rampant hacking, defacing, and slow-loading sites are, in my long experience with the platform, always related to insecure and poorly-developed plugins (I use as few as possible, often zero)
 - The WordPress administration section, where content, users, and functionality are managed, is simple, easy to use, and as intuitive as anything I’ve seen, custom or otherwise. Clients that are not familiar with WordPress are typically pleasantly surprised by how easy it is to make changes and add new content.

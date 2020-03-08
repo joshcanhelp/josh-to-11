@@ -19,7 +19,7 @@ I was approached recently by the owner of a popular blog using WordPress softwar
 Step 1: Assess the situation
 ----------------------------
 
-WordPress is notorious for being a [big server resource hog](http://www.codinghorror.com/blog/archives/001105.html) but there is little else out there that provides the kind of flexibility and extensibility on such an easy-to-use platform. I’m sure there are debates to be had but I’m a huge fan of WordPress and that’s not likely to change anytime soon.
+WordPress is notorious for being a [big server resource hog](https://blog.codinghorror.com/behold-wordpress-destroyer-of-cpus/) but there is little else out there that provides the kind of flexibility and extensibility on such an easy-to-use platform. I’m sure there are debates to be had but I’m a huge fan of WordPress and that’s not likely to change anytime soon.
 
 In this case, the WordPress core along with several essential but potentially resource-heavy plugins were causing the server to become unresponsive and, at times, crash for several minutes. This happened during short periods of intense traffic caused by the aforementioned temporary Digg.com front page position (called “the Digg effect”).  
 

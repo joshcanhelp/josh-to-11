@@ -5,8 +5,8 @@ excerpt: ""
 date: 2010-09-06 21:17:41
 modified: 2010-09-06 21:17:41
 permalink: slowly-but-surely-i-think-were-starting-to-fit-in/index.html
-tags: ["Paris", "Everything Else"]
-featured_img: 
+tags: ["Paris"]
+featured_img:
 wpid: 94
 ---
 

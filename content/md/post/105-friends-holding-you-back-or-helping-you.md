@@ -34,7 +34,7 @@ Almost everyone I knew in Washington smoked. You could smoke in bars and I spent
 
 A big change for me when I moved down was the inability to smoke in bars. California passed a law many years before I moved here that banned smoking indoors in public establishments. I was initially disappointed (this disappointment, however, was greatly outweighed by my joy stemming from the ability to buy liquor in grocery stores, convenience stores, and my “happy place,” BevMo) at losing some of my favorite past times but this passed quickly. There were many benefits to not having the option of sitting in one place and smoking for hours and, hell, it was California so going outside was never a problem.
 
-After about 6 months in the state, I generally felt like an outcast because of my habit. Very few of my new friends smoked and when I went outside or was smoking on a patio somewhere, I was one of maybe two people smoking. There are [less smokers in California](http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5638a2.htm) but not by much. Still, it was hard to shake the feeling that smoking was **extra** bad in California.
+After about 6 months in the state, I generally felt like an outcast because of my habit. Very few of my new friends smoked and when I went outside or was smoking on a patio somewhere, I was one of maybe two people smoking. There are [less smokers in California](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5638a2.htm) but not by much. Still, it was hard to shake the feeling that smoking was **extra** bad in California.
 
 ### Less contact with friends who smoked
 

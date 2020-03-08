@@ -24,7 +24,7 @@ It was Google time, in a big way. Here are a few things I found out about burnin
 
 Just because your discs say they are capable of burning at a certain speed doesn’t mean they actually are. The Sony discs I bought were rated for up to 48x but, as soon as I turned the speed down to 24x, discs burned great and played just fine in the car. Try a speed much lower than the top speed, like 24x or 12x.
 
-Thanks to [Platinum GLS on VWVortex.com](http://forums.vwvortex.com/zerothread?id=3851671)
+Thanks to [Platinum GLS on VWVortex.com](https://forums.vwvortex.com/showthread.php?3851671)
 
 ## Get rid of nested directories
 

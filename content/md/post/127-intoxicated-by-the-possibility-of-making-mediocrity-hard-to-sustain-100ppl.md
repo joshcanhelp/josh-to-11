@@ -6,7 +6,7 @@ date: 2010-05-05 23:51:47
 modified: 2016-04-03 02:32:59
 permalink: intoxicated-by-the-possibility-of-making-mediocrity-hard-to-sustain-100ppl/index.html
 tags: ["Gaping Void", "Hugh Macleod", "Intoxicated By Possibility", "Crazy Ideas", "Design"]
-featured_img: 
+featured_img:
 wpid: 1559
 ---
 
@@ -14,12 +14,12 @@ wpid: 1559
 
 I was asked recently what my favorite Gaping Void piece is. I experienced a brief moment of intense stress, similar to the feeling I’m sure I’d have if someone offered to buy me any vehicle in the world but I could only choose one. Several rushed through my mind but I kept coming back to two of them. Hope I’m not breaking the rules too blatantly.
 
-**Brief back story:** [Gaping Void](http://gapingvoid.com) is the “brand name” of Hugh MacLeod, cartoonist, author, blogger, and general creativity muse. Hugh was the first blogger I ever started reading. I have no recollection of how I found his site though I’m sure it had something to do with one of his cartoons I found somewhere. This was several years ago and after that first encounter, I forgot about him entirely until maybe a year later (I’m guessing 2006 at this point) when I felt this strange need to find his site again. It took a while (I completely forgot the name, URL, everything) but I finally found it and when I did, I was elated. I started reading Hugh regularly and was particularly affected by his creativity manifesto, [how to be creative](http://gapingvoid.com/2004/07/25/how-to-be-creative/). Since then, I’ve been a huge fan… bought business cards with his cartoon on one side, bought his book *[Ignore Everybody](http://www.amazon.com/gp/product/B0026NBZFI?ie=UTF8&tag=jocahe-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0026NBZFI)![](http://www.assoc-amazon.com/e/ir?t=jocahe-20&l=as2&o=1&a=B0026NBZFI)*, and get his[ daily cartoon](http://gapingvoid.com/2009/02/17/dear-crazy-deranged-fools/).
+**Brief back story:** [Gaping Void](https://www.gapingvoid.com) is the “brand name” of Hugh MacLeod, cartoonist, author, blogger, and general creativity muse. Hugh was the first blogger I ever started reading. I have no recollection of how I found his site though I’m sure it had something to do with one of his cartoons I found somewhere. This was several years ago and after that first encounter, I forgot about him entirely until maybe a year later (I’m guessing 2006 at this point) when I felt this strange need to find his site again. It took a while (I completely forgot the name, URL, everything) but I finally found it and when I did, I was elated. I started reading Hugh regularly and was particularly affected by his creativity manifesto, [how to be creative](http://gapingvoid.com/2004/07/25/how-to-be-creative/). Since then, I’ve been a huge fan… bought business cards with his cartoon on one side, bought his book *[Ignore Everybody](https://www.amazon.com/gp/product/B0026NBZFI)*, and get his [daily cartoon](https://www.gapingvoid.com/blog/2009/02/17/dear-crazy-deranged-fools/).
 
 ![](/_images/2010/04/gv_card.jpg "gv_card")
 
 That’s the card I put together about 3 years ago. I was finishing up a Chemistry degree at SDSU, blogging about sustainable transportation, and felt like I had a lot more to offer the world. My blogspot address was on the back of this card so you’ll notice I wrote “joshcanhelp.com” on the top in ball-point. It was a transitional period, what can I say.  
-  
+
 When I first tried to come up with my favorite Hugh cartoon, this is the one that jumped to mind. Problem is, I kind of feel like my business **is** a science project. It’s also ironic that I spent many years working with science projects and now I have a business…. totally unrelated to science projects. I also miss science projects, especially when I’m knee-deep in business. It was a strangely appropriate card.
 
 I’ve since replaced my Gaping Void card with one of my own design (seemed like the right thing to do) and have also replaced this cartoon with two others as my favorites. If I had to pick one, it would be the second.

@@ -19,7 +19,7 @@ What brought this up
 
 I’ve been doing, inadvertently, a lot of thinking and reading about search engine optimization (SEO) lately. For the company I’m contracted with, we’re trying to come up with a solid strategy to rank better in our industry, get more online attention, and attract sales leads. For a couple of my clients, I’m trying to implement some simple changes and add information to get them as visible as possible. For my blog, I’m always looking for ways to help my ranking.
 
-Working for other people and helping them build an online presence is a whole hell of a lot easier than doing one for myself. I can help someone easily summarize what they do, help them pick keywords, and put them all in the right places. For myself, however, when trying to pick a niche, I find myself in these very existential moods. I’m picking 8 words or phrases too some up everything I can do for people. Wait, I have to sum up my professional interests in 8 words?! How?
+Working for other people and helping them build an online presence is a whole hell of a lot easier than doing one for myself. I can help someone easily summarize what they do, help them pick keywords, and put them all in the right places. For myself, however, when trying to pick a niche, I find myself in these very existential moods. I’m picking 8 words or phrases to some up everything I can do for people. Wait, I have to sum up my professional interests in 8 words?! How?
 
 Keywords… those effing keywords
 -------------------------------
@@ -32,10 +32,16 @@ First, you have to summarize the things that people are going to search to find 
 
 Now, put those things in a keyword generator like Google’s and see what else comes up. Not only will you add 50 more words that never occurred to you in the first place, you’ll find that the words that were the most interesting to you are the hardest words to rank for. Not only that, once you start picking words that you have a chance in hell of ranking with, you find yourself limited and a bit off-center from what you actually do or want to do.
 
-![I want to do it all and I want to do it from right here](http://farm4.static.flickr.com/3011/2669604365_96f3ec906f.jpg "Typing away at Cream in San Diego")I want to do it all and I want to do it from right hereSo what do you do? No really.
+![](/_images/2008/12/2669604365_96f3ec906f.jpg)
+
+So what do you do? No really.
 -----------------------------
 
-![I do a lot of different things... some of them dont even involve a computer](http://farm4.static.flickr.com/3033/2726639620_873a94f245.jpg "Graffiti writing at Art and Craftman Supply with Pose2 ")I do a lot of different things... some of them don't even involve a computerSearching for keywords for something as important and, dare I say, intimate as your freelance work (or writing or anything) puts you in this terrible position between passion and pragmatism. I want to write about art and science and the internet and web design and email and writing. I also, however, want my writing to help me reach people that need what I have to offer.
+![](/_images/2008/12/2726639620_873a94f245.jpg)
+
+I do a lot of different things... some of them don't even involve a computer.
+
+Searching for keywords for something as important and, dare I say, intimate as your freelance work (or writing or anything) puts you in this terrible position between passion and pragmatism. I want to write about art and science and the internet and web design and email and writing. I also, however, want my writing to help me reach people that need what I have to offer.
 
 Part of my problem, in a business sense, is that I don’t have a well-formed “elevator pitch” for what I do. The value proposition (I hate that phrase but it’s relevant), the text at the top of this pitch, is about as close as I get. I help people build a web presence for their business or their own personal endeavors. That’s cool, sums it all up, right?
 
@@ -55,7 +61,9 @@ The people I want to help are small businesses and individuals. I love helping p
 Endgame
 -------
 
-![Off into the sunset...](http://farm4.static.flickr.com/3257/3095408247_0554505932.jpg "San Diego sunset in North Park, San Diego, CA")Off into the sunset...In the end, I want all of this to lead to something amazing, something massively fulfilling, something that I can be proud of. I want to look back at a long list of people and companies and know that I did something great for them. I want to write a book, I want to help people do what they want to do, I want to make things easier for people, I want to work on a broad spectrum of things for a broad spectrum of people.
+![](/_images/2008/12/3095408247_0554505932.jpg)
+
+In the end, I want all of this to lead to something amazing, something massively fulfilling, something that I can be proud of. I want to look back at a long list of people and companies and know that I did something great for them. I want to write a book, I want to help people do what they want to do, I want to make things easier for people, I want to work on a broad spectrum of things for a broad spectrum of people.
 
 I want to bring people together, help them work better on things they are passionate about. I want to help people concentrate on what they’re doing because they want so bad for it to work. I want my name on something. I want to be accountable for something.
 

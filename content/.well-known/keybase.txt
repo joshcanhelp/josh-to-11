@@ -4,7 +4,7 @@ https://keybase.io/joshcanhelp
 
 I hereby claim:
 
-  * I am an admin of http://www.joshcanhelp.com
+  * I am an admin of https://www.joshcanhelp.com
   * I am joshcanhelp (https://keybase.io/joshcanhelp) on keybase.
   * I have a public key with fingerprint 8703 9194 46F1 49DD 05BA  772E 7E34 CED3 7442 9737
 
@@ -63,4 +63,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/joshcanhelp
 
 ==================================================================
-

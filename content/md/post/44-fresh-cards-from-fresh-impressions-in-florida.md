@@ -18,7 +18,7 @@ After first seeing an interesting printing style called letterpress on an art an
 
 Many iterations, a page orientation change, and many hours bumbling though Illustrator, I had my design ([you can see the iterative process here](/new-new-business-card-design-the-process-feedback/)):
 
-[![Photobucket](http://i102.photobucket.com/albums/m93/josh054/lp_card_06_final.jpg)](http://s102.photobucket.com/albums/m93/josh054/?action=view&current=lp_card_06_final.jpg)
+![](/_images/2008/10/lp_card_06_final.jpg)
 
 All through the design process, I had Preston Grubbs, co-founder of Fresh Impressions printing, on my Google Talk application, talking me through the design, making suggestions, and teaching me about the process. He was helpful, friendly, and a complete professional. We chatted at long length about paper weight, ink color, design elements, and the process in general. I had never met him before, never talked on the phone, but I was already convinced that I would be completely satisfied by the end of the process.
 
@@ -36,14 +36,14 @@ I was honest, he was honest and nothing beats complete honesty in a business rel
 
 I kept some of the original cards on the thick stock and had a new set of cards printed on the thinner (but, in my opinion, easier to manage) paper stock. They were printed quickly and shipped out as promised. When they showed up, I was totally impressed:
 
-[![Photobucket](http://i102.photobucket.com/albums/m93/josh054/new_cards_003.jpg)](http://s102.photobucket.com/albums/m93/josh054/?action=view&current=new_cards_003.jpg)
+![](/_images/2008/10/new_cards_003.jpg)
 
-[![Photobucket](http://i102.photobucket.com/albums/m93/josh054/new_cards_004.jpg)](http://s102.photobucket.com/albums/m93/josh054/?action=view&current=new_cards_004.jpg)
+![](/_images/2008/10/new_cards_004.jpg)
 
-[![Photobucket](http://i102.photobucket.com/albums/m93/josh054/new_cards_005.jpg)](http://s102.photobucket.com/albums/m93/josh054/?action=view&current=new_cards_005.jpg)
+![](/_images/2008/10/new_cards_005.jpg)
 
 In the end, I’m helping Preston get the attention of someone who might be able to help him rise to great heights in this printing endeavor… though there is no doubt in my mind that he could do it on his own. These cards are unique, tactile, and each one feels like a work of art. Preston’s passion for what he does shines through in every communication and especially in the product itself. I would never hesitate to recommend his services to anyone.
 
 Thank you, Fresh Impressions, for your unmatched service and truly “needs-to-be-seen” product.
 
-[![Photobucket](http://i102.photobucket.com/albums/m93/josh054/new_cards_007.jpg)](http://s102.photobucket.com/albums/m93/josh054/?action=view&current=new_cards_007.jpg)
+![](/_images/2008/10/new_cards_007.jpg)

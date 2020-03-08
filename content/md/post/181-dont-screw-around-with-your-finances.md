@@ -27,7 +27,9 @@ The Business Ferret
 
 It’s a funny name but it’s dead-serious financial information from a guy who can tell you more about your company’s performance in 5 minutes than you’ve ever heard in an hour.
 
-[![](http://thebusinessferret.com/wp-content/uploads/2011/11/dad_sq.jpg "Dan Cunningham")](http://thebusinessferret.com/the-team/)That guy? It’s my dad, Dan Cunningham and he wants to help your business grow and thrive. He’s been helping companies out of near-catastrophe for decades and his care towards his clients is unmatched. What I’ve learned from him about management, business finance, and work ethic could fill a book or two but we’ll save that for another post or 10.
+[![](https://thebusinessferret.com/wp-content/uploads/2011/11/dad_sq.jpg)](http://thebusinessferret.com/the-team/)
+
+That guy? It’s my dad, Dan Cunningham and he wants to help your business grow and thrive. He’s been helping companies out of near-catastrophe for decades and his care towards his clients is unmatched. What I’ve learned from him about management, business finance, and work ethic could fill a book or two but we’ll save that for another post or 10.
 
 Already, of course, you’re weighing my glowing praise against the fact that I am completely biased. That’s fair, I can handle that. I’ve seen this system at work, talked to fanatical clients of his, and planned a business in less than half an hour. There just isn’t anything that compares. Once you’ve seen what’s possible using the Business Ferret, I think you’ll be almost as biased towards my dad as I am.
 

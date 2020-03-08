@@ -87,6 +87,6 @@ These keywords can be applied directly to on-site SEO efforts. The keywords with
 Top pages and posts (Main &gt; Content &gt; Top Content/Content by Title)
 -------------------------------------------------------------------------
 
-There are two lists here: by URL and by page title. Some pages share the same title (default) and some are not set which means that the page name list will have some pages combined together. The URL list is an exact list of the pages (just add “http://sitename.com” before each one to get directly to the page).
+There are two lists here: by URL and by page title. Some pages share the same title (default) and some are not set which means that the page name list will have some pages combined together. The URL list is an exact list of the pages (just add `http://sitename.com` before each one to get directly to the page).
 
 These lists give an idea of the most popular content on a particular site. These numbers will differ from on-site view counts (likely smaller on Google Analytics) and are a more accurate representation of actual people seeing the content. Tracking the content that gets the most views and has the best traffic quality (fewer exits and bounces) can show content managers the highest performing pages which can help with choosing the right posts on the site.

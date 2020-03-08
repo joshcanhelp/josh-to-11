@@ -35,7 +35,7 @@ In order to get your pictures in a more manageable size to use, share, and post 
 
 I just recently starting using the aptly-named software PIXresizer and I couldn’t be happier with how it works. I’ll walk you through some of the basic functions of this free software so you can pass them along to the technology-handicapped people in your life… or just send the link to a friend.
 
-First, [download it here](http://bluefive.pair.com/pixresizer.htm) (scroll down and look for the “DOWNLOAD \[ 3.3 Mb .zip\]” link). Open the .ZIP file and run the program **Setup** to install it on your machine. Make sure to add an icon to your desktop and run the program.
+First, [download it here](https://bluefive.pairsite.com/pixresizer.htm) (scroll down and look for the “DOWNLOAD \[ 3.3 Mb .zip\]” link). Open the .ZIP file and run the program **Setup** to install it on your machine. Make sure to add an icon to your desktop and run the program.
 
 How do I use this PIXresizer program?
 -------------------------------------

@@ -18,18 +18,18 @@ I’m never COMPLETELY satisfied with the outcome but I’m definitely internali
 
 Personally, I find more “zen” and enjoyment in the drawing. It’s interesting to me to have constraints (like letters) but be free to express them however I wish. I do much better with a pencil and pen than I do with a can of spray paint. To be honest, each time I finish a piece, I’m ready to give up on the aerosol portion of the artwork. Still, I keep coming back and, typically, I’m glad I did.
 
-These pictures were taken by a professional photographer who showed up to snap a few. You can find her work at [www.creativeshake.com/karin](http://www.creativeshake.com/karin). She showed Pose and I some of her other work on her iPhone (great way to carry around a portfolio) and we were blown away. She’s got a very broad talent and her composition was just fanstastic. She really knows the angles! Thanks for the copies, Karin.
+These pictures were taken by a professional photographer who showed up to snap a few. She showed Pose and I some of her other work on her iPhone (great way to carry around a portfolio) and we were blown away. She’s got a very broad talent and her composition was just fantastic. She really knows the angles! Thanks for the copies, Karin.
 
-[![02joshcanhelp](http://farm4.static.flickr.com/3203/2979173204_60226ab16a_o.jpg)](http://www.flickr.com/photos/joshcanhelp/2979173204/ "02joshcanhelp by joshcanhelp, on Flickr")
+![](/_images/2008/10/2979173204_60226ab16a_o.jpg)
 
-[![03joshcanhelp](http://farm4.static.flickr.com/3139/2979173150_2c7ed29448_o.jpg)](http://www.flickr.com/photos/joshcanhelp/2979173150/ "03joshcanhelp by joshcanhelp, on Flickr")
+![](/_images/2008/10/2979173150_2c7ed29448_o.jpg)
 
-[![01joshcanhelp](http://farm4.static.flickr.com/3041/2978316165_d0e0def297_o.jpg)](http://www.flickr.com/photos/joshcanhelp/2978316165/ "01joshcanhelp by joshcanhelp, on Flickr")
+![](/_images/2008/10/2978316165_d0e0def297_o.jpg)
 
 The rest are off of my phone so pardon the quality (or complete lack thereof).
 
-[![IMAGE_191](http://farm4.static.flickr.com/3199/2979219234_937b737ffe.jpg)](http://www.flickr.com/photos/joshcanhelp/2979219234/ "IMAGE_191 by joshcanhelp, on Flickr")
+![](/_images/2008/10/2979219234_937b737ffe.jpg)
 
-[![IMAGE_189](http://farm4.static.flickr.com/3168/2979219064_f2cb501ff2.jpg)](http://www.flickr.com/photos/joshcanhelp/2979219064/ "IMAGE_189 by joshcanhelp, on Flickr")
+![](/_images/2008/10/2979219064_f2cb501ff2.jpg)
 
-[![IMAGE_188](http://farm4.static.flickr.com/3228/2979218960_ccb8f68184.jpg)](http://www.flickr.com/photos/joshcanhelp/2979218960/ "IMAGE_188 by joshcanhelp, on Flickr")
+![](/_images/2008/10/2979218960_ccb8f68184.jpg)
