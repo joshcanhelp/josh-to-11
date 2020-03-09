@@ -32,3 +32,13 @@
   from = "/*"
   to = "/404/"
   status = 404
+
+[[redirects]]
+  from = "https://joshcanhelp.netlify.com/*"
+  to = "https://joshcanhelp.com/:splat"
+  status = 301!
+
+[[redirects]]
+  from = "https://joshcanhelp.com/*"
+  to = "https://www.joshcanhelp.com/:splat"
+  status = 301!
