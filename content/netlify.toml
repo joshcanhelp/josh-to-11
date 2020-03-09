@@ -27,3 +27,8 @@
   from = "/resume"
   to = "https://www.linkedin.com/in/joshcanhelp"
   status = 302
+
+[[redirects]]
+  from = "/*"
+  to = "/404/"
+  status = 404
