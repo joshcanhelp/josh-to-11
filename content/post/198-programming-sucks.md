@@ -5,7 +5,7 @@ excerpt: ""
 date: 2014-05-01 17:53:27
 modified: 2016-11-22 17:50:36
 permalink: programming-sucks/index.html
-tags: ["Everything Else"]
+tags: []
 featured_img:
 wpid: 367
 link_to: "https://www.stilldrinking.org/programming-sucks"

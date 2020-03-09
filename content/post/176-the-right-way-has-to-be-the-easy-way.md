@@ -5,7 +5,7 @@ excerpt: "When you're ready to start using social media, ask yourself two questi
 date: 2012-04-12 23:33:51
 modified: 2020-01-19 22:12:08
 permalink: right-way-has-to-be-the-easy-way/index.html
-tags: ["Social Media"]
+tags: ["Social Media", "LinkedIn"]
 featured_img:
 wpid: 3988
 citation: ""

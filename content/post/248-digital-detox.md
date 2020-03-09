@@ -5,7 +5,7 @@ excerpt: "Before this, I wasn’t just losing time, I was actively harming my th
 date: 2016-11-16 19:36:47
 modified: 2019-02-15 16:02:06
 permalink: digital-detox/index.html
-tags: ["About JoshCanHelp", "Email", "Personal Development", "Social Media"]
+tags: ["About JoshCanHelp", "Email", "Personal Development", "Social Media", "LinkedIn"]
 featured_img: /_images/2016/11/IMG_1940-150x150.jpg
 wpid: 4655
 ---

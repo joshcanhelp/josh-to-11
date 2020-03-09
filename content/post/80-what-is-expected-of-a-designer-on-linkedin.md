@@ -5,7 +5,7 @@ excerpt: ""
 date: 2009-03-26 19:00:34
 modified: 2016-10-20 16:44:18
 permalink: what-is-expected-of-a-designer-on-linkedin/index.html
-tags: ["Design", "Social Media", "Personal Development"]
+tags: ["Design", "Social Media", "LinkedIn", "Personal Development"]
 featured_img:
 wpid: 639
 ---

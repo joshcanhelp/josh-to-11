@@ -5,7 +5,7 @@ excerpt: "Just a quick update for everyone.... we're back on the West Coast afte
 date: 2010-11-08 22:45:59
 modified: 2019-08-10 22:44:40
 permalink: back-home-and-feeling-great/index.html
-tags: ["Paris", "Everything Else"]
+tags: ["Paris"]
 featured_img: /_images/2010/11/IMG_3301-1-150x150.jpg
 wpid: 219
 ---
