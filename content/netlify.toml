@@ -34,11 +34,6 @@
   status = 404
 
 [[redirects]]
-  from = "http://joshcanhelp.netlify.com/*"
-  to = "http://www.joshcanhelp.com/:splat"
-  status = 301
-
-[[redirects]]
-  from = "http://joshcanhelp.com/*"
-  to = "http://www.joshcanhelp.com/:splat"
+  from = "https://joshcanhelp.netlify.com/*"
+  to = "https://www.joshcanhelp.com/:splat"
   status = 301
