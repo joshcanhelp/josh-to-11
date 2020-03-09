@@ -19,7 +19,7 @@ The Google Docs CMS
 
 **Update 5/19/2011:** There was a bug in this script that only allowed for 9 menu options. Apologies for the trouble and this has been corrected. Just download the new package below and replace your index.php with the new one (make sure to update your feed URL).
 
-[Download the Google Docs CMS](/_files/gdocs-cms.zip)
+[Download the Google Docs CMS](https://www.dropbox.com/s/cbdq2ykejiogc78/gdocs-cms.zip?dl=0)
 
 For those not in the know, a CMS is a Content Management System, a web application that lets you add and edit live web content. WordPress, the system I use over-and-over (for good reason), is a CMS and a great one at that. But, in some cases, it is a bit over the top. What if you just needed to publish information without a lot of regard to the intricacies of presentation? That’s where this system comes in.
 

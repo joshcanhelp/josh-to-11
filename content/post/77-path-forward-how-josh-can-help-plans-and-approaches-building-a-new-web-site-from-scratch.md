@@ -81,4 +81,4 @@ I ask that all changes and modifications be submitted within a couple weeks of f
 
 When the site is completed and approved, I burn all files (PSD, HTML, JPG, everything) to a CD and, once the final payment is made, I upload all the files, send the CD, and test the site one last time. Your sales go through the roof, praise comes from far and wide, and the book/movie deals come rolling in (results may vary).
 
-**Sounds good, doesn’t it? If you need a website, blog, or other kind of on-line presence,** [**download my pre-website homework form**](/_files/prewebsite_template.pdf) **and let’s get it started!**
+**Sounds good, doesn’t it? If you need a website, blog, or other kind of on-line presence,** [**download my pre-website homework form**](https://www.dropbox.com/s/lq1nj0rvqk1nr4c/prewebsite_template.pdf?dl=0) **and let’s get it started!**

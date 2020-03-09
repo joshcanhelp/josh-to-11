@@ -14,7 +14,7 @@ wpid: 1161
 
 To start … the HTML on Drudge report is very poor. It was a table-style layout for no discernible reason, there were capitalized tags and attributes throughout, and it looked like it may have been avoiding CSS altogether. It’s really none of my business how other people put their sites together but it was clear I wouldn’t be drawing any inspiration from the technical construction. So I started from scratch and made this very simple, lightweight, one-file, one-page site template that mimics the layout of Drudge report with a few extra features.
 
-[Download the free Drudge-Style Template](/_files/JCH_Drudge_HTML_Template_101109.zip)
+[Download the free Drudge-Style Template](https://www.dropbox.com/s/rqmjcenf2w19ym8/JCH_Drudge_HTML_Template_101109.zip?dl=0)
 
 ### How to Use The Free Template
 

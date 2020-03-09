@@ -32,7 +32,7 @@ A misspelled word in your blog post, content page, or email probably isn’t goi
 A new name for a problem-causing typo: the F\*CKING Typo
 --------------------------------------------------------
 
-[![](/_images/2010/04/NOmoreFUCKINGtypos.png "NOmoreFUCKINGtypos")](/_files/NOmoreFUCKINGtypos.pdf)
+[![](/_images/2010/04/NOmoreFUCKINGtypos.png "NOmoreFUCKINGtypos")](https://www.dropbox.com/s/w19tyt4czf2sfrs/NOmoreFUCKINGtypos.pdf?dl=0)
 
 I’m calling that first type of typo above a “F\*cking Typo” because that’s what you say when an hour of problem-solving leads you to a missing letter. It’s also what you say when someone publicly corrects your painfully obvious error.
 
@@ -41,7 +41,7 @@ The best solution: a reminder
 
 To help myself cut way down on F\*cking Typos, I’ve made myself a reminder that I printed and placed on my monitor. It occurred to me that everyone needs this kind of reminder so I’m offering it to you, completely free of charge, in two formats: the original version, vulgarity in tact, and a more PC, office version with an asterisk replacing a key vowel. Print, choose, cut, and tape it to your monitor.
 
-[Download the F\*cking Typo reminder](/_files/NOmoreFUCKINGtypos.pdf)
+[Download the F\*cking Typo reminder](https://www.dropbox.com/s/w19tyt4czf2sfrs/NOmoreFUCKINGtypos.pdf?dl=0)
 
 That said ... I’m only human
 ------------------------

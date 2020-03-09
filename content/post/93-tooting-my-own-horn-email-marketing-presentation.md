@@ -37,4 +37,4 @@ And the comments:
 
 I provided a hand-out that summarized what I covered during the presentation which is basically a summary of my two blog posts. Feel free to download it and spread it around!
 
-[Download: “6 Questions to Ask Before Sending an Email Campaign Piece”](/_files/Email_marketing_handout_062209.pdf)
+[Download: “6 Questions to Ask Before Sending an Email Campaign Piece”](https://www.dropbox.com/s/ppc86rpq3h2sqev/Email_marketing_handout_062209.pdf?dl=0)

@@ -62,7 +62,7 @@ Two things about this list …
 
 As a reminder to myself to actually make this all happen, I made a graphic to post on my wall (with [Canva](https://www.canva.com/), which is a lot of fun). Feel free to use/print/share (links to a PDF).
 
-[![startup-routine](/_images/2016/12/STARTUP-ROUTINE-724x1024.jpg)](/_files/STARTUP-ROUTINE.pdf)
+[![startup-routine](/_images/2016/12/STARTUP-ROUTINE-724x1024.jpg)](https://www.dropbox.com/s/67vpivfzil0d4np/STARTUP-ROUTINE.pdf?dl=0)
 
 - - - - - -
 
@@ -101,7 +101,7 @@ Again, this has been tough but I am getting better, hour by hour, day by day. It
 
 I made another graphic for this as well.
 
-[![process](/_images/2016/12/PROCESS-1024x768.jpg)](/_files/PROCESS.pdf)
+[![process](/_images/2016/12/PROCESS-1024x768.jpg)](https://www.dropbox.com/s/vtmum0pnebfnbj0/PROCESS.pdf?dl=0)
 
 - - - - - -
 
@@ -177,7 +177,7 @@ I will say that it’s been quite tough to leave everything shut off; I can alwa
 
 And, once again, a graphic reminder:
 
-[![](/_images/2016/12/SHUTDOWN-ROUTINE-724x1024.jpg)](/_files/SHUTDOWN-ROUTINE.pdf)
+[![](/_images/2016/12/SHUTDOWN-ROUTINE-724x1024.jpg)](https://www.dropbox.com/s/3p4kqcv7eezzrcn/SHUTDOWN-ROUTINE.pdf?dl=0)
 
 - - - - - -
 

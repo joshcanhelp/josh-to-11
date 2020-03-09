@@ -5,6 +5,9 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 module.exports = function(eleventyConfig) {
 
+  eleventyConfig.addPassthroughCopy({ 'images': '_images' });
+  eleventyConfig.addPassthroughCopy({ 'css': '_css' });
+
   eleventyConfig.addPlugin(syntaxHighlight);
 
   eleventyConfig.addLayoutAlias('page', 'layouts/page.njk');
@@ -63,7 +66,9 @@ module.exports = function(eleventyConfig) {
       input: "content",
       output: "_dist"
     },
-    templateFormats: [ 'md', 'css', 'html', 'txt', 'ico', 'png', 'jpg', 'gif', 'htaccess' ],
+    templateFormats: [
+      'md', 'css', 'html', 'txt', 'ico', 'png', 'jpg', 'gif', 'htaccess', 'pdf', 'toml'
+    ],
     passthroughFileCopy: true
   };
 };
