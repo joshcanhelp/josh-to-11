@@ -18,6 +18,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('link', 'layouts/link.njk');
   eleventyConfig.addLayoutAlias('post', 'layouts/post.njk');
   eleventyConfig.addLayoutAlias('quote', 'layouts/quote.njk');
+  eleventyConfig.addLayoutAlias('anna', 'layouts/anna.njk');
 
   eleventyConfig.setUseGitIgnore(false);
 
