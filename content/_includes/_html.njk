@@ -55,18 +55,6 @@
 					</li>
 					{% endif %}
 
-					<li>
-						<p><strong>Published:</strong></p>
-						<p>{{ page.date | dateformat }}</p>
-					</li>
-
-					{% if modified %}
-					<li>
-						<p><strong>Modified:</strong></p>
-						<p>{{ page.modified | dateformat }}</p>
-					</li>
-					{% endif %}
-
 					{% if tags | length %}
 					<li>
 						<p><strong>Tags:</strong></p>
