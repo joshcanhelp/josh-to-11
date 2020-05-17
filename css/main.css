@@ -400,22 +400,20 @@ body, .jch-list {
       list-style: none;
       margin-bottom: 2em;
       font-size: 0.9em; }
-  .jch-post--article img.aligncenter,
-  .jch-post--article img.alignnone,
-  .jch-post--article img.alignleft,
-  .jch-post--article img.alignright {
+  .jch-post--article img {
     display: block;
-    max-width: 100%;
     height: auto;
+    float: none;
     margin: 2em auto;
-    float: none; }
+    max-width: 100%; }
+  .jch-post--article img.aligncenter {
+    max-width: 106%;
+    margin: 2em -3%; }
   @media (min-width: 650px) {
-    
     .jch-post--article img.alignleft {
       float: left;
       margin: 0 1em 1em 0; } }
   @media (min-width: 650px) {
-    
     .jch-post--article img.alignright {
       float: right;
       margin: 0 0 1em 1em; } }

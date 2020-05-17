@@ -124,15 +124,16 @@
 			margin-bottom: 2em
 			font-size: $f_size_small
 
-	img.aligncenter,
-	img.alignnone,
-	img.alignleft,
-	img.alignright
+	img
 		display: block
-		max-width: 100%
 		height: auto
-		margin: 2em auto
 		float: none
+		margin: 2em auto
+		max-width: 100%
+
+	img.aligncenter
+		max-width: 106%
+		margin: 2em -3%
 
 	img.alignleft
 		+larger_than_phone
