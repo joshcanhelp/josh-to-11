@@ -651,7 +651,8 @@ pre[class*="language-"] {
       .jch-col__left:last-child {
         margin-right: 0; } }
   .jch-col__middle {
-    max-width: 700px; }
+    max-width: 700px;
+    overflow: hidden; }
     @media (min-width: 650px) {
       .jch-col__middle {
         float: left;
@@ -945,10 +946,14 @@ pre[class*="language-"] {
     .jch-row__footer a:hover {
       color: #0b84fe; }
 
-.jch-post--article > h1:first-child {
+.jch-post--article > p:first-child {
+  font-style: italic;
+  font-size: 0.8em; }
+
+.jch-post--article > h1, .jch-post--article p:first-child {
   text-align: center; }
   @media (min-width: 650px) {
-    .jch-post--article > h1:first-child {
+    .jch-post--article > h1, .jch-post--article p:first-child {
       text-align: left; } }
 
 .jch-post--nav {

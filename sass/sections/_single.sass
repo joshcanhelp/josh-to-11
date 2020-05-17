@@ -10,7 +10,11 @@
 	&--article
 		@extend %has_wysiwyg
 
-		> h1:first-child
+		> p:first-child
+			font-style: italic
+			font-size: $f_size_smallest
+
+		> h1, p:first-child
 			text-align: center
 
 			+larger_than_phone
