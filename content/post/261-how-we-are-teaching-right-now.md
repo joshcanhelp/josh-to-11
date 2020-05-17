@@ -3,7 +3,7 @@
 title: "How we are teaching right now"
 layout: post
 excerpt: "This is not a guide on how to teach your child. I have not figured out how to do that with my own, let alone yours. This is just one family's story about trying, failing, and trying again."
-date: 2020-05-17 12:21:00
+date: 2020-05-17 19:21:00
 permalink: how-we-are-teaching-right-now/index.html
 tags: ["Family", "Iteration"]
 featured_img: /_images/2020/05/lego-baby.jpg
@@ -18,7 +18,7 @@ We've been sheltering-in-place since school closed on March 12th, just over **tw
 
 <img src="/_images/2020/05/lego-baby.jpg" class="aligncenter">
 
-I'll say this clearly and up-front: **this is not a guide on how to teach your child**. I do not know how to do that with my own kids, let alone yours. This is just one person's story about trying, failing, and trying again. Maybe our path can be helpful if you need ideas or maybe it's just interesting to hear what another family doing.
+I'll say this clearly and up-front: **this is not a guide on how to teach your child**. I do not know how to do that with my own kids, let alone yours. This is just one person's story about trying, failing, and trying again. Maybe our path can be helpful if you need ideas or maybe it's just interesting to hear what another family is doing.
 
 If you are a parent going through something similar or an educator with a perspective to share on this, I'd be **delighted** to talk to you. You can reach me [@joshcanhelp on Twitter](https://twitter.com/joshcanhelp) or `josh` at this domain by email.
 

@@ -10,15 +10,13 @@
 	&--article
 		@extend %has_wysiwyg
 
-		> p:first-child
-			font-style: italic
-			font-size: $f_size_smallest
+		> h1
+			+centered_on_phone
 
-		> h1, p:first-child
-			text-align: center
-
-			+larger_than_phone
-				text-align: left
+	&--date
+		font-style: italic
+		font-size: $f_size_smallest
+		+centered_on_phone
 
 	&--nav
 		padding: 0 2% 2em

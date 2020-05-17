@@ -2,7 +2,7 @@
 
 {% block content %}
 <main class="jch-post jch-post--article">
-  <p>{{ page.date | dateformat }}</p>
+  <p class="jch-post--date">{{ page.date | dateformat }}</p>
   {{ content | safe }}
 </main>
 {% endblock %}

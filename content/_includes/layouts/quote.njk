@@ -2,7 +2,7 @@
 
 {% block content %}
 <main class="jch-post jch-post--article">
-  <p>{{ page.date | dateformat }}</p>
+  <p class="jch-post--date">{{ page.date | dateformat }}</p>
   {{ content | safe }}
   <p><a href="{{ link_to | safe }}">&mdash; {{ citation | safe }}</a></p>
 </main>

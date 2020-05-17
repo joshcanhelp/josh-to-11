@@ -1,4 +1,16 @@
 //
+// Responsive utilities
+//
+
+=larger_than_phone()
+	@media (min-width: $b_small)
+		@content
+
+=larger_than_tablet()
+	@media (min-width: $b_medium)
+		@content
+	
+//
 // Styles for placeholder text in inputs
 //
 
@@ -74,13 +86,11 @@
 	line-height: 1.2em
 
 //
-// Responsive utilities
+// Centered on mobile
 //
 
-=larger_than_phone()
-	@media (min-width: $b_small)
-		@content
+=centered_on_phone()
+	text-align: center
 
-=larger_than_tablet()
-	@media (min-width: $b_medium)
-		@content
+	+larger_than_phone
+		text-align: left

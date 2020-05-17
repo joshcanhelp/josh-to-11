@@ -409,6 +409,10 @@ body, .jch-list {
   .jch-post--article img.aligncenter {
     max-width: 106%;
     margin: 2em -3%; }
+    @media (min-width: 1050px) {
+      .jch-post--article img.aligncenter {
+        max-width: 100%;
+        margin: 2em 0; } }
   @media (min-width: 650px) {
     .jch-post--article img.alignleft {
       float: left;
@@ -946,14 +950,18 @@ pre[class*="language-"] {
     .jch-row__footer a:hover {
       color: #0b84fe; }
 
-.jch-post--article > p:first-child {
-  font-style: italic;
-  font-size: 0.8em; }
-
-.jch-post--article > h1, .jch-post--article p:first-child {
+.jch-post--article > h1 {
   text-align: center; }
   @media (min-width: 650px) {
-    .jch-post--article > h1, .jch-post--article p:first-child {
+    .jch-post--article > h1 {
+      text-align: left; } }
+
+.jch-post--date {
+  font-style: italic;
+  font-size: 0.8em;
+  text-align: center; }
+  @media (min-width: 650px) {
+    .jch-post--date {
       text-align: left; } }
 
 .jch-post--nav {
