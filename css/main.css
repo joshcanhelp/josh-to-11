@@ -800,25 +800,11 @@ pre[class*="language-"] {
       @media (min-width: 650px) {
         .jch-list__meta p {
           display: block; } }
-    .jch-list__meta--links {
-      padding-top: 0.6em; }
-      .jch-list__meta--links br {
-        display: none; }
-      .jch-list__meta--links a,
-      .jch-list__meta--links span {
-        display: inline-block;
-        padding: 0.1em 0.3em;
-        margin: 0 0.1em 0.3em;
-        background-color: #f6f6f8; }
-        .jch-list__meta--links a:hover,
-        .jch-list__meta--links span:hover {
-          background-color: transparent; }
-        @media (min-width: 650px) {
-          .jch-list__meta--links a,
-          .jch-list__meta--links span {
-            display: block;
-            padding: 0;
-            background-color: transparent; } }
+    .jch-list__meta br {
+      display: none; }
+      @media (min-width: 650px) {
+        .jch-list__meta br {
+          display: block; } }
     .jch-list__meta a .icon {
       background-color: #0b84fe;
       display: inline-block;

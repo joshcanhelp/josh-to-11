@@ -3,7 +3,7 @@
 title: "How we are teaching right now"
 layout: post
 excerpt: "This is not a guide on how to teach your child. I have not figured out how to do that with my own, let alone yours. This is just one family's story about trying, failing, and trying again."
-date: 2020-05-17 19:21:00
+date: 2020-05-17 12:21:00
 permalink: how-we-are-teaching-right-now/index.html
 tags: ["Family", "Iteration"]
 featured_img: /_images/2020/05/lego-baby.jpg
@@ -101,7 +101,9 @@ I reached out to a friend who ran a teaching company and poured out my soul.
 > 
 > Her school is helping us a bit and I know they’re scrambling to adjust so no judgement. But it seems very screen orientated (they issued iPads) and it’s still not tuned to individual students (because of course it couldn’t be). I feel really invested in getting this right and I feel like this virus thing is an extremely unique opportunity for us to have a stake in her future as a critical thinker and scientist (in the general sense) and a chance to get to know her in a way that we wouldn’t otherwise.
 
-This friend introduced me to the concept of Unschooling, which is letting the student choose the path and letting life experiences do the education. I recently started reading [Free to Learn](https://www.amazon.com/Free-Learn-Unleashing-Instinct-Self-Reliant/dp/0465025994), written by an advocate for the approach. She also put me in touch with someone who has been homeschooling for over a decade. 
+This friend introduced me to the concept of Unschooling, which is letting the student choose the path and letting life experiences do the education. She also put me in touch with someone who has been homeschooling for over a decade. 
+
+**Aside:** I recently started reading [Free to Learn](https://www.amazon.com/Free-Learn-Unleashing-Instinct-Self-Reliant/dp/0465025994), written by an advocate for the Unschooling approach. It sounds interesting enough to learn more, at the very least. 
 
 I felt like I was on the right path so I started to write down activities, sketched out schedules, and talked to our daughter about what she was interested in. Here are a few things on the list from that time:
 
@@ -119,7 +121,7 @@ We would just explore and talk and learn together! Our youngest would follow alo
 
 <img src="/_images/2020/05/pine-blossoms.jpg" class="aligncenter">
 
-This was really, truly how I felt for a week or two. The delerious optimism glowing brightly with arrogance is both funny and a little bit sad to look back on. The idea that I was going to just suddenly take this challenge on with no additional planning or preparation or even time and then excel at it immediately is ...  ridiculous.
+This was really, truly how I felt for a week or two. The delerious optimism glowing brightly with arrogance is both funny and a little bit sad to look back on. The idea that I was going to just suddenly take this challenge on with no additional planning or preparation or extra time and then excel at it immediately is ...  ridiculous.
 
 In the meantime, the educator friend of a friend came back to me with a data point about their current homeschooling situation:
 
@@ -127,8 +129,6 @@ In the meantime, the educator friend of a friend came back to me with a data poi
 
 Meanwhile, the friend I talked with originally sent me [an amazing article](https://www.heatheranneworld.com/post/homeschooling-is-not-the-same-as-crisis-schooling-advice-during-coronavirus-covid-19-shut-downs) that brought me back down to earth a bit:
 
-> This is my advice for those who have been thrust into schooling your kids at home due to the coronavirus COVID-19 shut downs.  I'm a long time public school teacher and long time homeschool mom. I have been at this a combined total of 25 years and I have some encouragement to share as well as some words of reality.
-> 
 > You are NOT homeschooling. You are CRISIS schooling. There is a huge difference. You may choose to homeschool after this, but this is not what homeschooling looks like, not even remotely.
 > 
 > Being home all day is NOT our normal! Our kids are not locked in their houses all day long. We also do all of the things your kids do with sports, dance, clubs, music, etc. in addition to our homeschool community connectedness. Our kids are also feeling disconnected and tremendous loss.
@@ -149,17 +149,17 @@ The message was: calm down, plug in, and let the expectations go. The question w
 
 That brings us to where we are now.
 
-The "Thing I accept as true" section at the top of this post is my mantra. Keep the parents sane and rested. Keep the kids exploring nature and moving their bodies and doing cool stuff that doesn't involve a screen. If we can do all that along some of the learning below, that's a huge win. 
+The "Things I'm currently accepting as true" section at the top of this post is my mantra. Keep the parents sane and rested. Keep the kids exploring nature and moving their bodies and doing cool stuff that doesn't involve a screen. If we can do all that along some of the learning below, that's a huge win. 
 
 <img src="/_images/2020/05/sugar-skull-ants.jpg" class="aligncenter">
 
-*Fire ants devouring a Day of the Dead sugar skull (she got a bite and never wants to go back)*
+*Fire ants devouring a Day of the Dead sugar skull (she got an ant bite and never wants to go back)*
 
 <img src="/_images/2020/05/sea-centipede.jpg" class="aligncenter">
 
-*A strange sea creature we found at a fantastic beach on the south of the island.*
+*A strange sea creature we found at an awesome beach on the south of the island.*
 
-We've been trying to involve both kids in as much of what we're doing as possible. Chores, typing on a keyboard, cooking, fixing things, whatever it is. I'll admit it, I'm not great at this. I just want to get the thing done so I can move onto the next thing. But having our first grader type out Git commands in the terminal or help clean the car or make pancakes, it feels like good stuff, like the kind you don't get at school. 
+We've been trying to involve both kids in as much of what we're doing as possible. Chores, typing on a keyboard, cooking, fixing things, whatever it is. I'll admit it, I'm not great at this. I just want to get the thing done so I can move onto the next thing. But having our first grader type out Git commands in the terminal or help clean the car or make pancakes, it feels like good stuff, the kind of stuff you can't get at school. 
 
 We've also been doing a lot of art and LEGOs. Our daughter has an incredible imagination and comes up with these elaborate stories and worlds and characters in her head. She'll tell us all about them but is reluctant to build or draw or represent them in the real world. Her high expectations for herself (*cough*) make it hard to make mistakes and just practice. But we're doing our best to encourage it. 
 
@@ -173,7 +173,7 @@ For math, the school-assigned app is ST Math, aka Jiji, a little penguin that ac
 
 <img src="/_images/2020/05/osmo-kit.png" class="aligncenter">
 
-On paper, I write out problems different ways based on what she's being assigned in her class. Sometimes these go well and sometimes this is a complete disaster. She does well if she can do the problems at her own speed and we just teach the concepts the next day, rather than correcting right after. 
+On paper, I write out math problems different ways based loosely on what she's being assigned in her class. Sometimes these go well and sometimes this is a complete disaster. She does well if she can do the problems at her own speed and we just teach the concepts the next day, rather than correcting right after. 
 
 Reading has been a challenge. Sometimes she'll pick up a book and read to us for a while, trying words out and getting through it. **Sometimes it's an emotional rollercoaster**. She despises "performing," which is the category that reading out loud goes in. Reading in her head will, of course, be how she will read all the rest of her life but we can't tell if she's actually reading. One activity that works fairly well is having her read on her own and write down all the words she didn't know (2 in 1 with writing).
 
