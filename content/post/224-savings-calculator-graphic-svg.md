@@ -1,6 +1,6 @@
 ---
 title: "Savings Calculator and Graphic in SVG"
-layout: gallery
+layout: post
 excerpt: ""
 date: 2015-11-12 13:52:43
 modified: 2016-11-02 22:10:59

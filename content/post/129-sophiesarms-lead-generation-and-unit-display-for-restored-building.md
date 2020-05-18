@@ -1,6 +1,6 @@
 ---
 title: "Sophie's Arms - Lead Generation and Unit Display for Restored Building"
-layout: gallery
+layout: post
 excerpt: ""
 date: 2010-06-02 04:22:27
 modified: 2019-01-04 04:54:17

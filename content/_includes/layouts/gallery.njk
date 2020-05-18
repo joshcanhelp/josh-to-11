@@ -4,6 +4,10 @@
 <main class="jch-post jch-post--article">
   <p class="jch-post--date">{{ page.date | dateformat }}</p>
   {{ content | safe }}
+
+  {%- if link_to -%}
   <p><a href="{{ link_to }}">Go there 👉</a></p>
+  {%- endif -%}
+
 </main>
 {% endblock %}

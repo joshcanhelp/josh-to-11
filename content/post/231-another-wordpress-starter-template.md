@@ -1,12 +1,13 @@
 ---
 title: "A(nother) WordPress Starter Template"
-layout: gallery
+layout: post
 excerpt: "This theme is an extension of a framework created for a local agency that wanted a way to spin up custom WordPress sites quickly and correctly. It grew into the starting point for all sites that I create."
 date: 2016-01-18 20:35:42
 modified: 2016-10-20 16:43:59
 permalink: another-wordpress-starter-template/index.html
 tags: ["WordPress"]
 featured_img: /_images/2016/03/default-img-size-large-150x150.png
+link_to: https://github.com/joshcanhelp/wp-starter
 wpid: 3892
 ---
 

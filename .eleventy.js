@@ -12,9 +12,8 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addLayoutAlias('page', 'layouts/page.njk');
 
-  const postLayouts = [ 'post', 'link', 'quote', 'gallery' ];
+  const postLayouts = [ 'post', 'link', 'quote' ];
 
-  eleventyConfig.addLayoutAlias('gallery', 'layouts/gallery.njk');
   eleventyConfig.addLayoutAlias('link', 'layouts/link.njk');
   eleventyConfig.addLayoutAlias('post', 'layouts/post.njk');
   eleventyConfig.addLayoutAlias('quote', 'layouts/quote.njk');

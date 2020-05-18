@@ -1,6 +1,6 @@
 ---
 title: "Premium WordPress Theme for Link and News Aggregation"
-layout: gallery
+layout: post
 excerpt: ""
 date: 2011-06-16 23:33:09
 modified: 2019-01-04 04:54:07

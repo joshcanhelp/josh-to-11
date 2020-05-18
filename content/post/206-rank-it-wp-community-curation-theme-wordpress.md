@@ -1,6 +1,6 @@
 ---
 title: "Rank It WP: A Community Curation Theme for WordPress"
-layout: gallery
+layout: post
 excerpt: "My latest shipment comes in the form of a premium theme called Rank It WP. The idea, explained in-depth after the jump, is a Product Hunt-type site in WordPress."
 date: 2015-01-08 17:43:23
 modified: 2020-01-19 22:15:01

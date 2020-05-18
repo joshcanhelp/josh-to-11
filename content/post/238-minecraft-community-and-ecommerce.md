@@ -1,6 +1,6 @@
 ---
 title: "Community and eCommerce Site for Massive Minecraft Community"
-layout: gallery
+layout: post
 excerpt: "8-month engagement to provide engineering, strategy, code review, pair programming, performance reviews, and security guidance."
 date: 2016-06-11 22:55:47
 modified: 2016-11-17 18:41:55

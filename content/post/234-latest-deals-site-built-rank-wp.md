@@ -1,6 +1,6 @@
 ---
 title: "Latest Deals Site Built on Rank It WP"
-layout: gallery
+layout: post
 excerpt: "A WordPress child theme gone mad! Built-in click statistics, moderation controls, grabbing text and images from submitted links, and expiring content. "
 date: 2016-04-01 14:34:48
 modified: 2016-11-02 22:10:59

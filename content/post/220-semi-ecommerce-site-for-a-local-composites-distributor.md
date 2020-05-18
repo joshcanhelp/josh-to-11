@@ -1,6 +1,6 @@
 ---
 title: "Semi-eCommerce Site for a Local Composites Distributor"
-layout: gallery
+layout: post
 excerpt: "This site was a partial migration from a custom PHP and MySQL application that was in dire need of an update. Collaborating with a talented designer, I built a site housing almost 400 products and dominates search ranking for high-value, niche terms. "
 date: 2015-08-19 19:19:16
 modified: 2016-10-20 16:43:59
