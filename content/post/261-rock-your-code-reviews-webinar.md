@@ -1,8 +1,7 @@
 ---
 
-title: "Notes from \"Rock Your Code Reviews\" with Dr. Michaela Greiler"
+title: "Notes from Rock Your Code Reviews with Dr. Michaela Greiler"
 layout: post
-excerpt: "My notes from the \"Rock Your Code Reviews\" led by Dr. Michaela Greiler."
 date: 2020-01-15 19:00:00
 permalink: rock-your-code-reviews-webinar/index.html
 tags: ["Development", "Team Dynamics"]
