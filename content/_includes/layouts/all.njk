@@ -4,11 +4,21 @@
 
 {% block content %}
 <main>
-  <h1 class="jch-col--col-head">{{ title }}</h1>
+  <h1 class="jch-col--col-head">{{ title }} ({{ collections.postsCollection.length }})</h1>
   {{ content | safe }}
   <ul class="jch-list jch-list__feed">
   {% for post in collections.postsCollection %}
-    {{ postListing(post) }}
+    <li>
+      <div class="jch-list__posts--content">
+        <h2 class="jch-list--title">
+          <a href="{{ post.url | safe }}">{{ post.data.title | safe }}</a>
+        </h2>
+        <p class="jch-list__posts--meta">
+          <strong class="jch-list__posts--live-on">Published: </strong>
+          <span class="jch-list__posts--date">{{ post.date | dateformat }}</span>
+        </p>
+      </div>
+    </li>
   {% endfor %}
   </ul>
 </main>

@@ -12,10 +12,14 @@ wpid: 3820
 
 # Hi, I’m Josh.<br>Nice to meet you.
 
-![](https://secure.gravatar.com/avatar/ae098a33ae2acd0fd647f48749f8630c?size=400)
+I’ve been working on the web since 2007 as an engineer, designer, strategist, user interface consultant, team lead, project manager, and product builder. I’ve been working IRL since 2010 as a husband and since 2013 as a dad.
 
-I’ve been working on the web since 2007 as an engineer, UI/UX consultant, team lead, project manager, and product builder. I currently work at [Auth0](https://auth0.com/blog/authors/josh-cunningham/). [More about me here](/about) and [what I'm doing right now here](/now).
-
-You can find me on [Twitter](https://twitter.com/joshcanhelp), [GitHub](https://github.com/joshcanhelp), and [LinkedIn](https://www.linkedin.com/in/joshcanhelp/).
+- [About](/about/)
+- [Now](/now/)
+- [All Posts](/archives/all/)
+- [All Tags](/archives/tags/)
+- [Twitter](https://twitter.com/joshcanhelp)
+- [GitHub](https://github.com/joshcanhelp)
+- [LinkedIn](https://www.linkedin.com/in/joshcanhelp/).
 
 Unless attributed, words, photographs, and graphics are my own.

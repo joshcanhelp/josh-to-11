@@ -6,19 +6,19 @@ date: 2009-06-21 20:34:02
 modified: 2018-07-19 02:57:46
 permalink: about/index.html
 tags: []
-featured_img: 
+featured_img:
 wpid: 838
 ---
 
 # About Josh Can Help
 
-I’ve been working on the web since 2007 as an engineer, designer, strategist, user interface consultant, team lead, project manager, and product builder. I’ve been working IRL since 2010 as a husband and since 2013 as a dad.
+![](https://secure.gravatar.com/avatar/ae098a33ae2acd0fd647f48749f8630c?size=400)
 
 My long relationship with technology started in my early teen years posting on BBSes and building my own computers. After more than a decade of tinkering, I decided to make it my profession by building my first web site for a family member in 2006. Soon after that, I started taking on small client projects found via word-of-mouth and online-networking while completing a B.S. in Chemistry. Since then, I’ve built Josh Can Help up to a thriving freelance practice that’s been supporting me and my family since 2008.
 
 I’ve worked with and for companies and agencies both large and small, including:
 
-- **Auth0**
+- **[Auth0](https://auth0.com/blog/authors/josh-cunningham/)**
 - Precision Nutrition
 - Seattle Children’s Hospital
 - 8ninths
