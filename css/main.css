@@ -298,12 +298,12 @@ pre[class*="language-"] {
 .token.inserted {
   color: green; }
 
-.jch-row .inner, .jch-post--article, .gallery, .jch-list__pages li, .jch-list__posts li, .jch-list__feed li, .jch-list__2-col, .jch-list__tech, .jch-list__tech li {
+.jch-row .inner, .jch-post--article, .gallery, .jch-list__pages li, .jch-list__posts li, .jch-list__feed li, .jch-list__2-col, .jch-list__tech, .jch-list__tech li, .jch-post--nav {
   zoom: 1; }
-  .jch-row .inner:before, .jch-post--article:before, .gallery:before, .jch-list__pages li:before, .jch-list__posts li:before, .jch-list__feed li:before, .jch-list__2-col:before, .jch-list__tech:before, .jch-list__tech li:before, .jch-row .inner:after, .jch-post--article:after, .gallery:after, .jch-list__pages li:after, .jch-list__posts li:after, .jch-list__feed li:after, .jch-list__2-col:after, .jch-list__tech:after, .jch-list__tech li:after {
+  .jch-row .inner:before, .jch-post--article:before, .gallery:before, .jch-list__pages li:before, .jch-list__posts li:before, .jch-list__feed li:before, .jch-list__2-col:before, .jch-list__tech:before, .jch-list__tech li:before, .jch-post--nav:before, .jch-row .inner:after, .jch-post--article:after, .gallery:after, .jch-list__pages li:after, .jch-list__posts li:after, .jch-list__feed li:after, .jch-list__2-col:after, .jch-list__tech:after, .jch-list__tech li:after, .jch-post--nav:after {
     content: "";
     display: table; }
-  .jch-row .inner:after, .jch-post--article:after, .gallery:after, .jch-list__pages li:after, .jch-list__posts li:after, .jch-list__feed li:after, .jch-list__2-col:after, .jch-list__tech:after, .jch-list__tech li:after {
+  .jch-row .inner:after, .jch-post--article:after, .gallery:after, .jch-list__pages li:after, .jch-list__posts li:after, .jch-list__feed li:after, .jch-list__2-col:after, .jch-list__tech:after, .jch-list__tech li:after, .jch-post--nav:after {
     clear: both; }
 
 body, .jch-list {
@@ -363,6 +363,19 @@ body, .jch-list {
   
   .jch-post--article h2 {
     font-size: 1.55em; }
+    .jch-post--article h2.hr {
+      border-bottom: 1px solid #b9c1c9;
+      font-size: 0.75em;
+      padding-bottom: 0.25em;
+      padding-left: 3%;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: #b9c1c9;
+      margin-top: 4em;
+      margin-bottom: 4em; }
+      @media (min-width: 650px) {
+        .jch-post--article h2.hr {
+          padding-left: 0; } }
   
   .jch-post--article h3 {
     font-size: 1.38em; }
@@ -406,13 +419,15 @@ body, .jch-list {
     float: none;
     margin: 2em auto;
     max-width: 100%; }
-  .jch-post--article img.aligncenter {
+  .jch-post--article .aligncenter {
     max-width: 106%;
-    margin: 2em -3%; }
-    @media (min-width: 1050px) {
-      .jch-post--article img.aligncenter {
+    margin-left: -3%;
+    margin-right: -3%; }
+    @media (min-width: 650px) {
+      .jch-post--article .aligncenter {
         max-width: 100%;
-        margin: 2em 0; } }
+        margin-left: 0;
+        margin-right: 0; } }
   @media (min-width: 650px) {
     .jch-post--article img.alignleft {
       float: left;
@@ -430,6 +445,8 @@ body, .jch-list {
   .jch-post--article blockquote {
     margin: 1.5em 0;
     font-size: 1.05em; }
+  .jch-post--article hr {
+    border-color: #d0d5db; }
 
 .jch-post--article blockquote, .jch-list__posts blockquote, .jch-list__feed blockquote {
   background: #ededf2;
@@ -674,21 +691,24 @@ pre[class*="language-"] {
         padding: 0; }
         .jch-col__middle:last-child {
           margin-right: 0; } }
-  @media (min-width: 650px) {
-    .jch-col__right {
-      float: left;
-      display: block;
-      margin-right: 2.35765%;
-      width: 23.23176%;
-      max-width: 300px; }
-      .jch-col__right:last-child {
-        margin-right: 0; } }
-  .jch-col__right .jch-list__posts--content {
-    margin-right: 0; }
-  .jch-col__right .jch-list__posts--live-on {
+  .jch-col__right {
     display: none; }
-  .jch-col__right .jch-list__meta {
-    margin-bottom: 0; }
+    @media (min-width: 650px) {
+      .jch-col__right {
+        float: left;
+        display: block;
+        margin-right: 2.35765%;
+        width: 23.23176%;
+        max-width: 300px;
+        display: block; }
+        .jch-col__right:last-child {
+          margin-right: 0; } }
+    .jch-col__right .jch-list__posts--content {
+      margin-right: 0; }
+    .jch-col__right .jch-list__posts--live-on {
+      display: none; }
+    .jch-col__right .jch-list__meta {
+      margin-bottom: 0; }
   .jch-col__middle-right {
     width: 100%;
     max-width: 1060px; }
@@ -951,17 +971,14 @@ pre[class*="language-"] {
       text-align: left; } }
 
 .jch-post--nav {
-  padding: 0 2% 2em;
-  border-top: 1px solid #ededf2; }
-  @media (min-width: 1050px) {
-    .jch-post--nav {
-      padding-top: 1.25em; } }
+  padding-bottom: 1em; }
   .jch-post--nav--label {
     text-transform: uppercase;
     font-size: 0.75em;
     font-weight: 700;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    letter-spacing: 1px; }
+    letter-spacing: 1px;
+    margin-bottom: 0.5em; }
 
 .jch-post--prev, .jch-post--next {
   float: left;

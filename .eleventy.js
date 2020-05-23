@@ -5,6 +5,10 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 module.exports = function(eleventyConfig) {
 
+  /*
+   * Configuration
+   */ 
+
   eleventyConfig.addPassthroughCopy({ 'images': '_images' });
   eleventyConfig.addPassthroughCopy({ 'css': '_css' });
 
@@ -15,6 +19,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('anna', 'layouts/anna.njk');
 
   eleventyConfig.setUseGitIgnore(false);
+
+  /*
+   * Collections
+   */
 
   eleventyConfig.addCollection('postsCollection', function(collection) {
     const tmpCollection = collection.getAllSorted();
@@ -34,7 +42,6 @@ module.exports = function(eleventyConfig) {
     });
   });
 
-
   eleventyConfig.addCollection('allTags', function(collection) {
     let allTags = [];
 
@@ -52,6 +59,10 @@ module.exports = function(eleventyConfig) {
     return tagDict;
   });
 
+  /*
+   * Filters 
+   */
+
   eleventyConfig.addFilter('dateformat', function(dateIn) {
     return moment(dateIn).format('MMM DD, YYYY [at] h:mm a');
   });
@@ -59,6 +70,12 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter('json', function(data) {
     return JSON.stringify(data, null, 2);
   });
+
+  /*
+   * Shortcodes
+   */
+
+  eleventyConfig.addPairedShortcode('h2br', (text) => `<h2 class="hr aligncenter">${text}</h6>`);
 
   return {
     dir: {

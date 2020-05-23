@@ -13,7 +13,7 @@ featured_img: /_images/2020/01/code-block.png
 
 I attended a great webinar led by [Dr. Michaela Greiler.](http://www.michaelagreiler.com/) on code reviews. I had my own opinions going in, of course, but I learned a lot and had a number of questions that I had (and didn't know I had) answered.
 
-## Notes
+{% h2br %}Notes{% endh2br %}
 
 ### Why do code reviews?
 
@@ -86,7 +86,7 @@ I attended a great webinar led by [Dr. Michaela Greiler.](http://www.michaelagre
 - Flaky/non-deterministic tests are problematic, time-consuming
 - Review test code with the same rigor as functional code but different mindset
 
-## Take-aways
+{% h2br %}Take-Aways{% endh2br %}
 
 This webinar could not have come at a better time. My team at Auth0 was taking a critical look at our review process and I learned a number of things that would be helpful for us to craft a better review process.
 

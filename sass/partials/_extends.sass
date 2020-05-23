@@ -84,6 +84,20 @@
 	h2
 		font-size: 1.55em
 
+		&.hr
+			border-bottom: 1px solid $c_g_med_lighter
+			font-size: $f_size_smallest
+			padding-bottom: 0.25em
+			padding-left: 3%
+			text-transform: uppercase
+			letter-spacing: 1px
+			color: $c_g_med_lighter
+			margin-top: 4em
+			margin-bottom: 4em
+
+			+larger_than_phone
+				padding-left: 0
+
 	h3
 		font-size: 1.38em
 
@@ -131,13 +145,15 @@
 		margin: 2em auto
 		max-width: 100%
 
-	img.aligncenter
+	.aligncenter
 		max-width: 106%
-		margin: 2em -3%
+		margin-left: -3%
+		margin-right: -3%
 
-		+larger_than_tablet
+		+larger_than_phone
 			max-width: 100%
-			margin: 2em 0
+			margin-left: 0
+			margin-right: 0
 
 	img.alignleft
 		+larger_than_phone
@@ -160,6 +176,9 @@
 		@extend %big_blockquote
 		margin: 1.5em 0
 		font-size: $f_size_medium
+	
+	hr
+		border-color: $c_g_med_lightest
 
 %big_blockquote
 	background: $c_g_lightest

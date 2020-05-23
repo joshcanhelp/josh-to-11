@@ -11,24 +11,39 @@
   {% set previousPost = collections.postsCollection | getPreviousCollectionItem(page) %}
   {% set nextPost = collections.postsCollection | getNextCollectionItem(page) %}
 
-  {% if previousPost or nextPost %}
+  {% if previousPost or nextPost or tags %}
+
+  {% h2br %}Read More{% endh2br %}
+
+  {% if tags | length %}
+  <div class="jch-post--nav">
+    <div class="jch-post--nav--label">Tags</div>
+    <div>
+      {% for tag in tags %}
+        <a href="/tag/{{ tag | slug }}" class="jch-tag">{{ tag }}</a> 
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+  
   <div class="jch-post--nav">
   
-  {% if nextPost %}
-  <div class="jch-post--prev">
-    <p class="jch-post--nav--label">Previous</p>
-    <p><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a></p>
+    {% if nextPost %}
+    <div class="jch-post--prev">
+      <div class="jch-post--nav--label">Previous</div>
+      <div><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a></div>
+    </div>
+    {% endif %}
+
+    {% if previousPost %}
+    <div class="jch-post--next">
+      <div class="jch-post--nav--label">Next</div>
+      <div><a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></div>
+    </div>
+    {% endif %}
+  
   </div>
   {% endif %}
 
-  {% if previousPost %}
-  <div class="jch-post--next">
-    <p class="jch-post--nav--label">Next</p>
-    <p><a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></p>
-  </div>
-  {% endif %}
-  
-  </div>
-  {% endif %}
 </main>
 {% endblock %}
