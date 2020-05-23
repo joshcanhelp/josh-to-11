@@ -1,6 +1,6 @@
 ---
 title: "AleSmith Grand Cru - One of My Favorite Beers of All Time"
-layout: link
+layout: post
 excerpt: ""
 date: 2014-02-01 17:50:07
 modified: 2016-01-19 04:20:04

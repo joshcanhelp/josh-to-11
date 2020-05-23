@@ -1,6 +1,6 @@
 ---
 title: "Quit Social Media"
-layout: quote
+layout: post
 excerpt: ""
 date: 2016-11-21 17:51:41
 modified: 2016-11-22 17:52:27

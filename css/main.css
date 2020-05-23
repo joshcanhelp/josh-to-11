@@ -494,7 +494,7 @@ pre[class*="language-"] {
   max-width: 96%;
   padding: 5px 3px 10px;
   text-align: center;
-  font-size: 0.8em; }
+  font-size: 0.75em; }
 
 .wp-caption.alignnone {
   margin: 5px 20px 20px 0; }
@@ -784,7 +784,7 @@ pre[class*="language-"] {
       .jch-list__posts--content, .jch-list__feed--content {
         margin-right: 166px; } }
   .jch-list__posts--meta, .jch-list__feed--meta {
-    font-size: 0.8em; }
+    font-size: 0.75em; }
     .jch-list__posts--meta .icon:before, .jch-list__feed--meta .icon:before {
       margin: 0 0.3em 0 0; }
   .jch-list__meta {
@@ -944,7 +944,7 @@ pre[class*="language-"] {
 
 .jch-post--date {
   font-style: italic;
-  font-size: 0.8em;
+  font-size: 0.75em;
   text-align: center; }
   @media (min-width: 650px) {
     .jch-post--date {
@@ -956,6 +956,12 @@ pre[class*="language-"] {
   @media (min-width: 1050px) {
     .jch-post--nav {
       padding-top: 1.25em; } }
+  .jch-post--nav--label {
+    text-transform: uppercase;
+    font-size: 0.75em;
+    font-weight: 700;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    letter-spacing: 1px; }
 
 .jch-post--prev, .jch-post--next {
   float: left;

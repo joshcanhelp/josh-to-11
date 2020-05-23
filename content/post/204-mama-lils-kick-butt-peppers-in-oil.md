@@ -1,6 +1,6 @@
 ---
 title: "Mama Lil's Kick Butt Peppers in Oil"
-layout: link
+layout: post
 excerpt: ""
 date: 2015-01-05 15:01:58
 modified: 2016-01-19 04:20:04

@@ -11,12 +11,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
 
   eleventyConfig.addLayoutAlias('page', 'layouts/page.njk');
-
-  const postLayouts = [ 'post', 'link', 'quote' ];
-
-  eleventyConfig.addLayoutAlias('link', 'layouts/link.njk');
   eleventyConfig.addLayoutAlias('post', 'layouts/post.njk');
-  eleventyConfig.addLayoutAlias('quote', 'layouts/quote.njk');
   eleventyConfig.addLayoutAlias('anna', 'layouts/anna.njk');
 
   eleventyConfig.setUseGitIgnore(false);
@@ -24,7 +19,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection('postsCollection', function(collection) {
     const tmpCollection = collection.getAllSorted();
     return tmpCollection.reverse().filter(function(tpl) {
-      if ( tpl.data.permalink && postLayouts.includes(tpl.data.layout) ) {
+      if ( tpl.data.permalink && 'post' === tpl.data.layout ) {
         return true;
       }
     });
@@ -59,6 +54,10 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter('dateformat', function(dateIn) {
     return moment(dateIn).format('MMM DD, YYYY [at] h:mm a');
+  });
+
+  eleventyConfig.addFilter('json', function(data) {
+    return JSON.stringify(data, null, 2);
   });
 
   return {

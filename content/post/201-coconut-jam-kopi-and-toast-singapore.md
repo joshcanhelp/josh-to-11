@@ -1,6 +1,6 @@
 ---
 title: "Coconut Jam, Kopi and Toast, Singapore"
-layout: link
+layout: post
 excerpt: "Singapore is a magical wonderland of food, architecture, color, culture, and food. And food. Oh the food."
 date: 2015-01-01 19:24:53
 modified: 2016-01-19 04:20:04

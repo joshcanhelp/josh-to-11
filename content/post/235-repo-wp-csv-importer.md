@@ -1,6 +1,6 @@
 ---
 title: "Repo: WP CSV Importer"
-layout: link
+layout: post
 excerpt: ""
 date: 2016-04-01 16:49:38
 modified: 2016-10-20 16:43:59

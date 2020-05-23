@@ -1,6 +1,6 @@
 ---
 title: "Gist: Add custom fields by shortcode"
-layout: link
+layout: post
 excerpt: ""
 date: 2016-07-01 15:34:28
 modified: 2016-11-02 22:10:59

@@ -3,11 +3,32 @@
 {% block content %}
 <main class="jch-post jch-post--article">
   <p class="jch-post--date">{{ page.date | dateformat }}</p>
-  
   {{ content | safe }}
+  {% if link_to %}
+    <p><a href="{{ link_to }}">Go there 👉</a></p>
+  {% endif %}
 
-  {%- if link_to -%}
-  <p><a href="{{ link_to }}">Go there 👉</a></p>
-  {%- endif -%}
+  {% set previousPost = collections.postsCollection | getPreviousCollectionItem(page) %}
+  {% set nextPost = collections.postsCollection | getNextCollectionItem(page) %}
+
+  {% if previousPost or nextPost %}
+  <div class="jch-post--nav">
+  
+  {% if nextPost %}
+  <div class="jch-post--prev">
+    <p class="jch-post--nav--label">Previous</p>
+    <p><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a></p>
+  </div>
+  {% endif %}
+
+  {% if previousPost %}
+  <div class="jch-post--next">
+    <p class="jch-post--nav--label">Next</p>
+    <p><a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></p>
+  </div>
+  {% endif %}
+  
+  </div>
+  {% endif %}
 </main>
 {% endblock %}

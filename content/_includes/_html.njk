@@ -41,34 +41,34 @@
       </header>
 
       <div class="jch-col jch-col__middle">
-				{% block content %}{% endblock %}
-    	</div>
-			<div class="jch-col jch-col__right jch-col__pad-vert">
+			{% block content %}{% endblock %}
+		</div>
+		<div class="jch-col jch-col__right jch-col__pad-vert">
 
-				<ul class="jch-list jch-list__meta">
-				{% if layout in [ 'post', 'gallery', 'link', 'post', 'quote' ] %}
+			<ul class="jch-list jch-list__meta">
+			{% if 'post' === layout %}
 
-					{% if excerpt %}
-					<li>
-						<p><strong>Excerpt:</strong></p>
-						<p>{{ excerpt | safe }}</p>
-					</li>
-					{% endif %}
-
-					{% if tags | length %}
-					<li>
-						<p><strong>Tags:</strong></p>
-						<p>
-							{% for tag in tags %}
-								<a href="/tag/{{ tag | slug }}" class="jch-tag">{{ tag }}</a><br>
-							{% endfor %}
-						</p>
-					</li>
-					{% endif %}
-
+				{% if excerpt %}
+				<li>
+					<p><strong>Excerpt:</strong></p>
+					<p>{{ excerpt | safe }}</p>
+				</li>
 				{% endif %}
-				</ul>
-			</div>
+
+				{% if tags | length %}
+				<li>
+					<p><strong>Tags:</strong></p>
+					<p>
+						{% for tag in tags %}
+							<a href="/tag/{{ tag | slug }}" class="jch-tag">{{ tag }}</a><br>
+						{% endfor %}
+					</p>
+				</li>
+				{% endif %}
+
+			{% endif %}
+			</ul>
+		</div>
     </section>
 
     <footer class="jch-row jch-row__footer">

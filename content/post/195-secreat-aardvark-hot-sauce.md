@@ -1,6 +1,6 @@
 ---
 title: "My Favorite Hot Sauce Ever ... This Month"
-layout: link
+layout: post
 excerpt: ""
 date: 2014-03-05 23:14:08
 modified: 2016-01-19 04:20:04

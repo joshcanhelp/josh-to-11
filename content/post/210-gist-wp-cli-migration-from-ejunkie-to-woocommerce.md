@@ -1,6 +1,6 @@
 ---
 title: "Gist: WP-CLI migration from ejunkie to WooCommerce"
-layout: link
+layout: post
 excerpt: ""
 date: 2015-02-17 17:24:06
 modified: 2016-10-20 16:43:59

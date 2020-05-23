@@ -1,6 +1,6 @@
 ---
 title: "Neil Roseman on conversations/interviews"
-layout: quote
+layout: post
 excerpt: ""
 date: 2013-08-15 17:59:15
 modified: 2016-11-22 17:51:15

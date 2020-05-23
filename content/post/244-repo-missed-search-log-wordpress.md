@@ -1,6 +1,6 @@
 ---
 title: "Repo: Missed Search Log for WordPress"
-layout: link
+layout: post
 excerpt: "Concept for a log of search terms with no results on a WordPress site."
 date: 2016-10-09 21:24:43
 modified: 2016-11-02 22:10:59
