@@ -5,7 +5,7 @@ layout: post
 excerpt: "This is not a guide on how to teach your child. I have not figured out how to do that with my own, let alone yours. This is just one family's story about trying, failing, and trying again."
 date: 2020-05-17 12:21:00
 permalink: how-we-are-teaching-right-now/index.html
-tags: ["Family", "Iteration"]
+tags: ["Family", "Iteration", "Coronavirus"]
 featured_img: /_images/2020/05/lego-baby.jpg
 
 ---
