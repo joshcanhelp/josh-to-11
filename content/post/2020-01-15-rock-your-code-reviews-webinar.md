@@ -19,7 +19,7 @@ I attended a great webinar led by [Dr. Michaela Greiler.](http://www.michaelagre
 
 - Finding defects? Knowledge sharing?
 - Microsoft says: code improvements and finding defects
-- Unreviewed code is 2x more likley to introduce defects
+- Unreviewed code is 2x more likely to introduce defects
 - 80% of code reviews lead to code improvements
 - Only 15% of issues _related_ to defects
 - What are code reviews about? (decreasing percentage of issues)

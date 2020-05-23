@@ -442,7 +442,7 @@ There are a lot more gains than just productivity, though:
 
 I would **highly** recommend trying this out if you're just getting started with a blog or are getting tired of logging in, updating plugins, clearing out spam comments, and updating core before you get down to writing. WordPress has it's place but, in terms of writing and enjoying it, Eleventy has my ❤️
 
-## Additional Resources
+{% h2br %}Resources / References{% endh2br %}
 
 - [WP-CLI script to convert your WordPress content to Markdown](https://github.com/joshcanhelp/wordpress-to-markdown)
 - [Eleventy project built from the WP Theme Unit Test content](https://github.com/joshcanhelp/wordpress-to-11ty)
