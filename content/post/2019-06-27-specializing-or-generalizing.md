@@ -37,11 +37,11 @@ I see a specialist as someone who knows the ins, outs, ups, downs, pros, and con
 
 ![](/_images/2019/06/specialist-graph.png)
 
-Maybe you’re a React specialist who knows the public API in and out, understands all the different ways to manage state, and can live demo a new React app in the background while you’re explaining component composition like Luís Rudge.
+Maybe you’re a React specialist who knows the public API in and out, understands all the different ways to manage state, and can live demo a new React app in the background while you’re explaining component composition like [Luís Rudge](https://twitter.com/luisrudge).
 
 ![](/_images/2019/06/luis-react-app.png)
 
-Maybe you’re a digital identity specialist who knows OpenID like the back of your hand, understands all the different components of the OAuth threat model, and can sketch out an authorization code grant with PKCE in PowerPoint while explaining the nuances of the audience parameter like Vittorio Bertocci.
+Maybe you’re a digital identity specialist who knows OpenID like the back of your hand, understands all the different components of the OAuth threat model, and can sketch out an authorization code grant with PKCE in PowerPoint while explaining the nuances of the audience parameter like [Vittorio Bertocci](https://twitter.com/vibronet).
 
 ![](/_images/2019/06/vittorio-pkce.png)
 
@@ -53,7 +53,7 @@ Being a specialist in one thing does not mean you can’t be a specialist in oth
 - Do you know someone who is a specialist in something (either personally or a public figure)? How would you describe them? Do you look up to them?
 - If you wanted to become a specialist in something instantly without any effort, what would you choose? If you had to do the work, would that change your answer? And where would you start the process?
 - What are the qualities that someone would need to have to become a specialist?
-- Are the two examples above only specialists?
+- Are the two people above only specialists?
 
 ## What is a Generalist?
 
@@ -61,7 +61,9 @@ I see a generalist as someone who knows just enough about a lot of things. A gen
 
 ![](/_images/2019/06/generalist-graph.png)
 
-Maybe you’re a software engineering generalist who can review a PR in almost in any language, is just as comfortable talking to engineers as you are marketers and executives, and can explain MVC, SEO, and D&I to a junior engineer just starting at your company. Maybe you’re a digital marketing generalist who is just as comfortable debugging JavaScript interactions as you are editing a photo, understands both the content and technical aspects of SEO performance, and spin up a landing page site in WordPress before lunch.
+Maybe you’re a software engineering generalist who can review a PR in almost in any language, is just as comfortable talking to engineers as you are marketers and executives, and can explain MVC, SEO, and CI to a junior engineer just starting at your company. 
+
+Maybe you’re a digital marketing generalist who is just as comfortable debugging JavaScript interactions as you are editing a photo, understands both the content and technical aspects of SEO performance, and spin up a landing page site in WordPress before lunch.
 
 ![](/_images/2019/06/joshcanhelp-site-old.png)
 
@@ -109,7 +111,7 @@ To be a digital marketing generalist, you have understand, horizontally:
 
 Choosing a specialist or a generalist path just serves to set imaginary boundaries around your perceived capabilities and ignores the real question to ask yourself:
 
-> How can I create the most value for the people around me while enjoying what I do every day.
+> How can I create the most value for the people around me while enjoying what I do every day?
 
 Each day, you have a million things to decide, but one of them should not be “should I go deeper or wider?” Ask yourself:
 
@@ -118,4 +120,6 @@ Each day, you have a million things to decide, but one of them should not be “
 - What does my company need?
 - What does my team need?
 
-... and when you’ve narrowed it down, ask yourself “what do I need?” and the path should be clear. The moral of the story is: don’t look for labels to apply to yourself, look for the place where you can leverage your desire and talent in the most effective way.
+... and when you’ve narrowed it down, ask yourself “what do I need?” and the path start to become clear. 
+
+The moral of the story is: don’t look for labels to apply to yourself, look for the place where you can leverage your desire and talent in the most effective way.

@@ -3,6 +3,7 @@ title: Excellent piece on quarantine coping and much more
 link_to: "https://longreads.com/2020/04/16/my-body-is-not-a-temple/"
 permalink: link-to-my-body-is-not-a-temple/index.html
 layout: post
+tags: [ "COVID-19" ]
 date: 2020-04-25 18:00:00
 ---
 

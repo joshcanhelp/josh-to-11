@@ -5,7 +5,7 @@ layout: post
 excerpt: "This is not a guide on how to teach your child. I have not figured out how to do that with my own, let alone yours. This is just one family's story about trying, failing, and trying again."
 date: 2020-05-17 12:21:00
 permalink: how-we-are-teaching-right-now/index.html
-tags: ["Family", "Iteration", "Coronavirus"]
+tags: ["Family", "Iteration", "COVID-19"]
 featured_img: /_images/2020/05/lego-baby.jpg
 
 ---
@@ -192,3 +192,8 @@ The hardest part about all of this is the tension in my head about doing the rig
 But then I realize ... I've been asking all these questions since the day she was born and will keep asking until long after this pandemic is over. My job is to do best I can with what I have and, right now, I can say confidently ...
 
 ### I am.
+
+{% h2br %}Resources / References{% endh2br %}
+
+- [Homeschooling is NOT the Same as Crisis Schooling](https://www.heatheranneworld.com/post/homeschooling-is-not-the-same-as-crisis-schooling-advice-during-coronavirus-covid-19-shut-downs) - the great homeschooling article I linked to above. 
+- [Some overwhelmed parents are giving up on distance learning and abandoning at-home schooling](https://www.theglobeandmail.com/canada/article-growing-cohort-of-overwhelmed-parents-unengaged-children-drop/) - Ever since I read this, I've been holding our breath for the school district to just call it. The [Hacker News comment thread](https://news.ycombinator.com/item?id=23010079) is worth a read as well. [One more from the Wall Street Journal](https://archive.md/QC6KH).
