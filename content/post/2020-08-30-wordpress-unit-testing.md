@@ -4,7 +4,7 @@ title: WordPress Unit Testing Techniques
 permalink: wordpress-unit-testing-techniques/index.html
 layout: post
 tags: [ "WordPress", "Development", "Testing", "Best Of"]
-date: 2020-08-30 18:00:00
+date: 2020-08-30 10:05:00
 featured_img: /_images/2020/08/stacking-rocks-thumb.jpg
 excerpt: I've learned a lot about how to avoid common issues and making life writing tests in WordPress a little easier. This post is a collection of ways I've found to accurately and thoroughly test a plugin.
 
@@ -12,7 +12,7 @@ excerpt: I've learned a lot about how to avoid common issues and making life wri
 
 # WordPress Unit Testing Techniques
 
-I'll admit it: I like writing tests. Besides helping to create a better product, it gives me an important perspective on the code I write. It forces me to think twice about class and method names, function signatures, and return shapes.
+I'll admit it: I like writing tests. Besides helping to create a more stable product, it gives me an important perspective on the code I write. It forces me to think twice about class and method names, function signatures, and return shapes.
 
 ![Stacking rocks](/_images/2020/08/stacking-rocks.jpg)
 
@@ -20,7 +20,7 @@ That said, testing in WordPress can be challenging. You have a big framework you
 
 I brought the [Auth0 WordPress plugin](https://github.com/auth0/wp-auth0) from 0% tested to almost 80% and, in that time, learned a lot about how to avoid common issues and making life writing tests a little easier. This post is a collection of ways I've found to accurately and thoroughly test a plugin.
 
-All the code below is [published here](https://github.com/joshcanhelp/wp-test-plugin) so you can examine and run it locally. The code comment at the top of each code block points to where in this project you can find the code. I also encoded the techniques here in a [set of helper Traits](https://github.com/joshcanhelp/wp-unit-test-helpers) you can include in your project.
+All the code below is [published here](https://github.com/joshcanhelp/wp-test-plugin) so you can examine and run it locally. The code comment at the top of each code block points to where in this project you can find the code. I also encoded the techniques here in a [set of helper Traits](https://github.com/joshcanhelp/wp-unit-test-helpers) you can include in your project with [Composer](https://packagist.org/packages/joshcanhelp/wp-unit-test-helpers).
 
 ## Table of contents
 
@@ -35,19 +35,19 @@ All the code below is [published here](https://github.com/joshcanhelp/wp-test-pl
 
 ## Who this series is for
 
-This post series is for developers who are generally familiar with unit testing and already have a testing suite installed in their plugin or theme. If not, your best bet is to start with the [WP-CLI unit test installer](https://make.wordpress.org/cli/handbook/plugin-unit-tests/#running-tests-locally). You should be at the point where you can run `phpunit` in the plugin folder and get a positive response back.
+This post series is for developers who are generally familiar with unit testing and may already have a testing suite installed in their plugin or theme. If not, your best bet is to start with the [WP-CLI unit test installer](https://make.wordpress.org/cli/handbook/plugin-unit-tests/#running-tests-locally). You should be at the point where you can run `phpunit` in the plugin folder and get a positive response back.
 
 <a id="http-request-inspection"></a>
 ## HTTP request inspection
 
 Checking an HTTP request to an external service typically consists of two parts:
 
-1. How HTTP request to the service is formed
+1. How the HTTP request to the service is formed
 2. How the HTTP response from the service is handled
 
 The service itself should not be tested as a part of unit testing your code. You might want to add integration/functional tests at some point but unit tests should be fast, stable, and reduce external dependencies.
 
-So let's say we have a function that calls out to an external API to, say, pull down additional user data when they login.
+Let's start with a function that calls out to an external API to pull down additional user data when they login.
 
 ```php
 // wp-test-plugin.php
@@ -56,7 +56,7 @@ function prefixed_get_user_profile_data_on_login( $user_login, $user ) {
 	$api_token   = get_option( 'user_profile_api_access_token' );
 	$response    = wp_remote_get(
 		'https://api.joshcanhelp.com/user?email=' . $email_param,
-		array( 'headers' => array( 'Authorization' => 'Bearer ' . $api_token ) )
+		[ 'headers' => [ 'Authorization' => 'Bearer ' . $api_token ] ]
 	);
 
 	$response_code = (int) wp_remote_retrieve_response_code( $response );
@@ -86,7 +86,7 @@ Looking back at our testing checklist above, we first want to check the HTTP req
 - The existence of a bearer token in headers
 - Where the token comes from
 
-We want to do all this *before* WordPress makes any HTTP requests so we somehow halt the request before it goes out. We can do that by using the `pre_http_request` filter and halting the process by throwing an exception, which our test will need to catch and inspect.
+We want to do all this *before* WordPress makes any HTTP requests so, when testing, we need to stop the request before it goes out. We can do that by using the `pre_http_request` filter and halting the process by throwing an exception, which our test will catch and inspect.
 
 First, we'll write the function that we'll use to throw the exception with the data we want to see:
 
@@ -95,19 +95,19 @@ First, we'll write the function that we'll use to throw the exception with the d
 function pre_http_request_halt_request( $preempt, $args, $url ) {
 	throw new \Exception(
 		json_encode(
-			array(
+			[
 				'url'     => $url,
 				'method'  => $args['method'],
 				'headers' => $args['headers'],
 				'body'    => json_decode( $args['body'], true ),
 				'preempt' => $preempt,
-			)
+			]
 		)
 	);
 }
 ```
 
-We're taking all of the data we want to inspect and packing that into JSON to return to the testing process via an exception. The data that is used here will come via our plugin's call to `wp_remote_get()`. This will be triggered when we add this function to the `pre_http_request` filter and call `get_user_profile_data_on_login()`.
+We're taking all of the data we want to inspect and packing that into JSON to return to the testing process via an exception. This data will come via our plugin's call to `wp_remote_get()` and will be triggered when we add this function to the `pre_http_request` filter and call `prefixed_get_user_profile_data_on_login()`.
 
 Our test will look something like this:
 
@@ -119,10 +119,10 @@ class TestHttpHalt extends \PHPUnit\Framework\TestCase {
 		add_filter( 'pre_http_request', 'pre_http_request_halt_request', 1, 3 );
 		update_option( 'user_profile_api_access_token', '__test_api_token__' );
 
-		$test_user = (object) array( 'data' => (object) array( 'user_email' => '__test_email__' ) );
+		$test_user = (object) [ 'data' => (object) [ 'user_email' => '__test_email__' ] ];
 		try {
 			prefixed_get_user_profile_data_on_login( uniqid(), $test_user );
-			$e_data = array();
+			$e_data = [];
 		} catch ( Exception $e ) {
 			$e_data = json_decode( $e->getMessage(), true );
 		}
@@ -141,13 +141,15 @@ class TestHttpHalt extends \PHPUnit\Framework\TestCase {
 }
 ```
 
-> **A note on the Exception-throwing here:** You'll find that throwing a generic core `Exception` here can be a little problematic if the code you're testing fails for a different reason and you get an error from the JSON decoding. The help helper library I linked to above throws specific exceptions so you can catch what you throw in your helpers and everything else will bubble up.
+[See this using the helper library ›](https://github.com/joshcanhelp/wp-test-plugin/blob/master/tests/testHttpHaltWpTestCase.php)
+
+> **A note on the Exception-throwing here:** You'll find that throwing a generic core `Exception` here can be a little problematic if the code you're testing fails for a different reason and you get an error from the JSON decoding. The helper library I link to above throws [specific exceptions](https://github.com/joshcanhelp/wp-unit-test-helpers/tree/master/src/exceptions) so you can catch what you throw in your helpers and everything else will bubble up.
 
 Walking through what we're doing here:
 
 1. We add the `pre_http_request_halt_request` function from above to the `pre_http_request` filter in WP core to halt all HTTP requests that are made
 2. We add a test token value to the options so we can check that this value is a part of the request
-3. We call `get_user_profile_data_on_login()` in a `try` block because we are expecting an exception with the data we want to inspect
+3. We call `prefixed_get_user_profile_data_on_login()` in a `try` block because we are expecting an exception with the data we want to inspect
 4. We set `$e_data` to an empty array so we can check that an HTTP request was even made
 5. In the `catch` block, we pull the JSON string out of the exception message and decode it for inspection
 6. We check that the exception data is not empty (as in, a request was made)
@@ -164,28 +166,28 @@ Now, we have a unit test that runs quickly, does not rely on an external service
 
 Response handling uses the same filter as before but instead of stopping the request, it provides the exact response we want. This serves as a mock of what the service might return and allows use to check that the plugin is doing the right thing with returned data and handling errors when they occur.
 
-For the same function `get_user_profile_data_on_login()` above, we'll now be checking:
+For the same function `prefixed_get_user_profile_data_on_login()` above, we'll now be checking:
 
-- What happens with an `WP_Error` occurs
-- What happens when another kind of request problem (like a 404) occurs
+- What happens when a `WP_Error` occurs (network problem)
+- What happens when another kind of request problem occurs (like a 404 not found)
 - What happens when no user profile data is returned
 - How a successful request is handled
 
-All of these checks will be separate tests with different mocked responses returned from functions hooked to `pre_http_request`. If you look at the core WP code that follows that filter, anything returned from that filter that is not `false` is just returned directly out of `wp-remote_get()`. That will trigger the response handling we want to check in the plugin code.
+All of these checks will be separate tests with different mocked responses returned from functions hooked to `pre_http_request`. If you look at the core WP code that follows that filter, anything returned from that filter that is not `false` is just returned directly out of `wp_remote_get()`. That will trigger the response handling we want to check in the plugin code.
 
 So let's write the mock response for the last one on the list, a successful call:
 
 ```php
 // tests/bootstrap.php
 function pre_http_request_mock_success() {
-	return array(
-		'response' => array( 'code' => 200 ),
+	return [
+		'response' => [ 'code' => 200 ],
 		'body'     => '{"location": "Seattle, WA, USA"}',
-	);
+	];
 }
 ```
 
-This function should go in the test suite itself. I'll talk about some test architecture strategies later on in this post but, for now, these can go in the `tests/bootstrap.php` files created by WP-CLI.
+This function should go in the `tests/bootstrap.php` file created by WP-CLI.
 
 Next, the test suite:
 
@@ -204,15 +206,15 @@ class TestHttpMock extends \PHPUnit\Framework\TestCase {
 	public function testThatItSetsTheUserMetaOnSuccess() {
 		add_filter( 'pre_http_request', 'pre_http_request_mock_success', 1 );
 
-		$test_user = (object) array(
+		$test_user = (object) [
 			'ID'   => 1,
-			'data' => (object) array( 'user_email' => '__test_email__' ),
-		);
+			'data' => (object) [ 'user_email' => '__test_email__' ],
+		];
 		$result    = prefixed_get_user_profile_data_on_login( uniqid(), $test_user );
 
 		$this->assertTrue( $result );
 		$this->assertEquals(
-			array( 'location' => 'Seattle, WA, USA' ),
+			[ 'location' => 'Seattle, WA, USA' ],
 			get_user_meta( 1, 'custom_profile_data', true )
 		);
 
@@ -229,29 +231,30 @@ The test suite above:
 4. We check to make sure the function returned `true`
 5. We check the user meta for the data we sent back in our mocking function
 
-So we know now that mocking is working and the happy path of our function works 🎉
+Now we know that mocking is working and the happy path of our function works as well!
 
 Let's write the rest of our mocking functions:
 
 
 ```php
 // tests/bootstrap.php
+
 function pre_http_request_mock_wp_error() {
-  return new WP_Error( '__test_wp_error_message__' );
+	return new WP_Error( '__test_wp_error_message__' );
 }
 
 function pre_http_request_mock_not_found() {
-  return [
-    'response' => [ 'code' => 404 ],
-    'body'     => '__test_not_found_body__',
-  ];
+	return [
+		'response' => [ 'code' => 404 ],
+		'body'     => '__test_not_found_body__',
+	];
 }
 
 function pre_http_request_mock_empty_response() {
-  return [
-    'response' => [ 'code' => 200 ],
-    'body'     => '',
-  ];
+	return [
+		'response' => [ 'code' => 200 ],
+		'body'     => '',
+	];
 }
 ```
 
@@ -264,12 +267,12 @@ class TestHttpMock extends \PHPUnit\Framework\TestCase {
 	// Existing test methods, see above ...
 
 	public function testThatItHandlesFailureConditions() {
-		$test_user = (object) array(
+		$test_user = (object) [
 			'ID'   => 1,
-			'data' => (object) array( 'user_email' => '__test_email__' ),
-		);
+			'data' => (object) [ 'user_email' => '__test_email__' ],
+		];
 
-		foreach ( array( 'wp_error', 'not_found', 'empty_response' ) as $condition ) {
+		foreach ( [ 'wp_error', 'not_found', 'empty_response' ] as $condition ) {
 			add_filter( 'pre_http_request', 'pre_http_request_mock_' . $condition, 1 );
 			$result = prefixed_get_user_profile_data_on_login( uniqid(), $test_user );
 			$this->assertFalse( $result );
@@ -279,6 +282,8 @@ class TestHttpMock extends \PHPUnit\Framework\TestCase {
 	}
 }
 ```
+
+[See this using the helper library ›](https://github.com/joshcanhelp/wp-test-plugin/blob/master/tests/testHttpMockWpTestCase.php)
 
 You might notice that the failure cases are pretty much identical. With the tests above, it's impossible for the test to tell exactly what caused `false` to be returned. We know that the success case works, though, and that we're mocking the right thing. You might find in a real application of these techniques that you have some kind of logging service you can mock and see the actual failure condition.
 
@@ -303,7 +308,7 @@ Just to recap HTTP requests, using the `pre_http_request` filter, we halt reques
 
 Catching and checking redirects in WordPress works like the HTTP halting mentioned above. We'll throw an exception containing the data we need, catch that in the test, and take a look.
 
-The function we'll test here is a redirection based on the existence of a valid URL parameter.
+The function we'll test here is a redirection based on the existence of a valid URL parameter:
 
 ```php
 // wp-test-plugin.php
@@ -368,14 +373,13 @@ So we need to halt redirecting with an exception, then try to catch that excepti
 
 ```php
 // tests/bootstrap.php
-
 function wp_redirect_halt_redirect( $location, $status ) {
 	throw new \Exception(
 		json_encode(
-			array(
+			[
 				'location' => $location,
 				'status'   => $status,
-			)
+			]
 		)
 	);
 }
@@ -396,7 +400,7 @@ There was 1 error:
 Exception: {"location":"http:\/\/example.org\/__test_valid_cid__","status":302}
 ```
 
-That's exactly what we want but, just like with the HTTP halting, we need to catch that and examine the JSON-decoded message. Here is our final test suite using PHPUnit helper methods:
+That's exactly what we want but, just like with the HTTP halting, we're going to catch that and examine the JSON-decoded message. Here is our final test suite using PHPUnit helper methods:
 
 ```php
 // tests/testRedirectHalt.php
@@ -412,11 +416,11 @@ class TestRedirectHalt extends \PHPUnit\Framework\TestCase {
 
 	public function testThatAnActiveCidWillRedirectCorrectly() {
 		set_query_var( 'cid', '__test_valid_cid__' );
-		update_option( 'active_campaign_ids', array( '__test_valid_cid__' ) );
+		update_option( 'active_campaign_ids', [ '__test_valid_cid__' ] );
 
 		try {
 			prefixed_redirect_to_campaign_landing_page();
-			$e_data = array();
+			$e_data = [];
 		} catch ( Exception $e ) {
 			$e_data = json_decode( $e->getMessage(), true );
 		}
@@ -427,6 +431,8 @@ class TestRedirectHalt extends \PHPUnit\Framework\TestCase {
 	}
 }
 ```
+
+[See this using the helper library ›](https://github.com/joshcanhelp/wp-test-plugin/blob/master/tests/testRedirectHaltWpTestCase.php)
 
 <a id="killed-processes-wp-die"></a>
 ## Killed processes with wp_die()
@@ -492,19 +498,25 @@ So, let's catch that the `wp_die()` call that happened and make sure the respons
 // tests/bootstrap.php
 
 function wp_die_handler_filter() {
-  return 'wp_die_halt_handler';
+	return 'wp_die_halt_handler';
 }
 
 function wp_die_halt_handler( $message, $title, $args ) {
-  throw new \Exception( wp_json_encode( [
-    'message' => $message,
-    'title' => $title,
-    'args' => $args,
-  ] ) );
+	throw new \Exception(
+		wp_json_encode(
+			[
+				'message' => $message,
+				'title'   => $title,
+				'args'    => $args,
+			]
+		)
+	);
 }
 ```
 
-That first function tells `wp_die()` to call the *second* function instead of the core one. Now, before each test, we'll add this filter and then test that an exception was thrown with the correct data. Here is the remainder of the test suite:
+That first function tells `wp_die()` to call the *second* function instead of the core one. Now, before each test, we'll add this filter and then test that an exception was thrown with the correct data.
+
+Here is the complete test suite using the helpers:
 
 ```php
 // tests/testWpDieHandling.php
@@ -517,7 +529,18 @@ class TestWpDieHandling extends \PHPUnit\Framework\TestCase {
 	}
 
 	public function testThatNoCodeWillKillProcess() {
-		// ...
+		add_filter( 'wp_die_handler', 'wp_die_handler_filter' );
+		try {
+			prefixed_login_init_code_check();
+			$caught_json = '';
+		} catch ( \Exception $e ) {
+			$caught_json = json_decode( $e->getMessage(), true );
+		}
+
+		$this->assertNotEmpty( $caught_json, 'No exception caught' );
+		$this->assertEquals( 'Not authorized', $caught_json['message'] );
+		$this->assertEquals( 'Not authorized', $caught_json['title'] );
+		$this->assertEquals( 403, $caught_json['args']['response'] );
 	}
 
 	public function testThatInvalidCodeWillKillProcess() {
@@ -548,14 +571,16 @@ class TestWpDieHandling extends \PHPUnit\Framework\TestCase {
 }
 ```
 
+[See this using the helper library ›](https://github.com/joshcanhelp/wp-test-plugin/blob/master/tests/testWpDieHandlingWpTestCase.php)
+
 <a id="ajax-requests"></a>
 ## AJAX Requests
 
 AJAX in WordPress is accomplished by building what amounts to your own API endpoint and then calling it from JavaScript. Debugging AJAX in this environment is notoriously fiddly so it's nice to have tests in place to know that your endpoint is doing the right thing.
 
-Our endpoint declared in WordPress needs to make sure both that the request is well-formed as well as that it came from the right place and user. Only then should it make any changes or return any data. I also learned during the process of testing our AJAX functions that you should use the core `wp_send_json_error()` and `wp_send_json_success()` functions to output a response. This makes sure your response has a consistent shape and can use the hooks we'll use below.
+Our endpoint declared in WordPress needs to make sure that the request is well-formed, that it came from the right place, and that the user making the call has the correct permissions. Only then should it make any changes or return any data. I learned during the process of testing our AJAX functions that you should use the core `wp_send_json_error()` and `wp_send_json_success()` functions to output a response. This makes sure your response has a consistent shape and can use the hooks we'll use below.
 
-So, as usual, let's write a sample AJAX endpoint. The one below will handle an admin action to delete a specific user meta value. You can imagine that the control for this on the Edit profile screen.
+So, as usual, let's write a sample AJAX endpoint. The one below will handle an admin action to delete a specific user meta value. You can imagine the control for this would live on the Edit profile screen.
 
 ```php
 // wp-test-plugin.php
@@ -563,16 +588,17 @@ function prefixed_ajax_admin_delete_custom_profile_data() {
 	check_ajax_referer( 'delete_custom_profile_data' );
 
 	if ( ! current_user_can( 'edit_users' ) ) {
-		wp_send_json_error( array( 'error' => __( 'Not authorized', 'prefixed' ) ) );
+		wp_send_json_error( [ 'error' => __( 'Not authorized', 'prefixed' ) ] );
 	}
 
 	if ( empty( $_POST['user_id'] ) ) {
-		wp_send_json_error( array( 'error' => __( 'No user ID', 'prefixed' ) ) );
+		wp_send_json_error( [ 'error' => __( 'No user ID', 'prefixed' ) ] );
 	}
 
 	delete_user_meta( $_POST['user_id'], 'custom_profile_data' );
 	wp_send_json_success();
 }
+
 add_action( 'wp_ajax_delete_custom_profile_data', 'prefixed_ajax_admin_delete_custom_profile_data' );
 ```
 
@@ -597,12 +623,12 @@ We'll add the following to the test bootstrap file:
 // tests/bootstrap.php
 
 function wp_ajax_halt_handler_filter() {
-  return 'wp_ajax_halt_handler';
+	return 'wp_ajax_halt_handler';
 }
 
 function wp_ajax_halt_handler( $message, $title, $args ) {
-  $is_bad_nonce = - 1 === $message && ! empty( $args[ 'response' ] ) && 403 === $args[ 'response' ];
-  throw new Exception( $is_bad_nonce ? 'bad_nonce' : 'die_ajax' );
+	$is_bad_nonce = -1 === $message && ! empty( $args['response'] ) && 403 === $args['response'];
+	throw new Exception( $is_bad_nonce ? 'bad_nonce' : 'die_ajax' );
 }
 ```
 
@@ -619,6 +645,8 @@ class TestAjaxHandling extends \WpUnitTestHelpers\WpTestCase {
 	public function tearDown() {
 		remove_filter( 'wp_doing_ajax', '__return_true' );
 		remove_filter( 'wp_die_ajax_handler', 'wp_ajax_halt_handler_filter' );
+		unset( $_POST['user_id'] );
+		unset( $_REQUEST['_ajax_nonce'] );
 	}
 
 	public function testThatInvalidNonceWillFail() {
@@ -682,6 +710,8 @@ class TestAjaxHandling extends \WpUnitTestHelpers\WpTestCase {
 }
 ```
 
+[See this using the helper library ›](https://github.com/joshcanhelp/wp-test-plugin/blob/master/tests/testAjaxHandlingWpTestCase.php)
+
 **A note on how this is implemented:** If you set the nonce incorrectly (wrong action, wrong `$_REQUEST` key, etc), `ob_get_clean()` will return `'-1{"success":true}'` because the handler just echos the message and does not kill the process. You could look for a `-1` message and throw an exception or you could combine the two AJAX helpers into one.
 
 <a id="hooked-functions"></a>
@@ -689,7 +719,7 @@ class TestAjaxHandling extends \WpUnitTestHelpers\WpTestCase {
 
 Functions that are hooked to specific actions and filters in your plugin need to keep the same signature, name, and priority or else you might introduce breaks to plugin functionality or anyone extending your plugin. The tests here are more about ensuring stability more than functionality.
 
-While I would recommend having these in place, it does rely on a lot on a specific structure of the WordPress globals. If something changes in there somewhere, all your tests of this nature might fail suddenly. Because of that (and the fact that this post is quite long already), I'll point to a few code samples you can use.
+While I would recommend having these in place, it does rely on a lot on a specific structure of the WordPress globals. If something changes in there somewhere, all your tests of this nature might fail suddenly. Because of that (and the fact that this post is quite long already), I'll point to a few code samples you can use instead of spelling it all out here.
 
 To see how the global `$wp_filter` is pulled apart to look for specific hooks, [see this method](https://github.com/joshcanhelp/wp-unit-test-helpers/blob/v0.1.0/src/helpers/hookHelpers.php#L24-L47). If you're using that library in your tests, [see this test file](https://github.com/joshcanhelp/wp-test-plugin/blob/master/tests/testHookedFunctionsWpTestCase.php) for how the methods are called. Otherwise, you can recreate that method in your bootstrap file and call within your tests.
 
@@ -704,6 +734,10 @@ I think the trade-off is worth it here as well for a few reasons:
 - A lot of logic can also gather in `wp_localize_script()` calls and testing manually for specific text and values is tedious and error-prone
 
 To see how to test whether scripts/styles are loaded and what localization was added, [see this method](https://github.com/joshcanhelp/wp-unit-test-helpers/blob/v0.1.0/src/helpers/wpScriptsHelper.php#L17-L36). If you're using that library in your tests, [see this test file](https://github.com/joshcanhelp/wp-test-plugin/blob/master/tests/testEnqueuedStyleWpTestCase.php) for how the methods are called. Otherwise, you can recreate that method in your bootstrap file and call within your tests.
+
+## I hope that helped!
+
+This post ended up at 23 pages printed, generated 2 GitHub repos, and took about 6 months to write! Hopefully you found it helpful or, at the very least, enlightening on your path to writing tests for WordPress.
 
 <a id="references"></a>
 {% h2br %}References / Resources{% endh2br %}
