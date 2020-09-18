@@ -10,8 +10,6 @@ featured_img:
 wpid: 21
 ---
 
-# Self-Promotion, Me-Centricism, and Should Josh Help?
-
 In a flurry of self-branding excitement and possible arrogance, I rushed headlong into the world of web and graphic design. Armed with a blog about sustainable transportation with a self-centered title, a large group of supportive friends and family, and another group of confused classmates, professors, and colleagues, I charged forward and consumed all of the tutorials and free how-to web pages I could get my hands on. I already had one project lined up and I was confident that my charm and charisma would push me from project to project, swinging on each accomplishment like monkey bars towards fame and fortune.
 
 I devoured blogs about search engine marketing/optimization (I barely knew how to code), Photoshop tutorials (I have access to a copy at school and even then I find it hard to do something as simple as crop an image), and design instructions. I poured over CSS galleries and design samples and coding forums. I signed up for hosting, bought a new computer, and set out to pursue this insistent, confusing, potentially disastrous dream of mine. It was my time, I would not be denied!

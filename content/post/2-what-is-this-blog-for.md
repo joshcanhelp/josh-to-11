@@ -1,5 +1,5 @@
 ---
-title: "What is this blog for?"
+title: "What Is This Blog For?"
 layout: post
 excerpt: "This blog is the story of Josh Can Help (dot com) ... how it came about, how it came together, and how it’s going."
 date: 2008-03-24 17:36:55
@@ -9,8 +9,6 @@ tags: ["About JoshCanHelp", "Writing For The Web"]
 featured_img: /_images/default-img-size-medium.png
 wpid: 3094
 ---
-
-# What is this blog for?
 
 On my previous (and, coincidentally, first) post, I told you a little bit about what I want to accomplish with my business and what I will not compromise to do so. I also directed you to place where you could find more information about [who I am](/about) and what I do. Now, I should probably tell you what this blog is all about.
 

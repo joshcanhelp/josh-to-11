@@ -10,8 +10,6 @@ featured_img:
 wpid: 40
 ---
 
-# 6 steps to easy typography in any document
-
 **This is a guide I wrote several months back. I have it posted on my homepage and at Squidoo but my homepage is going away in favor of a much simpler system so I wanted to move this. It’s also a bit more visible here, where I’m getting hits, rather than on the homepage, where I’m getting no hits! FYI, I also added a new, very important step (#5)…**
 
 This guide is for anyone and everyone who knows little about fonts, typefaces, and document design. This small primer serves as either an introduction to typography or all the information you’ll ever need to know as a non-designer. Whether you’re a teacher trying to deliver curriculum the best way you can or a CEO writing a formal letter, you should understand what fonts and styles say about your document and how to use them to your advantage.

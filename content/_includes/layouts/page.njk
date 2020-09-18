@@ -3,7 +3,8 @@
 {% from "macros/postListing.njk" import postListing %}
 
 {% block content %}
-<main class="jch-post jch-post--article">
+<main class="jch-post jch-post--article article">
+  <div class="title"><h1>{{ title }}</h1></div>
   {{ content | safe }}
 </main>
 {% if page.fileSlug === 'home-page' %}

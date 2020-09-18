@@ -10,8 +10,6 @@ featured_img:
 wpid: 25
 ---
 
-# CDs burning improperly? Songs skipping? Verification errors? I can help!
-
 This story started about 2 or 3 years ago in my previous car. When I would burn MP3 CDs (just simple data diss), some songs would play, some would play for a bit and then go blank, some would skip, and some discs wouldn’t even play. I drove me crazy to have a head unit that could play MP3 discs but not actually play the MP3 discs. It started happening out of the blue so I assumed the unit had gone bad and I was out of luck.
 
 Flash forward to last weekend and I stumbled into buying a new-to-me car. It has an MP3 capable head unit and I was excited to start using that feature again. Burned a Wu-Tang disc, brought it with me the next time I was going out, popped it into the player and… SAME PROBLEM. What the hell?

@@ -10,8 +10,6 @@ featured_img:
 wpid: 39
 ---
 
-# Blogging 101: How to Write a Great Blog Post... a Reader's Perspective
-
 **This is a guide I wrote a few months back. I have it posted on my homepage and at Squidoo but my homepage is going away in favor of a much simpler system so I wanted to move this. It’s also a bit more visible here, where I’m getting hits, rather than on the homepage, where I’m getting no hits!**
 
 If you’re considering whether or not you want to start a blog, ponder this:

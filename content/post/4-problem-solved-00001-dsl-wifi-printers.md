@@ -10,8 +10,6 @@ featured_img: /_images/2008/04/2wire-1000hw.jpg
 wpid: 10
 ---
 
-# Problem Solved #00001 - DSL, Wifi, printers
-
 This is your introduction to the major feature of this blog, the “Problems Solved.” I’ve told you that I’m Josh and declared that I can help but where are the goods? Right here, buddy.Every major project I finish (customer or my own) and every large even that I had a hand in will get a “Problem Solved” post, complete with it’s own number (I’m limited edition, FYI). Each call has it’s own nuances and various issues so, as you can see, the heading also gets a few words to describe the problem. The sub-headings in the posts will detail each problem (succinctly) and what the solution was, if any.
 
 The personal value behind these posts should be clear: I’m interested in a chronicle of experience and a professional journal of sorts (I think those are synonymous). The value to the outside world is two-fold: you can see what kind of problems other people are having and you might just find a quick-fix to one of your problems. When I research problems on-line, I’m never frustrated by an OVERABUNDANCE of solutions.

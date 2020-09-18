@@ -10,8 +10,6 @@ featured_img:
 wpid: 30
 ---
 
-# How to Tame Your Technology in Four Easy Steps
-
 Whether you’ve been here a couple of times or only once (and hopefully planning on returning), you might have seen my little tagline up in the header, “Helping You Tame Your Technology.” This should be more or less self-explanatory (as most good taglines are) but “taming,” to me, goes beyond just learning and using your electron-fueled personal possessions. Taming your technology means keeping your possessions and communications well-used, trouble-free, and to a minimum.
 
 I’m always taking a second look at what I do and what I own (or want to own) to make sure I don’t fly off the deep end and create more work/stress for myself. Here’s what I do to keep it all together.

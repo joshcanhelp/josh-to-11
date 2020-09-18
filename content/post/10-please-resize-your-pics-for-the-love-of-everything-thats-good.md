@@ -10,8 +10,6 @@ featured_img: /_images/2008/05/flower_400x300-150x150.jpg
 wpid: 23
 ---
 
-# Please, resize your pics, for the love of everything that's good!
-
 This post goes out to the habitual offenders, the ones who know but don’t do it, the ones who know AND do it but waste time with Photoshop or something similar, and for those who do it and do it right but want others to do the same and don’t want to spend the time teaching or writing out the instructions. Print it out and hand it out.
 
 These days, with ultra-compact digital cameras coming in around $200 and megapixel counts in the 7’s, 8’s, and 9’s, everyone is taking digital pictures and they’re all HUMONGOUS. Between on-line forums, emails from family members, and massive Powerpoint presentations, I’m drowning in over-sized photos and surrounded by people who, understandably, don’t want to waste their time resizing each and every picture they want to share. At some point, for some reason, these photos have to get smaller and, unfortunately, not everyone knows how to do that. And I’m Josh and I can help (at least the website says so) so I’m going to show you a free program that makes the whole resizing thing easier than you thought possible. If you’re using Photoshop and resizing each image, you’re wasting your time. And if you’re NOT resizing your pictures, you’re wasting everyone else’s.

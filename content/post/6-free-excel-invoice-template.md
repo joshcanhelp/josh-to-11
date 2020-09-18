@@ -10,8 +10,6 @@ featured_img: /_images/2008/04/excel_2007_logo.png
 wpid: 12
 ---
 
-# Free Excel Invoice Template
-
 I just recently made an invoice for myself and thought I would share it with the world!
 
 [General invoice template (.XLS)](https://www.dropbox.com/s/2eec3ag80348wku/invoice_template.xls?dl=0)

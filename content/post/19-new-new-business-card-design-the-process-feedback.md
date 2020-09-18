@@ -10,8 +10,6 @@ featured_img: /_images/2008/07/lp_card_07_final-296x296.jpg
 wpid: 41
 ---
 
-# New new business card design: the process + feedback
-
 My last business card ordeal was such a cluster that I’m not even going to link back to that post. Besides, it seems to be getting an inordinate amount of p0rn spam comments and I’d rather NOT help those garner any more attention.
 
 I digress…

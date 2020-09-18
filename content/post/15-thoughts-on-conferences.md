@@ -10,8 +10,6 @@ featured_img: /_images/2008/06/usbs_sm_02-150x150.jpg
 wpid: 32
 ---
 
-# Thoughts on conferences
-
 ![Phone alarm screen wake up](/_images/2008/06/phone_alarm.jpg)
 
 - Show up early…. yes, you. Everyone needs to show up early. Depending on the amount of work that needs to be done, staff members should be on-site and setting things up AT LEAST an hour before people start showing up. Registration tables, video demos, installations, presentations… everything takes time to get ready. **WHY:** Because it looks silly to be dinking around with technology and paperwork while people are showing up. Have you ever gone to a great hotel and had the concierge tucking in her shirt, the computers getting installed, and the bellhop tying his shoes in the middle of the lobby? Look like you know what the heck you’re doing and be ON POINT well before the people show up.

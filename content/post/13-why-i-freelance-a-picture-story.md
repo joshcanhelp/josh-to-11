@@ -10,8 +10,6 @@ featured_img:
 wpid: 28
 ---
 
-# Why I freelance (a picture story)
-
 *Scene 1 opens with our hero attempting to delete a file found on a shared network drive.*
 
 ![deleting a file in windows XP](/_images/2008/06/step01.jpg)

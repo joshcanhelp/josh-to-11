@@ -10,8 +10,6 @@ featured_img: /_images/2008/06/font_cp01-150x150.jpg
 wpid: 26
 ---
 
-# Installing a font in Windows XP
-
 This is a companion to my [6 steps to easy typography in any document](/6-steps-to-easy-typography-in-any-document/) article. Here is the quick and dirty process for adding a font in Windows XP.
 
 1\) First, find the font you want to install and note the folder it is in. Font files typically have an extension of .TTF (True Type Font) or .OTF (Open Type Font).

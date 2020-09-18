@@ -1,8 +1,9 @@
 {% extends "_html.njk" %}
 
 {% block content %}
-<main class="jch-post jch-post--article .article">
+<main class="jch-post jch-post--article article">
   <p class="jch-post--date date"><span>{{ page.date | dateformat }}</span></p>
+  <div class="title"><h1>{{ title }}</h1></div>
   {{ content | safe }}
   {% if link_to %}
     <p><a href="{{ link_to }}">Go there 👉</a></p>

@@ -10,8 +10,6 @@ featured_img: /_images/default-img-size-medium.png
 wpid: 15
 ---
 
-# The 4 Components of a Great First On-Site Visit
-
 I’ve done “on-site tech support” for a long time now. Every job has seen me as a go-to guy when IT was busy, I have plenty of tech-frustrated people in my life, and I’ve always been willing and able to help out someone in need. When I decided to take my skills to the world, however, I suddenly realized that having great customer service and problem-solving skills are only past of what I needed to get the job done.
 
 I learned a great deal about stress management and face-to-face interactions on my very first on-site call. I came up with 4 important things to think about before your first face-to-face customer interaction. Trust me on these: save yourself a call or two to tech support on your customer’s cell phone while you ponder the finer legal aspects of destroying a customer’s phone system.
