@@ -1,0 +1,44 @@
+//
+// Responsive utilities
+//
+
+=larger_than_phone()
+	@media (min-width: $b_small)
+		@content
+
+=larger_than_tablet()
+	@media (min-width: $b_medium)
+		@content
+	
+//
+// Styles for placeholder text in inputs
+//
+
+=placeholder($text_color)
+
+	::-webkit-input-placeholder
+		color: $text_color
+
+	input:-moz-placeholder
+		color: $text_color
+		opacity: 1
+
+	::-moz-placeholder
+		color: $text_color
+		opacity: 1
+
+	input:-ms-input-placeholder
+		color: $text_color
+
+	input:placeholder-shown
+		color: $text_color
+
+//
+// Centered on mobile
+//
+
+=centered_on_phone()
+	text-align: center
+
+	+larger_than_phone
+		text-align: left

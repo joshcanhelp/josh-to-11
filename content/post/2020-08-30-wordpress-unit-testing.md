@@ -14,7 +14,7 @@ excerpt: I've learned a lot about how to avoid common issues and making life wri
 
 I'll admit it: I like writing tests. Besides helping to create a more stable product, it gives me an important perspective on the code I write. It forces me to think twice about class and method names, function signatures, and return shapes.
 
-![Stacking rocks](/_images/2020/08/stacking-rocks.jpg)
+<img src="/_images/2020/08/stacking-rocks.jpg" class="aligncenter" alt="Stacking rocks">
 
 That said, testing in WordPress can be challenging. You have a big framework you need to load in order for the test suite to work. With that big framework around, it's easy to fall into the trap of testing parts of the core WP API. Also, you're tied to a database so you have to be diligent about resetting things in between test, or else the state left by your last test could affect the next one.
 

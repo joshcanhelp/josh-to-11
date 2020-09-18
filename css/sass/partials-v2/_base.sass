@@ -1,0 +1,154 @@
+//
+// Touches everything
+//
+
+body
+	color: $c_g_darkest
+	font-family: $f_family_sans
+	font-size: $f_size_base
+	-webkit-font-smoothing: antialiased
+	-moz-osx-font-smoothing: grayscale
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004)
+	max-width: 700px
+	min-width: 400px
+	margin: 2%
+	font-family: $f_family_serif
+	overflow: hidden
+
+	+larger_than_phone
+		margin: 3%
+
+	+larger_than_tablet
+		margin: 4%
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+	font-family: $f_family_sans
+	line-height: 1.1em
+	clear: both
+	margin: 1em 0 0.66em
+
+h1
+	font-size: 1.9em
+	margin: 0 0 $p_medium
+	background: $c_vivid_yellow
+	padding: 0.3em 0.4em
+
+
+h2
+	font-size: 1.55em
+
+	&.hr
+		border-bottom: 1px solid $c_g_med_lighter
+		font-size: $f_size_smallest
+		padding-bottom: 0.25em
+		padding-left: 3%
+		text-transform: uppercase
+		letter-spacing: 1px
+		color: $c_g_med_lighter
+		margin-top: 4em
+		margin-bottom: 4em
+
+		+larger_than_phone
+			padding-left: 0
+
+h3
+	font-size: 1.38em
+
+h4
+	font-size: 1.25em
+
+h5
+	font-size: 1.1em
+
+h6
+	font-size: 1em
+a
+	text-decoration: none
+	color: $c_blue
+
+	&:hover
+		text-decoration: underline
+
+		> img
+			opacity: 0.9
+
+img
+	height: auto
+	display: block
+	float: none
+	margin: 2em auto
+	max-width: 100%
+
+p,
+ol,
+ul
+	margin-bottom: $p_medium
+
+li
+	margin-bottom: $p_small
+
+	&:last-child
+		margin-bottom: 0
+
+ol
+	padding-left: 2em
+	list-style: decimal
+
+ul
+	padding-left: 2em
+	list-style: circle
+
+	&.jch-list__2-col
+		padding-left: 0
+		list-style: none
+		margin-bottom: 2em
+		font-size: $f_size_small
+
+img
+	display: block
+	height: auto
+	float: none
+	margin: 2em auto
+	max-width: 100%
+
+iframe
+	width: 100%
+	max-width: 100%
+	min-height: 20em
+	display: block
+	margin: 1.5em 0
+
+blockquote
+	margin: 1.5em 0
+	font-size: $f_size_medium
+	background: $c_g_lightest
+	padding: 0.9em 1.1em
+	border-radius: 1px
+	position: relative
+
+	> :last-child
+		margin-bottom: 0
+		border: none
+
+hr
+	border-color: $c_g_med_lightest
+
+code
+	display: inline-block
+	white-space: nowrap
+	background-color: $c_vivid_green
+	padding: 0 0.4em
+	font-size: 0.9em
+	font-family: $f_family_mono
+
+code[class*="language-"],
+pre[class*="language-"]
+	font-size: 0.82em
+
+pre[class*="language-"]
+	margin: 1.5em 0
+	padding: 0.5em

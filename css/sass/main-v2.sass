@@ -1,0 +1,34 @@
+//
+// Main SCSS file pointing to all imports
+// No style declarations here
+//
+
+@import "partials-v2/variables"
+
+@import "partials-v2/reset"
+@import "partials/prism-theme-one-dark"
+@import "partials-v2/mixins"
+@import "partials-v2/extends"
+@import "partials-v2/base"
+@import "partials-v2/utilities"
+
+.logo
+    margin-bottom: $p_medium
+
+    a
+        display: block
+        line-height: 0
+
+    svg
+        max-width: 200px
+        display: inline-block
+
+.date
+    font-size: $f_size_smallest
+    margin-bottom: $p_small
+    font-family: $f_family_mono
+
+    span
+        background: $c_vivid_blue
+        display: inline-block
+        padding: 0.1em 0.5em
