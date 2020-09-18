@@ -10,7 +10,6 @@ featured_img:
 wpid: 2708
 ---
 
-# How to be a better self-promoter in the creative industry
 
 I was having coffee at a local coffee shop recently and came across one of the worse examples of in-person self-promotion I’ve seen in a while. This was a chance encounter and I certainly don’t know all the details of the situation but I left with a name, a URL, and a bad taste in my mouth. Because I’m sure this person wasn’t completely aware of their impact, I wanted to share the experience so you know where this kind of thing can go wrong.
 

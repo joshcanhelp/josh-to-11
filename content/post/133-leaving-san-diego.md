@@ -10,7 +10,6 @@ featured_img: /_images/2010/08/IMG_0009-300x300.jpg
 wpid: 4663
 ---
 
-# Leaving San Diego
 
 I’m sitting here at LAX wondering how I can communicate how intense this last week has been. I don’t think I can ... and I don’t think it matters. Still, let me share what our final week in San Diego had in store for us. I think you’ll agree: this could have gone much, much worse.
 

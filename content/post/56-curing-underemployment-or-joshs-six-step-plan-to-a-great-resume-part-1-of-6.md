@@ -10,7 +10,6 @@ featured_img:
 wpid: 447
 ---
 
-# Curing Underemployment  (or) Josh’s Six Step Plan to a Great Resume (part 1 of 6)
 
 I’m helping a colleague of mine put together her resume for the first time in many years and I thought I’d share the process with you. I’m not convinced that there is a totally right way or wrong way to do this but I DO know that there is a right (read: beneficial) outcome and a wrong (read: detrimental) one.
 

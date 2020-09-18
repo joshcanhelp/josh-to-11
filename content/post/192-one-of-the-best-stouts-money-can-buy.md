@@ -11,7 +11,6 @@ link_to: http://alesmith.com/beers/barrel-aged-grand-cru/
 wpid: 42
 ---
 
-# AleSmith Grand Cru - One of My Favorite Beers of All Time
 
 I’m a beer guy, that’s all there is to it. There’s not a well-made beer I don’t like and I make a point of trying as many as I can get my hands on (while still staying within rational consumption guidelines). I live in Seattle, ride a bike, and write code so combine that with my affection for fermentation and you have a Seattle cliche through and through.
 

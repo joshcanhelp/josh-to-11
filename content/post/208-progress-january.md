@@ -10,7 +10,6 @@ featured_img: /_images/2016/11/img_3811-150x150.jpg
 wpid: 403
 ---
 
-# Progress In January
 
 In keeping with the theme of sharing my journey to [eliminate goals through systems](/systematic-goal-elimination/ "Systematic Goal Elimination"), I wanted to share an update on how January went and what I expect in February.
 

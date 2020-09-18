@@ -10,7 +10,6 @@ excerpt: I've learned a lot about how to avoid common issues and making life wri
 
 ---
 
-# WordPress Unit Testing Techniques
 
 I'll admit it: I like writing tests. Besides helping to create a more stable product, it gives me an important perspective on the code I write. It forces me to think twice about class and method names, function signatures, and return shapes.
 

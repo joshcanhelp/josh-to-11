@@ -12,7 +12,6 @@ link_to: "https://github.com/joshcanhelp/wp-csv-importer/"
 citation: ""
 ---
 
-# Repo: WP CSV Importer
 
 This repo is a "fork" of the repo plugin [CSV Importer](https://wordpress.org/plugins/csv-importer/). I am not affiliated with that plugin in any way but I use it frequently and wanted to add a few features, namely:
 

@@ -10,7 +10,6 @@ featured_img: /_images/2015/04/Screen-Shot-2015-04-17-at-10.43.54-AM-150x150.png
 wpid: 3692
 ---
 
-# WP-Drudge on Alan.com
 
 > Josh’s work is excellent. He gets it done on time and on budget. And he often comes up with solutions so good, you’re glad you had a problem in the first place. It’s pleasure to work with him.
 >

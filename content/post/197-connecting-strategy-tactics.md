@@ -10,7 +10,6 @@ featured_img: /_images/2014/03/strategy_process-150x150.jpg
 wpid: 3505
 ---
 
-# Connecting Strategy to Tactics
 
 Like a lot of people reading this post, I have many, many ideas going on at once and many, many tasks that need my time and attention, both of which are in short supply. Recently, I’ve been cleaning up files and cleaning out my [Dropbox](https://db.tt/JsDYt1P) and found countless lists and documents and mind maps signifying repeated attempts to wrap my head around big, complex issues surrounding work, web strategy, and my life in general.
 

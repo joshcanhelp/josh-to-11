@@ -10,7 +10,6 @@ featured_img: /_images/2008/07/lp_card_07_final-296x296.jpg
 wpid: 268
 ---
 
-# How to make a Technology Taming Plan
 
 ![](/_images/2008/09/tamer_dark_sm.jpg "The Technology Tamer, Josh Cunningham")
 

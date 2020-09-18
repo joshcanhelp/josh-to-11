@@ -10,7 +10,6 @@ featured_img:
 wpid: 3011
 ---
 
-# Don't Screw Around with Your Finances
 
 I have a lot of fun building things, both in and out of WordPress. I have even more fun watching great businesses perform better using the simple tools at their disposal. Being as web-centric as I am, this usually equates to online tools surrounding organization, conversions, [search engine performance](/tag/seo/), and other website-related tasks. There is something that trumps your website, though, both in my mind and in reality.
 

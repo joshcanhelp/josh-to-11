@@ -10,7 +10,6 @@ featured_img:
 wpid: 1471
 ---
 
-# Make it Simple, Focused, High-Performance, and Polished: My Web Philosophy
 
 I was asked recently by a potential client what my “philosophy of the web” is. What seemed like a strange question at first made perfect sense when I thought about it a little more. We have an approach or philosophy about business, art, relationships, science… almost anything involving a verb. So why wouldn’t we have one for working with and on the web?
 

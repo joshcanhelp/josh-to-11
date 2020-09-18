@@ -10,7 +10,6 @@ featured_img:
 wpid: 2679
 ---
 
-# Working with a web designer: help us help you
 
 I’m a very retrospective person, particularly when it comes to how I do business. I’m always looking back at projects, looking for what I could have done better and making changes to my planning process along the way. During this retrospection, I find myself coming back to the design process far, far more often than any of the other steps. There’s a million reasons why this portion can become so sticky, but that’s only indirectly why I’m writing this. This post is about helping me help you to come up with the best design we possibly can.
 

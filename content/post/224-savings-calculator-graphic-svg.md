@@ -10,7 +10,6 @@ featured_img: /_images/2015/11/Screenshot-2016-10-09-15.04.49-150x150.png
 wpid: 4512
 ---
 
-# Savings Calculator and Graphic in SVG
 
 This was a fun little project for a branding and marketing group out of San Francisco. They were working with a group in their area that was building a platform to increase customer retention and service call reductions and wanted a way to illustrate the potential savings. Up until that point, sales reps would schedule demos, enter the current cost information from the prospect into an Excel, and send them a graphic. Since the cost savings was a huge part of the pitch, why not add it to the website?
 

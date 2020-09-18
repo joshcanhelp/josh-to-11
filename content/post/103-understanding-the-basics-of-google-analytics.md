@@ -10,7 +10,6 @@ featured_img:
 wpid: 983
 ---
 
-# Understanding the Basics of Google Analytics
 
 If I could recommend one skill to business owners with a website it would be a solid understanding of their site analytics and they are affected. So many people treat their website as something they need to have “just because.” If you build a site for services you offer or products you sell, what people see and how they interact is directly related to how much money your site pulls in.
 

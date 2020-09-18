@@ -10,7 +10,6 @@ featured_img:
 wpid: 786
 ---
 
-# What Kind of Tech User Are You?
 
 I’m researching an upcoming presentation on email marketing and wanted to include some data about email usage so I consulted the source of great internet data, the [Pew Internet Project](http://pewinternet.org/). While I was on the site, I took their “What Kind of Tech User Are You?” quiz. Not surprisingly, I got an “A.”
 

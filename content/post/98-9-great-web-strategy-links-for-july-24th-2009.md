@@ -10,7 +10,6 @@ featured_img:
 wpid: 941
 ---
 
-# 9 Great Web Strategy Links for July 24th 2009
 
 This week I’ve got some great links about SEO, Twitter, and marketing. I save and send out a lot of links during the week and I like going back through them and explaining why I think they are important. Hopefully you’ll find these useful and, if so, share this with a few people, I’d appreciate it!
 

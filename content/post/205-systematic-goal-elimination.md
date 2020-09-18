@@ -10,7 +10,6 @@ featured_img: /_images/2015/01/IMG_0633_fix01-1-150x150.jpg
 wpid: 378
 ---
 
-# Systematic Goal Elimination
 
 ![img_0633_fix01](/_images/2015/01/IMG_0633_fix01-1.jpg)
 

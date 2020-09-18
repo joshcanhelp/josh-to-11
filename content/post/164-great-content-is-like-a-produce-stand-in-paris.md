@@ -10,7 +10,6 @@ featured_img: /_images/2011/10/paris_market-150x150.jpg
 wpid: 2080
 ---
 
-# Great Content Is Like a Produce Stand in Paris
 
 It was a rainy October day in Paris. In an effort to see as many different streets as possible we ended up walking a long way from our tiny apartment in a purposeful but uneducated direction. Our journey took us to the outskirts of the city and then back towards “home” down a busy street we’d never seen before. The rain was coming in splatters and we tried to keep our hopes up despite looking – and feeling – like the unprepared goofballs we were. But then it stopped, for just a few minutes. The clouds hadn’t parted, we’d just come across a market that situated a fruit stand on the curb and connected it to his store, overhead, with an awning. It was a nice break and we ended up buying some fruit.
 

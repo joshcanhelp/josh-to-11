@@ -10,7 +10,6 @@ featured_img:
 wpid: 3
 ---
 
-# I am an FFK... nice to meet you
 
 They say, for writers, the worst thing to face is an empty page. I think an empty page is easy to manage, it’s the blank ream standing nearby that I find daunting.
 

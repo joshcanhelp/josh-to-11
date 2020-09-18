@@ -10,7 +10,6 @@ featured_img: /_images/2009/02/facebook_logo.png
 wpid: 626
 ---
 
-# My Answers for the 7 Questions to Ask a Social Media Expert
 
 A post with a title like that definitely needs to come with a disclaimer so here you go:
 

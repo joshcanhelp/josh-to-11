@@ -10,7 +10,6 @@ featured_img:
 wpid: 273
 ---
 
-# Daily rebirth
 
 I wrote this about three years ago and sent it to someone who asked me who I was quoting. I thought I had lost track of it but I found it deep in my Hotmail account. I’m posting it hear partially because I’m proud of it, partially because I should be taking my own advice more often, and partially so I don’t lose it again.
 

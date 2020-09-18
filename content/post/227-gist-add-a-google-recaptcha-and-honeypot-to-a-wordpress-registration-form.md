@@ -12,4 +12,3 @@ link_to: "https://gist.github.com/joshcanhelp/115d285bdc75b23b7d55"
 citation: ""
 ---
 
-# Gist: Add a Google RECAPTCHA and honeypot to a WordPress registration form

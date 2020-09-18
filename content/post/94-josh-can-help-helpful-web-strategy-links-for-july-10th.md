@@ -10,7 +10,6 @@ featured_img:
 wpid: 895
 ---
 
-# Josh Can Help: Helpful web strategy links for July 10th
 
 This is a new thing I’m going to be doing every Friday. I bookmark and [Tweet](http://twitter.com/joshcanhelp) out a lot of different links for various reasons. I keep everything generally related to understanding web strategy for small businesses but I’ve been known to tangent a bit. Every Friday, I’m going to collect the best links I’ve saved and sent out and list out the ones I think the are the most useful.
 

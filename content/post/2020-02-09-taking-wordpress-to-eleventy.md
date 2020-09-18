@@ -11,7 +11,6 @@ featured_img: /_images/2020/02/IMG_2468-150x150.jpg
 
 ---
 
-# Taking WordPress to Eleventy
 
 For someone who likes to write, I don’t blog here a lot. I log in now and then, gasp at the number of spam comment that have piled up, maybe add or update a draft or two, then then let my session expire. Maybe it’s because I write a lot at work? Or maybe I don’t think I have much to share with the world at large? It’s hard to say.
 
@@ -53,7 +52,6 @@ I figured the best way to handle this is to [define a layout alias](https://www.
 ---
 layout: post
 ---
-# This is a Post
 ```
 
 ... and it would be clear what the template hierarchy is:
@@ -301,7 +299,6 @@ layout: post_type
 permalink: relative get_permalink()
 ---
 
-# post_title or remove to add the title in the template
 
 converted post_content
 ```
@@ -338,19 +335,15 @@ Using my [sample Eleventy repository](https://github.com/joshcanhelp/wordpress-t
 ```bash
 ❯ cd ~/path/to/eleventy
 ❯ npx @11ty/eleventy --serve --watch
-# This will watch your content files and serve a local site.
 
-# In a new CLI window...
 
 ❯ cd ~/path/to/wp/site
 ❯ wp wptomd ~/path/to/eleventy/content/md
 'Output dir: ~/path/to/eleventy/content/md'
 Processing: Post Title
 Filename: post/post-name.md
-# ... lots of output
 Success: Processed: XX
 
-# In the Eleventy tab ...
 
 Writing _dist/post-name/index.html from ./content/md/post/post-name.md.
 Copied 1 item / Wrote XX files in 3.50 seconds (4.6ms each, v0.10.0)

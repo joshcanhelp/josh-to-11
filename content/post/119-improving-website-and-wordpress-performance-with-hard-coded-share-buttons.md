@@ -10,7 +10,6 @@ featured_img: /_images/2009/09/wordpress-logo-notext-rgb-300x300.png
 wpid: 1322
 ---
 
-# Improving Website and WordPress Performance with Hard-Coded Share Buttons
 
 ![splitter-cable](/_images/2010/01/splitter-cable.jpg "splitter-cable")  
 Increasing the page load speed of your website has been proven to increase conversion rates (reduce the number of people who get fed up and leave), increase site usage (time on site and pages per visit), and reduce the chance you’ll be taken down by a sudden spike in traffic. WordPress in particular is fairly resource heavy right out of the box so speeding up everything else is a critical piece of running a site on this platform.

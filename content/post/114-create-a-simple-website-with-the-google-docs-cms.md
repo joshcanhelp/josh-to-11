@@ -10,7 +10,6 @@ featured_img:
 wpid: 1207
 ---
 
-# Create a simple website with the Google Docs CMS
 
 In attempt to solve one problem, I figured out a way to easily publish and manage data on the web by using a simple Google Documents spreadsheet. What I was trying to do was come up with the simplest way possible to manage my Josh Can Help network page. What I realized is that, with a little extra work, you could manage a whole website.
 

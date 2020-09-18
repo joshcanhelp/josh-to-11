@@ -10,7 +10,6 @@ featured_img: /_images/2009/07/PS_poll-150x150.jpg
 wpid: 906
 ---
 
-# Trying to learn Photoshop? Here's what to concentrate on
 
 A while ago (at this point, a long while ago) I asked a question on the Art &amp; Design forums on VWVortex.com (seems like an odd place to get advice but there are some very talented individuals). I was stumbling through Photoshop and wanted to know what I should learn next. With all the tutorial sites out there these days, the problem isn’t finding something to learn, it’s figuring out which skill to concentrate on.
 

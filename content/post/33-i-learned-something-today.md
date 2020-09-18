@@ -10,7 +10,6 @@ featured_img:
 wpid: 235
 ---
 
-# I learned something today
 
 There’s usually five hard ways to do something without any kind of guarantee of an available easy way. Sometimes there is an easy way, sometimes there’s just an easIER way, and sometimes there’s just hard ways. Realizing that some things just take hard work is an important step towards growing up (regardless of your numerical age) but it’s also the kind of thinking that can get you stuck. I’m a fan of hard work and, as such, sometimes I work a lot harder at something than I should. Case in point, the story I’m going to share with you.
 

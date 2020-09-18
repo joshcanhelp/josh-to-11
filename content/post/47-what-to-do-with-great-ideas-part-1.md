@@ -10,7 +10,6 @@ featured_img:
 wpid: 351
 ---
 
-# What to do with great ideas (part 1)
 
 I read somewhere that the worst thing that could happen to someone, especially someone with any kind of entrepreneurial spirit, is a great idea. [Great ideas suck the life out of you](/insane-ideas-are-lifes-great-equalizer/ "Insane Ideas Are Life’s Great Equalizer"), turn you into an obsessed lunatic, and can leave you with an empty home and an empty bank account.
 

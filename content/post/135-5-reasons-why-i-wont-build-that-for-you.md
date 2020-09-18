@@ -10,7 +10,6 @@ featured_img:
 wpid: 1672
 ---
 
-# 5 Reasons Why I Won't Build That For You (it's not just because I said so)
 
 Turning down projects (or redirecting ones that are on the wrong track) is the only path toward some semblance of sanity in this business. For some people, the internet is magic and I’m a wizard here to cast spells and make magical things happen (you could also see me as a genie making wishes come true). Fact is: I only have so much time on this planet and making clunky, ugly, and bad ideas come to life is not what I want to do with that time. If you work with me, I might say no and you should probably understand why.
 

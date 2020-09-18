@@ -10,7 +10,6 @@ featured_img:
 wpid: 2402
 ---
 
-# A Great Facebook Page for a Boring, Niche, or Unappealing Business
 
 Let’s get right to the point: **you are not in a mainstream industry**. What you sell is very specific or not very exciting to talk about or reminds people of places they don’t want to be. What you do is not the center of attention at a party and you have to explain your service carefully, using layman’s terms that barely get the job done. Face it: you’re in a boring, niche, or unappealing industry. There’s good news, though: **social media doesn’t care**.  
 ![social_media_is_for_everyone](/_images/2011/08/social_media_is_for_everyone.jpg)

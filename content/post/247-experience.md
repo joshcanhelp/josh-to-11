@@ -10,7 +10,6 @@ featured_img:
 wpid: 4509
 ---
 
-# Experience
 
 *I’m beginner, I’m intermediate, and I’m advanced.*   
 *I’m an expert and a novice.*  

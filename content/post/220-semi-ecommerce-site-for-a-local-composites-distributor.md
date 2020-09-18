@@ -10,7 +10,6 @@ featured_img: /_images/2015/08/pacific-coast-composites-logo-150x150.png
 wpid: 3847
 ---
 
-# Semi-eCommerce Site for a Local Composites Distributor
 
 > Working with Josh has been an absolute pleasure! He caught on very quick to our vision of what we wanted for a website. When we were initially quoted, we were given timeframes for certain segments of the website completion and he met every timeframe we were given. That in itself is priceless!
 >

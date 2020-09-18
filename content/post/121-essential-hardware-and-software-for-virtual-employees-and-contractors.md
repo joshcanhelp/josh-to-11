@@ -10,7 +10,6 @@ featured_img:
 wpid: 1405
 ---
 
-# Essential Hardware And Software for Virtual Employees and Contractors
 
 8 months ago, I was able to make the switch to being a completely virtual worker. This is something I did with great excitement, partially because of the position that let me make this shift but also because it’s something I’ve wanted for a long time. I imagined a one “day on, one day off” schedule: I would spend one day completely unkempt, partially disrobed, and eating anything I found in the kitchen and the next I would make sure I had at least pants on and surf from coffee shop to coffee shop sipping espresso and checking my email on a patio. It sounded glorious.
 

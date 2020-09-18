@@ -11,7 +11,6 @@ link_to: https://secretaardvark.com/shop/sauce/aardvark-habanero-hot-sauce/
 wpid: 60
 ---
 
-# My Favorite Hot Sauce Ever ... This Month
 
 Hot sauce became my go-to back in the early 2000’s when I was busy losing 100 pounds and was having trouble dealing with the loss of so much delicious food (I was eating garbage but it’s what I had become accustomed to). I read in a Men’s Health magazine that your body, when processing spicy foods, uses more calories than baseline metabolism. Whether that’s true or not, I was looking for any kind of edge I could get so hot sauce became my best friend.
 

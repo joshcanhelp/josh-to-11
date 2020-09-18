@@ -10,7 +10,6 @@ featured_img:
 wpid: 2574
 ---
 
-# Analysis, Keywords and Monitoring: 3 Steps to Improve SEO
 
 I’ll just say it right up front: the target audience for this post is for business owners and entrepreneurs who are online and understand the importance of optimizing their site for search but aren’t sure where to start. If you’re unconcerned with search traffic, that conversation is for another day. If you’re looking for in-depth topics, start with one of my other [SEO posts](/tag/seo/) like [Choosing Keyword Phrases for Site Content](/choosing-keyword-phrases-for-site-content/). You know you’ve got a problem but you don’t know how to correct it. **Don’t worry, Josh Can Help.**
 

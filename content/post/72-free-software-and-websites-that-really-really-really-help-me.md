@@ -10,7 +10,6 @@ featured_img:
 wpid: 556
 ---
 
-# Free software and websites that really, really, really help me
 
 From time to time, I go searching for a utility, website, or document to help me with whatever I’m doing. It usually takes no more than 15 minutes to find, install, or read whatever I find and implement it towards a solution. The solution typically completely satisfies the need and sometimes goes beyond. Some discoveries, however, go so far above and beyond what I was attempting to do that they integrate themselves completely into my digital life and make me wonder what I did before finding it (which always leads to the now philosophical question, what did I do before the internet). The following computer-based implements have become so essential to me that I would pay good money to keep them. They happen, however, to be completely free.
 

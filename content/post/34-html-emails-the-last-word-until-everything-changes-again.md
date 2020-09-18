@@ -10,7 +10,6 @@ featured_img:
 wpid: 233
 ---
 
-# HTML emails: the last word (until everything changes again)
 
 Here is everything I know about creating HTML emails. This is the most boring and most useful post I’ve ever created by far. This is the aggregate of a lot of research and my own coding and testing. The title is bold, I know, but the information is solid.
 

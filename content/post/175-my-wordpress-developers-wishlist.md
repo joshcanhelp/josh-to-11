@@ -10,7 +10,6 @@ featured_img: /_images/2009/09/wordpress-logo-notext-rgb-300x300.png
 wpid: 2731
 ---
 
-# My WordPress Developer's Wishlist
 
 Let’s just get this out of the way: I’m a total WordPress fanboy. Most projects that come through my door can be – and are – built on the platform and I’m always finding great new ways to extend and improve the basic functionality. Most of my clients love the backend and I’ve yet to find a WYSIWYG system that works as well as WordPress’s. I feel silly even making a list like this but these ideas have popped into my head over the last year and I wanted to get them down in one place.
 

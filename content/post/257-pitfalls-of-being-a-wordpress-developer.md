@@ -10,7 +10,6 @@ featured_img: /_images/2018/07/IMG_1437-150x150.jpg
 wpid: 4799
 ---
 
-# Pitfalls of Being a WordPress Developer
 
 I’ve been developing on the web for almost a decade. Most of that time has been spent building on WordPress. Every platform has it’s fallbacks, WordPress not excepted, but I’ve found it to be a capable, reliable partner when building content and community sites of all sizes. Properly built, configured and maintained, it can handle massive amounts of traffic and stay secure in the process. I regret nothing with my choice of CMS.
 

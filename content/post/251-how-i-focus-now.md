@@ -10,7 +10,6 @@ featured_img: /_images/2016/12/focus-150x150.png
 wpid: 4694
 ---
 
-# How I Focus Now
 
 After reading several articles and a great book, [Deep Work by Cal Newport](https://www.amazon.com/dp/B00X47ZVXM/), I’m sold: **focus is tough, necessary, and at a premium.** I’ve always found it very easy to…
 

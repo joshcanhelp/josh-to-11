@@ -10,7 +10,6 @@ featured_img: /_images/2009/10/iteration_cycle.png
 wpid: 1173
 ---
 
-# Do it, then do it better: an iterative mindset
 
 I used to work for a big, huge wireless company. I was the nameless, faceless guy who received email requests all day and made minor change to wireless accounts. Each email was formatted exactly the same way and I used the same system for each change. 8 hours a day, 5 days a week I was a machine.
 

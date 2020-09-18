@@ -10,7 +10,6 @@ featured_img: /_images/2010/08/we_live_here.jpg
 wpid: 70
 ---
 
-# The unfamiliar and wonderful life we now lead
 
 We’ve been here a week and not a peep about France beyond a quick peek at the view from our balcony. I realize the distress that this has been causing but I was waiting for the right inspiration to write our first Paris post. Maybe I’ve been waiting for the right amount of red wine….
 

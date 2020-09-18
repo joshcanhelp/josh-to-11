@@ -10,7 +10,6 @@ featured_img: /_images/2010/09/IMG_0513-300x300.jpg
 wpid: 115
 ---
 
-# Miles to go before we sleep
 
 When we were in San Diego, one of my favorite things to do was to put on a podcast (This American Life being the top choice), plug in the headphones, and go for a walk in the middle of the day. I called them my “podcast walks” because they were about an hour and let me escape my always-hectic workday through the voice of another person. Walking at a brisk pace and smiling at people as I went, I tried to lose myself in whatever story Ira Glass had chosen for me that day. The sun, the breeze, and the smell of eucalyptus tried to distract me from one pleasure with another so I found my attention drifting back and forth between what I was experiencing and what I was hearing.
 

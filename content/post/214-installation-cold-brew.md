@@ -10,7 +10,6 @@ featured_img: /_images/2015/06/IMG_3478-e1434732782486-150x150.jpg
 wpid: 119
 ---
 
-# Installation Cold Brew: Buzz King
 
 If you look around this site a bit, you might get the impression that I like cold brew coffee. This is the correct impression to have; **I do.**
 

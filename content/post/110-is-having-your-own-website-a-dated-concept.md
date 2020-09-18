@@ -10,7 +10,6 @@ featured_img:
 wpid: 1167
 ---
 
-# Is having your own website a dated concept?
 
 For the record, this is one of the reasons I find immense value in Twitter: exposure to a broad range of opinions on an equally broad range of topics. Since this particular option pertained to what I do, I figured I’d chime in.
 

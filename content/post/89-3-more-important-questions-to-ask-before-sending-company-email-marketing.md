@@ -10,7 +10,6 @@ featured_img:
 wpid: 796
 ---
 
-# 3 MORE Important Questions to Ask Before Sending Company Email Marketing
 
 [On Monday, I posted 3 questions to ask before sending your email campaign](/3-important-questions-to-ask-before-sending-an-email-campaign/). Today, I’m going to finish up this thought with three more questions.
 

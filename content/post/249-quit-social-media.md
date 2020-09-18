@@ -12,6 +12,5 @@ link_to: "http://www.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-m
 citation: "Cal Newport"
 ---
 
-# Quit Social Media
 
 > The idea of purposefully introducing into my life a service designed to fragment my attention is as scary to me as the idea of smoking would be to an endurance athlete, and it should be to you if you’re serious about creating things that matter.

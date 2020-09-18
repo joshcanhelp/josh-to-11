@@ -10,7 +10,6 @@ featured_img: /_images/2014/11/Screenshot-2014-11-18-13.24.46-150x150.png
 wpid: 3610
 ---
 
-# Easy Feedback To-dos with Gmail and Asana
 
 I recently needed feedback on a product I’m creating and wanted to figure out the easiest way to get feedback from contacts who were generous enough to give it. There’s a balance, though, between making feedback as easy as possible to give (a reply to an email is about as easy as it gets) and making it as easy as possible for me to *act on* (easiest, in my world, is an Asana task). I don’t want to make it a pain in the butt to tell me what they found but I also don’t want to waste time parsing out bullet points into tasks. **What’s a guy to do?!**
 

@@ -11,7 +11,6 @@ link_to: https://github.com/joshcanhelp/wp-starter
 wpid: 3892
 ---
 
-# A(nother) WordPress Starter Template
 
 I’ll start with a confession: this is my fourth WordPress starter theme. But, thankfully, the first I’ve ever “released” in any real way. There are a few questions I can hear you asking:
 

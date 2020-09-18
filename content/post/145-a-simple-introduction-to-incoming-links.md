@@ -10,7 +10,6 @@ featured_img:
 wpid: 1718
 ---
 
-# A simple introduction to incoming links
 
 Incoming links to your website from text, images, or otherwise are a mystery to a lot people who do business on the web. In fact, I’ve talked to many people who aren’t really clear on what a link actually is. The incoming links concept is one of those things that is hard to get your head around, hard to stay current with, and hard to make a decision about. It’s also, however, one of the key concepts of having an maintaining a healthy website. Let me help you gain clarity on incoming links.
 

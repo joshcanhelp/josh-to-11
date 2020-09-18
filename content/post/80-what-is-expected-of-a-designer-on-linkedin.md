@@ -10,7 +10,6 @@ featured_img:
 wpid: 639
 ---
 
-# "What is expected of a designer?" on LinkedIn
 
 You’re probably going to hear a lot more from me about [LinkedIn](http://www.linkedin.com/in/joshcanhelp). I’ve been on there for several years but only recently understood how to use it effectively (expect a post soon). Part of my new set of activities on there is participating in group discussions about design, development, and business best practices. I’m definitely learning more than I’m teaching which makes the ROI for coming back quite high.
 

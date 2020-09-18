@@ -10,7 +10,6 @@ featured_img:
 wpid: 1258
 ---
 
-# 6 key ways to improve your email communication
 
 I love email, I really love it. Email is a simple communication medium that creates a historical record and is dead-simple to manage (if you’re a Gmail user). I use email as much as possible and prefer it over pretty much any communication method besides meeting face-to-face.
 

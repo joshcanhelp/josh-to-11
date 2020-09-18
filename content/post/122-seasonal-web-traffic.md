@@ -10,7 +10,6 @@ featured_img:
 wpid: 1453
 ---
 
-# Seasonal Web Traffic: The Proverbial Coal in Your Stocking
 
 December 2009, I looked back through the analytics of several busy content sites I help manage and saw a serious traffic drop-off. It’s no fun being the bearer of bad news and the news was pretty bad. Most sites were seeing close to a 40% decrease in overall traffic starting on the first week of December. It was ugly.
 

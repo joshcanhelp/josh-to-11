@@ -10,7 +10,6 @@ featured_img:
 wpid: 2246
 ---
 
-# Effective Email Marketing Campaigns Presentation
 
 I was honored to be asked to come down to San Diego and speak to a room full of friendly college administrators, marketers, and professionals about email marketing campaigns. Everyone was plugged in and seemed to really enjoy the whole process, which made it that much more fun for me. My Google Docs presentation is below along with a few other resources, posts on my blog, and links to other sites that can help you make the most our of email marketing. A big thanks to [EMAS Pro enrollment management software](https://www.emaspro.com/) for giving me this opportunity!
 

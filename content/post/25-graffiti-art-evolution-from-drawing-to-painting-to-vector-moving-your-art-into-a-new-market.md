@@ -10,7 +10,6 @@ featured_img: /_images/2008/08/graf_step07-150x150.jpg
 wpid: 75
 ---
 
-# Graffiti art evolution: from drawing to painting to vector; moving your art into a new market
 
 I like finding two things that don’t intuitively mix and extend them out until they touch. It might seem funny to a graffiti writer think that the tools of logo/icon design (vector illustration software like Adobe Illustrator) could help them achieve new things and reach new people. To me, a computer nerd first, a businessman next, and a graffiti artist on the side, the whole process makes perfect sense.
 

@@ -10,7 +10,6 @@ featured_img:
 wpid: 1161
 ---
 
-# The Drudge Report style 3 column link page template
 
 To start … the HTML on Drudge report is very poor. It was a table-style layout for no discernible reason, there were capitalized tags and attributes throughout, and it looked like it may have been avoiding CSS altogether. It’s really none of my business how other people put their sites together but it was clear I wouldn’t be drawing any inspiration from the technical construction. So I started from scratch and made this very simple, lightweight, one-file, one-page site template that mimics the layout of Drudge report with a few extra features.
 

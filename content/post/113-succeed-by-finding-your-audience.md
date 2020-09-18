@@ -10,7 +10,6 @@ featured_img:
 wpid: 1199
 ---
 
-# Succeed by Finding Your Audience
 
 Many people tell me that their website costs more than it brings in. For many, this is just a fact of life and their site becomes a bill to pay like a cell phone. If your site is commercial in nature, however, this is no way to go about your technological life. I want to talk about how to fundamentally change how your business works and how the website assists that.
 

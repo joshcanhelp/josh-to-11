@@ -10,7 +10,6 @@ featured_img: /_images/default-img-size-medium.png
 wpid: 871
 ---
 
-# Tooting my own horn - Email marketing presentation
 
 I just recently gave an hour long talk on email marketing titled “6 Questions to Ask Before Sending an Email Campaign.” This was based on two blog posts I made recently. The posts actually came from the presentation preparation so I got to hype them a bit during the talk. I thought I’d toot my own horn a bit and post the feedback that I got.
 

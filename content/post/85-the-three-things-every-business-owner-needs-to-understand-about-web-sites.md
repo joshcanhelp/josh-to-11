@@ -10,7 +10,6 @@ featured_img: /_images/2009/05/the-host-150x150.jpg
 wpid: 699
 ---
 
-# The three things every business owner needs to understand about web sites
 
 I’ve had the pleasure to work with many business owners in my line of work. Something I always need to explain (happily) is how a website works, what is needed to get one on-line, and what needs to be maintained. About half of the information I give is good to know and the other half is vital to protecting your business, your brand, and your security. This post covers the absolute minimum you should understand about your web site. Even if you’re “not techy” (poor excuse), get comfortable with these so you’re not caught with your pants down.
 

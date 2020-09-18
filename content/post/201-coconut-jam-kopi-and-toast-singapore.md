@@ -11,7 +11,6 @@ link_to: http://www.amazon.com/gp/product/B00FPWB1J2/ref=as_li_tl?ie=UTF8&camp=1
 wpid: 69
 ---
 
-# Coconut Jam, Kopi and Toast, Singapore
 
 Singapore is a magical wonderland of food, architecture, color, culture, and food. And food. Oh the food.
 

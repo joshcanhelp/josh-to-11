@@ -10,7 +10,6 @@ featured_img: /_images/2009/04/fused_logo.png
 wpid: 662
 ---
 
-# You can't go wrong with Fused Network hosting for small businesses
 
 I meant to post this when I actually wrote it but, well, that didn’t happen.
 

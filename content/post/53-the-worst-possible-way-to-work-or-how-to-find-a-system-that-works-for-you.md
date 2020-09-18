@@ -10,7 +10,6 @@ featured_img:
 wpid: 380
 ---
 
-# The Worst Possible Way to Work (or) How to Find a System That Works for You
 
 I was listening to a BBC program the other day that was talking about whether grandparents raising their grandkids was a good thing or a bad thing. Some people called in to say, yes, it was good but also bad. Other people called in to say it was bad, but also good. In the end, it seemed like the show’s host, whether on directive or personally motivated, was looking for “the truth,” in the sense that she wanted an answer – **the** answer. This is the format of most discourse in modern-day media, it seems, because it simplifies the issue down to the proverbial black and white. Instead of looking for some perspective on things, the conversation, apparently, always needs to come to a conclusion.
 

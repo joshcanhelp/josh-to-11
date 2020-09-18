@@ -10,7 +10,6 @@ featured_img: /_images/2015/01/hard-drive-install-150x150.jpg
 wpid: 2368
 ---
 
-# A Few Thoughts on WordPress Performance
 
 > “WordPress is a server hog”
 > 

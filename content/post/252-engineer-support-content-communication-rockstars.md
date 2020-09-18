@@ -10,7 +10,6 @@ featured_img: /_images/2016/12/fearey-default-large-150x150.png
 wpid: 4496
 ---
 
-# Engineer Support for Content and Communication Rockstars
 
 People who love what they do make all the difference. Regardless of the industry, when people care deeply about what they’re making and who they’re helping, **it shows**.
 

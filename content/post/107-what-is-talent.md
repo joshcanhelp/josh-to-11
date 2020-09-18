@@ -10,7 +10,6 @@ featured_img:
 wpid: 1127
 ---
 
-# What is Talent?
 
 This is a post I wrote almost two years ago on my previous blog. I find myself in the same room that I wrote post previously and thinking about the same things in a slightly different light. I’m re-posting it here with minor changes and notes indicated with square brackets.
 

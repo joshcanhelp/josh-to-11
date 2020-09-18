@@ -10,7 +10,6 @@ featured_img:
 wpid: 189
 ---
 
-# Screencasts: recording on-screen training videos
 
 As internet connection speeds get faster and video file sizes get smaller, we’re seeing more and more on-screen training for products and processes that typically would only have a written manual (or nothing at all). This videos are an excellent way to learn a product, especially if you have trouble reading text on a screen or get bored easily. Additionally, videos provide another ‘visual’ layer for people who learn that way.
 

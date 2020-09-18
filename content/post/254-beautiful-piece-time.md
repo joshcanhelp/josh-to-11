@@ -12,7 +12,6 @@ link_to: "http://www.newyorker.com/magazine/2016/12/19/the-secret-life-of-time"
 citation: "Alan Burdick"
 ---
 
-# Beautiful piece about time 
 
 Emphasis mine:
 

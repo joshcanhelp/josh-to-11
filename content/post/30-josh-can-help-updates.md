@@ -10,7 +10,6 @@ featured_img:
 wpid: 203
 ---
 
-# Josh Can Help updates...
 
 I meant to use this blog as a place to update information about my business and maybe some relevant personal stuff but I’m so boring that all I write about is work and coding! I’m a hoot! So, here’s what is going on with Josh Can Help.
 

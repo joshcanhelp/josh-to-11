@@ -10,7 +10,6 @@ featured_img: /_images/2015/03/new-123-150x150.jpg
 wpid: 2428
 ---
 
-# Become A WordPress Developer Overnight After 4 Months of Work
 
 This is a summary of an email I sent to someone who wants to get into creating custom WordPress themes and plugins. I’ve been doing this for over 7 years now and would like to think I have *something* interesting and helpful to say about this. I definitely welcome your comments and feedback on this list, particularly if you’re a self-taught developer working in the industry.
 

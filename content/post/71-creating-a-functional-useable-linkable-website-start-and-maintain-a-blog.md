@@ -10,7 +10,6 @@ featured_img:
 wpid: 529
 ---
 
-# Creating a functional, useable, linkable website: start and maintain a blog
 
 ![blog_img](/_images/2009/01/blog_img.jpg "blog_img")
 

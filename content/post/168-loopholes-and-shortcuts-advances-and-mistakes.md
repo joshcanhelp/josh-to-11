@@ -12,7 +12,6 @@ link_to: "http://hostjury.com/blog/view/390/loopholes-and-shortcuts-advances-and
 citation: ""
 ---
 
-# Loopholes & Shortcuts
 
 The age-old advice to "work smarter, not harder" applies ten-fold on the web. If you're not finding techniques and tools that help you save time and do more with less then you're missing the whole point. On top of that, you're literally wasting your life.
 

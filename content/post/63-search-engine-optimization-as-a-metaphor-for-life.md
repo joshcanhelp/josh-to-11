@@ -10,7 +10,6 @@ featured_img:
 wpid: 470
 ---
 
-# Search Engine Optimization as a metaphor for life
 
 Yeah, seriously.
 

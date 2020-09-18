@@ -10,7 +10,6 @@ featured_img:
 wpid: 4665
 ---
 
-# Ballard to Fremont - Bikes and Brews
 
 A list of the breweries in Ballard and Fremont and a few suggested schedules for the weekend days.
 

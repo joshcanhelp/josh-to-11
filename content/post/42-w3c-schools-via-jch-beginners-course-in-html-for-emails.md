@@ -10,7 +10,6 @@ featured_img:
 wpid: 290
 ---
 
-# W3C Schools (via JCH) Beginner's Course in HTML for Emails
 
 ![](/_images/2008/09/sent-mail-128x128.png)
 

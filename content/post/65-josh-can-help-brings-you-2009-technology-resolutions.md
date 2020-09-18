@@ -10,7 +10,6 @@ featured_img:
 wpid: 479
 ---
 
-# Josh Can Help brings you: 2009 Technology Resolutions
 
 I think resolutions are probably a good idea for the most part (lose weight, exercise more, smoke less/no more crack) but, [psychologically, they just don’t work](http://www.boston.com/lifestyle/articles/2009/01/01/why_is_change_so_hard/?page=full). Still, it’s never a bad thing to think about how you want to change your life. Since I’m neck-deep in technology and since my personal life is immaculate (chuckle), I figured this might be a good time to think about how I’d like to change how I use technology in my own life.
 

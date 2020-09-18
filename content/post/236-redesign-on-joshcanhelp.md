@@ -10,7 +10,6 @@ featured_img: /_images/2016/10/IMG_0326-150x150.jpg
 wpid: 4573
 ---
 
-# Redesign on JoshCanHelp
 
 Working on your own stuff is hard. And it doesn’t get much easier the more you do it. My theory is that, just like looking into the mirror and seeing how other people see you, it’s very difficult to make something that reflects who you are as a person/company/organization while also appealing to who you need to appeal to. You want to appear a certain way but is that the same way that will vibe with your customers?
 

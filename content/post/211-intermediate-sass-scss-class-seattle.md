@@ -10,7 +10,6 @@ featured_img: /_images/2015/03/Sass_Logo-150x150.png
 wpid: 3660
 ---
 
-# Intermediate Sass/SCSS class in Seattle
 
 For web development folks in Seattle who want to level up on Sass, SCSS, Bourbon, and the like, I’m helping to organize an intermediate-level class sometime in the next couple of months. The teacher is the highly-experienced UI engineer/designer [Dale Sande](http://www.anotheruiguy.com/) ([@anotheruiguy](https://twitter.com/anotheruiguy)), a great instructor with [several years of teaching experience](https://www.linkedin.com/in/dalesande). We dictate the curriculum and you would be hard-pressed to find access to this level of experience for what it costs (see below).
 

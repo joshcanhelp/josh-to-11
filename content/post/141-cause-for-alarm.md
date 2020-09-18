@@ -10,7 +10,6 @@ featured_img: /_images/2010/10/IMG_0610-1-e1561841352894-150x150.jpg
 wpid: 152
 ---
 
-# Cause for Alarm?
 
 First, I want to thank the people who warned me personally about heightened security in France. This post is about the media and the State Department, not the people who thought of me. I thought I should make that clear in case there is any misunderstanding.
 

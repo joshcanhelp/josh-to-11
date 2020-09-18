@@ -10,7 +10,6 @@ featured_img: /_images/2011/11/steps-150x150.jpg
 wpid: 126
 ---
 
-# Reims - You Want To Go To There
 
 It just started pouring rain, killing any plans we had of heading up to Sacre Coeur for our weekly wine + stairs date. So instead, it’s story time. Get comfortable, grab a glass of something cold, white, and bubbly, and let me tell you about our day trip to a great little town called Reims.
 

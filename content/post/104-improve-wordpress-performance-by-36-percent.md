@@ -10,7 +10,6 @@ featured_img: /_images/2009/08/clarkson_face-150x150.jpg
 wpid: 993
 ---
 
-# Improve WordPress Performance by 36 Percent
 
 I was approached recently by the owner of a popular blog using WordPress software. This blog gets a lot of traffic on a regular basis but also has articles that reach the front page of Digg.com on a regular basis. For those of you not familiar with social media, this translates to very large traffic peaks. He wanted to know if there was anything he could do. As usual, Josh Can (and did) Help.
 

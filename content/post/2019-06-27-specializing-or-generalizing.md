@@ -11,7 +11,6 @@ featured_img: /_images/2019/06/i-dont-know.png
 
 ---
 
-# Specializing vs Generalizing
 
 So, you want to be a generalist! **Great!** Generalists get better job offers, have secret powers, and are better than specialists. They also kill sales pipelines and and can’t be afforded.
 

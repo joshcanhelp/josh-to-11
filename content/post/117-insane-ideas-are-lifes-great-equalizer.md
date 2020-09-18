@@ -10,7 +10,6 @@ featured_img: /_images/2009/12/lightbulb_jch-150x150.png
 wpid: 1307
 ---
 
-# Insane Ideas Are Life's Great Equalizer
 
 If you take a good look around, you’ll probably find it’s completely overwhelming to try to get a handle on what we’re capable of doing these days. Between amazing web applications, unprecedented communication options, and practically incomprehensible medical technology advances, we’re living in a time of incredible ideas that have come to fruition. After recovering from awe at the vast technological landscape that surrounds us, some of us have a decidedly self-defeating thought creep into our mind:
 

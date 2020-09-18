@@ -10,7 +10,6 @@ featured_img:
 wpid: 260
 ---
 
-# Dripping my way along... a lesson from Seth
 
 Seth Godin that is. The lesson [comes from this post](https://seths.blog/2008/08/the-secret-of-t/) and only set sunk in yesterday. Key point:
 

@@ -10,7 +10,6 @@ featured_img: /_images/2008/09/thunderbird_logo.jpg
 wpid: 254
 ---
 
-# How to send HTML emails for free using Mozilla Thunderbird
 
 This is just a quick tip for anyone out there that wants to send a few HTML emails from their desktop and don’t have access to an HTML sending service like MailChimp or something similar. The program is called [Thunderbird](http://www.mozilla.com/en-US/thunderbird/) and it’s made by the same wonderful folks who put together the first-class web browser, [Firefox](http://www.mozilla.com/en-US/firefox/) (you are using Firefox, right?). This is not a great option for mailing hundreds of emails out because I’m sure your email host will not be too happy about it. If, however, you want to send out, say, 50 email invites to friends or a tight customer list, this might work for you.
 

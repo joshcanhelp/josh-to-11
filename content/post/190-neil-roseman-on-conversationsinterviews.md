@@ -12,6 +12,5 @@ link_to: "http://firstround.com/review/The-anatomy-of-the-perfect-technical-inte
 citation: "Neil Roseman"
 ---
 
-# Neil Roseman on conversations/interviews
 
 > Once you form an initial impression of someone – which usually happens within the first 60 seconds – you should spend the rest the conversation trying to invalidate that impression.

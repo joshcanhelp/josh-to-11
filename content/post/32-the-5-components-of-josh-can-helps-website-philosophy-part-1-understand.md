@@ -10,7 +10,6 @@ featured_img:
 wpid: 210
 ---
 
-# One component of Josh Can Help's website philosophy - Understanding
 
 One of the most challenging and interesting parts of what I do is bridging the gap between potentially confusing technology and people who are far removed from how it works. I think people intentionally avoid this massive gray area because of lack of patience, lack of interest, or inability (or no desire) to communicate properly. It can difficult to explain concepts like table-free design, search engine optimization, and digitizing art for print to people without the necessary experience. Despite that, it’s necessary for people who are promoting themselves or their business to understand these concepts on a basic level and realize how they can expand their work into new, expanding markets.
 

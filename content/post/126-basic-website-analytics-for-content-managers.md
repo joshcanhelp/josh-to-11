@@ -10,7 +10,6 @@ featured_img:
 wpid: 1539
 ---
 
-# Basic Website Analytics for Content Managers
 
 If you work with a site that publishes articles on a regular basis then you should be familiar with how your content performs and where people are coming from. It’s also important to keep an eye out for problems, traffic spikes, and a new incoming traffic sources. This guide is a quick overview of basic Google Analytics (GA) for content site managers.
 

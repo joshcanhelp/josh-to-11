@@ -10,7 +10,6 @@ featured_img: /_images/2008/08/website_design1-150x150.jpg
 wpid: 63
 ---
 
-# Building a homepage from a blog: Part 1: Conceptualization and Planning
 
 I’ve grown bored of my original homepage’s look and feel and I’ve been meaning to build a theme of my own for this blog so I’m combining the two projects. When I’m complete, joshcanhelp.com will point to a home page on this blog, directing people to information about me and what I do.
 

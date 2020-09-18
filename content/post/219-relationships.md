@@ -10,7 +10,6 @@ featured_img:
 wpid: 3701
 ---
 
-# Relationships
 
 I find interpersonal relationships **fascinating**.
 

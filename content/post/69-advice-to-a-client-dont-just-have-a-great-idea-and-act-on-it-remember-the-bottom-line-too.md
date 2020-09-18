@@ -10,7 +10,6 @@ featured_img:
 wpid: 517
 ---
 
-# Advice to a client: don't just have a great idea and act on it – remember the bottom line too
 
 So you’ve got a great idea, do you? Good for you. You’ve joined the ranks of many, many people with a great idea. Don’t get me wrong, having a great idea is wonderful, it’s affirming, and it’s fun to share with your friends. But, besides something to distract you, what do you have?
 

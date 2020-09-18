@@ -10,7 +10,6 @@ featured_img: /_images/2010/08/IMG_0195_sm-300x300.jpg
 wpid: 59
 ---
 
-# I see London, I see France
 
 Today \[written 8/18\] marks the first day we’ve seen the sun since we arrived last Thursday. I mistakenly was expecting August in London and Paris to be like, well, summer. How wrong I was. In place of the anticipated heat and humidity, we were welcomed at Heathrow by weather no different than that of a chilly Seattle October.
 

@@ -11,7 +11,6 @@ link_to: https://bluebottlecoffee.com/store/giant-steps
 wpid: 97
 ---
 
-# Blue Bottle Giant Steps
 
 This is just a quick review since I bought this and promptly drank it quickly without thinking about taking notes. Unforgivable? Possibly, but I hope you give me the benefit of the doubt here.
 

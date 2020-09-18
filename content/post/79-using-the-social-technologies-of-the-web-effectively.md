@@ -10,7 +10,6 @@ featured_img:
 wpid: 636
 ---
 
-# Using the social technologies of the web effectively while staying out of trouble
 
 I’ve been using LinkedIn more and more these days on the recommendation of two people I’m currently working with. Part of what makes LinkedIn such a great networking tool is it’s an active set of groups, each with their own discussion board. The conversation is great, the information is top-notch, and people are so ready and willing to share the information that made them successful in the first place (myself included).
 

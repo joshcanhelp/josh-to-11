@@ -10,7 +10,6 @@ featured_img:
 wpid: 477
 ---
 
-# Getting started correcting your search engine problems.
 
 Search engines are complicated, proprietary, heartless machines that chew up poor, unsuspecting websites and spit out a category based on what it tastes like. These categories are used to literally rank a site’s individual pages based on their relevancy for particular word or phrase. The rank, as it is referred to, is the key to getting more people coming to your website (called traffic) which can lead to more sales/appointments/contacts (called conversions).
 

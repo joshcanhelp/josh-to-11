@@ -10,7 +10,6 @@ featured_img: /_images/2016/04/8ninths-logo-150x150.png
 wpid: 4402
 ---
 
-# 8ninths Site Rebuild
 
 > The project was challenging due to a condensed timeline and hard launch date. We had to release the website in coordination with the launch of our Holographic Workstation project with Microsoft HoloLens, and also to support inquires about our Mixed Reality and Virtual Reality services. The stakes were high and it came as a great relief to have such a seasoned professional help us with the development.
 >

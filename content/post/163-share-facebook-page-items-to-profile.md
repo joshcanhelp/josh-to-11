@@ -10,7 +10,6 @@ featured_img:
 wpid: 2502
 ---
 
-# How to "Like" your page items from your personal profile without looking silly
 
 Facebook is like a smartphone. Some people jump right in and start using it, slowly figuring out the necessary functions like making calls, sending texts, and saving contacts. Other people go right to the manual and read it from cover to cover to make sure they’re not missing anything. Wait a sec, that simile doesn’t work… Facebook doesn’t have a manual. That means it’s really easy to do things “wrong.” **Liking your own page items is one of those things.**
 

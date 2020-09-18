@@ -12,6 +12,5 @@ link_to: "https://medium.com/@sparkszilla/john-cleese-on-why-creativity-takes-ti
 citation: "John Cleese"
 ---
 
-# Creativity Takes Time
 
 > the most creative professionals always played with the problem for much longer before they tried to resolve it. Because they were prepared to tolerate that slight discomfort and anxiety that we all experience when we haven’t solved a problem.

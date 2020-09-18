@@ -10,7 +10,6 @@ featured_img:
 wpid: 619
 ---
 
-# Path forward: How Josh Can Help Plans and Approaches Building a New Web Site from Scratch
 
 I was contacted recently be someone who was curious what it was like to work with me. My first reaction was “it’s great to work with me” but I quickly realized that she was looking for something a bit more substantial. When I create a website, I have a plan but it might be good to share this with everyone who is curious about what goes into building a web site from scratch.
 

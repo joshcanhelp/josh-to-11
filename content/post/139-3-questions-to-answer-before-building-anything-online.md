@@ -10,7 +10,6 @@ featured_img:
 wpid: 1710
 ---
 
-# 3 Questions to Answer Before Building Anything Online
 
 I am obsessed with ideas. Ideas by themselves are both incredibly important and totally-overrated. As such, they are completely misunderstood. Simple ideas can transform world but the mean value for an idea approaches zero. I’m in a position where I get to hear a lot of ideas from passionate people wanting to do something incredible. Since ideas have the power to change your life, for better or for worse, it’s my duty to help people stay grounded and test their ideas before jumping head-first into something. **Here’s how to do it**.
 

@@ -11,7 +11,6 @@ link_to: https://mamalils.com/collections/frontpage/products/kick-butt-peppers-i
 wpid: 49
 ---
 
-# Mama Lil's Kick Butt Peppers in Oil
 
 In another life, I worked at a restaurant that served great Italian/Croatian food to people that were, on the whole, fairly pleasant. It was not a great job but it did have it’s benefits, like all the fresh-baked rolls you could sneak into your mouth while the manager wasn’t looking.
 

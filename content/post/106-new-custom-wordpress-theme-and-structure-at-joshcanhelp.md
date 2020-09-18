@@ -10,7 +10,6 @@ featured_img: /_images/2009/09/the-related-150x150.png
 wpid: 1108
 ---
 
-# New custom WordPress theme and structure at JoshCanHelp
 
 I finally made the time to finish my site’s re-design and re-build. Part of me thought this would be a minor remodel with a new WordPress theme but, in the end, I re-did all of my page content and changed my whole organization.
 

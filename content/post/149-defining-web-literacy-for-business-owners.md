@@ -10,7 +10,6 @@ featured_img:
 wpid: 1828
 ---
 
-# Defining Web Literacy for Business Owners
 
 I have been thinking on this concept for many months but have not <del>had</del> made the time to pull it all together. This is, however, the underlying concept behind my blog and my business so it’s about time I put it down on “paper.” This is where my mind went and what I think about the topic but I need your help as well. This is a limited (though large) pool of topics that I consider essential for business owners to understand, the collection of which define basic web literacy for business owners.
 

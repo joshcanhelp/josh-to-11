@@ -10,7 +10,6 @@ featured_img:
 wpid: 337
 ---
 
-# Considering a career in software, development, or digital design? Listen to the professionals at Microsoft.
 
 I have a friend who works as a recruiter for Microsoft and, though I’ve never actually worked side-by-side with him, I know his work ethic, his commitment, and his intelligence well enough to respect anything he has to say about all things employment related.
 

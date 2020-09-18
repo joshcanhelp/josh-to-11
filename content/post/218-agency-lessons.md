@@ -10,7 +10,6 @@ featured_img: /_images/2015/06/924055_993139194035301_1576746067_n-150x150.jpg
 wpid: 3713
 ---
 
-# Lessons Learned in Agency
 
 It’s been almost 8 years since I started this whole “Josh Can Help” thing and I’ve been doing client web development (aka “agency development”) throughout that time. There were times where I loved what I was doing and took a lot of personal satisfaction from helping people create a “[proper](https://theproperweb.com)” web presence. There have been other times where I was ready to give it all up and go start an [izakaya](http://guu-izakaya.com/) restaurant. At the end of the day, though, I **love** working on the web and, given the right combination of work, type of client, and focus on myself, I can always find happiness in what I create and in the day-to-day tasks that fill up my working hours.
 

@@ -10,7 +10,6 @@ featured_img: /_images/2013/02/IMG_0145-1-e1561841461118-150x150.jpg
 wpid: 252
 ---
 
-# Two Worlds, Existing Side-by-Side, Always In Conflict
 
 Someone opened my eyes (again) to a funny scenario that happens in Seattle when the sun comes out. Suddenly, the gloomy, cold weather goes away and the gloomy, cold attitude follows suit. Everyone has something to talk about: the sun and how mysterious it is. More bikes are out, more walking is happening, and people are smiling.
 

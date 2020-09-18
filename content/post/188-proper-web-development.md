@@ -10,7 +10,6 @@ featured_img: /_images/2013/04/proper-sq-med-150x150.png
 wpid: 3226
 ---
 
-# PROPER Web Development
 
 > **Please Note**: I sold this company several years after this post and am no longer involved in managing or supporting the products that it sells. 
 

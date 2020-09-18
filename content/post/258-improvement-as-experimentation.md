@@ -10,7 +10,6 @@ featured_img: /_images/2019/06/IMG_1438-150x150.jpg
 wpid: 4837
 ---
 
-# Improvement as Experimentation
 
 I’ve gone through [many](/i-am-an-ffk-nice-to-meet-you/) [transformations](/pitfalls-of-being-a-wordpress-developer/) in my life. Some of them happened because my life changed in a way that made the transformation possible. Some of them happened because I stumbled upon the right way for me to make a change at the perfect time. You can count both of these types under the header of “lucky.” I have been lucky a number of times in a way that benefited me. I’ve also been unlucky a number of times that held me back.
 

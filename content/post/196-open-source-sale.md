@@ -10,7 +10,6 @@ featured_img:
 wpid: 1786
 ---
 
-# Why Open Source? Why For Sale?
 
 This site offers scripts, plugins, and themes for sale and for free. A question I’m often asked by friends and colleagues is how I decide what I sell and what I give away. There’s no formula but there is a rationale.
 

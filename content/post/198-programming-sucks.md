@@ -12,6 +12,5 @@ link_to: "https://www.stilldrinking.org/programming-sucks"
 citation: "Peter Welch"
 ---
 
-# Programming Sucks
 
 > And if these people stop, the world burns. Most people don’t even know what sysadmins do, but trust me, if they all took a lunch break at the same time they wouldn’t make it to the deli before you ran out of bullets protecting your canned goods from roving bands of mutants.

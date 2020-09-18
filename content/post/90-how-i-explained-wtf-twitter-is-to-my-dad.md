@@ -10,7 +10,6 @@ featured_img: /_images/2009/06/joshcanhelp-twitter-page-186x186.png
 wpid: 806
 ---
 
-# How I explained WTF Twitter is to my Dad
 
 My dad and I have been working on a plan for a website to promote his business valuation report for a few months now. We’ve decided on a structure and plan and we’re ready to move forward.
 

@@ -10,7 +10,6 @@ featured_img:
 wpid: 1344
 ---
 
-# RESPONSE ABILITY: An art project to benefit the homeless around the world.
 
 Cliff notes: Art deadline is **January 14th** (see below). Join us for the exhibition on **Saturday, Jan 16th, at Voz Alta Art Gallery, 1754 National Ave, San Diego, CA 92113.**
 

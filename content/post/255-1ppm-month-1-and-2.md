@@ -10,7 +10,6 @@ featured_img: /_images/2017/02/1PPM_Logo.png
 wpid: 4740
 ---
 
-# 1PPM: month 1 (and 2)
 
 I’m not sure whether it’s my personality, what I do for a living, that I’m self-employed, or all three combined but my list of “things to learn/build/launch” pretty much just gets larger day after day. It’s not that I don’t learn or build or launch, it’s just that I sit down when I have the time and work on the thing that sounds the most interesting at the time. Or, instead, the list feels too daunting so I work on client projects and lose valuable exploration and learning time.
 

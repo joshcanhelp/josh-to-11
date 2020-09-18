@@ -10,7 +10,6 @@ featured_img: /_images/2009/06/analytics-472x472.png
 wpid: 865
 ---
 
-# Website performance and health reports
 
 ![analytics](/_images/2009/06/analytics.jpg "analytics")
 

@@ -10,7 +10,6 @@ featured_img:
 wpid: 449
 ---
 
-# Curing Underemployment  (or) Josh’s Six Step Plan to a Great Resume (part 2 of 6)
 
 Read the [first step towards writing a great resume, write down the positions you want](/curing-underemployment-or-joshs-six-step-plan-to-a-great-resume-part-1-of-6/)
 

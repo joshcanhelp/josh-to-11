@@ -10,7 +10,6 @@ featured_img: /_images/2016/11/IMG_1940-150x150.jpg
 wpid: 4655
 ---
 
-# Digital Detox
 
 ![img_1940](/_images/2016/11/IMG_1940.jpg)
 

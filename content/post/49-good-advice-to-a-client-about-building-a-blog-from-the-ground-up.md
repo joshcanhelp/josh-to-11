@@ -10,7 +10,6 @@ featured_img:
 wpid: 356
 ---
 
-# Good advice to a client about building a blog from the ground up
 
 I built a blog a couple weeks ago for a very talented teacher and graffiti artist who stays here in San Diego. We were both excited to create something that could easily hold updates and be a central place for fans and potential clients. It has an urban feeling but is still classy, well-laid-out, and very functional.
 

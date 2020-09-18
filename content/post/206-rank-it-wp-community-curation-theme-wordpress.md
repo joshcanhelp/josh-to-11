@@ -10,7 +10,6 @@ featured_img: /_images/2015/01/rank-it-wp-logo-SQ-150x150.png
 wpid: 3637
 ---
 
-# Rank It WP: A Community Curation Theme for WordPress
 
 > Please note: I originally created this theme but sold the product to another company. I do not provide, support, or manage this theme.
 

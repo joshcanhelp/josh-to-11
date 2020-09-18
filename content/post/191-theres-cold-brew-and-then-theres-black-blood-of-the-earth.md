@@ -11,7 +11,6 @@ link_to: http://shop.funraniumlabs.com/coffee/
 wpid: 28
 ---
 
-# There is Cold Brew and Then There is Black Blood of the Earth
 
 Cold brew is definitely a “thing” these days. Some “things” are “things” because they occurred somewhere extremely visible in popular culture and went on to fame. Cupcakes are a “thing” like that, an obviously enjoyable product that enjoys a bit of the limelight.
 

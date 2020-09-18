@@ -10,7 +10,6 @@ featured_img:
 wpid: 1596
 ---
 
-# A Layman's Intro to the Semantic Web: Web 3.0, ontology, and RDFa
 
 A recent San Diego Refresh meeting found me in a room full of fellow geeks learning about microdata and the semantic web. What I thought was going to be a new look at SEO turned out to be a very in-depth look at where the web might be heading.
 

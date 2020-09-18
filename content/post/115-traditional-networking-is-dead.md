@@ -10,7 +10,6 @@ featured_img: /_images/2009/11/308357541_222d1b2e2a-150x150.jpg
 wpid: 1216
 ---
 
-# Traditional networking is dead
 
 I think I’ve found my calling: exchanging ideas and talking them through. What’s that pay nowadays?
 

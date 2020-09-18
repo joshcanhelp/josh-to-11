@@ -10,7 +10,6 @@ featured_img: /_images/2010/11/IMG_3301-1-150x150.jpg
 wpid: 219
 ---
 
-# Back home and feeling great
 
 Just a quick update for everyone…. we’re back on the West Coast after too many trains, a wonderful stop in Amsterdam, a much-needed catch-up with great friends in New York, and 3 flights. We’re now safe, sound, and comfortable with friends in San Diego getting caught up and getting our affairs in order. We’ll be in a truck or car on Friday or so on our way back to Seattle.
 

@@ -10,7 +10,6 @@ featured_img: /_images/2010/08/chunnel.jpg
 wpid: 5
 ---
 
-# And so it begins - planning, preparation, and PayPal
 
 In true Josh form, the moments in my life are not quite real until I take pictures of them and share them online. As such, I decided to start this little travel blog of sorts to share the newlyweds’ adventures across a few different countries. Imagine my surprise when my very private and, at times, very shy wife seemed almost more excited than I was. “Alright, great,” I said, “but don’t tell me you’re going to help me write on this thing and then casually forget for three months.” She promised she wouldn’t.
 

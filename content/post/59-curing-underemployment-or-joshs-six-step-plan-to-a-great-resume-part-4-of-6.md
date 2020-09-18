@@ -10,7 +10,6 @@ featured_img:
 wpid: 454
 ---
 
-# Curing Underemployment (or) Josh’s Six Step Plan to a Great Resume (part 4 of 6)
 
 Yesterday, I wrote about [the 3rd step in the Josh Can Help resume process, writing personal statements](/curing-underemployment-or-joshs-six-step-plan-to-a-great-resume-part-3-of-6/). Check it out!
 

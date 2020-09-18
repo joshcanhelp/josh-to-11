@@ -11,7 +11,6 @@ link_to: http://amzn.to/1LaeJR8
 wpid: 93
 ---
 
-# Make Coconut Chips at Home, Then Give Up and Buy Dang
 
 Earlier this month, I went on a cycling trip to Hood River, Oregon with a few friends of mine who, thankfully, make it their mission to make sure I don’t fall too behind and die a miserable death on the side of the road (we’ll ignore the fact that they also encourage me to end up on said road). As usual, we found ourselves talking about consumables and all the wonderful things that were out there. In the space of 24 hours, I had recommended:
 

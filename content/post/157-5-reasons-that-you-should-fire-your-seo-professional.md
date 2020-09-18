@@ -10,7 +10,6 @@ featured_img:
 wpid: 2262
 ---
 
-# 5 Reasons You Should Fire Your SEO "Professional"
 
 Every industry has it’s scumbags, scammers, and liars. Every industry also has a cabal of providers who stay in the dark, keep doing the same old thing, and never look to improve their craft. For a customer, the outcome is the same: money paid but no return. Much like the weight-loss industry, the web service provider world is full of people who don’t know, don’t care, and/or are just out for your money. No other sub-set is worse than SEO. Based on personal stories and experiences, here are 5 reasons to run away screaming from your current provider.
 

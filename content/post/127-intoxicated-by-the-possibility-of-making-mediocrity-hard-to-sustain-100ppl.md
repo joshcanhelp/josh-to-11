@@ -10,7 +10,6 @@ featured_img:
 wpid: 1559
 ---
 
-# Intoxicated by the possibility of making mediocrity hard to sustain (#100ppl)
 
 I was asked recently what my favorite Gaping Void piece is. I experienced a brief moment of intense stress, similar to the feeling I’m sure I’d have if someone offered to buy me any vehicle in the world but I could only choose one. Several rushed through my mind but I kept coming back to two of them. Hope I’m not breaking the rules too blatantly.
 

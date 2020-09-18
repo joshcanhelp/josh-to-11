@@ -10,7 +10,6 @@ featured_img:
 wpid: 386
 ---
 
-# Beginner Exercises to Learn PHP Programming
 
 I’ve been on a quest to try my hand at a real programming language. I get the feeling that I’m really going to like what I learn. Said another way, I really hope that I like what I learn. My brain kind of works like a computer and if I can just figure out how a computer operates on the nano level, I’ll be one step closer to understanding myself.
 

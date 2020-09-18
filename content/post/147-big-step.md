@@ -10,7 +10,6 @@ featured_img:
 wpid: 1809
 ---
 
-# Big Step
 
 Working for a few large, collective blogs that are populated by free-thinking, busy, and talented people, I’ve been exposed to a lot of “this is my last blog post as the \_\_\_\_ of \_\_\_\_ and I’m so sad to leave.” These posts always seemed so positive and inspirational, like a bright, new chapter has opened up before this person. I was always smiling as I read those posts. I’m also smiling as I write my own.
 

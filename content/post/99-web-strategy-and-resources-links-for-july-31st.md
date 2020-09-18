@@ -10,7 +10,6 @@ featured_img:
 wpid: 973
 ---
 
-# Web strategy and resources links for July 31st
 
 Once again, here are my Friday web strategy links. Lots going on right now and more to report soon but here are a few resources I found particularly relevant to me and what I do. Sometimes in amazing to me that I can even compile a list like this every week but I follow some great people on Twitter and find even more great stuff through Popurls. It’s all about [information reservoirs](/information-reservoirs-or-how-i-keep-track-of-a-large-amount-of-incoming-information/)!
 

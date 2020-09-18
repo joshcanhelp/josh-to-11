@@ -10,7 +10,6 @@ featured_img:
 wpid: 2722
 ---
 
-# Taking Your First Steps on Twitter: The 30 - 40 - 30 Plan
 
 This post is for anyone who just signed up for Twitter and thought, “OK, now what?” It’s for the businesses and individuals curious about how to get started on Twitter and have fun with it. This isn’t about ROI, it isn’t about analytics, and it isn’t about strategy. It’s about what I like to create and engage with and, simply, where to start if you’re taking the first step and you’re already lost.
 

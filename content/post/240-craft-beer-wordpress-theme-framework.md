@@ -10,7 +10,6 @@ featured_img: /_images/2016/08/Screenshot-2016-11-16-13.14.04-150x150.png
 wpid: 4502
 ---
 
-# Brewery Site Framework for Craft Beer Branding Gods
 
 You never who who you’ll meet in preschool.
 

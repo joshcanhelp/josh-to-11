@@ -10,7 +10,6 @@ featured_img:
 wpid: 1526
 ---
 
-# Making a commitment to better output: NO MORE F*CKING TYPOS
 
 The number-one cause for broken pages, missed messages, mysterious errors, and general frustration is, from where I stand, uncorrected fat-finger errors. I say uncorrected because the problem isn’t the mistake, it’s that the mistake is made live and propagates. So, I’m proposing a simple solution: the F-word.
 

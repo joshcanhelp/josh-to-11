@@ -10,7 +10,6 @@ featured_img:
 wpid: 789
 ---
 
-# 3 Important Questions to Ask Before Sending an Email Campaign
 
 So you want to send an email campaign. Well, guess what? Everyone else wants to send an email campaign too and that includes spammers, your competition, and others that deign to make your email marketing harder than it already is. While there’s no fool-proof strategy to ensure open rates, there’s a right way and a wrong way to run an email campaign.
 

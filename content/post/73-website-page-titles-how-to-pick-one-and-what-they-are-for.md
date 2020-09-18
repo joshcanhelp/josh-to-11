@@ -10,7 +10,6 @@ featured_img:
 wpid: 573
 ---
 
-# Website page titles - how to pick one and what they are for
 
 When I first started down this whole website building road, I thought page titles were kind of silly. Titles are the words that show up on the top bar of your browser when you’re on a web page. For example, if you look at the top of this window, you probably see something like “A technology strategist talks about…” and so on. Did you even notice that before? Well, sometimes it’s the things you don’t see that make the biggest difference.
 

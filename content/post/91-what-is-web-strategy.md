@@ -10,7 +10,6 @@ featured_img: /_images/2009/06/chemistry-lab01-150x150.jpg
 wpid: 816
 ---
 
-# What Is Web Strategy?
 
 When I started Josh Can Help, I billed myself as a “technology tamer,” boldly fighting over-complication, annoyance, disconnection, and frustration across the battlefields of the small business landscape. I wanted to fix computers, build websites, design documents, teach people mobile technology, and construct networks. I would do it all!
 

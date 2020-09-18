@@ -10,7 +10,6 @@ featured_img: /_images/2010/02/thumbs_up.jpg
 wpid: 1380
 ---
 
-# Give someone a social hand and write a review
 
 ![thumbs_up](/_images/2010/02/thumbs_up.jpg "thumbs_up")
 

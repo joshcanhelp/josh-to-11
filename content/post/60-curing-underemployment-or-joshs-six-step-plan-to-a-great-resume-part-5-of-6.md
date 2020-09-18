@@ -10,7 +10,6 @@ featured_img:
 wpid: 459
 ---
 
-# Curing Underemployment  (or) Josh’s Six Step Plan to a Great Resume (part 5 of 6)
 
 Yesterday, I went through the [fourth step in my resume-writing process, creating a rough draft](/curing-underemployment-or-joshs-six-step-plan-to-a-great-resume-part-4-of-6/). We’re in the home stretch!
 

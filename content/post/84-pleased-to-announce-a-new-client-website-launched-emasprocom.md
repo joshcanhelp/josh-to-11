@@ -10,7 +10,6 @@ featured_img: /_images/2009/04/emaspro01-150x150.jpg
 wpid: 680
 ---
 
-# Pleased To Announce a New Client Website Launched: EMASPro.com
 
 I’m very excited to announce the culmination of a lot of planning, design, and coding. The site [www.emaspro.com](http://www.emaspro.com) went live on Monday night without any major fiascoes, issues, meltdowns, or problems.
 

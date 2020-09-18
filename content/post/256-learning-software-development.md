@@ -9,7 +9,6 @@ featured_img:
 wpid: 4757
 ---
 
-# Self-Teach or Go Back to School?
 
 I distilled this down from a few email threads I've had with folks who wanted to get into software development and/or were considering degree programs.
 

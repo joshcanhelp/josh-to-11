@@ -10,7 +10,6 @@ featured_img:
 wpid: 484
 ---
 
-# You want to create a website but why? Make sure you can answer that question...
 
 The urge to create a website comes from many different places and can be motivated by a number of different ends. Some individuals and businesses create websites because “everyone is on the web now” and it becomes an act of due diligence. Others create a website because they were offered services for free/cheap and thought “why not?” Still others see the journey as a technological adventure, something they’ve never done before and want to say they have.
 

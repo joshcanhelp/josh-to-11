@@ -10,7 +10,6 @@ featured_img: /_images/2020/05/lego-baby.jpg
 
 ---
 
-# How we are teaching right now
 
 As you have probably heard by now, all of the kids are at home. This is a semi-joyous occasion when school is on pause, it's only a few days, and there is soft, cold, white stuff on the ground. But when it's sunny, indefinite, laced with anxiety, and school must somehow continue, *the vibe changes a bit*.
 

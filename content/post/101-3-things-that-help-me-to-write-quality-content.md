@@ -10,7 +10,6 @@ featured_img: /_images/2009/08/eee-writing-150x150.jpg
 wpid: 977
 ---
 
-# 3 things that help me to write quality content
 
 I have, accidentally and otherwise, come across several articles about content creation and information architecture lately. I am fascinated by how people are able (or unable) to consume the amount of information that is available on so many topics. I am also perpetually interested in improving my own ability at presenting information. These two things together keep me reading about this topic.
 

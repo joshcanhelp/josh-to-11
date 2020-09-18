@@ -10,7 +10,6 @@ featured_img: /_images/2015/10/Screenshot-2015-10-22-12.08.25-150x150.png
 wpid: 3767
 ---
 
-# Much Needed Inspiration
 
 Last week was tough for me. I’d like to think I’m pretty hardened against rejection but it can still catch me off-guard. I’m in a place where I have the energy, desire, and ability to apply myself, professionally, towards something great but I just don’t know what that thing is and I’ve been looking for a while.
 

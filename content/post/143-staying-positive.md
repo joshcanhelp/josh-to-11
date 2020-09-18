@@ -10,7 +10,6 @@ featured_img: /_images/2010/10/IMG_2922-1-150x150.jpg
 wpid: 181
 ---
 
-# Staying positive
 
 **Note: I started this in Toulon and finished it in Veltimiglia, Italy. Much to share about this leg of the trip already but this one went long…**
 

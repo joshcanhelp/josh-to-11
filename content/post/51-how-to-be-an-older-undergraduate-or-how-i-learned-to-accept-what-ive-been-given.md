@@ -10,7 +10,6 @@ featured_img:
 wpid: 366
 ---
 
-# How to be an old(er) undergraduate or How I learned to accept what I've been given
 
 I’m giving a short presentation in a minute on how to choose an undergraduate chemistry research lab to a few students who are considering the research route at San Diego State University. I volunteered for the opportunity because I’m always looking for reasons to talk in front of people. I was a corporate trainer at one point and really developed a speaking style that I was proud of. Since then, I’ve done very little talking publicly and have since contracted a serious set of nerves about it. As such, I intend to beat down these nerves and address people more often.
 

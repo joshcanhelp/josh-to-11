@@ -10,7 +10,6 @@ featured_img: /_images/2012/08/20120805-175225-e1344221931283-150x150.jpg
 wpid: 3015
 ---
 
-# Thoughts on "Focus"
 
 I think a lot about focus, what it means, and how to find it. Focus is something that does not come naturally to most people and can be very difficult when you live an over-connected lifestyle. It’s something that you have to commit to, practice, experiment with, and make a priority. I think Leo Babauta of Zen Habits has some excellent thoughts on the subject which he compiled into a free ebook called, appropriately, “[Focus](http://focusmanifesto.com/).” I read it and wanted to share my thoughts on the subject. That’s me below, reading it with my phone on.
 

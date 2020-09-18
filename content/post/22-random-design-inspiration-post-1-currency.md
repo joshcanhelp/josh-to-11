@@ -10,7 +10,6 @@ featured_img: /_images/2008/07/currency04_pallet-150x150.jpg
 wpid: 42
 ---
 
-# Random design inspiration post #1 - Currency
 
 I’m always looking for a bit of inspiration, be it color schemes or layouts, and currency provides both.
 

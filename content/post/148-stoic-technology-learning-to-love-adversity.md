@@ -10,7 +10,6 @@ featured_img:
 wpid: 1726
 ---
 
-# Stoic Technology: Learning to Love Adversity
 
 This is a life lesson learned through technology. I’ll try to keep it on topic but I can’t promise that you’re not going to be able to apply the information in this post outside of your technological life.
 

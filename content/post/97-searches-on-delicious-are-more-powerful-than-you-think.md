@@ -10,7 +10,6 @@ featured_img: /_images/2009/07/delicious_logo.png
 wpid: 926
 ---
 
-# Searches on Delicious are more powerful than you think
 
 I talk about Delicious.com a lot because I’ve found it very critical for my own web strategy and organization. Saving links is incredibly easy with a Firefox browser plug in, the tag organization works very well for me, the site is easy (for me) to use, and, above all, I LOVE being able to share certain categories of links with people. I left Google Bookmarks several months back and do not regret it.
 

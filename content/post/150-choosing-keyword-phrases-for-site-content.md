@@ -10,7 +10,6 @@ featured_img:
 wpid: 2054
 ---
 
-# Choosing Keyword Phrases for Your Site Content
 
 If you’re someone who owns or operates a website and you’re reading this, I’m going to go out on a limb and say that you’ve never done proper search engine keyword research in your life. In fact, I bet you’ve never even given a second thought to what words people use in search engines, let alone how to determine if people are, in fact, using those phrases. Searching for and choosing the correct keyword phrases comes before everything else when you’re looking to improve incoming traffic from search engines and I’m going to teach you how to do it.
 

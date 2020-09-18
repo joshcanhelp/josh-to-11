@@ -10,7 +10,6 @@ featured_img:
 wpid: 13
 ---
 
-# Tracking your body data to stay motivated
 
 One of the hardest things for me to wrap my head around when I started to lose weight was how to actually do it. When the time came to get down to business and start losing the chub, I was lost before I even started. The Diet Craze was in full effect during that time so honest, useful information was tough to come by.
 

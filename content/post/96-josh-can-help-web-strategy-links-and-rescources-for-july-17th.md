@@ -10,7 +10,6 @@ featured_img:
 wpid: 912
 ---
 
-# Web strategy links and Resources for July 17th
 
 These are links that I’ve saved on Delicious or sent over [Twitter](http://twitter.com/joshcanhelp) since last Friday that you might find useful. Everything relates back to web strategy in some way or another whether it’s improving your design, improving your code, or improving your technique. I want to help you get the most out of the web and the best way to do that is to keep learning. **So, read.**
 

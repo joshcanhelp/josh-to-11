@@ -10,7 +10,6 @@ featured_img:
 wpid: 362
 ---
 
-# A beautiful day, a piece of pressboard, some Montana Gold, and an illustration
 
 I finally got around to throwing up some paint with my man [Pose2](http://posetwo.com/igetaround) and his graffiti class. It had been a while (couple months) since I last held a can and, because the last go-around was so disappointing, I was afraid it might happen again.
 

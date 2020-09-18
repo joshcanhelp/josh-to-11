@@ -11,7 +11,6 @@ wpid: 3988
 citation: ""
 ---
 
-# The Right Way Has To Be The "Easy" Way
 
 There's an effect seen in small businesses on a very regular basis. It's not quite exhaustion, but it's something close. With limited time, a limited budget, and not enough information, groups jump into marketing activities head-first, hoping for the best. They start a Twitter account, they write a couple of blog posts, they create a Facebook Page (or, misguidedly, a Profile), and they join 15 groups on LinkedIn. Maybe the owner does this all on a Tuesday night after a glass of wine. Or maybe it's the admin assistant in between calls one week. Either way, the channels are activated and a star is born.
 

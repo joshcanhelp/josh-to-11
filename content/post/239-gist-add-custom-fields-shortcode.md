@@ -12,4 +12,3 @@ link_to: "https://gist.github.com/joshcanhelp/87e1bb70f97475bccc9eb123e3fe2f1c"
 citation: ""
 ---
 
-# Gist: Add custom fields by shortcode

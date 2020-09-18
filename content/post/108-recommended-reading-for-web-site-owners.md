@@ -10,7 +10,6 @@ featured_img:
 wpid: 1132
 ---
 
-# Recommended reading for web site owners
 
 This post is because you don’t have enough to read. Scratch that… you don’t have enough useful stuff to read. These are must-reads for anyone who has or thinks they should have a website out there and gathering eyeballs.
 

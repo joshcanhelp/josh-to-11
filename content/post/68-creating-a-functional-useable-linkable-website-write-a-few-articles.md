@@ -10,7 +10,6 @@ featured_img:
 wpid: 491
 ---
 
-# Creating a functional, useable, linkable website: write a few articles
 
 The reasons for writing articles about your topic of choice should be fairly obvious. First, it gives people a reason to come to your site in the first place. Second, it gives people a reason to share your site with others. Third, it gives the search engines something to find and some way to categorize your site. The decision whether or not to write about your industry or product was made when you set out to create a website; it’s a no-brainer. How you go about writing these articles and what you write about is a bit more complicated.
 

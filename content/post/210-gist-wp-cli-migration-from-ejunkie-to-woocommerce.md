@@ -12,7 +12,6 @@ link_to: "https://gist.github.com/joshcanhelp/8a2197913b62e69906db"
 citation: ""
 ---
 
-# Gist: WP-CLI migration from ejunkie to WooCommerce
 
 This script is used to migrate a transaction export from ejunkie into a Woocommerce-powered site. Please read the comments throughout to adjust this to your use case. 
 

@@ -10,7 +10,6 @@ featured_img:
 wpid: 2405
 ---
 
-# Hiring a Virtual Assistant
 
 I wrote recently about [feeling a bit overwhelmed](/i-dont-live-the-life-i-want-yet/ "I Don’t Live the Life I Want (yet)"). After a few great comments and emails from people I trust, I came to a conclusion: it’s time to bring someone else into the mix here at JoshCanHelp. I’m on the lookout for a virtual (or in-person) assistant. The ad is here (quoted in pieces below) but I wanted to provide applicants with a little more information if they wanted it as well as share what I’m doing. Comments are perpetually welcome and completely invited.
 

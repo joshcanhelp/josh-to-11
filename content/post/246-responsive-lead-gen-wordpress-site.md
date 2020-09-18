@@ -12,4 +12,3 @@ link_to: "http://www.playersportsperformance.com/"
 citation: ""
 ---
 
-# Responsive, Lead-Gen WordPress Site

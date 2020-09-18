@@ -10,7 +10,6 @@ featured_img:
 wpid: 334
 ---
 
-# What to do with downtime: slow-going tips post #1
 
 Anyone charged with finding business for themselves dreams of the days when you’ll be able to reject more projects then you take. In the meantime, drumming up business can seem like a very daunting thing to do. There are lots of places to find ideas but what will work for you depends on what work you do, what you like doing, and what resources you have at your disposal. It can be frustrating to face an empty inbox or a clear schedule but if you’re not going to get out there and do the leg-work, no one will.
 

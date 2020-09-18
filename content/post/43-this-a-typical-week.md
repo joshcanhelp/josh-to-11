@@ -10,7 +10,6 @@ featured_img:
 wpid: 317
 ---
 
-# This, a typical week
 
 I have been talking recently (more in person than anywhere) about being a generalist and what that means to me. I am, in every sense of the word, a generalist, a mash-up artist, comfortable between groups than deep within them.
 

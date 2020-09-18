@@ -11,7 +11,6 @@ link_to: https://bluebottlecoffee.com/store/new-orleans-iced-kit
 wpid: 45
 ---
 
-# I Don't Know What Exactly Makes This So AMAZING but I Do Know I Always Want It In My Mouth
 
 A correctly-prepared glass of cold brew coffee will do three things to you:
 

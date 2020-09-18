@@ -10,7 +10,6 @@ featured_img:
 wpid: 325
 ---
 
-# Fresh cards from Fresh Impressions in Florida
 
 It’s not everyday, or even every month, that you can do business with a company or individual where you can say you were overjoyed to be their client. You can be in love your new laptop or you can be completed satisfied with a particular pizza joint but it’s a rare occasion to be so much a part of the process that you become friends with the owner.
 

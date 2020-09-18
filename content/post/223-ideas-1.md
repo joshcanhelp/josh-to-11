@@ -10,7 +10,6 @@ featured_img: /_images/2015/10/File-Oct-22-12-03-58-PM-150x150.jpg
 wpid: 3771
 ---
 
-# Ideas Dump: Part 1
 
 Here are a few things that should exist:
 

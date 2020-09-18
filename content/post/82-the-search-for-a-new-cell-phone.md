@@ -10,7 +10,6 @@ featured_img: /_images/2009/04/htc_hermes.jpg
 wpid: 652
 ---
 
-# The Search for a New Cell Phone
 
 Ever since I started designing and building websites, I find myself approaching procedures in my life like a site that needs to be constructed.
 

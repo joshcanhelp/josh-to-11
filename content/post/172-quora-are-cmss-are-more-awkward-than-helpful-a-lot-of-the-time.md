@@ -10,7 +10,6 @@ featured_img:
 wpid: 3984
 ---
 
-# Quora: Are CMSs are more awkward than helpful a lot of the time?
 
 [My answer to a question on Quora](https://www.quora.com/Am-I-alone-in-feeling-that-CMSs-are-more-awkward-than-helpful-a-lot-of-the-time/answer/Josh-Cunningham):
 

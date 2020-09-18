@@ -10,7 +10,6 @@ featured_img: /_images/2013/02/the_louvre-300x300.jpg
 wpid: 226
 ---
 
-# Tips, tricks, and advice for visiting Paris
 
 These are a few things that we found and enjoyed in and around Paris during [our 2 month stay there in 2010](/tag/paris).
 

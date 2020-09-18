@@ -11,7 +11,6 @@ link_to: https://www.amazon.com/gp/product/B00GCW8LQK/ref=as_li_tl?ie=UTF8&camp=
 wpid: 90
 ---
 
-# Kina Tonic For A Unique Gin & Tonic Experience
 
 A gin &amp; tonic has an iconic ring to it. Just say it out loud:
 

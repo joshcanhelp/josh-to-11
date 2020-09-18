@@ -10,7 +10,6 @@ featured_img: /_images/2010/09/IMG_1293-300x300.jpg
 wpid: 94
 ---
 
-# Slowly but surely, I think we're starting to fit in
 
 Thought I would update everyone on my **hair** because I know you’ve all been wondering “what’s going on with Josh’s hair lately.” That’s actually not the reason I’m posting this. I’m posting this because I had been looking forward to / dreading this particular piece of our move and I wanted to share my thoughts on the matter.
 

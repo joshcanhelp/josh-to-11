@@ -10,7 +10,6 @@ featured_img:
 wpid: 2218
 ---
 
-# I Don't Live the Life I Want (yet)
 
 I wonder if there is an English word that describes a state of being where you want so much for your life to change but you take nothing that you have for granted. It sounds like something that might be easily summed up in a single Kanji character, simple and elegant telling the story of a man caught in limbo. I’m so grateful for what I have, personally and professionally, but I know there a better way to create, build, help, service, and communicate that I’m missing out on.
 

@@ -10,7 +10,6 @@ featured_img:
 wpid: 1663
 ---
 
-# Confessions from an accidental spammer
 
 “Thou shall not spam” is one of the ten commandments of the web. Sending out unwanted email is unnecessary, intrusive, and, at times, downright abhorrent. Who would do such a thing? Yours truly did… but if you give me a chance to redeem myself, I think you’ll understand (and, more importantly, learn something).
 

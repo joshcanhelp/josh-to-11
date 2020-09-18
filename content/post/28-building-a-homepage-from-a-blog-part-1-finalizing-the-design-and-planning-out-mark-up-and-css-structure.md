@@ -10,7 +10,6 @@ featured_img: /_images/2008/08/website_design_06_sm-300x300.jpg
 wpid: 187
 ---
 
-# Building a homepage from a blog Part 2: Design, Markup, and CSS.
 
 [Last time we left off](/building-a-homepage-from-a-blog-part-1-conceptualization-and-planning/), I had put together a structure of what I wanted my website to display and what it might look like. After about weeks of stressing out in Illustrator, I finally decided on a design I like.
 

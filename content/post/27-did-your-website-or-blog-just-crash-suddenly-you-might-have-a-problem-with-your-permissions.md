@@ -10,7 +10,6 @@ featured_img:
 wpid: 173
 ---
 
-# Did your website or blog just crash suddenly? You might have a problem with your permissions...
 
 So I’m still mad at my web hosting company. Really mad. Just recently, all the pages hosted on my account began to fall apart. I was getting 403 errors, missing graphics and styles, and pieces of code appearing randomly. It looked about as bad as it could get and I was at a total loss about what to do with it.
 

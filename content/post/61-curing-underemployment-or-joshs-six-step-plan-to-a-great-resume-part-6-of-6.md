@@ -10,7 +10,6 @@ featured_img:
 wpid: 461
 ---
 
-# Curing Underemployment (or) Josh’s Six Step Plan to a Great Resume (part 6 of 6)
 
 Ha! I thought forgot about the last one, huh? Nope.
 

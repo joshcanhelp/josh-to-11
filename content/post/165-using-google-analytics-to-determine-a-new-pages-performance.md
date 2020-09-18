@@ -10,7 +10,6 @@ featured_img:
 wpid: 2521
 ---
 
-# Using Google Analytics to determine a new page's performance
 
 I think data can solve most problems. Think about it… if you had all the right information and you trusted that information and you were able to get past your emotional response, you would always make significantly better decisions. This is a pretty vague, overarching statement but I believe it can be applied everywhere. Whether or not you’re half-robot, like myself, there’s one thing you can’t deny: data can help you answer some questions with surprising accuracy. The question today is, **did I shoot myself in the foot by redesigning one of my pages.** The answer: **definitely.**
 

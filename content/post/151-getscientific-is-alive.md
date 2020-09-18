@@ -10,7 +10,6 @@ featured_img: /_images/2011/07/gs_thumbnail.png
 wpid: 2083
 ---
 
-# It Actually Happened - GetScientific is Alive!
 
 I write this post not quite believing that this important project has actually come to fruition. Not because of a lack of desire and not because of a lack of ability (though that does explain some of the delay) but more because a project that takes this long can very be relegated to “standby” status for eternity. Thankfully, in this case, that was not meant to happen.
 

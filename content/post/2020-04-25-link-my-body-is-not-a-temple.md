@@ -7,7 +7,6 @@ tags: [ "COVID-19" ]
 date: 2020-04-25 18:00:00
 ---
 
-# My Body Is Not a Temple
 
 This was a **big** piece by [Soraya Roberts](https://twitter.com/SorayaRoberts) with a lot to digest. It hit me over and over with some of the best descriptions about how I've been feeling since March.
 

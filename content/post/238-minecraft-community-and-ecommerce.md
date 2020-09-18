@@ -10,7 +10,6 @@ featured_img: /_images/2016/06/80-1-150x150.png
 wpid: 4617
 ---
 
-# Community and eCommerce Site for Massive Minecraft Community
 
 > Josh’s WordPress experience, mentorship and acumen laid a solid foundation for this project and motivated a supportive and empowering work environment for the entire development and design team. It brought me great confidence knowing I could rely on Josh to help navigate such a complex project.
 >

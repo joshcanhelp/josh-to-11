@@ -10,7 +10,6 @@ featured_img:
 wpid: 1750
 ---
 
-# Thoughts on web design and development pricing
 
 When you contact someone like me to design your site or code up an email or put together a WordPress blog, you generally have two ways to pay for this service: by the hour or by the project. I can give you an estimate, track the hours, and bill you at the end or I can tell you a price based on what I think will be involved and keep the work to around that amount. I think both of these ways suck and I’d like to tell you why.
 

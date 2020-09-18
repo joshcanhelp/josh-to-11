@@ -10,7 +10,6 @@ featured_img: /_images/2015/01/rank-it-wp-logo-SQ-150x150.png
 wpid: 4516
 ---
 
-# Latest Deals Site Built on Rank It WP
 
 > Josh is the developer you’ve been looking for. Easy to work with, professional and punctual. Always communicative, he built a deal sharing platform for us which helped people save money. I would recommend him again and again.
 >

@@ -10,7 +10,6 @@ featured_img:
 wpid: 370
 ---
 
-# Spam: what is it? what does it do? why am I sending it? who cares?
 
 I had an interesting conversation with a colleague recently about what constitutes spam email and how we could go about avoiding it. It’s safe to say that we had differing opinions about the matter and I think it’s worth talking about those differences.
 

@@ -11,7 +11,6 @@ wpid: 3618
 citation: ""
 ---
 
-# Redesign, Drupal migration, and WooCommerce to CiviCRM Integration
 
 > Working with Josh is a total joy. He makes my life so much easier. He’s able to juggle a variety of time sensitive projects, even when our staff struggle to stay on top of it all! He’s automated a lot of the way in which our CRM and website speak to each other, which has consequently saved us hundreds of staff hours that otherwise would have been dedicated to manual data entry.
 >

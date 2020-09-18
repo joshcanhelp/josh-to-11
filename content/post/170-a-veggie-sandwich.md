@@ -11,7 +11,6 @@ wpid: 313
 citation: ""
 ---
 
-# A Veggie Sandwich
 
 Is there a more polarizing set of words in the English language than “veggie sandwich?”
 

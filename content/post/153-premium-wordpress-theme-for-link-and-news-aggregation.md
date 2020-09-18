@@ -12,6 +12,5 @@ link_to: "http://wpdrudge.com"
 citation: ""
 ---
 
-# Premium WordPress Theme for Link and News Aggregation
 
 The WP-Drudge theme simply takes links you want to display and organizes them by category on one page. It also lets you place static links in groups on the same page page. When you want to place a new link, just add the links and any additional information you’d like to display (a description of an image), put it under a category, and publish. Now the link appears on your homepage! Want static links to appear? Just add them as bookmarks, make the link box visible on the homepage, and there it is! You can also post blog posts and pages like a standard WordPress install.

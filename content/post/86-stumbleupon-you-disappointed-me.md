@@ -10,7 +10,6 @@ featured_img: /_images/2009/05/stumbleupon_logo.png
 wpid: 746
 ---
 
-# StumbleUpon: You Disappointed Me
 
 Poor usability abound but, for some things, there are no excuses.
 

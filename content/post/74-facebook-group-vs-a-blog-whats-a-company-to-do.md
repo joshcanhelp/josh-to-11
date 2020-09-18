@@ -10,7 +10,6 @@ featured_img: /_images/2009/02/facebook_logo.png
 wpid: 576
 ---
 
-# Facebook Group vs A Blog: What's a Company to Do?
 
 I was having a virtual conversation with a colleague last week and the topic of Facebook group pages versus blogs came up. She is excited to make a Facebook page to promote us and what we’re doing. I am excited to build a blog and push content that more people can see and interact with. I wanted to share this conversation because I think it’s essential to exchange ideas like this, especially ideas that pertain to experimentation and exploration.
 

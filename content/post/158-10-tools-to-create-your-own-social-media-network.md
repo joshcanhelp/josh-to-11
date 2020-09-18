@@ -10,7 +10,6 @@ featured_img:
 wpid: 1870
 ---
 
-# 10 Tools to Create Your Own Social Network
 
 My cousin got a hold of me to talk about building something for her company to use that would help them with internal communication. We talked about a few obvious options – Facebook, Google Groups, LinkedIn – but none of them fit the bill. I decided to do a little research (with some help) and came up with a list of options for people looking to build their own social media network for promotion or internal communication. We tried a few out and if you have experience with any of the others, please [leave a comment](#commentform) and let us know what you thought.
 

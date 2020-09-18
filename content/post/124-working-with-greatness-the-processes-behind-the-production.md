@@ -10,7 +10,6 @@ featured_img:
 wpid: 1482
 ---
 
-# Working with Greatness: The Processes Behind the Production
 
 Something interesting happens when you let someone into your life to take care of things you’re unable or unwilling to do for yourself. There’s this fascinating level of intimacy that develops over a short period of time as one aspect of your life or business is cracked open and laid bare before someone else, a person with which you may not already have a relationship.
 

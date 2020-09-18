@@ -10,7 +10,6 @@ featured_img:
 wpid: 488
 ---
 
-# The Mad Printer... an interesting coffeeshop activity
 
 I live in California and, as such, I’m generally less shocked by human behavior than people who live in, say, Oregon or Montana or Arizona. California is a weird place and people feel fully entitled to express themselves as they see fit…. which is a good thing.
 

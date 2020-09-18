@@ -10,7 +10,6 @@ featured_img:
 wpid: 22
 ---
 
-# Friends: holding you back or helping you?
 
 I smoked cigarettes for more than ten years starting in my teens. One of the best personal decisions I ever made was to finally quit smoking. I did this just over a year after I moved to a new state and away from friends I’ve known and smoked with and drank with for many years.
 

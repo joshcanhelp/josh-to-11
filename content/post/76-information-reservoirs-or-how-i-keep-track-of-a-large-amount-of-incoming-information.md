@@ -10,7 +10,6 @@ featured_img: /_images/2009/02/info_overload-150x150.jpg
 wpid: 586
 ---
 
-# Information Reservoirs (or) How I Keep Track of a Large Amount of Incoming Information
 
 A couple of months ago, I felt so overwhelmed and inundated by the amount of information I came across on the regular that I sat up for almost two hours with a pen and a pad of paper trying to sketch out a way to manage this insane digital life I was leading. Between photos, music, email, contacts, web links, articles, client files, school files, and scheduling stuff, I was drowning fast. I’m an overly-organized person too so this was literally eating away at my conscious mind. This is what I came up with (along with a lot of other overly complicated and, ultimately, unused solutions).
 

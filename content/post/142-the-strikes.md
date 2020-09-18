@@ -10,7 +10,6 @@ featured_img: /_images/2010/10/dinan_protest-300x300.jpg
 wpid: 169
 ---
 
-# The Strikes
 
 I have asked a question over email from someone back home and thought I’d answer it publicly.
 

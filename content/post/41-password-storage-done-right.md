@@ -10,7 +10,6 @@ featured_img:
 wpid: 277
 ---
 
-# Password storage done right
 
 It took me long enough but I’m finally implementing a password safe. I have so many sites, so many on-line apps, and so many computers that I think I’m just being silly by not using one of these. I’m choosing KeePass based on a [few recommendations](http://lifehacker.com/5052582/best-of-the-best-the-hive-five-winners). It can be downloaded from [their homepage](http://keepass.info/). A quick description:
 
