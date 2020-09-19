@@ -64,7 +64,7 @@ Maybe you’re a software engineering generalist who can review a PR in almost i
 
 Maybe you’re a digital marketing generalist who is just as comfortable debugging JavaScript interactions as you are editing a photo, understands both the content and technical aspects of SEO performance, and spin up a landing page site in WordPress before lunch.
 
-![](/_images/2019/06/joshcanhelp-site-old.png)
+<img src="/_images/2019/06/joshcanhelp-site-old.png" class="aligncenter" alt="Old JoshCanHelp site">
 
 Being a generalist does not mean that you know everything and it doesn’t prevent you from specializing in certain things. But, just like in the specialist world, there is a limited amount of time you can devote to trying new things and picking up new skills. Oftentimes, being a generalist can be a constant battle with FOMO, imposter syndrome, and indecision.
 

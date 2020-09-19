@@ -341,7 +341,7 @@ code {
 
 code[class*="language-"],
 pre[class*="language-"] {
-  font-size: 13px; }
+  font-size: 13px !important; }
 
 pre[class*="language-"] {
   max-width: 108%;
