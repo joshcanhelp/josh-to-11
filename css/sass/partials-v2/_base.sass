@@ -12,16 +12,23 @@ body
 	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004)
 	font-family: $f_family_serif
 
+main
+	@extend %cf
+	overflow: hidden
+
 article, header, footer
 	max-width: $b_small
 	min-width: 400px
-	margin: 2%
+	margin-left: 3%
+	margin-right: 3%
 
 	+larger_than_phone
-		margin: 3%
+		margin-left: 4%
+		margin-right: 4%
 
 	+larger_than_tablet
-		margin: 4%
+		margin-left: 5%
+		margin-right: 5%
 
 h1,
 h2,
@@ -129,5 +136,6 @@ pre[class*="language-"]
 	font-size: 0.82em
 
 pre[class*="language-"]
-	margin: 1.5em 0
-	padding: 0.5em
+	+aligncenter()
+	padding-top: $p_medium
+	padding-bottom: $p_medium

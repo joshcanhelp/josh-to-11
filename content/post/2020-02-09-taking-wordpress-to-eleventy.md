@@ -14,7 +14,7 @@ featured_img: /_images/2020/02/IMG_2468-150x150.jpg
 
 For someone who likes to write, I don’t blog here a lot. I log in now and then, gasp at the number of spam comment that have piled up, maybe add or update a draft or two, then then let my session expire. Maybe it’s because I write a lot at work? Or maybe I don’t think I have much to share with the world at large? It’s hard to say.
 
-![](/_images/2020/02/IMG_2468-700x469.jpg)
+<img src="/_images/2020/02/IMG_2468-700x469.jpg" class="aligncenter" alt="Mechanical keyboard">
 
 One thing is for sure, though. This site does not accurately reflect who I am professionally and drawing any additional attention here feels disingenuous at best. I’m not a “WordPress guy” anymore and I’m not a freelancer either. The things I’ve built in the past are not the same things I’m building now. I don’t need a place to “showcase my work,” that’s what GitHub does for me these days.
 
@@ -48,7 +48,7 @@ I knew that I would need:
 
 I figured the best way to handle this is to [define a layout alias](https://www.11ty.dev/docs/layouts/#layout-aliasing) for each of the types that would come out of WordPress and then give them each their own template (explained in the **Eleventy structure > Templates** section below). Then I could create a post like this:
 
-```md
+```yaml
 ---
 layout: post
 ---
@@ -292,13 +292,12 @@ $the_content_md = strip_tags(
 
 At this point, you should have an array of template data and a chunk of content that need to be combined into a `.md` file. The format of the Markdown file should be about like so:
 
-```md
+```yaml
 ---
 title: post_title
 layout: post_type
 permalink: relative get_permalink()
 ---
-
 
 converted post_content
 ```
