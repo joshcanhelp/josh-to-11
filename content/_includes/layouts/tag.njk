@@ -3,13 +3,16 @@
 {% from "macros/postListing.njk" import postListing %}
 
 {% block content %}
-<main>
-
-  <div class="title"><h1>Tagged "{{ tag }}" [{{ collections[tag] | length }}]</h1></div>
-  <p><a href="/archives/tags/" class="tag">&lsaquo; All tags</a></p>
-  {% set taglist = collections[ tag ] %}
-  {% for post in taglist | reverse %}
-    {{ postListing(post) }}
-  {% endfor %}
-</main>
+  <article>
+    <div class="title">
+      <h1>Tagged "{{ tag }}" [{{ collections[tag] | length }}]</h1>
+    </div>
+    <p>
+      <a href="/archives/tags/" class="tag">&lsaquo; All tags</a>
+    </p>
+    {% set taglist = collections[tag] %}
+    {% for post in taglist | reverse %}
+      {{ postListing(post) }}
+    {% endfor %}
+  </article>
 {% endblock %}

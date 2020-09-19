@@ -11,7 +11,7 @@
     {{ content | safe }}
     {% for name, count in collections.allTags %}
       <a href="/tag/{{ name | slug }}" class="tag">{{ name | safe }}
-        <strong>[{{ count }}]</strong>
+        <span>{{ count }}</span>
       </a>
     {% endfor %}
   </article>
