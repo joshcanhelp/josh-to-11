@@ -1,21 +1,14 @@
-{% macro postListing(post) %}
+{% macro postListing(post, thumb) %}
 {% if post.data.permalink %}
-<li>
-  {% if post.data.featured_img %}
+<div class="card">
+  {% if post.data.featured_img %}{% if thumb  %}
   <a href="{{ post.url | safe }}">
-    <img src="{{ post.data.featured_img | safe }}" class="jch-list__posts--img">
+    <img src="{{ post.data.featured_img | safe }}" class="thumb">
   </a>
-  {% endif %}
-  <div class="jch-list__posts--content">
-    <h2 class="jch-list--title">
-      <a href="{{ post.url | safe }}">{{ post.data.title | safe }}</a>
-    </h2>
-    <p>{{ post.data.excerpt | safe }}</p>
-    <p class="jch-list__posts--meta">
-      <strong class="jch-list__posts--live-on">Published: </strong>
-      <span class="jch-list__posts--date">{{ post.date | dateformat }}</span>
-    </p>
-  </div>
-</li>
+  {% endif %}{% endif %} 
+  <p class="date"><span>{{ post.date | dateformat }}</span></p>
+  <h2><a href="{{ post.url | safe }}">{{ post.data.title | safe }}</a></h2>
+  <p class="small">{{ post.data.excerpt | safe }}</p>
+</div>
 {% endif %}
 {% endmacro %}

@@ -10,7 +10,6 @@
 @import "partials-v2/mixins"
 @import "partials-v2/extends"
 @import "partials-v2/base"
-@import "partials-v2/utilities"
 
 .logo
     margin-bottom: $p_medium
@@ -32,3 +31,88 @@
         background: $c_vivid_blue
         display: inline-block
         padding: 0.1em 0.5em
+
+.title
+    margin: 0 0 $p_medium
+
+    h1 
+        background-color: $c_vivid_yellow
+        line-height: 1.35em
+        display: inline
+        padding: 0 0.25em
+
+.hr
+    border-bottom: 1px solid $c_vivid_pink
+    font-size: $f_size_smallest
+    padding-bottom: 0.25em
+    padding-left: 3%
+    text-transform: uppercase
+    letter-spacing: 1px
+    margin-top: $p_large
+    margin-bottom: $p_large
+
+    +larger_than_phone
+        padding-left: 0
+
+.aligncenter
+	max-width: 106%
+	margin-left: -3%
+	margin-right: -3%
+
+	+larger_than_phone
+		max-width: 100%
+		margin-left: 0
+		margin-right: 0
+
+.alignleft
+	+larger_than_phone
+		float: left
+		margin: 0 1em 1em 0
+
+.alignright
+	+larger_than_phone
+		float: right
+		margin: 0 0 1em 1em
+
+.pink
+	color: $c_vivid_pink
+
+.small
+	font-size: $f_size_small
+
+.tag
+	font-size: $f_size_smallest
+	display: inline-block
+	background-color: $c_link
+	color: white
+	padding: 0 1.25em
+	line-height: 2.25em
+	margin: 0 0.25em 0.55em 0
+	border-radius: 2em
+
+	&:hover
+		opacity: 0.7
+		text-decoration: none
+
+	strong
+		display: inline-block
+		margin-left: 0.5em
+
+.card
+	@extend %cf
+	margin: $p_medium 0
+	padding: $p_medium
+	box-shadow: 0 1px 2px 1px rgba(0,0,0,0.1)
+
+	p
+		margin-bottom: $p_small
+
+	h2
+		clear: none
+		font-size: 1.2em
+		margin-bottom: $p_small
+
+	img
+		width: 150px
+		float: right
+		margin: 0 0 0 2em

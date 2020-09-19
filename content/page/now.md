@@ -10,8 +10,6 @@ featured_img:
 wpid: 3794
 ---
 
-# Now
-
 Inspired by [this](https://nownownow.com/about).
 
 ### 5/17/2020

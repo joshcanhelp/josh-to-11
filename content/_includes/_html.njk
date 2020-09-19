@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 
-	<link rel="stylesheet" href="/_css/main.css?393810138293408" type="text/css" media="all">
+	<link rel="stylesheet" href="/_css/main-v2.css?banana" type="text/css" media="all">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,69 +23,38 @@
 
   {%- if excerpt -%}
   <meta name="description" content="{{ excerpt }}">
-	<meta name="twitter:description" content="{{ excerpt }}">
+  <meta name="twitter:description" content="{{ excerpt }}">
   {%- endif -%}
 
 
   {%- if featured_img -%}
   <meta property="og:image" content="https://www.joshcanhelp.com{{ featured_img }}">
-	<meta name="twitter:image" content="https://www.joshcanhelp.com{{ featured_img }}">
+  <meta name="twitter:image" content="https://www.joshcanhelp.com{{ featured_img }}">
   {%- endif -%}
 
 </head>
   <body id="top">
 
     <section class="jch-row">
-      <header class="jch-col jch-col__left jch-head">
-      	<p class="logo"><a href="/" class="jch-head--logo">{% include 'svg/josh-can-help.svg' %}</a></p>
+      <header>
+      	<p class="logo"><a href="/">{% include 'svg/josh-can-help.svg' %}</a></p>
       </header>
-
-      <div class="jch-col jch-col__middle">
-			{% block content %}{% endblock %}
-		</div>
-		<div class="jch-col jch-col__right jch-col__pad-vert">
-
-			<ul class="jch-list jch-list__meta">
-			{% if 'post' === layout %}
-
-				{% if excerpt %}
-				<li>
-					<p><strong>Excerpt:</strong></p>
-					<p>{{ excerpt | safe }}</p>
-				</li>
-				{% endif %}
-
-				{% if tags | length %}
-				<li>
-					<p><strong>Tags:</strong></p>
-					<p>
-						{% for tag in tags %}
-							<a href="/tag/{{ tag | slug }}" class="jch-tag">{{ tag }}</a><br>
-						{% endfor %}
-					</p>
-				</li>
-				{% endif %}
-
-			{% endif %}
-			</ul>
-		</div>
+	  
+	  {% block content %}{% endblock %}
     </section>
 
     <footer class="jch-row jch-row__footer">
-  		<div class="jch-col jch-col__left">&nbsp;</div>
-  		<div class="jch-col jch-col__middle">
-				<p>Proudly built with <strong>Eleventy</strong></p>
-				<p><img="https://api.netlify.com/api/v1/badges/010504a8-4455-420d-a2ee-e4c659f57a45/deploy-status"></p>
-  			<p>This work is licensed under a
-  			<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. This means you are free to copy and redistribute the material in any medium or format, and remix, transform, and build upon the material.
-  			</p>
-  			<p>
-  				<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-						<img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" width="88" height="31">
-					</a>
-  			</p>
-
-  		</div>
+		{% h2br %}Footer{% endh2br %}
+  		<p>Proudly built with <strong>Eleventy</strong></p>
+		<p><img="https://api.netlify.com/api/v1/badges/010504a8-4455-420d-a2ee-e4c659f57a45/deploy-status"></p>
+		<p>This work is licensed under a
+			<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. This means you are free to copy and redistribute the material in any medium or format, and remix, transform, and build upon the material.
+		</p>
+		<p>
+			<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+				<img alt="Creative Commons License" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" width="88" height="31">
+			</a>
+  		</p>
   	</footer>
   </body>
 </html>

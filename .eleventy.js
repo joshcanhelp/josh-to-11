@@ -75,7 +75,7 @@ module.exports = function(eleventyConfig) {
    * Shortcodes
    */
 
-  eleventyConfig.addPairedShortcode('h2br', (text) => `<h2 class="hr aligncenter">${text}</h6>`);
+  eleventyConfig.addPairedShortcode('h2br', (text) => `<h2 class="hr aligncenter"><span class="pink">&lt;</span>${text}<span class="pink">&gt;</span></h6>`);
 
   return {
     dir: {

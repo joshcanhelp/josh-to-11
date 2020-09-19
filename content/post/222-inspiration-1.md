@@ -22,7 +22,7 @@ This morning, a Tweet rounded out a rapid-fire series of found media that has ha
 
 I was sketching out a thing I’ll never build last night on the couch and my wife was looking for something to watch. She picked a documentary she’s seen before and asked “how about this?” I said, “sure, whatev.” About 5 minutes in, I put my sketch pad down and was mesmerized for the remainder.
 
-
+<iframe src="https://www.youtube.com/embed/8PCbn1T2Tfw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The trailer doesn’t capture a fraction of the impact this documentary had on me. The trailer feels like this wild ride but the movie is about introspection and self-confidence and overcoming adversity and inner peace. This girl, and I say girl because she was 14 when she started the trip, spends over 500 days sailing around the world to become the youngest person to ever do so. The record is amazing, and she acknowledges that, but the whole point of the trip was to be alone on a boat with her thoughts. At 14, 15, 16 years old! I had no thoughts of note at that point in my life and might have gone completely insane after a week.
 
@@ -35,7 +35,7 @@ The Ogo personal transportation device
 
 A bit of a clunky description there but this thing is so much more than a wheelchair (which, technically, is what it would be replacing). Think “chair attached to a Segway” and let a few images come to your mind. Sounds neat, right? Now watch this video:
 
-
+<iframe src="https://www.youtube.com/embed/zgat4a1TrEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 As I watched this, it went from “cool idea” to “revolutionary” after just a few sentences from the founder.
 
@@ -60,8 +60,6 @@ This almost – *almost* – fell into the “ignorable quotations” bucket lik
 > 
 > — Ryan Hoover (@rrhoover) [October 19, 2015](https://twitter.com/rrhoover/status/656134322727071744?ref_src=twsrc%5Etfw)
 
-
-
 So close to forgettable, pithy, and inapplicable, right? “Fail hard,” “fail daily,” “find failure,” “eat failure for breakfast.” This recent failure trope is repeated over and over with really nothing of value to learn. I’ve failed over and over and over and, when I look back, the vast majority of failures in my life were really dumb choices. Yes, I learned from those choices but I knew they were stupid to begin with, I knew it was a failure waiting to happen. So really, the thing I needed to do was not to fail over and over, but make better choices, something I didn’t learn from a stupid idea that proved itself stupid. Or actually make choices; you can fail out of school for doing nothing, that’s a pretty wasted failure in my mind.
 
 *But rejection?* Rejection comes from making a choice, following through on that choice, and having a person or organization say “no.” Maybe you don’t get funding from your idea, maybe you don’t get a job you were hoping for, maybe he or she says no to coffee tomorrow. The difference here is that you put yourself out there, it wasn’t enough or wasn’t the right thing at the right time, and you took the hit. This can feel like the absolute worst thing in the world.
@@ -76,8 +74,3 @@ Get rejected enough times and you start to get used to it, which means two thing
 Rejection is why sales, dating, starting a company, and getting a job are all so difficult. If you haven’t had a lot of experience with being rejected or you take it personally, it’s agonizing. It also saps your motivation. Why try if you’re just going to hear “no?”
 
 Rejection can’t be fun and it can’t really be enjoyable because it’s the opposite of what you’re hoping for. But it can be massively educational and just another step on a path that’s longer than you thought it would be.
-
-Tell me about your inspiration
-------------------------------
-
-Did you hear, see, read, or think something that changed your perspective in this last month? Do share.

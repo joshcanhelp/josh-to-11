@@ -3,18 +3,17 @@
 {% from "macros/postListing.njk" import postListing %}
 
 {% block content %}
-<main class="jch-post jch-post--article article">
-  <div class="title"><h1>{{ title }}</h1></div>
-  {{ content | safe }}
-</main>
-{% if page.fileSlug === 'home-page' %}
-  <br><br>
-  <h2 class="jch-col--col-head">Best Of Posts</h2>
-  <ul class="jch-list jch-list__feed">
-  {% for post in collections.bestOfCollection %}
-    {{ postListing(post) }}
-  {% endfor %}
-  </ul>
-  <p><a href="/archives/all/">All posts 👉</a></p>
-{% endif %}
+<article>
+  {% if page.fileSlug === 'home-page' %}
+    {{ content | safe }}
+    {% h2br %}Best Of Posts{% endh2br %}
+    {% for post in collections.bestOfCollection %}
+      {{ postListing(post, true) }}
+    {% endfor %}
+    <p><a class="tag" href="/archives/all/">All posts &rsaquo;</a></p>
+  {% else %}
+    <div class="title"><h1>{{ title }}</h1></div>
+    {{ content | safe }}
+  {% endif %}
+</article>
 {% endblock %}

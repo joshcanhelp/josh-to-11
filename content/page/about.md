@@ -1,5 +1,5 @@
 ---
-title: "What is Josh Can Help? Who is Josh Cunningham? "
+title: About Me
 layout: page
 excerpt: "Josh Can Help is, at its core, one person with a strong desire to help people understand the web and what it can do for them, regardless of their goal."
 date: 2009-06-21 20:34:02
@@ -10,9 +10,7 @@ featured_img:
 wpid: 838
 ---
 
-# About Josh Can Help
-
-![](https://secure.gravatar.com/avatar/ae098a33ae2acd0fd647f48749f8630c?size=400)
+<img src="https://secure.gravatar.com/avatar/ae098a33ae2acd0fd647f48749f8630c?size=300" class="alignright">
 
 My long relationship with technology started in my early teen years posting on BBSes and building my own computers. After more than a decade of tinkering, I decided to make it my profession by building my first web site for a family member in 2006. Soon after that, I started taking on small client projects found via word-of-mouth and online-networking while completing a B.S. in Chemistry. Since then, I’ve built Josh Can Help up to a thriving freelance practice that’s been supporting me and my family since 2008.
 

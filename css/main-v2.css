@@ -205,8 +205,16 @@ pre.line-numbers > code {
   padding-right: 0.8em;
   text-align: right; }
 
+.card {
+  zoom: 1; }
+  .card:before, .card:after {
+    content: "";
+    display: table; }
+  .card:after {
+    clear: both; }
+
 body {
-  color: #23282D;
+  color: #2A363B;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
@@ -215,8 +223,7 @@ body {
   max-width: 700px;
   min-width: 400px;
   margin: 2%;
-  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
-  overflow: hidden; }
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif; }
   @media (min-width: 600px) {
     body {
       margin: 3%; } }
@@ -236,26 +243,10 @@ h6 {
   margin: 1em 0 0.66em; }
 
 h1 {
-  font-size: 1.9em;
-  margin: 0 0 25px;
-  background: #fffd5a;
-  padding: 0.3em 0.4em; }
+  font-size: 1.9em; }
 
 h2 {
   font-size: 1.55em; }
-  h2.hr {
-    border-bottom: 1px solid #b9c1c9;
-    font-size: 0.75em;
-    padding-bottom: 0.25em;
-    padding-left: 3%;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    color: #b9c1c9;
-    margin-top: 4em;
-    margin-bottom: 4em; }
-    @media (min-width: 600px) {
-      h2.hr {
-        padding-left: 0; } }
 
 h3 {
   font-size: 1.38em; }
@@ -301,11 +292,6 @@ ol {
 ul {
   padding-left: 2em;
   list-style: circle; }
-  ul.jch-list__2-col {
-    padding-left: 0;
-    list-style: none;
-    margin-bottom: 2em;
-    font-size: 0.9em; }
 
 img {
   display: block;
@@ -324,7 +310,7 @@ iframe {
 blockquote {
   margin: 1.5em 0;
   font-size: 1.05em;
-  background: #ededf2;
+  background: #f0f3f4;
   padding: 0.9em 1.1em;
   border-radius: 1px;
   position: relative; }
@@ -333,12 +319,12 @@ blockquote {
     border: none; }
 
 hr {
-  border-color: #d0d5db; }
+  border-color: #93a9b2; }
 
 code {
   display: inline-block;
   white-space: nowrap;
-  background-color: #e3ff50;
+  background-color: #f0f3f4;
   padding: 0 0.4em;
   font-size: 0.9em;
   font-family: Consolas, "Andale Mono", monospace; }
@@ -351,6 +337,45 @@ pre[class*="language-"] {
   margin: 1.5em 0;
   padding: 0.5em; }
 
+.logo {
+  margin-bottom: 25px; }
+  .logo a {
+    display: block;
+    line-height: 0; }
+  .logo svg {
+    max-width: 200px;
+    display: inline-block; }
+
+.date {
+  font-size: 0.78em;
+  margin-bottom: 10px;
+  font-family: Consolas, "Andale Mono", monospace; }
+  .date span {
+    background: #a6fffe;
+    display: inline-block;
+    padding: 0.1em 0.5em; }
+
+.title {
+  margin: 0 0 25px; }
+  .title h1 {
+    background-color: #fff56e;
+    line-height: 1.35em;
+    display: inline;
+    padding: 0 0.25em; }
+
+.hr {
+  border-bottom: 1px solid #fea6ff;
+  font-size: 0.78em;
+  padding-bottom: 0.25em;
+  padding-left: 3%;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 70px;
+  margin-bottom: 70px; }
+  @media (min-width: 600px) {
+    .hr {
+      padding-left: 0; } }
+
 .aligncenter {
   max-width: 106%;
   margin-left: -3%;
@@ -362,29 +387,48 @@ pre[class*="language-"] {
       margin-right: 0; } }
 
 @media (min-width: 600px) {
-  img.alignleft {
+  .alignleft {
     float: left;
     margin: 0 1em 1em 0; } }
 
 @media (min-width: 600px) {
-  img.alignright {
+  .alignright {
     float: right;
     margin: 0 0 1em 1em; } }
 
-.logo {
-  margin-bottom: 25px; }
-  .logo a {
-    display: block;
-    line-height: 0; }
-  .logo svg {
-    max-width: 200px;
-    display: inline-block; }
+.pink {
+  color: #fea6ff; }
 
-.date {
-  font-size: 0.75em;
-  margin-bottom: 10px;
-  font-family: Consolas, "Andale Mono", monospace; }
-  .date span {
-    background: #a6fffe;
+.small {
+  font-size: 0.9em; }
+
+.tag {
+  font-size: 0.78em;
+  display: inline-block;
+  background-color: #0b84fe;
+  color: white;
+  padding: 0 1.25em;
+  line-height: 2.25em;
+  margin: 0 0.25em 0.55em 0;
+  border-radius: 2em; }
+  .tag:hover {
+    opacity: 0.7;
+    text-decoration: none; }
+  .tag strong {
     display: inline-block;
-    padding: 0.1em 0.5em; }
+    margin-left: 0.5em; }
+
+.card {
+  margin: 25px 0;
+  padding: 25px;
+  box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.1); }
+  .card p {
+    margin-bottom: 10px; }
+  .card h2 {
+    clear: none;
+    font-size: 1.2em;
+    margin-bottom: 10px; }
+  .card img {
+    width: 150px;
+    float: right;
+    margin: 0 0 0 2em; }
