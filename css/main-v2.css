@@ -229,7 +229,7 @@ main {
 
 article, header, footer {
   max-width: 650px;
-  min-width: 400px;
+  min-width: 300px;
   margin-left: 3%;
   margin-right: 3%; }
   @media (min-width: 650px) {
