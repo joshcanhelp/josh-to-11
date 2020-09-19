@@ -12,47 +12,54 @@
 @import "partials-v2/base"
 
 .logo
-    margin-bottom: $p_medium
+	+centered_on_phone()
+	margin-bottom: $p_medium
 
-    a
-        display: block
-        line-height: 0
+	svg
+		max-width: 230px
+		display: inline-block
 
-    svg
-        max-width: 200px
-        display: inline-block
+.post-header
+	+centered_on_phone()
 
 .date
-    font-size: $f_size_smallest
-    margin-bottom: $p_small
-    font-family: $f_family_mono
+	font-size: $f_size_smallest
+	margin-bottom: $p_small
+	font-family: $f_family_mono
 
-    span
-        background: $c_vivid_blue
-        display: inline-block
-        padding: 0.1em 0.5em
+	span
+		background: $c_vivid_blue
+		display: inline-block
+		padding: 0.1em 0.5em
 
 .title
-    margin: 0 0 $p_medium
+	+centered_on_phone()
+	margin: 0 0 $p_medium
 
-    h1 
-        background-color: $c_vivid_yellow
-        line-height: 1.35em
-        display: inline
-        padding: 0 0.25em
+	h1
+		background-color: $c_vivid_yellow
+		line-height: 1.35em
+		display: inline
+		padding: 0 0.25em
+
+	strong
+		font-family: $f_family_mono
+		font-size: $f_size_smallest
+		vertical-align: middle
+		margin-left: $p_small
 
 .hr
-    border-bottom: 1px solid $c_vivid_pink
-    font-size: $f_size_smallest
-    padding-bottom: 0.25em
-    padding-left: 3%
-    text-transform: uppercase
-    letter-spacing: 1px
-    margin-top: $p_large
-    margin-bottom: $p_large
+	border-bottom: 1px solid $c_vivid_pink
+	font-size: $f_size_smallest
+	padding-bottom: 0.25em
+	padding-left: 3%
+	text-transform: uppercase
+	letter-spacing: 1px
+	margin-top: $p_large
+	margin-bottom: $p_large
 
-    +larger_than_phone
-        padding-left: 0
+	+larger_than_phone
+		padding-left: 0
 
 .aligncenter
 	max-width: 106%
@@ -102,17 +109,24 @@
 	@extend %cf
 	margin: $p_medium 0
 	padding: $p_medium
-	box-shadow: 0 1px 2px 1px rgba(0,0,0,0.1)
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)
 
 	p
 		margin-bottom: $p_small
 
+		&:last-child
+			margin-bottom: 0
+
 	h2
 		clear: none
 		font-size: 1.2em
-		margin-bottom: $p_small
+		margin: 0 0 $p_small
 
 	img
-		width: 150px
+		width: 120px
 		float: right
-		margin: 0 0 0 2em
+		margin: 0 0 0 1em
+
+		+larger_than_phone
+			width: 150px
+			margin-left: 2em

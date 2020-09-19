@@ -214,21 +214,25 @@ pre.line-numbers > code {
     clear: both; }
 
 body {
+  padding: 0;
+  margin: 0;
   color: #2A363B;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 16px;
+  font-size: 18px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
-  max-width: 700px;
-  min-width: 400px;
-  margin: 2%;
   font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif; }
-  @media (min-width: 600px) {
-    body {
+
+article, header, footer {
+  max-width: 650px;
+  min-width: 400px;
+  margin: 2%; }
+  @media (min-width: 650px) {
+    article, header, footer {
       margin: 3%; } }
   @media (min-width: 1050px) {
-    body {
+    article, header, footer {
       margin: 4%; } }
 
 h1,
@@ -338,16 +342,23 @@ pre[class*="language-"] {
   padding: 0.5em; }
 
 .logo {
+  text-align: center;
   margin-bottom: 25px; }
-  .logo a {
-    display: block;
-    line-height: 0; }
+  @media (min-width: 650px) {
+    .logo {
+      text-align: left; } }
   .logo svg {
-    max-width: 200px;
+    max-width: 230px;
     display: inline-block; }
 
+.post-header {
+  text-align: center; }
+  @media (min-width: 650px) {
+    .post-header {
+      text-align: left; } }
+
 .date {
-  font-size: 0.78em;
+  font-size: 13px;
   margin-bottom: 10px;
   font-family: Consolas, "Andale Mono", monospace; }
   .date span {
@@ -356,23 +367,32 @@ pre[class*="language-"] {
     padding: 0.1em 0.5em; }
 
 .title {
+  text-align: center;
   margin: 0 0 25px; }
+  @media (min-width: 650px) {
+    .title {
+      text-align: left; } }
   .title h1 {
     background-color: #fff56e;
     line-height: 1.35em;
     display: inline;
     padding: 0 0.25em; }
+  .title strong {
+    font-family: Consolas, "Andale Mono", monospace;
+    font-size: 13px;
+    vertical-align: middle;
+    margin-left: 10px; }
 
 .hr {
   border-bottom: 1px solid #fea6ff;
-  font-size: 0.78em;
+  font-size: 13px;
   padding-bottom: 0.25em;
   padding-left: 3%;
   text-transform: uppercase;
   letter-spacing: 1px;
   margin-top: 70px;
   margin-bottom: 70px; }
-  @media (min-width: 600px) {
+  @media (min-width: 650px) {
     .hr {
       padding-left: 0; } }
 
@@ -380,18 +400,18 @@ pre[class*="language-"] {
   max-width: 106%;
   margin-left: -3%;
   margin-right: -3%; }
-  @media (min-width: 600px) {
+  @media (min-width: 650px) {
     .aligncenter {
       max-width: 100%;
       margin-left: 0;
       margin-right: 0; } }
 
-@media (min-width: 600px) {
+@media (min-width: 650px) {
   .alignleft {
     float: left;
     margin: 0 1em 1em 0; } }
 
-@media (min-width: 600px) {
+@media (min-width: 650px) {
   .alignright {
     float: right;
     margin: 0 0 1em 1em; } }
@@ -400,10 +420,10 @@ pre[class*="language-"] {
   color: #fea6ff; }
 
 .small {
-  font-size: 0.9em; }
+  font-size: 15px; }
 
 .tag {
-  font-size: 0.78em;
+  font-size: 13px;
   display: inline-block;
   background-color: #0b84fe;
   color: white;
@@ -421,14 +441,20 @@ pre[class*="language-"] {
 .card {
   margin: 25px 0;
   padding: 25px;
-  box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.1); }
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24); }
   .card p {
     margin-bottom: 10px; }
+    .card p:last-child {
+      margin-bottom: 0; }
   .card h2 {
     clear: none;
     font-size: 1.2em;
-    margin-bottom: 10px; }
+    margin: 0 0 10px; }
   .card img {
-    width: 150px;
+    width: 120px;
     float: right;
-    margin: 0 0 0 2em; }
+    margin: 0 0 0 1em; }
+    @media (min-width: 650px) {
+      .card img {
+        width: 150px;
+        margin-left: 2em; } }

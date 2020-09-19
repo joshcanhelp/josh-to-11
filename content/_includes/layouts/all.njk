@@ -3,11 +3,15 @@
 {% from "macros/postListing.njk" import postListing %}
 
 {% block content %}
-<article>
-  <div class="title"><h1>All Posts [{{ collections.postsCollection | length }}]</h1></div>
-  {{ content | safe }}
-  {% for post in collections.postsCollection %}
-    {{ postListing(post, false) }}
-  {% endfor %}
-</article>
+  <article>
+    <div class="title">
+      <h1>All Posts
+        <strong>{{ collections.postsCollection | length }}</strong>
+      </h1>
+    </div>
+    {{ content | safe }}
+    {% for post in collections.postsCollection %}
+      {{ postListing(post, false) }}
+    {% endfor %}
+  </article>
 {% endblock %}

@@ -3,22 +3,26 @@
 //
 
 body
+	+no_space()
 	color: $f_color_base
 	font-family: $f_family_sans
 	font-size: $f_size_base
 	-webkit-font-smoothing: antialiased
 	-moz-osx-font-smoothing: grayscale
 	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004)
-	max-width: 700px
+	font-family: $f_family_serif
+
+article, header, footer
+	max-width: $b_small
 	min-width: 400px
 	margin: 2%
-	font-family: $f_family_serif
 
 	+larger_than_phone
 		margin: 3%
 
 	+larger_than_tablet
 		margin: 4%
+
 h1,
 h2,
 h3,
