@@ -339,7 +339,7 @@ code {
 
 code[class*="language-"],
 pre[class*="language-"] {
-  font-size: 13px !important; }
+  font-size: 12px !important; }
 
 pre[class*="language-"] {
   max-width: 108%;
@@ -370,7 +370,7 @@ pre[class*="language-"] {
       text-align: left; } }
 
 .date, .sub-head {
-  font-size: 13px;
+  font-size: 12px;
   margin-bottom: 10px;
   font-family: Consolas, "Andale Mono", monospace; }
   .date span, .sub-head span {
@@ -393,13 +393,13 @@ pre[class*="language-"] {
     display: inline; }
   .title strong {
     font-family: Consolas, "Andale Mono", monospace;
-    font-size: 13px;
+    font-size: 12px;
     vertical-align: middle;
     margin-left: 10px; }
 
 .hr {
   border-bottom: 1px solid #fea6ff;
-  font-size: 13px;
+  font-size: 12px;
   padding-bottom: 0.25em;
   padding-left: 3%;
   text-transform: uppercase;
@@ -450,7 +450,7 @@ pre[class*="language-"] {
   .tag span {
     display: inline-block;
     font-family: Consolas, "Andale Mono", monospace;
-    font-size: 13px;
+    font-size: 12px;
     margin-left: 1em; }
 
 .card {
