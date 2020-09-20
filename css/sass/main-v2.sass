@@ -32,6 +32,12 @@
 		display: inline-block
 		padding: 0.1em 0.5em
 
+.sub-head
+	@extend .date
+
+	span
+		background: $c_vivid_green
+
 .title
 	+centered_on_phone()
 	margin: 0 0 $p_medium
@@ -40,7 +46,6 @@
 		background-color: $c_vivid_yellow
 		line-height: 1.35em
 		display: inline
-		padding: 0 0.25em
 
 	strong
 		font-family: $f_family_mono
@@ -85,6 +90,8 @@
 	padding: 0 0.9em
 	line-height: 2em
 	background-color: $c_blue_lightest
+	font-family: $f_family_sans
+	font-weight: $f_weight_bold
 
 	&:hover
 		background: none

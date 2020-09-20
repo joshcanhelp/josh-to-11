@@ -24,7 +24,7 @@ But luck is only helpful in very specific ways. If you want to lose weight, for 
 
 Of course, all of these can be short-lived. The changed mindset might fade over time. The gym buddy gets a new work schedule that doesn’t line up with yours. The gym might be so cheap that you don’t feel a strong motivation to stick with it. And the new-found wealth might just drive you to drink beer all day on the beach in Manuel Antonio.
 
-<img src="/_images/2019/06/costa_rica_328.jpg" class="aligncenter" alt="Manuel Antonio beacj in Costa Rica">
+<img src="/_images/2019/06/costa_rica_328.jpg" class="aligncenter" alt="Manuel Antonio beach in Costa Rica">
 
 So, for personal transformations, changes that require you to regularly do something different for the rest of your life in order to improve something about yourself, luck is a pretty bad strategy.
 

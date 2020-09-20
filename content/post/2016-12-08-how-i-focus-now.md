@@ -20,7 +20,7 @@ After reading several articles and a great book, [Deep Work by Cal Newport](http
 
 … and so many other things at the cost of getting important, satisfying, or at least required work done.
 
-![focus](/_images/2016/12/focus.png)
+<img src="/_images/2016/12/focus.png" class="aligncenter" alt="Focus">
 
 To that end, [I tried out a digital detox](/digital-detox/) and came away with clarity about the role the internet plays in my life. I’m not hopelessly addicted but every day is undermined in some way by access to endless channels of endless information.
 
@@ -34,10 +34,9 @@ While I would recommend trying these out if your experience is similar to what I
 
 One small bit of context… I’ve been trying for YEARS to wrap my head around a process like this for myself with basically zero success. Somehow, the things below have stuck and are actually working very well for me. Personal growth is a constant battle but I’ll say, at least right now, **it’s worth it.**
 
-- - - - - -
+---
 
-Startup Routine
----------------
+## Startup Routine
 
 I keep hearing about a morning routine and have tried so many times to stretch and meditate and exercise and etc etc but nothing stuck. I got up, made coffee, and was ready to work. Or, as of late, I got up to my daughter yelling “daddy” from the other room after waking up 5 times for one kid or the other at 5:30 AM and was on-point for breakfast and crayons. After mom got up sometime later, it was time to get to work but I wasn’t really “in the zone” like I once was.
 
@@ -61,12 +60,9 @@ Two things about this list …
 
 As a reminder to myself to actually make this all happen, I made a graphic to post on my wall (with [Canva](https://www.canva.com/), which is a lot of fun). Feel free to use/print/share (links to a PDF).
 
-[![startup-routine](/_images/2016/12/STARTUP-ROUTINE-724x1024.jpg)](https://www.dropbox.com/s/67vpivfzil0d4np/STARTUP-ROUTINE.pdf?dl=0)
+<a href="https://www.dropbox.com/s/67vpivfzil0d4np/STARTUP-ROUTINE.pdf?dl=0"><img src="/_images/2016/12/STARTUP-ROUTINE-724x1024.jpg" class="aligncenter" alt="Startup Routine"></a>
 
-- - - - - -
-
-One Task
---------
+## One Task
 
 Having a single task to focus on at that the time that you have set aside to focus has been, somewhat embarrassingly, transformative for my work. This seems so, so simple and I’ve found that it’s the one thing that needs near-constant monitoring.
 
@@ -100,18 +96,15 @@ Again, this has been tough but I am getting better, hour by hour, day by day. It
 
 I made another graphic for this as well.
 
-[![process](/_images/2016/12/PROCESS-1024x768.jpg)](https://www.dropbox.com/s/vtmum0pnebfnbj0/PROCESS.pdf?dl=0)
+<a href="https://www.dropbox.com/s/vtmum0pnebfnbj0/PROCESS.pdf?dl=0"><img src="/_images/2016/12/PROCESS-1024x768.jpg" class="aligncenter" alt="Process"></a>
 
-- - - - - -
-
-Simplicity
-----------
+## Simplicity
 
 I’ve been on a minimalism track for a few years now but I’m looking at it with a different perspective now. I’ve found that simplicity in so many areas of life can have a very calming effect on me so I’m trying to leverage that as best as I can without getting too weird or thinking too much about it.
 
 I’ve found simplicity helpful in a few specific areas:
 
-#### music
+### music
 
 I am not a music lover in the sense that I see shows or pay a lot of attention to creators. I love to listen to music and I’m particular about what I like but I wouldn’t defend my selections to the death.
 
@@ -119,9 +112,11 @@ Lately, I’ve found that a solid playlist on repeat is all I need to get things
 
 I’m taking an even bigger step in this direction with Brain.fm. You can try it out for yourself but it’s basically just background music, nothing special. It works well to fill up the cognitive gaps in my focus and keep me on track.
 
-#### devices
+### devices
 
-![](/_images/2016/12/IMG_6424.png)I talk about my phone a lot in this. My phone is, unfortunately, still a big part of my life. Everyday I’m amazed by what you can accomplish with this expensive, connected little bar of soap.
+![](/_images/2016/12/IMG_6424.png)
+
+I talk about my phone a lot in this. My phone is, unfortunately, still a big part of my life. Everyday I’m amazed by what you can accomplish with this expensive, connected little bar of soap.
 
 But that comes at the cost of focus when it’s time to not accomplishing anything. So I’ve made a few changes to how I use my phone (I’m on iOS, for some of the specifics below):
 
@@ -129,7 +124,7 @@ But that comes at the cost of focus when it’s time to not accomplishing anythi
 - I’m constantly deleting apps, both ones I use and ones I don’t. I find that some apps are just distracting by using them but many remind me of either an idea I had or another way to use my phone that I currently don’t. Like the Workflow app, for example. Imagine the cool shit I could do with it! What, exactly? I don’t know but I could distract myself for an hour or two trying to figure it out! No thanks. **Delete**.
 - One that I’m trying out now is turning off color and setting a bunch of the accessibility features on to sort of “un-smooth” the UI in general. With links underlined, buttons outlined, and no beautiful colors, the phone feels very utilitarian. I’ll pick it up to check email and it just feels boring so I’ll put it down more often. Funny trick and it’s working fairly well so far. Try it out for a few days, then turn colors back on briefly (you can set it so a triple-click on the home button gives you the option) and you’ll be amazed the difference in your draw to the device. Even just checking the time with colors on after it’s been off makes you think “whoa, neat,” which is exactly what I’m trying to avoid.
 
-#### food
+### food
 
 I’m not going to get too deep into my relationship with food but, suffice to say, it’s complex. So I’m trying to simplify it a bit:
 
@@ -138,10 +133,7 @@ I’m not going to get too deep into my relationship with food but, suffice to s
 - Intermittent fasting in the form of no food from 8pm to 12pm the next day. I thought this would be really painful but it’s weirdly pleasant and very nice not to think about it in the morning.
 - Always keeping around 3 different meals for lunch that are fast and enjoyable: sardines + soft boiled eggs + toast, protein shake (almond milk, powder, and MCT or coconut oil), and some kind of soup (currently Tasty Bite Madras Lentils with greek yogurt). No thinking, just make it and eat it
 
-- - - - - -
-
-Shutdown Routine
-----------------
+## Shutdown Routine
 
 This is one I’m cribbing directly from Cal, the idea that your work stops at some point and you need to remind yourself of that ending.
 
@@ -176,9 +168,9 @@ I will say that it’s been quite tough to leave everything shut off; I can alwa
 
 And, once again, a graphic reminder:
 
-[![](/_images/2016/12/SHUTDOWN-ROUTINE-724x1024.jpg)](https://www.dropbox.com/s/3p4kqcv7eezzrcn/SHUTDOWN-ROUTINE.pdf?dl=0)
+<a href="https://www.dropbox.com/s/3p4kqcv7eezzrcn/SHUTDOWN-ROUTINE.pdf?dl=0"><img src="/_images/2016/12/SHUTDOWN-ROUTINE-724x1024.jpg" class="aligncenter" alt="Shutdown routine"></a>
 
-- - - - - -
+## fin
 
 OK so, yeah, this is a lot of stuff.
 
@@ -192,7 +184,7 @@ A few last things to think about that helped me:
 - Tip for picking a single thing to work on … if it’s not immediately clear what thing to pick – nothing urgent or nothing really exciting – then close your eyes for a few minutes and just think about it. Don’t look at the list while you do it, look away. Think about other things, like what you want to do, where you want to go, big stuff. No structure, just daydreaming. Something will pop and when it does, START IMMEDIATELY.
 - If you’re like me, this whole thing might feel **really boring** at first. Too much structure, not enough fun, FOMO, too ascetic, etc etc. That’s a tough hump to get over, I’m still working through it. The two things I try to keep in mind: 1) committing to a system that allows me to achieve things that are important to me will allow for less structure and more fun when it counts and 2) what am I *really* missing out on here? Creation brings me joy and helping people brings me joy. Consuming whatever shiny thing that’s in front of me does not.
 
-![](/_images/2016/12/focus_desk.jpg)
+<img src="/_images/2016/12/focus_desk.jpg" class="aligncenter" alt="Focus desk">
 
 There is a lot more going on here than just better output or more efficiency or anything related to what I do, I think it’s probably pretty easy to pick up on that. My “regular life” just happens to be tied very tightly for what I do professionally, for better or worse. If I’m not producing well or I’m having trouble focusing or I’m sapped of motivation, you can be sure that I’m also having trouble sleeping and not taking care of myself physically and having trouble staying positive.
 

@@ -225,7 +225,8 @@ body {
   font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif; }
 
 main {
-  overflow: hidden; }
+  overflow: hidden;
+  padding: 25px 0; }
 
 article, header, footer {
   max-width: 650px;
@@ -371,14 +372,17 @@ pre[class*="language-"] {
     .post-header {
       text-align: left; } }
 
-.date {
+.date, .sub-head {
   font-size: 13px;
   margin-bottom: 10px;
   font-family: Consolas, "Andale Mono", monospace; }
-  .date span {
+  .date span, .sub-head span {
     background: #a6fffe;
     display: inline-block;
     padding: 0.1em 0.5em; }
+
+.sub-head span {
+  background: #e3ff50; }
 
 .title {
   text-align: center;
@@ -389,8 +393,7 @@ pre[class*="language-"] {
   .title h1 {
     background-color: #fff56e;
     line-height: 1.35em;
-    display: inline;
-    padding: 0 0.25em; }
+    display: inline; }
   .title strong {
     font-family: Consolas, "Andale Mono", monospace;
     font-size: 13px;
@@ -440,7 +443,9 @@ pre[class*="language-"] {
   display: inline-block;
   padding: 0 0.9em;
   line-height: 2em;
-  background-color: #f0f7ff; }
+  background-color: #f0f7ff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 700; }
   .tag:hover {
     background: none; }
   .tag span {
