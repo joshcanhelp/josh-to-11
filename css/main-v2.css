@@ -317,7 +317,6 @@ iframe {
 
 blockquote {
   margin: 1.5em 0;
-  font-size: 1.05em;
   background: #f0f3f4;
   padding: 0.9em 1.1em;
   border-radius: 1px;
@@ -327,7 +326,7 @@ blockquote {
     border: none; }
 
 hr {
-  border-color: #93a9b2; }
+  border-color: #96abb4; }
 
 code {
   display: inline-block;
