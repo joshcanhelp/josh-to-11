@@ -3,13 +3,12 @@
 // No style declarations here
 //
 
-@import "partials-v2/variables"
-
-@import "partials-v2/reset"
-@import "partials/prism-theme-one-dark"
-@import "partials-v2/mixins"
-@import "partials-v2/extends"
-@import "partials-v2/base"
+@import "variables"
+@import "reset"
+@import "vendor/prism-theme-one-dark"
+@import "mixins"
+@import "extends"
+@import "base"
 
 .logo
 	+centered_on_phone()
@@ -92,6 +91,7 @@
 	background-color: $c_blue_lightest
 	font-family: $f_family_sans
 	font-weight: $f_weight_bold
+	margin: 0 0.1em 0.4em
 
 	&:hover
 		background: none

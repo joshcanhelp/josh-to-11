@@ -41,9 +41,6 @@ picture {
   max-width: 100%;
   display: block; }
 
-article > * + * {
-  margin-top: 1em; }
-
 input,
 button,
 textarea,
@@ -297,11 +294,11 @@ li {
     margin-bottom: 0; }
 
 ol {
-  padding-left: 2em;
+  padding-left: 1.5em;
   list-style: decimal; }
 
 ul {
-  padding-left: 2em;
+  padding-left: 1.5em;
   list-style: circle; }
 
 img {
@@ -445,7 +442,8 @@ pre[class*="language-"] {
   line-height: 2em;
   background-color: #f0f7ff;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-weight: 700; }
+  font-weight: 700;
+  margin: 0 0.1em 0.4em; }
   .tag:hover {
     background: none; }
   .tag span {
