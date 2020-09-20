@@ -437,25 +437,17 @@ pre[class*="language-"] {
   font-size: 15px; }
 
 .tag {
-  font-size: 15px;
   display: inline-block;
-  border: 1px solid #0b84fe;
   padding: 0 0.9em;
   line-height: 2em;
-  margin: 0 0.25em 0.55em 0;
-  border-radius: 2em;
-  overflow: hidden; }
+  background-color: #f0f7ff; }
   .tag:hover {
-    background-color: #0b84fe;
-    color: white;
-    text-decoration: none; }
+    background: none; }
   .tag span {
     display: inline-block;
-    color: white;
-    background-color: #0b84fe;
-    padding: 0.1em 0.5em;
-    margin: 0 -0.9em 0 0.5em;
-    font-family: Consolas, "Andale Mono", monospace; }
+    font-family: Consolas, "Andale Mono", monospace;
+    font-size: 13px;
+    margin-left: 1em; }
 
 .card {
   margin: 25px 0;

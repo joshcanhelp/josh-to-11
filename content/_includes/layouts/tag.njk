@@ -4,9 +4,17 @@
 
 {% block content %}
   <article>
-    <div class="title">
-      <h1>Tagged "{{ tag }}" [{{ collections[tag] | length }}]</h1>
+    <div class="post-header">
+      <p class=" date">
+        <span>Tagged</span>
+      </p>
+      <div class="title">
+        <h1>{{ tag }}
+          <strong>{{ collections[tag] | length }}</strong>
+        </h1>
+      </div>
     </div>
+
     <p>
       <a href="/archives/tags/" class="tag">&lsaquo; All tags</a>
     </p>

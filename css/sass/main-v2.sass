@@ -81,27 +81,19 @@
 	font-size: $f_size_small
 
 .tag
-	font-size: $f_size_small
 	display: inline-block
-	border: 1px solid $c_link
 	padding: 0 0.9em
 	line-height: 2em
-	margin: 0 0.25em 0.55em 0
-	border-radius: 2em
-	overflow: hidden
+	background-color: $c_blue_lightest
 
 	&:hover
-		background-color: $c_link
-		color: white
-		text-decoration: none
+		background: none
 
 	span
 		display: inline-block
-		color: white
-		background-color: $c_link
-		padding: 0.1em 0.5em
-		margin: 0 -0.9em 0 0.5em
 		font-family: $f_family_mono
+		font-size: $f_size_smallest
+		margin-left: 1em
 
 .card
 	@extend %cf
