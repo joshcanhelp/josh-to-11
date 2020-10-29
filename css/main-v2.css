@@ -95,8 +95,6 @@ code[class*="language-"]::selection, code[class*="language-"] ::selection {
 
 /* Code blocks */
 pre[class*="language-"] {
-  padding: 1em;
-  margin: .5em 0;
   overflow: auto; }
 
 :not(pre) > code[class*="language-"],
@@ -285,7 +283,8 @@ img {
 
 p,
 ol,
-ul {
+ul,
+pre {
   margin-bottom: 25px; }
 
 li {
@@ -344,8 +343,7 @@ pre[class*="language-"] {
   max-width: 108%;
   margin-left: -4%;
   margin-right: -4%;
-  padding-top: 25px;
-  padding-bottom: 25px; }
+  padding: 25px; }
   @media (min-width: 650px) {
     pre[class*="language-"] {
       max-width: 100%;
