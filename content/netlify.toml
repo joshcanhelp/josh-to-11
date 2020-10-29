@@ -14,6 +14,11 @@
   status = 302
 
 [[redirects]]
+  from = "/feed"
+  to = "/archives/all/"
+  status = 302
+
+[[redirects]]
   from = "/contact"
   to = "/"
   status = 302
