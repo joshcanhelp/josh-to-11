@@ -7,7 +7,7 @@ module.exports = function(eleventyConfig) {
 
   /*
    * Configuration
-   */ 
+   */
 
   eleventyConfig.addPassthroughCopy({ 'images': '_images' });
   eleventyConfig.addPassthroughCopy({ 'css': '_css' });
@@ -60,7 +60,7 @@ module.exports = function(eleventyConfig) {
   });
 
   /*
-   * Filters 
+   * Filters
    */
 
   eleventyConfig.addFilter('dateformat', function(dateIn) {
