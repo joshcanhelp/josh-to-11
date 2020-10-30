@@ -42,6 +42,3 @@
   from = "https://joshcanhelp.netlify.com/*"
   to = "https://www.joshcanhelp.com/:splat"
   status = 301
-
-[build]
-  functions = "netlify_functions"
