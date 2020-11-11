@@ -1,4 +1,5 @@
 ---
+
 title: About Me
 layout: page
 excerpt: "Josh Can Help is, at its core, one person with a strong desire to help people understand the web and what it can do for them, regardless of their goal."
@@ -8,6 +9,7 @@ permalink: about/index.html
 tags: []
 featured_img:
 wpid: 838
+
 ---
 
 <img src="https://secure.gravatar.com/avatar/ae098a33ae2acd0fd647f48749f8630c?size=300" class="alignright">

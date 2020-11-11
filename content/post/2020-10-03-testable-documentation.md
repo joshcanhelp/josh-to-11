@@ -4,7 +4,7 @@ title: "Technical Research: Testable Documentation"
 permalink: testable-documentation-intro/index.html
 layout: post
 tags: [ "Documentation", "Development", "Testing", "Technical Research"]
-date: 2020-10-03 10:05:00
+date: 2020-10-28 18:05:00
 featured_img:
 excerpt: I've been thinking about documentation quite a bit lately, especially the code-centric type, and how to avoid punishing myself for spending time writing it. Here's the start of my research project to that end.
 
@@ -121,12 +121,12 @@ doStuff( thing );
 The other use case is atomic functions with a set signature meant to run during a specific authentication event. These functions sort of exist in space until they are run with contextual data as parameters.
 
 ```js
-function run(thing, callback) {
+module.exports = function run(thing, callback) {
 	if (thing.property === "bad value") {
 		return callback( new Error( "(╯°□°）╯︵ ┻━┻" ) );
 	}
 	thing.property2 = "new value";
-	callback( thing );
+	return thing;
 }
 ```
 
@@ -141,7 +141,7 @@ To recap:
 - I think I know what a successful solution looks like
 - I understand the problem space
 
-I am ready to do a spike! Stay tuned for my write-up of my first attempt to solve this issue!
+I am ready to do a spike! Stay tuned for the first one!
 
 
 
