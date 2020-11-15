@@ -1,7 +1,7 @@
 ---
 
 title: "Testable Documentation Spike 1: \"Code Only\""
-permalink: testable-documentation-spike-1/index.html
+permalink: false
 layout: post
 tags: [ "Documentation", "Development", "Testing", "Technical Research"]
 date: 2020-11-19 10:05:00
