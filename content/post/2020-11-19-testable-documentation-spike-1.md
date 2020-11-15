@@ -1,10 +1,10 @@
 ---
 
 title: "Testable Documentation Spike 1: \"Code Only\""
-permalink: false
+permalink: testable-documentation-spike-1/index.html
 layout: post
 tags: [ "Documentation", "Development", "Testing", "Technical Research"]
-date: 2020-10-10 10:05:00
+date: 2020-11-19 10:05:00
 featured_img:
 excerpt: TBD!
 
@@ -32,16 +32,9 @@ The tool to make this happen is [Docco](http://ashkenas.com/docco/). The Docco d
 
 The point here is to write code with comments that serve as the whole example, extra points if they can be compiled into something that looks nice. 
 
-## The Code
+## Getting Started
 
-In the [intro post](/testable-documentation-intro/), I outlined 2 types of JavaScript samples we need to handle:
-
-- Code samples running functions from required or imported modules (like code samples for an SDK)
-- Single exported functions that do discreet processing (like code samples for [Auth0 Actions](https://auth0.com/blog/introducing-auth0-actions/))
-
-**So, let's write up a few samples!**
-
-Turns out, these two match up with the kind of code you would use in [Netlify functions](https://www.netlify.com/products/functions/): helper code and exported functions. I've been meaning to dig into these a bit more (my site is hosted there) and this is a great excuse to try it out!
+First, we need some code to try this out on. 
 
 
 

@@ -110,7 +110,7 @@ So, let's set the groundwork for this.
 
 There are two common code sample use cases in my JavaScript world.
 
-One is using a module to do a specific task. These samples need to import the latest version of the module as a dependency and run it a specific way.
+One is using a module to do a specific task. These samples need to import the latest version of the module as a dependency and run it a specific way. Note that it's not the module being tested here, it's the sample.
 
 ```js
 const { doStuff } = require("some-module");
@@ -118,19 +118,19 @@ const thing = { property: "value" };
 doStuff( thing );
 ```
 
-The other use case is atomic functions with a set signature meant to run during a specific authentication event. These functions sort of exist in space until they are run with contextual data as parameters.
+The other use case is atomic functions with a set signature meant to run during a specific authentication event. These functions sort of exist in space until they are run with contextual data as parameters, like [Auth0 Actions](https://auth0.com/blog/introducing-auth0-actions/) or [Netlify functions](https://www.netlify.com/products/functions/).
 
 ```js
-module.exports = function run(thing, callback) {
-	if (thing.property === "bad value") {
-		return callback( new Error( "(╯°□°）╯︵ ┻━┻" ) );
+module.exports = function run(event, context) {
+	if (event.property1 === "bad value") {
+		throw new Error( "(╯°□°）╯︵ ┻━┻" );
 	}
-	thing.property2 = "new value";
-	return thing;
+	event.property2 = "new value";
+	return event;
 }
 ```
 
-The code samples we write should work with both of these examples. 
+The code samples we write should work with both of these examples. We don't need anything fancy for either one of these, just something that can be tested, linted, and displayed in the context of a documentation page. 
 
 ## Spike Away!
 
@@ -141,7 +141,7 @@ To recap:
 - I think I know what a successful solution looks like
 - I understand the problem space
 
-I am ready to do a spike! Stay tuned for the first one!
+I am ready to do a spike! Stay tuned for the first one, coming soon 👍
 
 
 
