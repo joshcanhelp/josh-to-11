@@ -1,6 +1,6 @@
 ---
 
-title: "Testable Documentation Spike 1: \"Code Only\""
+title: "Testable Documentation Spike 1: \"Code 
 permalink: false
 layout: post
 tags: [ "Documentation", "Development", "Testing", "Technical Research"]
@@ -34,9 +34,25 @@ The point here is to write code with comments that serve as the whole example, e
 
 ## Getting Started
 
-First, we need some code to try this out on. 
+First, we need some code examples to test, lint, and document. We don't need anything complex, just enough to make sure we know we're representing the real world. 
 
+For the "use a module" code, we'll pull in a library, make up some data, and use that library to do something. I'll use this as the code for all the spikes to keep things consistent. 
 
+```js
+const jwt = require("jsonwebtoken");
+
+const payload = {
+  aud: "AUDIENCE_ID",
+  iss: `https://example.com/`,
+  sub: "SUBJECT_ID",
+};
+
+jwt.sign(payload, "TOKEN_SECRET", {
+  expiresIn: this.tokenExpiresIn,
+});
+```
+
+I wrote the above in a 
 
 
 
