@@ -3,7 +3,7 @@ moment.locale('en');
 
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
 
   /*
    * Configuration
@@ -11,6 +11,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy({ 'images': '_images' });
   eleventyConfig.addPassthroughCopy({ 'css': '_css' });
+  eleventyConfig.addPassthroughCopy({ 'html': '_html' });
 
   eleventyConfig.addPlugin(syntaxHighlight);
 
@@ -24,33 +25,33 @@ module.exports = function(eleventyConfig) {
    * Collections
    */
 
-  eleventyConfig.addCollection('postsCollection', function(collection) {
+  eleventyConfig.addCollection('postsCollection', function (collection) {
     const tmpCollection = collection.getAllSorted();
-    return tmpCollection.reverse().filter(function(tpl) {
-      if ( tpl.data.permalink && 'post' === tpl.data.layout ) {
+    return tmpCollection.reverse().filter(function (tpl) {
+      if (tpl.data.permalink && 'post' === tpl.data.layout) {
         return true;
       }
     });
   });
 
-  eleventyConfig.addCollection('bestOfCollection', function(collection) {
+  eleventyConfig.addCollection('bestOfCollection', function (collection) {
     const tmpCollection = collection.getAllSorted();
-    return tmpCollection.reverse().filter(function(tpl) {
-      if ( tpl.data.permalink && tpl.data.tags && tpl.data.tags.includes('Best Of') ) {
+    return tmpCollection.reverse().filter(function (tpl) {
+      if (tpl.data.permalink && tpl.data.tags && tpl.data.tags.includes('Best Of')) {
         return true;
       }
     });
   });
 
-  eleventyConfig.addCollection('allTags', function(collection) {
+  eleventyConfig.addCollection('allTags', function (collection) {
     let allTags = [];
 
-    collection.getAllSorted().forEach(function(el) {
+    collection.getAllSorted().forEach(function (el) {
       allTags = allTags.concat(el.data.tags);
     });
 
     let tagDict = {};
-    allTags.sort().forEach(function(el) {
+    allTags.sort().forEach(function (el) {
       if (el) {
         tagDict[el] = tagDict[el] ? tagDict[el] + 1 : 1;
       }
@@ -63,11 +64,11 @@ module.exports = function(eleventyConfig) {
    * Filters
    */
 
-  eleventyConfig.addFilter('dateformat', function(dateIn) {
+  eleventyConfig.addFilter('dateformat', function (dateIn) {
     return moment(dateIn).format('MMM DD, YYYY [at] h:mm a');
   });
 
-  eleventyConfig.addFilter('json', function(data) {
+  eleventyConfig.addFilter('json', function (data) {
     return JSON.stringify(data, null, 2);
   });
 
