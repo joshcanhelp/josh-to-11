@@ -157,3 +157,18 @@ My point of all this is not to tell you what I did so you can try the same. My p
 If you can’t choose a carrot over candy, it’s the carrot that failed. If you can’t save your money for a vacation because you keep buying clothes, it’s the vacation that failed. If you can’t stop smoking despite a persistent cough, it’s the cough that failed.
 
 If the motivation you keep in your mind for the things you want to change does not produce the change that you want, then the motivation has failed. Unless the conditions change, your experiment will produce the same outcome. Write down your conclusions, think up another hypothesis, and try something new.
+
+{% h2br %}2020-11-24{% endh2br %}
+
+I just heard a great interview with James Clear, led by Sam Harris, and realized part-way through one of the answers that he was talking about exactly this. Interview is [here](https://samharris.org/podcasts/200-creatures-habit/), notes below are from 24:45 and onward.
+
+- SH: Goals are enjoyed very briefly. Think about finishing a marathon: you finish and can spend a while after wringing out whatever satisfaction you can get out of reapeating that to yourself. But the process is the life of being a runner, someone who likes running after the marathon
+- JC: You do not rise to the level of your goals, you fall to the level of your systems
+- We are heavily focused on outcomes (lose 40 pounds, etc) but your outcomes are lagging measures of your habits. Your physical fitness is a lagging measure of your eating and exercise habits
+- Fix the inputs and the outputs will fix themselves; process over outcome
+- A gap between your desired outcome and your daily habits, the daily habits will win
+- Your current habits are perfectly designed to deliver your current results; whatever system you've been running have carried you, inevitably, to the place that you're at right now
+- SH: The real goal to achieve is to find a process that is genuinely fulfilling
+- You want to lift a certain amount of weight but the actual satisfaction comes in finding a way of working out that you actually love to do; it's satisfying in the way that a bad habit is
+
+
