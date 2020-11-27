@@ -8,6 +8,7 @@ modified: Last Modified
 permalink: taking-wordpress-to-eleventy/index.html
 tags: [ "Best Of", "WordPress", "Eleventy", "Open Source" ]
 featured_img: /_images/2020/02/IMG_2468-150x150.jpg
+twitter_url: https://twitter.com/joshcanhelp/status/1229144340288561152
 
 ---
 

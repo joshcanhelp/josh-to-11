@@ -7,6 +7,7 @@ date: 2020-05-17 12:21:00
 permalink: how-we-are-teaching-right-now/index.html
 tags: ["Family", "Iteration", "COVID-19"]
 featured_img: /_images/2020/05/lego-baby.jpg
+twitter_url: https://twitter.com/joshcanhelp/status/1262405046852915201
 
 ---
 

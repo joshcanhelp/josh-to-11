@@ -41,20 +41,21 @@ I've been thinking about documentation quite a bit lately, especially the code-c
 
 I'm *fascinated* by the idea of code as a communication tool. I've been working in developer experience at Auth0 for almost 3 years now and the way I write code has changed drastically during that time. When your code is used both as an example and as-is, you start to pay attention to different things.
 
-It's not just code by itself either. A changeset is a powerful way to tell a story or present an idea. The diff below shows an API protected using one authorization library being switched to a newer one.
+And it's not just the code itself. A changeset is a powerful way to tell a story or present an idea. The diff below shows an API protected using one authorization library being switched to a newer one.
 
 ![](/_images/2020/10/api-auth-code-sample.png)
 
 **Big difference.**
 
-Illustrative code mcode *must* be clear and to the point and that's where your effort as a human is best spent:
+Illustrative code *must* be clear and to the point and that's where your effort as a human is best spent:
 
 - Is this sample complete enough to illustrate the point but short enough that someone doesn't get lost?
 - Is it clear that this sample is for education and not for a hardened production environment?
 - Am I showing, clearly, what's happening or am I trying to be clever?
 - Am I solving a specific problem or trying to do too much?
+- Is the diff focused enough that the purpose of the change is clear?
 
-These are the true jobs to be done while communicating with code but they are not the only things that make or break a code sample.
+These are the true jobs to be done while communicating with code but they are not the only things that make or break the message.
 
 ## The Problem with Code Samples
 
@@ -64,13 +65,13 @@ Even a clear and concise block of code that perfectly communicates a discreet so
 
 ❌ Inconsistent formatting
 
-❌ Inaccessible language or misspelling
+❌ Inaccessible language, typos, and misspellings
 
 ❌ Incorrect logic
 
 ❌ Out-of-date API usage (see the axios example above)
 
-Some of the problems above can render a well-crafted code sample useless once it ends up in someone's application. And these are problems that are hard to solve by just "being more careful" (we all know what happens when we berate ourselves for that). Reviewing code for syntax, spelling errors, and formatting is the job of a robot, not a person.
+Some of the problems above can render well-crafted technical documentation useless when it ends up in an application. And these problems are hard to solve by just "being more careful" (we all know what happens when we berate ourselves for that). Reviewing code for syntax, spelling errors, and formatting is the job of a robot, not a person.
 
 My very manual way of dealing with this is to maintain code samples outside of the content I'm writing. For my [unit testing post](/wordpress-unit-testing-techniques/), for example, I have [a whole separate repo](https://github.com/joshcanhelp/wp-test-plugin/) that can be auto-formatted with PHPCS and tested with PHPUnit. It solves most of the problems above but I have to remember to copy the code over to the right samples when anything changes. **Tedious**.
 
@@ -80,7 +81,7 @@ So how can we write code samples that don't make us hate ourselves in the future
 
 I brought this up at Auth0 and got a great response from a number of people across several teams. I started with our people first because I knew that, done right, this could have a big impact. [Keavy McMinn](https://keavy.com/work/where-to-start/), one of my favorite writers on all things technical leadership, explains that [this is where to start](https://keavy.com/work/where-to-start/) when solving large technical problems:
 
-> My experiences have taught me that if you want to produce the right thing, that has rich and lasting impact, this starting point of finding people, talking to and learning from them is fundamental. For me it’s the precursor before the technical research and experiments can truly begin.
+> &ldquo;My experiences have taught me that if you want to produce the right thing, that has rich and lasting impact, this starting point of finding people, talking to and learning from them is fundamental. For me it’s the precursor before the technical research and experiments can truly begin.&rdquo;
 
 I have this rotting docs problem in my own work but an `n=1` here was not enough. Talking to other teams painted a much more complete picture of the problems to solve:
 
@@ -94,9 +95,9 @@ Better, more complete docs? Better inter-team collaboration? Less support reques
 
 Before starting, I wanted to be clear about what I'm doing here and what the evaluation criteria will be for selecting an approach (or doing more research). [Again from Keavy](https://keavy.com/work/technical-preparation/):
 
-> Spikes are a temporary means to an end: simply stringing some parts together enough to learn something about how it **could** work. Partly I do spikes for my own knowledge, to validate or invalidate each approach, and also for confidence in how to approach a problem. I have learned that they can also be highly valuable tools in persuading others of the viability of a project.
+> &ldquo;Spikes are a temporary means to an end: simply stringing some parts together enough to learn something about how it **could** work. Partly I do spikes for my own knowledge, to validate or invalidate each approach, and also for confidence in how to approach a problem. I have learned that they can also be highly valuable tools in persuading others of the viability of a project.&rdquo;
 
-I wanted to explore what existed out there and, if neccessary, look into the work necessary to build a tool from scratch. My main evaluation criteria, besides how well it solves the problems explained above, are:
+I wanted to explore what existed out there and, if neccessary, look into the work required to build a tool from scratch. My main evaluation criteria, besides how well it solves the problems explained above, are:
 
 - How much work would it take to convert existing code samples?
 - How much work would it take to handle the output (delivery, aesthetics)?
@@ -141,7 +142,7 @@ To recap:
 - I think I know what a successful solution looks like
 - I understand the problem space
 
-I am ready to do a spike! Stay tuned for the first one, coming soon 👍
+I am ready to do a spike! [The first one is here](/testable-documentation-spike-1/).
 
 
 
