@@ -200,12 +200,12 @@ pre.line-numbers > code {
   padding-right: 0.8em;
   text-align: right; }
 
-main, .card {
+main, .card, .card-small {
   zoom: 1; }
-  main:before, .card:before, main:after, .card:after {
+  main:before, .card:before, .card-small:before, main:after, .card:after, .card-small:after {
     content: "";
     display: table; }
-  main:after, .card:after {
+  main:after, .card:after, .card-small:after {
     clear: both; }
 
 body {
@@ -328,6 +328,9 @@ hr {
   border: none;
   border-bottom: 1px solid #d2dbdf; }
 
+small {
+  font-size: 12px; }
+
 code {
   display: inline-block;
   white-space: nowrap;
@@ -375,7 +378,7 @@ pre[class*="language-"] {
   margin-bottom: 10px;
   font-family: Consolas, "Andale Mono", monospace; }
   .date span, .sub-head span {
-    background: #a6fffe;
+    background: #f0f3f4;
     display: inline-block;
     padding: 0.1em 0.5em; }
 
@@ -476,3 +479,11 @@ pre[class*="language-"] {
       .card img {
         width: 150px;
         margin-left: 2em; } }
+
+.card-small {
+  margin: 0 0 25px; }
+  .card-small .date, .card-small .sub-head {
+    margin: 0 0 5px; }
+  .card-small h3 {
+    font-size: 18px;
+    margin: 0; }

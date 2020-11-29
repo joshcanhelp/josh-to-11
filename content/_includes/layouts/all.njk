@@ -1,6 +1,6 @@
 {% extends "_html.njk" %}
 
-{% from "macros/postListing.njk" import postListing %}
+{% from "macros/postListingSmall.njk" import postListingSmall %}
 
 {% block content %}
   <article>
@@ -10,8 +10,17 @@
       </h1>
     </div>
     {{ content | safe }}
+
+    {% set currentYear = 0 %}
     {% for post in collections.postsCollection %}
-      {{ postListing(post, false) }}
+      {% set postYear = post
+        .date
+        .getFullYear() %}
+      {% if currentYear !== postYear %}
+        <h2>{{ postYear }}</h2>
+        {% set currentYear = postYear %}
+      {% endif %}
+      {{ postListingSmall(post) }}
     {% endfor %}
   </article>
 {% endblock %}

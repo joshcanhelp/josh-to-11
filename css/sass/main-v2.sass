@@ -27,7 +27,7 @@
 	font-family: $f_family_mono
 
 	span
-		background: $c_vivid_blue
+		background: $c_g_lightest
 		display: inline-block
 		padding: 0.1em 0.5em
 
@@ -129,3 +129,14 @@
 		+larger_than_phone
 			width: 150px
 			margin-left: 2em
+
+.card-small
+	@extend %cf
+	margin: 0 0 $p_medium
+
+	.date
+		margin: 0 0 $p_smallest
+
+	h3
+		font-size: $f_size_base
+		margin: 0
