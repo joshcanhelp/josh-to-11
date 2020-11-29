@@ -4,8 +4,7 @@ layout: post
 excerpt: "After years of reading about productivity (a generally unproductive thing to do), trying out different techniques and apps, and journalling, I have finally constructed a system that helps me complete concrete tasks consistently and efficiently."
 date: 2017-01-13 04:19:01
 modified: 2018-07-19 04:36:44
-# permalink: getting-the-non-essentials-done/index.html
-permalink: false
+permalink: getting-the-non-essentials-done/index.html
 tags: ["Personal Development"]
 featured_img:
 wpid: 4819
@@ -27,7 +26,7 @@ Neither of those two attributes compare to the most de-motivating factor of them
 
 Welcome to my 30’s.
 
-- - - - - -
+---
 
 Maybe 6 months ago, in one of my typical “ack, things have to change” moments, I followed the rabbit-hole of self help blog posts to [an exercise](http://www.wisebread.com/feeling-stuck-100-ways-to-change-your-life) that resonated with me immediately. You sit down with zero distractions for 20 minutes and try to write down 100 things you want to do in your life:
 
@@ -59,7 +58,7 @@ This was, for me, both a revelation and a relief. I had a no-guilt explanation f
 
 Problem “solved.”
 
-- - - - - -
+---
 
 Putting this all together paints a pretty clear picture in 4 bullet points:
 
@@ -91,7 +90,7 @@ So what have I learned from my work system that seems applicable to a personal o
 
 Put simply: My context will determine what types of things I am likely to find easy to do and a limited, ordered list of those things will remove wasteful decision-making time.
 
-- - - - - -
+---
 
 Maybe you’ve read through all this and thought “this sounds like me and I’ve had the same issues” and wondering when I’m going to get to the part where I solve your problems. I hope that is this section.
 
@@ -107,3 +106,7 @@ Several pages of printer paper, a stick of mechanical pencil lead, and half an e
 Here is a bit more color, literally and figuratively:
 
 [![](/_images/2017/01/AHundredThings.png)](https://www.dropbox.com/s/zkk1xdd8f0l0oy0/AHundredThings.pdf?dl=0)
+
+{% h2br %}2020-11-29{% endh2br %}
+
+I put this post live today because it's been sitting as an unfinished draft for over 3 years. There is probably not a lot of value someone else could take from this post but, for me, it's another signpost in figuring out how my brain works. This is still when I believed the only thing keeping me from getting exactly what I want out of life is a better todo list. I'm still not sure exactly what it will take for me to get there but [my thinking has advanced a bit from here](/improvement-as-experimentation/).

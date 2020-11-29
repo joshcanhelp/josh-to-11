@@ -13,7 +13,7 @@ wpid: 1216
 
 I think I’ve found my calling: exchanging ideas and talking them through. What’s that pay nowadays?
 
-I always like sharing my interactions with people here on my blog. Partly because it adds a really human side to my business and shows prospective clients that I’m more than just an email address. The main reason, though, is it creates a much deeper understanding for me when I write it all out and re-experience the conversation. Like many,[ I need to iterate to understand](/do-it-and-then-do-it-better-an-iterative-mindset/) and it’s easy for me to forget an important insight I came across while interacting with someone else if I don’t work it through after the fact.
+I always like sharing my interactions with people here on my blog. Partly because it adds a really human side to my business and shows prospective clients that I’m more than just an email address. The main reason, though, is it creates a much deeper understanding for me when I write it all out and re-experience the conversation. Like many, [I need to iterate to understand](/do-it-and-then-do-it-better-an-iterative-mindset/) and it’s easy for me to forget an important insight I came across while interacting with someone else if I don’t work it through after the fact.
 
 [!["network cables" by pascal.charest on Flickr](/_images/2009/11/308357541_222d1b2e2a.jpg "308357541_222d1b2e2a")](https://www.flickr.com/photos/pascalcharest/308357541/)
 

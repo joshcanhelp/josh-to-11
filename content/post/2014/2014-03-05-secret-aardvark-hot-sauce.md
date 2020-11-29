@@ -4,7 +4,7 @@ layout: post
 excerpt: ""
 date: 2014-03-05 23:14:08
 modified: 2016-01-19 04:20:04
-permalink: secreat-aardvark-hot-sauce/index.html
+permalink: secret-aardvark-hot-sauce/index.html
 tags: ["Premium Consumption"]
 featured_img: /_images/2014/03/IMG_2899-150x150.jpg
 link_to: https://secretaardvark.com/shop/sauce/aardvark-habanero-hot-sauce/
