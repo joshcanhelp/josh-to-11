@@ -14,8 +14,4 @@ wpid: 3820
 
 I’ve been working on the web since 2007 as an engineer, designer, strategist, user interface consultant, team lead, project manager, and product builder. I’ve been working IRL since 2010 as a husband and since 2013 as a dad.
 
-- [About me](/about/) and [Now](/now/)
-- [All Posts](/archives/all/) and [All Tags](/archives/tags/)
-- [Twitter](https://twitter.com/joshcanhelp), [GitHub](https://github.com/joshcanhelp), [LinkedIn](https://www.linkedin.com/in/joshcanhelp/)
-
-Unless attributed, words, photographs, and graphics are my own.
+{% include partials/find-me.html %}

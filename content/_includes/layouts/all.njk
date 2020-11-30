@@ -17,7 +17,7 @@
         .date
         .getFullYear() %}
       {% if currentYear !== postYear %}
-        <h2>{{ postYear }}</h2>
+        {% h2br %}{{ postYear }}{% endh2br %}
         {% set currentYear = postYear %}
       {% endif %}
       {{ postListingSmall(post) }}

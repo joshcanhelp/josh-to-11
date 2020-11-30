@@ -5,7 +5,7 @@ permalink: testable-documentation-intro/index.html
 layout: post
 tags: [ "Documentation", "Development", "Testing", "Technical Research"]
 date: 2020-10-28 18:05:00
-featured_img:
+featured_img: /_images/2020/11/IMG_4092-300x300.jpg
 excerpt: I've been thinking about documentation quite a bit lately, especially the code-centric type, and how to avoid punishing myself for spending time writing it. Here's the start of my research project to that end.
 
 ---
@@ -40,6 +40,8 @@ I've been thinking about documentation quite a bit lately, especially the code-c
 ## Code as Communication
 
 I'm *fascinated* by the idea of code as a communication tool. I've been working in developer experience at Auth0 for almost 3 years now and the way I write code has changed drastically during that time. When your code is used both as an example and as-is, you start to pay attention to different things.
+
+![Sunset](/_images/2020/11/IMG_4092.jpg)
 
 And it's not just the code itself. A changeset is a powerful way to tell a story or present an idea. The diff below shows an API protected using one authorization library being switched to a newer one.
 

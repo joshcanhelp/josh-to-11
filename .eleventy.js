@@ -77,7 +77,7 @@ module.exports = function (eleventyConfig) {
    */
 
   eleventyConfig.addFilter('dateformat', function (dateIn) {
-    return moment(dateIn).format('MMM DD, YYYY [at] h:mm a');
+    return moment(dateIn).format('MMM DD, YYYY');
   });
 
   eleventyConfig.addFilter('json', function (data) {

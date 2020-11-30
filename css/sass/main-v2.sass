@@ -25,6 +25,7 @@
 	font-size: $f_size_smallest
 	margin-bottom: $p_small
 	font-family: $f_family_mono
+	line-height: $f_size_base
 
 	span
 		background: $c_g_lightest
@@ -34,9 +35,10 @@
 .sub-head
 	@extend .date
 	font-weight: normal
+	font-size: $f_size_small
 
 	span
-		background: $c_vivid_green
+		background: $c_vivid_yellow
 
 .title
 	+centered_on_phone()
@@ -55,7 +57,7 @@
 
 .hr
 	border-bottom: 1px solid $c_vivid_pink
-	font-size: $f_size_smallest
+	font-size: $f_size_small
 	padding-bottom: 0.25em
 	padding-left: 3%
 	text-transform: uppercase
@@ -106,7 +108,7 @@
 
 .card
 	@extend %cf
-	margin: $p_medium 0
+	margin: 0 0 $p_medium
 	padding: $p_medium
 	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)
 
