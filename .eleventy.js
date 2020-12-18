@@ -96,6 +96,10 @@ module.exports = function (eleventyConfig) {
     `<blockquote class="info-block">${text}</blockquote>`
   );
 
+  eleventyConfig.addPairedShortcode('warning', (text) =>
+    `<blockquote class="warning-block">${text}</blockquote>`
+  );
+
   return {
     dir: {
       input: "content",
