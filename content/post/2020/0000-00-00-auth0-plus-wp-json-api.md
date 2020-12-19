@@ -1,9 +1,9 @@
 ---
 
-title: "Use Auth0 to protect your WordPress REST API"
-permalink: protect-wordpress-rest-api-with-auth0/index.html
+title: "Protect your WordPress REST API with OAuth2 using Auth0"
+permalink: protect-wordpress-rest-api-with-oauth2-auth0/index.html
 layout: post
-tags: [ "WordPress", "Auth0", "AuthN + AuthZ" ]
+tags: [ "WordPress", "Auth0", "OAuth2" ]
 date: 2020-12-30
 featured_img: /_images/2020/12/code_sample-300x300.png
 excerpt: TODO
@@ -11,6 +11,7 @@ excerpt: TODO
 ---
 
 I maintained the [Auth0 WordPress plugin](https://github.com/auth0/wp-auth0) for several years and, in that time, the idea of using Auth0 to protect the [WP REST API](https://developer.wordpress.org/rest-api/) came up several time. I thought this would be a fun project.
+
 
 If you're not familiar with this part of WordPress, it's an API built into WordPress that can be used to do just about everything you can do with WordPress. If you go to `/wp-json/` on any standard WordPress site, you should get a big block of JSON back with meta information and showing all the endpoints available. One of those endpoints, `/wp-json/wp/v2/posts`, will show the latest publish posts on the blog as JSON ([ref](https://developer.wordpress.org/rest-api/reference/posts/)).
 
@@ -167,23 +168,45 @@ We do, however, need a way to get an access token so we can test that the WP RES
 The application we're creating here is for testing purposes only. If you create this application as part of the tutorial here, delete it when you're through!
 {% endwarning %}
 
-4. In the [Applications screen of the dashboard](https://manage.auth0.com/#/applications), click the **WP REST API Testing Application** we just created. 
-5. Click on the **Connections** tab and turn on `Username-Password-Authentication`
-6. Finally, in the [Users screen of the dashboard](https://manage.auth0.com/#/users), click **Create User** and create a test user for the `Username-Password-Authentication` connection; make note of the email and password used
+1. In the [Applications screen of the dashboard](https://manage.auth0.com/#/applications), click the **Create Application** button on the top right. 
+1. Give the new app a descriptive name like "HERE THAR BE DRAGONS" or similar and select **Regular Web Application**
+1. Click the **Settings** tab
+1. Make note of the **Client ID**
+1. Now, make the following changes:
 
-Once this is complete, you should be able to send your email and password to the token endpoint for 
+	- Change **Token Endpoint Authentication Method** to "None"
+	- Scroll down to **Show Advanced Settings** at the bottom, click it, click **Grant Types**, and select **Password**
+	- Scroll back up and click on the **Connections** tab and turn on `Username-Password-Authentication` (or any of the database connections)
+1. Finally, in the [Users screen of the dashboard](https://manage.auth0.com/#/users), click **Create User** and create a test user for the `Username-Password-Authentication` connection; make note of the email and password used
+
+Once this is complete, you should be able to send your email and password plus a few additional values and get an access token back. In the command below, replace:
+
+- `EMAIL_ADDRESS` with your test user email
+- `PASSWORD` with the password for the test user
+- `API_IDENTIFIER` with the API Identifier used above
+- `CLIENT_ID` with the value from the application created above
 
 ```bash
 ❯ curl --request POST \
   --url 'https://YOUR_DOMAIN/oauth/token' \
   --header 'content-type: application/x-www-form-urlencoded' \
-  --data 'grant_type=password&username=USERNAME&password=PASSWORD&audience=API_IDENTIFIER&scope=SCOPE&client_id=YOUR_CLIENT_ID"
- }'
+  --data 'grant_type=password&scope=publish:posts edit:posts&username=EMAIL_ADDRESS&password=PASSWORD&audience=API_IDENTIFIER&client_id=CLIENT_ID'
 
-{"code":"empty_content",
-"message":"Content, title, and excerpt are empty.",
-"data":{"status":400}}
+{"access_token": "eyJhbG...eyJpc3M....QyRI9Lp...",
+"scope": "edit:posts publish:posts",
+"expires_in": 86400,
+"token_type": "Bearer"}
 ```
 
-Again, all of these steps are to create an application that can generate access tokens. You can configure your exernal app as explained in the links above and skip these steps.
+If you're getting an error of any kind back here, check all your values in the curl command as well as your [Auth0 tenant logs](https://manage.auth0.com/#/logs).
+
+{% info %}
+What we're doing here is called a Resource Owner Password grant; we're trading a username and password for tokens. This is something that's typically reserved for legacy applications, for a number of reasons. For more information on this, see <a href="https://auth0.com/docs/videos/learn-identity-series/desktop-and-mobile-apps#wistia_dq3c4pz9lb?time=1580">this video</a>.
+{% endinfo %}
+
+Again, all of these steps are to create an application that can generate access tokens for testing. When this system is put live, you'll need to request access tokens during login from the applications that want to call the WP REST API.
+
+## Access token validation in WP
+
+...
  
