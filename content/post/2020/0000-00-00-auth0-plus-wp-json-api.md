@@ -107,6 +107,7 @@ I'm going to reference the Auth0 documentation here so I don't duplicate helpful
 
 - **Name**: Choose something descriptive
 - **Identifer**: Use your WP API base URL like `https://auth0sdk.wpengine.com/wp-json/`
+- **Signing Algorithm**: Set this to "HS256"
 
 Once you create the API, click on the **Settings** tab, scroll down, and turn on **Allow Offline Access** (we'll talk about that later). 
 
@@ -114,8 +115,8 @@ Now click on the **Permissions** tab and we're ready to add the WordPress action
 
 In this example we're going to allow creating posts under the current user's account and editing them, so we'll add:
 
-- `publish:posts` with a description of "Publish posts for the current user"
-- `edit:posts` with a description of "Edit posts for the current user"
+- `publish_posts` with a description of "Publish posts for the current user"
+- `edit_posts` with a description of "Edit posts for the current user"
 
 ![WP REST API setup in Auth0](/_images/2020/12/wp-rest-api-auth0-setup.png)
 
@@ -145,25 +146,6 @@ We're not going to do all that, instead I'll direct you to Auth0 documentation t
 
 We do, however, need a way to get an access token so we can test that the WP REST API is being protected correctly. To do that, we'll create a throw-away testing application that can get access tokens directly and a throw-away user to simulate a login. 
 
-1. [Get a Management API token for testing](https://auth0.com/docs/tokens/management-api-access-tokens/get-management-api-access-tokens-for-testing)
-2. Click **Set API Token** on the [Management API Explorer page](https://auth0.com/docs/api/management/v2) and enter that token
-3. Go to the [Create Client](https://auth0.com/docs/api/management/v2#!/Clients/post_clients) endpoint on that page and send the following:
-
-```json
-{
-  "name": "WP REST API Testing Application",
-  "jwt_configuration": {
-    "alg": "RS256",
-    "lifetime_in_seconds": 36000
-  },
-  "token_endpoint_auth_method": "none",
-  "app_type": "regular_web",
-  "grant_types": [
-    "password"
-  ]
-}
-```
-
 {% warning %}
 The application we're creating here is for testing purposes only. If you create this application as part of the tutorial here, delete it when you're through!
 {% endwarning %}
@@ -190,7 +172,7 @@ Once this is complete, you should be able to send your email and password plus a
 ❯ curl --request POST \
   --url 'https://YOUR_DOMAIN/oauth/token' \
   --header 'content-type: application/x-www-form-urlencoded' \
-  --data 'grant_type=password&scope=publish:posts edit:posts&username=EMAIL_ADDRESS&password=PASSWORD&audience=API_IDENTIFIER&client_id=CLIENT_ID'
+  --data 'grant_type=password&scope=publish_posts edit_posts&username=EMAIL_ADDRESS&password=PASSWORD&audience=API_IDENTIFIER&client_id=CLIENT_ID'
 
 {"access_token": "eyJhbG...eyJpc3M....QyRI9Lp...",
 "scope": "edit:posts publish:posts",
@@ -201,12 +183,50 @@ Once this is complete, you should be able to send your email and password plus a
 If you're getting an error of any kind back here, check all your values in the curl command as well as your [Auth0 tenant logs](https://manage.auth0.com/#/logs).
 
 {% info %}
-What we're doing here is called a Resource Owner Password grant; we're trading a username and password for tokens. This is something that's typically reserved for legacy applications, for a number of reasons. For more information on this, see <a href="https://auth0.com/docs/videos/learn-identity-series/desktop-and-mobile-apps#wistia_dq3c4pz9lb?time=1580">this video</a>.
+What we're doing here is called a Resource Owner Password grant; we're trading a username and password for a acccess token. This is something that's typically reserved for legacy applications, for a number of very good reasons, hence the warnings. If you'd like to learn a little more about these good reasons, <a href="https://auth0.com/docs/videos/learn-identity-series/desktop-and-mobile-apps#wistia_dq3c4pz9lb?time=1580">see this video segment</a>.
 {% endinfo %}
 
 Again, all of these steps are to create an application that can generate access tokens for testing. When this system is put live, you'll need to request access tokens during login from the applications that want to call the WP REST API.
 
-## Access token validation in WP
 
-...
- 
+## Manage WP users with Auth0
+
+In order for this system to work, we'll need the users in WordPress tied to users in Auth0. Thankfully we have a solution for that, the [Login by Auth0 plugin](https://wordpress.org/plugins/auth0/). Follow the [installation instructions](https://auth0.com/docs/cms/wordpress-plugin/install-login-by-auth0) (scroll down to the **Manual setup** section to connect the site to an existing database connection like the one we used above) and test the login process to make sure authentication is working. 
+
+Once this is working, logins are handled with Auth0 and, on the first successful login/registration, the Auth0 user ID will be stored in the users metadata. We'll use this in the next part of the tutorial to make a call on a user's behalf.
+
+The last step of this configuration is making sure we always have a user in WordPress if we have one in Auth0. This will case the case where a user logs into the external application first and then needs to make changes in WordPress. Without a WordPress user, that would not be possible. 
+
+Go to **Auth0 > Settings > Advanced** tab in the WordPress admin. Turn on **User Migration Endpoints** and click **Save Changes**. You will see a migration token appear. Leave this tab open so we can use it later. 
+
+TODO: Add Rule to look for or add user
+
+
+## Access token authorization in WP
+
+We have our API modelled in our Authorization Server, Auth0, and we're able to get access tokens for that API, and users in WordPress are being managed with Auth0. Now we need to enable the API to receive these access tokens, validate them, and make decisions for protected routes. 
+
+To do all of this, we're going to use the core WordPress filter `determine_current_user` to look for a token in the request headers of a WP REST API call and decide whether or not the call should be allowed based on the call being made and in the information contained in the signed access token.
+
+The access token generated by Auth0 and sent by the external app will contain two values that will help us figure out whether this call should be accepted or not:
+
+- The Auth0 user ID in the `sub` claim
+- The permissions consented to in the `scope` claim
+
+You can see these values in the token you generated above by dropping it into [jwt.io](https://jwt.io/) and looking at the **Payload** section on the right.
+
+Now our job during authorization becomes a bit more clear:
+
+1. Check for a `sub` claim
+2. Use that value to find an associated WordPress user
+3. Make sure the permission(s) for the API call being made is contained in the `scope` claim
+4. Make sure the user is capable of the permissions necessary in the API call
+
+The first two tasks are fairly straighforward and the last one is handled by core WordPress authentication. It's the third one that needs some attention. 
+
+The WP REST API needs a user record in order to make decisions and take action. In that sense, by default, you can only *authenticate* against this API, not *authorize*. In other words, the API expects a WordPress user in order to determine whether it will allow a "create a post" call but, in this case, we only want a user that can do the actions that in in the `scope` claim in our access token. The WordPress user in question is delegating specfic actions they can take to the external application making the API call. Without checking the scopes, the external application could manage plugins, delete posts, and take actions that the WordPress user did not authorize. 
+
+So, we do need a WordPress user in the picture as we need to associate the post to someone, but we need to adjust the capabilities down. 
+
+
+- https://github.com/Tmeister/wp-api-jwt-auth
