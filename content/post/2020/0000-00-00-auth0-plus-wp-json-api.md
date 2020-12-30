@@ -189,19 +189,6 @@ What we're doing here is called a Resource Owner Password grant; we're trading a
 Again, all of these steps are to create an application that can generate access tokens for testing. When this system is put live, you'll need to request access tokens during login from the applications that want to call the WP REST API.
 
 
-## Manage WP users with Auth0
-
-In order for this system to work, we'll need the users in WordPress tied to users in Auth0. Thankfully we have a solution for that, the [Login by Auth0 plugin](https://wordpress.org/plugins/auth0/). Follow the [installation instructions](https://auth0.com/docs/cms/wordpress-plugin/install-login-by-auth0) (scroll down to the **Manual setup** section to connect the site to an existing database connection like the one we used above) and test the login process to make sure authentication is working. 
-
-Once this is working, logins are handled with Auth0 and, on the first successful login/registration, the Auth0 user ID will be stored in the users metadata. We'll use this in the next part of the tutorial to make a call on a user's behalf.
-
-The last step of this configuration is making sure we always have a user in WordPress if we have one in Auth0. This will case the case where a user logs into the external application first and then needs to make changes in WordPress. Without a WordPress user, that would not be possible. 
-
-Go to **Auth0 > Settings > Advanced** tab in the WordPress admin. Turn on **User Migration Endpoints** and click **Save Changes**. You will see a migration token appear. Leave this tab open so we can use it later. 
-
-TODO: Add Rule to look for or add user
-
-
 ## Access token authorization in WP
 
 We have our API modelled in our Authorization Server, Auth0, and we're able to get access tokens for that API, and users in WordPress are being managed with Auth0. Now we need to enable the API to receive these access tokens, validate them, and make decisions for protected routes. 
@@ -217,16 +204,139 @@ You can see these values in the token you generated above by dropping it into [j
 
 Now our job during authorization becomes a bit more clear:
 
-1. Check for a `sub` claim
-2. Use that value to find an associated WordPress user
-3. Make sure the permission(s) for the API call being made is contained in the `scope` claim
-4. Make sure the user is capable of the permissions necessary in the API call
+1. Use the `sub` claim value to find an associated WordPress user
+1. Make sure the permissions required for the API call appear in the `scope` claim
+1. Make sure the user is capable of the permissions necessary in the API call
 
-The first two tasks are fairly straighforward and the last one is handled by core WordPress authentication. It's the third one that needs some attention. 
+The first task is fairly straighforward and the last one is handled by core WordPress authentication. It's the third one that needs some attention. 
 
-The WP REST API needs a user record in order to make decisions and take action. In that sense, by default, you can only *authenticate* against this API, not *authorize*. In other words, the API expects a WordPress user in order to determine whether it will allow a "create a post" call but, in this case, we only want a user that can do the actions that in in the `scope` claim in our access token. The WordPress user in question is delegating specfic actions they can take to the external application making the API call. Without checking the scopes, the external application could manage plugins, delete posts, and take actions that the WordPress user did not authorize. 
+The WP REST API expects a specific user record to be present in order to make permission decisions. But it also needs a user in focus for calls like post creation in order to set a post author. By default, you can only *authenticate* against this API (prove who you are), not *authorize* (prove what you're allowed to do). 
 
-So, we do need a WordPress user in the picture as we need to associate the post to someone, but we need to adjust the capabilities down. 
+In other words, the API expects a WordPress user in order to determine whether it will, say, allow a "create a post" call but, in this case, we only want a user that can do the actions that are in the `scope` claim in our access token. The WordPress user in question is delegating specfic actions they can take to the external application making the API call. Without checking the scopes, the external application could manage plugins, delete posts, and take actions that the WordPress user did not authorize. 
+
+So, we do need a WordPress user in the picture as we need to associate the post to someone, but we need to adjust the capabilities down to what the access token indicates.  
+
+To avoid a big block of unmaintained code in this post, I have the code to make this work [in this file](https://github.com/joshcanhelp/wp-rest-api-auth0/blob/main/wp-rest-api-auth0/index.php) with liberal use of comments for explanation. The [repo README](https://github.com/joshcanhelp/wp-rest-api-auth0) explains how to get the code working on an existing WordPress site	or you can use [this Gist](https://gist.github.com/joshcanhelp/0e35b657ca03142e3d79595c28bb3ed7) to get it running locally using Docker.
+
+Our last step will be integrating Auth0 with WordPress and dealing with users that have not been created there yet.
+
+## Manage WP users with Auth0
+
+In order for this system to work, we'll need the users in WordPress tied to users in Auth0. Thankfully we have a solution for that, the [Login by Auth0 plugin](https://wordpress.org/plugins/auth0/). Follow the [installation instructions](https://auth0.com/docs/cms/wordpress-plugin/install-login-by-auth0) (scroll down to the **Manual setup** section to connect the site to an existing database connection like the one we used above) and test the login process to make sure authentication is working. 
+
+Once this is working, logins are handled with Auth0 and, on the first successful login/registration, the Auth0 user ID will be stored in the users metadata. We'll use this in the next part of the tutorial to make a call on a user's behalf.
+
+One thing we need to deal with, however, is what happens when a user logs into the external app and they don't have an account in the WordPress instance that serves the API. Without a WordPress account tied to the same Auth0 user, an access token will be valid but the WP API request will be rejected. 
+
+So we want to let applications that are requesting access tokens know if the user needs to register on the WordPress site first before the API call can be made. We're going to use an Auth0 [Rule](https://auth0.com/docs/rules) combined with endpoints provided by the Auth0 WordPress plugin to send back a true/false flag in the user identity. 
+
+{% warning %}
+One important thing to note here ... WordPress uses emails as a unique identifier and Auth0, by default, does not. If you are only using a single connection to log users in and that connection always provides an email address, then this will work fine. If, however, you allow users to log in with multiple connections that could provide the same email address, then you'll need to link those identities with their email address. [More information on this here](https://auth0.com/docs/users/user-account-linking).
+{% endwarning %}
+
+First, we'll turn on the endpoints we need in WordPress.
+
+1. Go to **Auth0 > Settings > Advanced** tab in the WordPress admin.
+2. Turn on **User Migration Endpoints** and click **Save Changes**.
+3. You should see a migration token now showing. Leave this tab open so we can use it in the Rule. 
+
+Next, we'll create the Rule that will reach out and look for an account.
+
+1. Go to [Rules in the Auth0 dashboard](https://manage.auth0.com/#/rules)
+2. Click **Create Rule** on the top right
+3. Click **Empty Rule**
+4. Give the Rule a clear name like "Check for WordPress account by email"
+5. Paste in the code below and click **Save Changes**. The code is written in a way that it's skipped without the proper configuration values (set below) so the check will not occur yet. Still, it's always a good idea to test new stuff in a staging environment.
+
+```js
+async function checkWordPressForUser(user, context, callback) {
+
+  if ( !user.email ) {
+    console.log("User does not have an email to use.");
+    return callback(null, user, context);
+  }
+  
+  const customClaimNamespace = "https://custom-claim/has_wp_account";
+  const { 
+    WP_API_CLIENT_ID, 
+    WP_API_IDENTIFIER, 
+    WP_API_GET_USER_URL, 
+    WP_API_TOKEN 
+  } = configuration;
+  
+  if (!WP_API_IDENTIFIER || !WP_API_GET_USER_URL || !WP_API_TOKEN ) {
+    console.log("Missing required configuration.");
+    return callback(null, user, context);
+  }
+  
+  if ( WP_API_CLIENT_ID && context.clientID === WP_API_CLIENT_ID ) {
+    console.log("Logging into WP application, skipping check.");
+    return callback(null, user, context);
+  }
+  
+  const { query = {} } = context.request || {};
+  if ( !query.audience || query.audience !== WP_API_IDENTIFIER ) {
+    console.log(`Not the WP API audience: ${query.audience}`);
+    return callback(null, user, context);
+  }
+  
+  context.idToken[customClaimNamespace] = false;
+  
+  const axios = require("axios@0.19.2");
+  const url = require("url");
+  const formData = new url.URLSearchParams({ username: user.email });
+  
+  let apiResponse;
+  try {
+    apiResponse = await axios.post(
+      WP_API_GET_USER_URL, 
+      formData.toString(), 
+      { 
+        headers: { 
+        	Authorization: `Bearer ${WP_API_TOKEN}`,
+          "Content-Type": "application/x-www-form-urlencoded"
+      	} 
+      }
+    );
+  } catch (apiHttpError) {
+    console.log(`Error calling the WP API: ${apiHttpError.message}`);
+    return callback(null, user, context);
+  }
+  
+  if ( apiResponse.data.error ) {
+  	console.log(`Error returned from the WP API: ${apiResponse.data.error}`);
+    return callback(null, user, context);
+  }
+  
+  if ( apiResponse.data.ID ) {
+    context.idToken[customClaimNamespace] = true;
+  }
+  
+  return callback(null, user, context);
+}
+```
+
+I added logging (use the [Real-time Webtaks Logs extension](https://auth0.com/docs/extensions/real-time-webtask-logs) to see them during login) to help determine what's happening if there is a problem. Some or all of these can be removed once you confirm that the Rule is working.
+
+Walking through the code above:
+
+* If the user does not have an email, the Rule is skipped
+* If the login is for the WordPress application, the Rule is skipped
+* If the Rule does not have the correct configuration, it is skipped
+* If the application is not requesting an access token for the WordPress API, the Rule is skipped
+* If everything looks good, we call the "get user" endpoint of the WordPress site to see if we have a user with the current user's email
+* If we got an error of some kind, including that the user does not exist, then we send a custom identity claim `https://custom-claim/has_wp_account` set to `false` so the receiving application knows that we might not be able to call the WP API as the current user
+* If everything worked out according to plan and we get a user back, we set `https://custom-claim/has_wp_account` to `true` and then the requesting application knows it can call the WP API with the access token it received
 
 
-- https://github.com/Tmeister/wp-api-jwt-auth
+
+The last bit here is to add the required configuration values. Click the [Back to Rules](https://manage.auth0.com/#/rules) link at the top of the screen and scroll down to the **Settings** section to add the following values:
+
+* `WP_API_CLIENT_ID` - The Client ID for the WordPress application. This is the same value that's saved the Auth0 plugin settings.
+* `WP_API_IDENTIFIER` - The API identifier we got when we created the WP REST API earlier.
+* `WP_API_GET_USER_URL` - This is your WordPress site URL plus `/index.php?a0_action=migration-ws-get-user`. You should be able to visit this URL in a browser and see an "Unauthorized" error.
+* `WP_API_TOKEN` - This is the token from the Auth0 plugin, generated earlier in this section.
+
+## Putting it all together
+
+We now (finally) have everything we need to call the WP REST API from another application and publish posts there!
