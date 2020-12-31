@@ -143,7 +143,7 @@ class TestHttpHalt extends \PHPUnit\Framework\TestCase {
 
 [See this using the helper library ›](https://github.com/joshcanhelp/wp-test-plugin/blob/master/tests/testHttpHaltWpTestCase.php)
 
-> **A note on the Exception-throwing here:** You'll find that throwing a generic core `Exception` here can be a little problematic if the code you're testing fails for a different reason and you get an error from the JSON decoding. The helper library I link to above throws [specific exceptions](https://github.com/joshcanhelp/wp-unit-test-helpers/tree/master/src/exceptions) so you can catch what you throw in your helpers and everything else will bubble up.
+{% info %}You'll find that throwing a generic core `Exception` here can be a little problematic if the code you're testing fails for a different reason and you get an error from the JSON decoding. The helper library I link to above throws <a href="https://github.com/joshcanhelp/wp-unit-test-helpers/tree/master/src/exceptions">specific exceptions</a> so you can catch what you throw in your helpers and everything else will bubble up.{% endinfo %}
 
 Walking through what we're doing here:
 
@@ -739,8 +739,7 @@ To see how to test whether scripts/styles are loaded and what localization was a
 
 This post ended up at 23 pages printed, generated 2 GitHub repos, and took about 6 months to write! Hopefully you found it helpful or, at the very least, enlightening on your path to writing tests for WordPress.
 
-<a id="references"></a>
-{% h2br %}References / Resources{% endh2br %}
+{% h2br %}References{% endh2br %}
 
 - [WP Unit Test Helpers on GitHub](https://github.com/joshcanhelp/wp-unit-test-helpers) and [on Composer](https://packagist.org/packages/joshcanhelp/wp-unit-test-helpers)
 - [Test plugin with all the code above](https://github.com/joshcanhelp/wp-test-plugin)

@@ -92,6 +92,14 @@ module.exports = function (eleventyConfig) {
     `<h2 class="hr aligncenter" id="${text.replace(/[^a-z0-9]/gi, '-c').toLowerCase()}"><span class="pink">&lt;</span>${text}<span class="pink">&gt;</span></h6>`
   );
 
+  eleventyConfig.addPairedShortcode('info', (text) =>
+    `<blockquote class="info-block">${text}</blockquote>`
+  );
+
+  eleventyConfig.addPairedShortcode('warning', (text) =>
+    `<blockquote class="warning-block">${text}</blockquote>`
+  );
+
   return {
     dir: {
       input: "content",

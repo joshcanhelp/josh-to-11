@@ -107,7 +107,7 @@ $get_post_args = [
 
 The `posts_per_page` needs to be set to `-1` (get everything) but can be adjusted if you're testing out the conversion. The `post_type` needs to be set so you exclude `attachment` types (uploads) but should be expanded to include others that you might be using. If you've had the site up for a while and mutliple people have worked on it, there might be types there that you've forgotten about!
 
-**Note:** If you're using my WP-CLI script, you can run `wp wptomd-types` to output all of the post types in your database.
+{% info %}If you're using my WP-CLI script, you can run `wp wptomd-types` to output all of the post types in your database.{% endinfo %}
 
 As you're taking inventory of what's there, it might be time to start looking at your WP theme files as well to see if there is any content being output from custom fields/postmeta. Look for `get_post_meta()` in theme files to figure out what fields are used and how. You'll want to figure out early whether these need to go in data fields (these can be used in listings and outside of the MD file) or above/below the main content.
 
