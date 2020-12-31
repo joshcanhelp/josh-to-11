@@ -317,7 +317,7 @@ If you made it to the end of this post, you deserve a cookie or something! Thank
 {% h2br %}References{% endh2br %}
 
 - [WP REST API repo](https://github.com/joshcanhelp/wp-rest-api-auth0/)
-- [WP REST API Composer package](https://github.com/joshcanhelp/wp-rest-api-auth0/)
+- [WP REST API Composer package](https://packagist.org/packages/joshcanhelp/wp-rest-api-auth0)
 - [Auth0 WordPress plugin](https://github.com/auth0/wp-auth0)
 - [Official WP REST API docs](https://developer.wordpress.org/rest-api/)
 - [Run WordPress locally using Docker](https://gist.github.com/joshcanhelp/0e35b657ca03142e3d79595c28bb3ed7)
