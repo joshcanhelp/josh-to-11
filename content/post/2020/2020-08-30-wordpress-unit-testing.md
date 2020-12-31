@@ -739,8 +739,7 @@ To see how to test whether scripts/styles are loaded and what localization was a
 
 This post ended up at 23 pages printed, generated 2 GitHub repos, and took about 6 months to write! Hopefully you found it helpful or, at the very least, enlightening on your path to writing tests for WordPress.
 
-<a id="references"></a>
-{% h2br %}References / Resources{% endh2br %}
+{% h2br %}References{% endh2br %}
 
 - [WP Unit Test Helpers on GitHub](https://github.com/joshcanhelp/wp-unit-test-helpers) and [on Composer](https://packagist.org/packages/joshcanhelp/wp-unit-test-helpers)
 - [Test plugin with all the code above](https://github.com/joshcanhelp/wp-test-plugin)
