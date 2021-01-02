@@ -140,67 +140,6 @@ If you want to learn more about how scopes and permissions interact, check out <
 
 The rest of the API settings can be left as their defaults for now.
 
-## Build your Application
-
-If you're reading this post then it's likely that you already have or are building an application that needs to call a WP API. Requesting and using the access token is part of this tutorial but building an entire application to do that is beyond the scope. 
-
-The summary of what we need to do here is:
-
-1. Build a login URL including the API identifier as an `audience` parameter and the permissions we are requesting in a `scope` parameter
-1. Redirect to Auth0 to perform the login and API consent (more on that later)
-1. Receive an authorization code back and exchange that for an access token
-1. Use that access token to call the WP REST API
-
-We're not going to do all that here, instead I'll direct you to Auth0 documentation to help you do this in your application:
-
-* [How to get an access token](https://auth0.com/docs/tokens/access-tokens/get-access-tokens) - general information on requesting access tokens and links to more information.
-* [Auth0 Quickstarts](https://auth0.com/docs/quickstarts/) - many of these include a section on how to request access tokens during login. If not, check out the documentation for the SDK being used.
-
-We do, however, need a way to get an access token so we can test that the WP REST API is being protected correctly. To do that, we'll create a throw-away testing application that can get access tokens directly and a throw-away user to simulate a login. 
-
-{% warning %}
-The application we're creating here is for testing purposes only. If you create this application as part of the tutorial here, delete it when you're through!
-{% endwarning %}
-
-1. In the [Applications screen of the dashboard](https://manage.auth0.com/#/applications), click the **Create Application** button on the top right. 
-1. Give the new app a descriptive name like "HERE THAR BE DRAGONS" or similar and select **Regular Web Application**
-1. Click the **Settings** tab
-1. Make note of the **Client ID**
-1. Now, make the following changes:
-
-	- Change **Token Endpoint Authentication Method** to "None"
-	- Scroll down to **Show Advanced Settings** at the bottom, click it, click **Grant Types**, and select **Password**
-	- Scroll back up, click on the **Connections** tab, and turn on `Username-Password-Authentication` (or any of the database connections)
-1. Finally, in the [Users screen of the dashboard](https://manage.auth0.com/#/users), click **Create User** and create a test user for the `Username-Password-Authentication` connection; make note of the email and password used
-
-Once this is complete, you should be able to send your email and password plus a few additional values and get an access token back. In the command below, replace:
-
-- `EMAIL_ADDRESS` with your test user email
-- `PASSWORD` with the password for the test user
-- `API_IDENTIFIER` with the API Identifier used above
-- `CLIENT_ID` with the value from the application created above
-
-```bash
-❯ curl --request POST \
-  --url 'https://YOUR_DOMAIN/oauth/token' \
-  --header 'content-type: application/x-www-form-urlencoded' \
-  --data 'grant_type=password&scope=publish_posts edit_posts&username=EMAIL_ADDRESS&password=PASSWORD&audience=API_IDENTIFIER&client_id=CLIENT_ID'
-
-{"access_token": "eyJhbG...eyJpc3M....QyRI9Lp...",
-"scope": "edit_posts publish_posts",
-"expires_in": 86400,
-"token_type": "Bearer"}
-```
-
-If you're getting an error of any kind back here, check all your values in the curl command as well as your [Auth0 tenant logs](https://manage.auth0.com/#/logs).
-
-{% info %}
-What we're doing here is called a Resource Owner Password grant; we're trading a username and password for a acccess token. This is something that's typically reserved for legacy applications, for a number of very good reasons, hence the warnings. If you'd like to learn a little more about these good reasons, <a href="https://auth0.com/docs/videos/learn-identity-series/desktop-and-mobile-apps#wistia_dq3c4pz9lb?time=1580">see this video segment</a>.
-{% endinfo %}
-
-Again, all of these steps are to create an application that can generate access tokens for testing. When this system is put live, you'll need to request access tokens during login from the applications that want to call the WP REST API.
-
-
 ## Access token authorization in WP
 
 Now we need to enable the API to receive these access tokens, validate them, and make decisions for protected routes. 
@@ -281,11 +220,23 @@ The last bit here is to add the required configuration values. Click the [Back t
 * `WP_API_GET_USER_URL` - This is your WordPress site URL plus `/index.php?a0_action=migration-ws-get-user`. You should be able to visit this URL in a browser and see an "Unauthorized" error.
 * `WP_API_TOKEN` - This is the token from the Auth0 plugin, generated earlier in this section.
 
-## Putting it all together
+## Build your Application
 
 We now (finally) have everything we need to call the WP REST API from another application and publish posts there! If you walk through the second sequence diagram above, you can see all the different pieces coming together. 
 
-If you already have an application and a WordPress site running, you have everything you need at this point. If you want to see this running as a discreet system, however, I have a simple Node app that can play the part of the external app calling the WordPress API.
+If you already have an application and a WordPress site running, you have everything you need at this point. The summary of what we need to do in the application calling the WordPress API is:
+
+1. Build a login URL including the API identifier as an `audience` parameter and the permissions we are requesting in a `scope` parameter
+1. Redirect to Auth0 to perform the login and API consent (more on that later)
+1. Receive an authorization code back and exchange that for an access token
+1. Use that access token to call the WP REST API
+
+You can find help with these tasks on the following documentation pages:
+
+* [How to get an access token](https://auth0.com/docs/tokens/access-tokens/get-access-tokens) - general information on requesting access tokens and links to more information.
+* [Auth0 Quickstarts](https://auth0.com/docs/quickstarts/) - many of these include a section on how to request access tokens during login. If not, check out the documentation for the SDK being used.
+
+If you want to see this running as a discreet system, however, I have a simple Node app that can play the part of the external app calling the WordPress API.
 
 {% info %}
 One thing to note about this system: the Auth0 Rule needs the migration endpoint on the WordPress site to be accessible on the public internet. If you want to test this out locally, you'll need to either disable the Rule or make your local WordPress instance available using <a href="https://ngrok.com">ngrok</a> or something similar.
@@ -308,7 +259,7 @@ Fill out the fields and click **Post**. If everything goes as expected, you shou
 
 ![Created post via the WP API](/_images/2020/12/wp-rest-api-authentication-created-post.png)
 
-If anything goes wrong, check the console output for the Node app and you should have a clue. 
+If anything goes wrong, check the console output for the Node app and you should have a clue. If you're getting a 404 error, you might not have pretty permalinks turned on. If you're getting a 401, you might not have the MU plugin package installed properly.
 
 ---
 
