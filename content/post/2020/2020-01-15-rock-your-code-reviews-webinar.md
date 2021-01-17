@@ -7,6 +7,7 @@ permalink: rock-your-code-reviews-webinar/index.html
 tags: ["Development", "Team Dynamics"]
 featured_img: /_images/2020/01/code-block.png
 excerpt: I attended a great webinar led by Dr. Michaela Greiler on code reviews. I had my own opinions going in, of course, but I learned a lot and had a number of questions that I had (and didn't know I had) answered.
+twitter_url: https://twitter.com/joshcanhelp/status/1217920293609467904
 
 ---
 

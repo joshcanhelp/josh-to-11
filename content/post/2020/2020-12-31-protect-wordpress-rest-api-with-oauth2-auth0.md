@@ -6,8 +6,8 @@ permalink: protect-wordpress-rest-api-with-oauth2-auth0/index.html
 layout: post
 tags: [ "WordPress", "Auth0", "OAuth2", "Best Of" ]
 date: 2020-12-31 13:00:00
-twitter_url: https://twitter.com/joshcanhelp/status/1349032635880771587
 featured_img: /_images/2020/12/wp-rest-api-authentication-thumb.png
+twitter_url: https://twitter.com/joshcanhelp/status/1349032635880771587
 
 ---
 

@@ -100,6 +100,10 @@ module.exports = function (eleventyConfig) {
     `<blockquote class="warning-block">${text}</blockquote>`
   );
 
+  eleventyConfig.addPairedShortcode('twitter', (url) =>
+    `<p><a href="{{ url }}" class="tag">Discuss on Twitter &rsaquo;</a></p>`
+  );
+
   return {
     dir: {
       input: "content",
