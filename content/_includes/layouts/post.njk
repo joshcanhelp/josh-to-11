@@ -24,6 +24,11 @@
       </p>
     {% endif %}
 
+    <p>
+      <a href="{{ metaData.gitHubLink(page) }}" class="tag">
+        Suggest changes on GitHub &rsaquo;</a>
+    </p>
+
     {% set previousPost = collections.postsCollection | getPreviousCollectionItem(page) %}
     {% set nextPost = collections.postsCollection | getNextCollectionItem(page) %}
 
