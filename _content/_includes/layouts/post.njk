@@ -12,17 +12,13 @@
       </div>
     </div>
     {{ content | safe }}
-    {% if link_to %}
-      <p>
-        <a href="{{ link_to }}" class="tag">Go there &rsaquo;</a>
-      </p>
-    {% endif %}
 
-    {% if twitter_url %}
-      <p>
-        <a href="{{ twitter_url }}" class="tag">Discuss on Twitter &rsaquo;</a>
-      </p>
-    {% endif %}
+    {% h2br %}Take Action!{% endh2br %}
+
+    <p>
+    {% if link_to %}<a href="{{ link_to }}" class="tag">Go there &rsaquo;</a> {% endif %}
+    {% if twitter_url %}<a href="{{ twitter_url }}" class="tag">Discuss on Twitter &rsaquo;</a>{% endif %}
+      <a href="{{ metaData.gitHubLink(page) }}" class="tag">Suggest changes on GitHub &rsaquo;</a>
 
     {% set previousPost = collections.postsCollection | getPreviousCollectionItem(page) %}
     {% set nextPost = collections.postsCollection | getNextCollectionItem(page) %}

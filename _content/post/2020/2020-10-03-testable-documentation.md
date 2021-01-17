@@ -7,6 +7,7 @@ tags: [ "Documentation", "Development", "Testing", "Auth0", "Technical Research"
 date: 2020-10-28 18:05:00
 featured_img: /_images/2020/11/IMG_4092-300x300.jpg
 excerpt: I've been thinking about documentation quite a bit lately, especially the code-centric type, and how to avoid punishing myself for spending time writing it. Here's the start of my research project to that end.
+twitter_url: https://twitter.com/joshcanhelp/status/1332435025321623552
 
 ---
 
@@ -145,6 +146,3 @@ To recap:
 - I understand the problem space
 
 I am ready to do a spike! [The first one is here](/testable-documentation-spike-1/).
-
-
-

@@ -7,6 +7,7 @@ tags: [ "Documentation", "Development", "Testing", "Technical Research"]
 date: 2020-11-27 10:05:00
 featured_img: /_images/2020/11/code_sample-300x300.png
 excerpt: My first spike on finding a system to take linted, tested code and outputting usable markup. This spike uses Docco to turn transpile commented JS files to HTML.
+twitter_url: https://twitter.com/joshcanhelp/status/1332435025321623552
 
 ---
 
@@ -150,6 +151,3 @@ The library I'm using here does the trick but it is quite old. Would we need to 
 ---
 
 So, that wraps up this spike! Stay tuned for the next one, which will explore including code directly into templates.
-
-
-
