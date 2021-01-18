@@ -143,7 +143,7 @@ class TestHttpHalt extends \PHPUnit\Framework\TestCase {
 
 [See this using the helper library ›](https://github.com/joshcanhelp/wp-test-plugin/blob/master/tests/testHttpHaltWpTestCase.php)
 
-{% info %}You'll find that throwing a generic core `Exception` here can be a little problematic if the code you're testing fails for a different reason and you get an error from the JSON decoding. The helper library I link to above throws <a href="https://github.com/joshcanhelp/wp-unit-test-helpers/tree/master/src/exceptions">specific exceptions</a> so you can catch what you throw in your helpers and everything else will bubble up.{% endinfo %}
+{% info %}You'll find that throwing a generic core `Exception` here can be a little problematic if the code you're testing fails for a different reason and you get an error from the JSON decoding. The helper library I link to above throws <a href="https://github.com/joshcanhelp/wp-unit-test-helpers/tree/master/src/Exceptions">specific exceptions</a> so you can catch what you throw in your helpers and everything else will bubble up.{% endinfo %}
 
 Walking through what we're doing here:
 
@@ -721,7 +721,7 @@ Functions that are hooked to specific actions and filters in your plugin need to
 
 While I would recommend having these in place, it does rely on a lot on a specific structure of the WordPress globals. If something changes in there somewhere, all your tests of this nature might fail suddenly. Because of that (and the fact that this post is quite long already), I'll point to a few code samples you can use instead of spelling it all out here.
 
-To see how the global `$wp_filter` is pulled apart to look for specific hooks, [see this method](https://github.com/joshcanhelp/wp-unit-test-helpers/blob/v0.1.0/src/helpers/hookHelpers.php#L24-L47). If you're using that library in your tests, [see this test file](https://github.com/joshcanhelp/wp-test-plugin/blob/master/tests/testHookedFunctionsWpTestCase.php) for how the methods are called. Otherwise, you can recreate that method in your bootstrap file and call within your tests.
+To see how the global `$wp_filter` is pulled apart to look for specific hooks, [see this method](https://github.com/joshcanhelp/wp-unit-test-helpers/blob/master/src/Helpers/HookHelpersTrait.php#L24). If you're using that library in your tests, [see this test file](https://github.com/joshcanhelp/wp-test-plugin/blob/master/tests/testHookedFunctionsWpTestCase.php) for how the methods are called. Otherwise, you can recreate that method in your bootstrap file and call within your tests.
 
 <a id="enqueued-styles-scripts"></a>
 ## Enqueued Styles and Scripts
@@ -733,7 +733,7 @@ I think the trade-off is worth it here as well for a few reasons:
 - If you have a number of styles and scripts and want them to load in the fewest places possible, you want that logic under test
 - A lot of logic can also gather in `wp_localize_script()` calls and testing manually for specific text and values is tedious and error-prone
 
-To see how to test whether scripts/styles are loaded and what localization was added, [see this method](https://github.com/joshcanhelp/wp-unit-test-helpers/blob/v0.1.0/src/helpers/wpScriptsHelper.php#L17-L36). If you're using that library in your tests, [see this test file](https://github.com/joshcanhelp/wp-test-plugin/blob/master/tests/testEnqueuedStyleWpTestCase.php) for how the methods are called. Otherwise, you can recreate that method in your bootstrap file and call within your tests.
+To see how to test whether scripts/styles are loaded and what localization was added, [see this method](https://github.com/joshcanhelp/wp-unit-test-helpers/blob/master/src/Helpers/WpScriptsHelperTrait.php#L17). If you're using that library in your tests, [see this test file](https://github.com/joshcanhelp/wp-test-plugin/blob/master/tests/testEnqueuedStyleWpTestCase.php) for how the methods are called. Otherwise, you can recreate that method in your bootstrap file and call within your tests.
 
 ## I hope that helped!
 
