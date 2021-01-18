@@ -1,3 +1,13 @@
+---
+eleventyComputed:
+  title: Posts in {{ tag }}
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+permalink: /tag/{{ tag | slug }}/
+---
+
 {% extends "_html.njk" %}
 
 {% from "macros/postListing.njk" import postListing %}
