@@ -1,0 +1,8 @@
+{% macro ideaListing(idea) %}
+  <div class="card">
+    <p class="date">
+      <span>{{ idea.date | dateformat }}</span></p>
+    <h2>{{ idea.data.title | safe }}</h2>
+    {{ idea.templateContent | safe }}
+  </div>
+{% endmacro %}

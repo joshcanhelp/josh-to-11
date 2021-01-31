@@ -1,0 +1,25 @@
+---
+title: "All Ideas"
+permalink: ideas/index.html
+---
+
+{% extends "_html.njk" %}
+
+{% from "macros/ideaListing.njk" import ideaListing %}
+
+{% block content %}
+  <article>
+    <div class="title">
+      <h1>Ideas
+        <strong>{{ collections.ideasCollection | length }}</strong>
+      </h1>
+      <br>
+      <br>
+      <p>From time to time, I have ideas about things that I'd like to make or see make. Most of the time I don't actually make these things but it feels nice to just get them out of my head!</p>
+    </div>
+
+    {% for idea in collections.ideasCollection %}
+      {{ ideaListing(idea) }}
+    {% endfor %}
+  </article>
+{% endblock %}
