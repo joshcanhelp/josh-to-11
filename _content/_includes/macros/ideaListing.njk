@@ -1,0 +1,11 @@
+{% macro ideaListing(idea) %}
+  <div class="card card-idea" id="{{ idea.data.title | slug }}">
+    <p class="date">
+      <span>{{ idea.date | dateformat }}</span></p>
+    <h2>{{ idea.data.title | safe }}</h2>
+    <div class="content">{{ idea.templateContent | safe }}</div>
+    <p class="actions">
+      <a class="tag" href="{{ idea.data.title | tweetIdeaUrl }}">Tweet me about this &rsaquo;</a>
+    </p>
+  </div>
+{% endmacro %}

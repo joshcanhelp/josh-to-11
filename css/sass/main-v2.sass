@@ -132,16 +132,21 @@
 			width: 150px
 			margin-left: 2em
 
-.card-small
-	@extend %cf
-	margin: 0 0 $p_medium
+	&-small
+		@extend %cf
+		margin: 0 0 $p_medium
 
-	.date
-		margin: 0 0 $p_smallest
+		.date
+			margin: 0 0 $p_smallest
 
-	h3
-		font-size: $f_size_base
-		margin: 0
+		h3
+			font-size: $f_size_base
+			margin: 0
+	
+	&-idea
+		.content
+			margin: $p_medium 0
+			font-size: $f_size_small
 
 blockquote
 	&.info-block

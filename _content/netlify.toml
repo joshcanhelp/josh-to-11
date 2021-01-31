@@ -24,6 +24,11 @@
   status = 302
 
 [[redirects]]
+  from = "/ideas-1"
+  to = "/ideas"
+  status = 302
+
+[[redirects]]
   from = "/type/*"
   to = "/archives/all/"
   status = 302
