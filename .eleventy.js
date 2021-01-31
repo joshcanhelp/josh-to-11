@@ -1,4 +1,6 @@
 const moment = require('moment');
+const htmlmin = require("html-minifier");
+const slugify = require("slugify");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 moment.locale('en');
@@ -24,6 +26,22 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias('anna', 'layouts/anna.njk');
 
   eleventyConfig.setUseGitIgnore(false);
+
+  /*
+   * Transforms
+   */
+
+  eleventyConfig.addTransform("htmlMinifier", function(content, outputPath) {
+    if ( !outputPath.endsWith(".html" ) ) {
+      return content;
+    }
+
+    return htmlmin.minify(content, {
+      useShortDoctype: true,
+      removeComments: true,
+      collapseWhitespace: true
+    });
+  });
 
   /*
    * Collections
@@ -90,7 +108,7 @@ module.exports = function (eleventyConfig) {
     return moment(dateIn).format('MMM DD, YYYY');
   });
 
-  eleventyConfig.addFilter("keys", function (data) {
+  eleventyConfig.addFilter('keys', function (data) {
     return Object.keys(data);
   });
 
@@ -98,12 +116,29 @@ module.exports = function (eleventyConfig) {
     return JSON.stringify(data, null, 2);
   });
 
+  eleventyConfig.addFilter('slug', function (text) {
+    return makeSlug(text);
+  });
+
+  eleventyConfig.addFilter('slug', function (text) {
+    return makeSlug(text);
+  });
+
+  eleventyConfig.addFilter('tweetIdeaUrl', function (text) {
+    const tweetText = `Hey @joshcanhelp, I want ${text}! https://www.joshcanhelp.com/ideas#${makeSlug(text)}`;
+    return "https://twitter.com/intent/tweet?text=" + encodeURIComponent(tweetText);
+  });
+
   /*
    * Shortcodes
    */
 
   eleventyConfig.addPairedShortcode('h2br', (text) =>
-    `<h2 class="hr aligncenter" id="${text.replace(/[^a-z0-9]/gi, '-c').toLowerCase()}"><span class="pink">&lt;</span>${text}<span class="pink">&gt;</span></h6>`
+    `<h2 class="hr aligncenter" id="${makeSlug(text)}">
+      <span class="pink">&lt;</span>
+        ${text}
+      <span class="pink">&gt;</span>
+    </h2>`
   );
 
   eleventyConfig.addPairedShortcode('info', (text) =>
@@ -130,4 +165,5 @@ module.exports = function (eleventyConfig) {
   };
 };
 
-const isPublishedPost = (data) => data.permalink && 'post' === data.layout
+const isPublishedPost = (data) => data.permalink && 'post' === data.layout;
+const makeSlug = (text) => slugify(text, { lower: true, strict: true })
