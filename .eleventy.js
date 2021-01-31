@@ -120,10 +120,6 @@ module.exports = function (eleventyConfig) {
     return makeSlug(text);
   });
 
-  eleventyConfig.addFilter('slug', function (text) {
-    return makeSlug(text);
-  });
-
   eleventyConfig.addFilter('tweetIdeaUrl', function (text) {
     const tweetText = `Hey @joshcanhelp, I want ${text}! https://www.joshcanhelp.com/ideas#${makeSlug(text)}`;
     return "https://twitter.com/intent/tweet?text=" + encodeURIComponent(tweetText);
