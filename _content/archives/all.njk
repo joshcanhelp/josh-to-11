@@ -11,9 +11,14 @@ wpid: 1300
 {% block content %}
   <article>
     <div class="title">
-      <h1>All Posts
-        <strong>{{ collections.postsCollection | length }}</strong>
-      </h1>
+      <h1>All Posts <strong>{{ collections.postsCollection | length }}</strong></h1>
+      <br><br>
+      <p>
+        Get the latest on <a href="https://twitter.com/joshcanhelp">Twitter</a> or via <a href="https://www.joshcanhelp.com/feed.xml">RSS</a>.
+      </p>
+      <p>
+        Also see <a href="/archives/tags">All Tags</a> and <a href="/ideas">All Ideas</a>.
+      </p>
     </div>
 
     {% set currentYear = 0 %}

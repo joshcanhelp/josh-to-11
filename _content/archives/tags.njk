@@ -13,6 +13,8 @@ permalink: archives/tags/index.html
         {{ title }}
         <strong>{{ collections.allTags | length }}</strong>
       </h1>
+      <br><br>
+      <p>Also see <a href="/archives/all">All Posts</a> and <a href="/ideas">All Ideas</a>.</p>
     </div>
     {{ content | safe }}
     {% for name, count in collections.allTags %}
