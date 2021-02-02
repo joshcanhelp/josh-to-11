@@ -13,7 +13,6 @@ module.exports = function (eleventyConfig) {
    */
 
   eleventyConfig.addPassthroughCopy({ images: "_images" });
-  eleventyConfig.addPassthroughCopy({ css: "_css" });
   eleventyConfig.addPassthroughCopy({ html: "_html" });
 
   eleventyConfig.addPlugin(syntaxHighlight);
@@ -169,7 +168,6 @@ module.exports = function (eleventyConfig) {
     },
     templateFormats: [
       "md",
-      "css",
       "html",
       "txt",
       "ico",
