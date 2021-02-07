@@ -5,9 +5,11 @@
   "main": "index.js",
   "scripts": {
     "11": "npx @11ty/eleventy",
+    "build": "npm run 11 && npm run sass",
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "npx @11ty/eleventy --serve --watch --quiet",
-    "sass": "node-sass --watch css/sass -o css"
+    "sass": "node-sass sass -o _dist/_css",
+    "sass:watch": "node-sass --watch sass -o _dist/_css"
   },
   "author": "",
   "license": "MIT",
@@ -15,9 +17,8 @@
     "@11ty/eleventy": "^0.11.0",
     "@11ty/eleventy-plugin-rss": "^1.0.9",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
-    "moment": "^2.27.0"
-  },
-  "dependencies": {
+    "moment": "^2.27.0",
+    "node-sass": "^5.0.0",
     "html-minifier": "^4.0.0"
   }
 }
