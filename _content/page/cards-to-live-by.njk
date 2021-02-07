@@ -1,0 +1,45 @@
+---
+
+permalink: "my-cards/index.html"
+eleventyExcludeFromCollections: true
+
+---
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	{% include "partials/head.html" %}
+	<link rel="canonical" href="https://www.joshcanhelp.com/cards-to-live-by/" />
+	{% from "macros/head-title.njk" import headTitle %}
+	{{ headTitle("My Cards to Live By") }}
+	{% from "macros/head-featured-img.njk" import headFeaturedImg %}
+	{{ headFeaturedImg(featured_img) }}
+    <link rel="stylesheet" 
+        href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/reveal.min.css" 
+        integrity="sha512-V5fKCVKOFy36w8zJmLzPH5R6zU6KvuHOvxfMRczx2ZeqTjKRGSBO9yiZjCKEJS3n6EmENwrH/xvSwXqxje+VVA==" 
+        crossorigin="anonymous" />
+	<link rel="stylesheet" href="/_css/slides.css" type="text/css" media="all">
+</head>
+<body>
+	<div class="reveal">
+		<div class="slides">
+			<section data-markdown data-separator="^\n\n\n" data-separator-vertical="^\n\n">
+                    <script type="text/template">
+                        {% include "partials/cards-to-live-by.md" %}
+                    </script>
+                </section>
+		</div>
+	</div>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/js/reveal.min.js" 
+		integrity="sha512-QYXU3Cojl94ZRiZRjUZpyg1odj9mKTON9MsTMzGNx/L3JqvMA3BQNraZwsZ83UeisO+QMVfFa83SyuYYJzR9hw==" 
+		crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/1.2.9/marked.min.js" 
+		integrity="sha512-9tQuY8kaboYKG7YDh+/p76HjyCy2NQ6lrTZ0kHikxj1Qgc7k40NGVCrkv8U9YdPoAemTlfnn3/1LAK2jS2BwKw==" 
+		crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/markdown/markdown.min.js" 
+		integrity="sha512-ZThqC5m3wE4dhbODPD56MNmka7pCxWa7C/cMFZRfFJnILgLxAYwFPeyoghsnS6qreNwQKHhKDt+qZaw648tf5g==" 
+		crossorigin="anonymous"></script>
+	<script>Reveal.initialize({
+		plugins: [ RevealMarkdown ]
+	});</script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+{% macro headTitle(title) %}
+  {% if title %}
+    <title>{{ title }} - Josh Can Help</title>
+    <meta property="og:title" content="{{ title }}">
+    <meta name="twitter:title" content="{{ title }}">
+  {% endif %}
+{% endmacro %}
