@@ -138,7 +138,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPairedShortcode(
     "h2br",
     (text) =>
-      `<h2 class="hr aligncenter" id="${makeSlug(text)}">
+      `<h2 class="hr" id="${makeSlug(text)}">
       <span class="pink">&lt;</span>
         ${text}
       <span class="pink">&gt;</span>
