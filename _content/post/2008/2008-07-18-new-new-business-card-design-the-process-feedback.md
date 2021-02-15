@@ -5,7 +5,7 @@ excerpt: "I also need a business card and have not been giving this important pi
 date: 2008-07-18 21:10:02
 modified: 2016-04-01 03:52:25
 permalink: new-new-business-card-design-the-process-feedback/index.html
-tags: ["Business Cards", "Letterpress", "Design", "About JoshCanHelp"]
+tags: ["Design", "About JoshCanHelp"]
 featured_img: /_images/2008/07/lp_card_07_final-296x296.jpg
 wpid: 41
 ---

@@ -5,7 +5,7 @@ excerpt: ""
 date: 2008-10-03 20:45:55
 modified: 2016-10-20 16:44:20
 permalink: fresh-cards-from-fresh-impressions-in-florida/index.html
-tags: ["Business Cards", "Letterpress", "About JoshCanHelp", "Design"]
+tags: ["About JoshCanHelp", "Design"]
 featured_img:
 wpid: 325
 ---
