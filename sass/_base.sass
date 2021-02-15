@@ -2,6 +2,8 @@
 // Touches everything
 //
 
+@import "mixins"
+
 body
 	+no_space()
 	color: $f_color_base
@@ -43,7 +45,10 @@ h6
 	margin: 1em 0 0.66em
 
 h1
-	font-size: 1.9em
+	font-size: 1.7em
+
+	+larger_than_phone
+		font-size: 2em
 
 h2
 	font-size: 1.55em
