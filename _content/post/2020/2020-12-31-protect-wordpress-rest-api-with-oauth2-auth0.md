@@ -7,7 +7,6 @@ layout: post
 tags: [ "WordPress", "Auth0", "OAuth2", "Best Of" ]
 date: 2020-12-31 13:00:00
 featured_img: /_images/2020/12/wp-rest-api-authentication-thumb.png
-twitter_url: https://twitter.com/joshcanhelp/status/1349032635880771587
 
 ---
 

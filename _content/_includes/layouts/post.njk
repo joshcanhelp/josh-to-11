@@ -17,7 +17,6 @@
 
     <p>
     {% if link_to %}<a href="{{ link_to }}" class="tag">Go there &rsaquo;</a> {% endif %}
-    {% if twitter_url %}<a href="{{ twitter_url }}" class="tag">Discuss on Twitter &rsaquo;</a>{% endif %}
       <a href="{{ metaData.gitHubLink(page) }}" class="tag">Suggest changes on GitHub &rsaquo;</a>
 
     {% set previousPost = collections.postsCollection | getPreviousCollectionItem(page) %}

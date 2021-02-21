@@ -7,7 +7,6 @@ tags: [ "Documentation", "Development", "Testing", "Auth0", "JavaScript"]
 date: 2020-10-28 18:05:00
 featured_img: /_images/2020/11/IMG_4092-300x300.jpg
 excerpt: I've been thinking about documentation quite a bit lately, especially the code-centric type, and how to avoid punishing myself for spending time writing it. Here's the start of my research project to that end.
-twitter_url: https://twitter.com/joshcanhelp/status/1332435025321623552
 
 ---
 
