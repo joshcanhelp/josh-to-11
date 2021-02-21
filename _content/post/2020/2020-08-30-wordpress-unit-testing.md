@@ -7,7 +7,6 @@ tags: [ "WordPress", "Development", "Testing", "Best Of", "Auth0"]
 date: 2020-08-30 10:05:00
 featured_img: /_images/2020/08/stacking-rocks-thumb.jpg
 excerpt: I've learned a lot about how to avoid common issues and making life writing tests in WordPress a little easier. This post is a collection of ways I've found to accurately and thoroughly test a plugin.
-twitter_url: https://twitter.com/joshcanhelp/status/1300132799702167552
 
 ---
 
