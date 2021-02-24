@@ -98,7 +98,7 @@ According to the app, I've put in almost 33 hours of mindfulness since September
 
 ![Waking Up mindfulness stats](/_images/2021/mindfulness_stats.png)
 
-What started out as a strategy for coping with anxiety has evolved into an important set of philosophical questions about my existence on the planet as a human being. A few of those questions are the ones at the [top](#top) of this post, questions that might have felt frivolous at worst or amusing at best lass than a year ago. These now feel like some of the most important things to explore for ourselves, both for our mental well-being as well as compassionate interaction with all the other conscious beings around us. 
+What started out as a strategy for coping with anxiety has evolved into an important set of philosophical questions about my existence on the planet as a human being. A few of those questions are the ones at the [top](#top) of this post, questions that might have felt frivolous at worst or amusing at best less than a year ago. These now feel like some of the most important things to explore for ourselves, both for our mental well-being as well as compassionate interaction with all the other conscious beings around us. 
 
 **But I don't think I'm ready to start writing about all that quite yet.**
 
