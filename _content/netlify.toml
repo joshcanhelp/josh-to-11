@@ -40,7 +40,7 @@
   
 [[redirects]]
   from = "/local-login"
-  to = "http://localhost:3333/login"
+  to = "http://localhost/login"
   status = 302
 
 [[redirects]]
