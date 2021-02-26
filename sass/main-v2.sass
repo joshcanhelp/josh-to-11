@@ -148,9 +148,15 @@
 
 blockquote
 	&.info-block
-		background: $c_blue_light
+		background: $c_blue_lightest
 		font-style: normal
+
+		+larger_than_phone
+			border-color: $c_blue
 
 	&.warning-block
 		background: $c_vivid_yellow_light
 		font-style: normal
+
+		+larger_than_phone
+			border-color: $c_vivid_yellow
