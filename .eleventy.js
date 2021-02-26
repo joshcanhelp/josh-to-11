@@ -165,9 +165,8 @@ module.exports = function (eleventyConfig) {
   );
 
   eleventyConfig.addPairedShortcode(
-    "twitter",
-    (url) =>
-      `<p><a href="{{ url }}" class="tag">Discuss on Twitter &rsaquo;</a></p>`
+    "caption",
+    (text) => `<figcaption><em>${text}</em></figcaption>`
   );
 
   return {

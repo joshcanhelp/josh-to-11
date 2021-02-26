@@ -15,6 +15,7 @@ featured_img: /_images/2020/02/IMG_2468-150x150.jpg
 For someone who likes to write, I don’t blog here a lot. I log in now and then, gasp at the number of spam comment that have piled up, maybe add or update a draft or two, then then let my session expire. Maybe it’s because I write a lot at work? Or maybe I don’t think I have much to share with the world at large? It’s hard to say.
 
 <img src="/_images/2020/02/IMG_2468-700x469.jpg" class="aligncenter" alt="Mechanical keyboard">
+{% caption %}Clackity clack{% endcaption %}
 
 One thing is for sure, though. This site does not accurately reflect who I am professionally and drawing any additional attention here feels disingenuous at best. I’m not a “WordPress guy” anymore and I’m not a freelancer either. The things I’ve built in the past are not the same things I’m building now. I don’t need a place to “showcase my work,” that’s what GitHub does for me these days.
 

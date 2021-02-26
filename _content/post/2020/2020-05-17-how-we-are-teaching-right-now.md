@@ -61,12 +61,12 @@ Week 2 stabilized a bit and we were thinking "hey, maybe we can do this." Week 3
 On Wednesday, we called it "early spring break" and just let it go.
 
 <img src="/_images/2020/05/learning-plan-2.jpg" class="aligncenter">
-
-*Izzy was the name she wanted us to call her that week.*
+{% caption %}Izzy was the name she wanted us to call her that week.{% endcaption %}
 
 There were some wins. We signed up for a video series by [Rosie Research](https://rosieresearch.com), an amazing local science teacher. She has a daily video and science project and our daughter loved her after-school class she attended before the pandemic. We mummified a tomato, dissolved an eggshell with vinegar, and tested the strength of friction between pieces of paper.
 
 <img src="/_images/2020/05/egg-shell-experiment.jpg" class="aligncenter">
+{% caption %}We learned egg shells dissolve in vinegar{% endcaption %}
 
 In retrospect, it's easy to look back and understand what went wrong. Parent-teachers and kid-students were freaked out about a virus that might kill millions, our whole life had changed suddenly in the space of a week, and we felt like our bright, creative, imaginative kid's education - no, no, her **whole future** - was in our hands.
 
@@ -151,12 +151,10 @@ That brings us to where we are now.
 The "Things I'm currently accepting as true" section at the top of this post is my mantra. Keep the parents sane and rested. Keep the kids exploring nature and moving their bodies and doing cool stuff that doesn't involve a screen. If we can do all that along some of the learning below, that's a huge win.
 
 <img src="/_images/2020/05/sugar-skull-ants.jpg" class="aligncenter">
-
-*Fire ants devouring a Day of the Dead sugar skull (she got an ant bite and never wants to go back)*
+{% caption %}Fire ants devouring a Day of the Dead sugar skull (she got an ant bite and never wants to go back){% endcaption %}
 
 <img src="/_images/2020/05/sea-centipede.jpg" class="aligncenter">
-
-*A strange sea creature we found at an awesome beach on the south of the island.*
+{% caption %}A strange sea creature we found at the beach{% endcaption %}
 
 We've been trying to involve both kids in as much of what we're doing as possible. Chores, typing on a keyboard, cooking, fixing things, whatever it is. I'll admit it, I'm not great at this. I just want to get the thing done so I can move onto the next thing. But having our first grader type out Git commands in the terminal or help clean the car or make pancakes, it feels like good stuff, the kind of stuff you can't get at school.
 
