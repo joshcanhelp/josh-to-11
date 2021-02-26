@@ -54,6 +54,15 @@ module.exports = function (eleventyConfig) {
     });
   });
 
+  eleventyConfig.addCollection("sitemapCollection", function (collection) {
+    const tmpCollection = collection.getAllSorted();
+    return tmpCollection.reverse().filter(function (tpl) {
+      if (tpl.data.permalink && !tpl.data.hidden) {
+        return true;
+      }
+    });
+  });
+
   eleventyConfig.addCollection("postsCollection", function (collection) {
     const tmpCollection = collection.getAllSorted();
     return tmpCollection.reverse().filter(function (tpl) {
@@ -156,9 +165,8 @@ module.exports = function (eleventyConfig) {
   );
 
   eleventyConfig.addPairedShortcode(
-    "twitter",
-    (url) =>
-      `<p><a href="{{ url }}" class="tag">Discuss on Twitter &rsaquo;</a></p>`
+    "caption",
+    (text) => `<figcaption><em>${text}</em></figcaption>`
   );
 
   return {

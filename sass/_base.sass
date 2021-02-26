@@ -3,6 +3,7 @@
 //
 
 @import "mixins"
+@import "variables"
 
 body
 	+no_space()
@@ -81,6 +82,10 @@ img
 	margin: 2em auto
 	max-width: 100%
 
+figcaption
+	font-size: $f_size_small
+	margin: -2em 0 3em
+
 p,
 ol,
 ul,
@@ -118,10 +123,15 @@ iframe
 blockquote
 	+aligncenter
 	background: $c_g_lightest
-	padding: 3% 4%
+	padding: 6% 7%
 	border-radius: 1px
 	position: relative
 	font-style: italic
+
+	+larger_than_phone
+		padding: 4% 5%
+		border-left: 6px solid $c_g_medium
+		border-radius: 3px
 
 	> :last-child
 		margin-bottom: 0

@@ -1,0 +1,11 @@
+---
+
+permalink: "sitemap.xml"
+eleventyExcludeFromCollections: true
+
+---
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% for post in collections.sitemapCollection %}
+  <url><loc>{{ post.url | url | absoluteUrl("https://www.joshcanhelp.com") }}</loc></url>
+{% endfor %}
+</urlset>
