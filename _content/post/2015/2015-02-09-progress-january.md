@@ -5,9 +5,8 @@ excerpt: ""
 date: 2015-02-09 16:48:12
 modified: 2016-11-19 22:59:54
 permalink: progress-january/index.html
-tags: ["Exercise", "Fitness Data", "Personal Development"]
+tags: ["Physical Health", "Fitness Data", "Motivation"]
 featured_img: /_images/2016/11/img_3811-150x150.jpg
-wpid: 403
 ---
 
 

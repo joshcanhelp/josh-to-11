@@ -5,7 +5,7 @@ excerpt: "FFK stands for Former Fat Kid. If you were fat in a previous life and 
 date: 2009-07-31 17:57:22
 modified: 2009-07-31 17:57:22
 permalink: i-am-an-ffk-nice-to-meet-you/index.html
-tags: ["Losing Weight", "Exercise"]
+tags: ["Physical Health", "FFK"]
 featured_img:
 wpid: 3
 ---

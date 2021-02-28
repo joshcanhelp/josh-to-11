@@ -6,7 +6,6 @@ layout: post
 tags: [ "COVID-19" ]
 date: 2020-04-25 18:00:00
 excerpt: "\"It’s emasculating, to feel like this — to be completely useless in the final analysis. For your only means of helping to be by doing nothing.\""
-twitter_url: https://twitter.com/joshcanhelp/status/1254127553645699073
 
 ---
 

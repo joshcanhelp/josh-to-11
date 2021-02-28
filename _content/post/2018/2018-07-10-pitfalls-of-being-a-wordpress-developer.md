@@ -7,8 +7,6 @@ modified: 2019-06-11 18:24:41
 permalink: pitfalls-of-being-a-wordpress-developer/index.html
 tags: ["WordPress", "Personal Development", "Best Of", "Development", "Gist"]
 featured_img: /_images/2018/07/IMG_1437-150x150.jpg
-wpid: 4799
-twitter_url: https://twitter.com/joshcanhelp/status/1016785776808427520
 
 ---
 

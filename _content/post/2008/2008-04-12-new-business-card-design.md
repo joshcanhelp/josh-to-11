@@ -5,7 +5,7 @@ excerpt: "Layer-by-layer, inch-by-inch. The message is more effective as a snowb
 date: 2008-04-12 15:08:25
 modified: 2016-04-01 01:18:42
 permalink: new-business-card-design/index.html
-tags: ["Business Cards", "Design", "Marketing", "About JoshCanHelp"]
+tags: ["Design", "Marketing", "About JoshCanHelp"]
 featured_img: /_images/2008/04/biz_card_v2_245x245.jpg
 wpid: 11
 ---

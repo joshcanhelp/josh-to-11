@@ -11,12 +11,12 @@
 [[redirects]]
   from = "/work"
   to = "/archives/all/"
-  status = 302
+  status = 301
 
 [[redirects]]
   from = "/feed"
   to = "/archives/all/"
-  status = 302
+  status = 301
 
 [[redirects]]
   from = "/contact"
@@ -26,12 +26,17 @@
 [[redirects]]
   from = "/ideas-1"
   to = "/ideas"
-  status = 302
+  status = 301
+
+[[redirects]]
+  from = "/feed.xml"
+  to = "/rss.xml"
+  status = 301
 
 [[redirects]]
   from = "/type/*"
   to = "/archives/all/"
-  status = 302
+  status = 301
 
 [[redirects]]
   from = "/resume"
@@ -40,7 +45,7 @@
   
 [[redirects]]
   from = "/local-login"
-  to = "http://localhost:3333/login"
+  to = "https://localhost/login"
   status = 302
 
 [[redirects]]

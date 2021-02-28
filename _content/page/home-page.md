@@ -1,5 +1,5 @@
 ---
-title: "Contracted Senior Engineer - WordPress, JavaScript, PHP, UI, UX"
+title: "JoshCanHelp - Software, Digtial Identity, Mindfulness, Focus, and Personal Improvement"
 layout: page
 excerpt: ""
 date: 2016-03-17 15:00:16
