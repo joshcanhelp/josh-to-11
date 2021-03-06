@@ -5,7 +5,7 @@ excerpt: A little system I use to remember what's important to focus on during t
 permalink: cards-to-live-by/index.html
 layout: post
 tags: [ "Personal Development" ]
-date: 2021-02-01 13:00:00
+date: 2021-03-06 12:00:00
 featured_img: /_images/2021/02/cards_to_live_by_THUMB.jpg
 twitter_url: 
 
@@ -19,8 +19,12 @@ I would read each card, let it sit with me for a few seconds, put a little dot o
 
 It ended up being an important mental exercise during the isolated, cold, and wet holiday season. I would find myself just running through them as one more thing to get through, then pause, remember why I'm spending the time, and start over. When parenting or meditating or just trying to exist in the world during an uncertain time, one of these phrases would often bubble up and provide some calm. 
 
-In the hopes of inspiring someone else to do the same, I thought I'd share the phrases here, along with where they came from and what they mean to me. 
+In the hopes of inspiring someone else to do the same, I thought I'd share the phrases here, along with where they came from and what they mean to me. [You can see these in presentation form here](/cards).
 
-{% include partials/cards-to-live-by.md %}
+---
 
-And that's that!
+{% include ../partials/cards-to-live-by.md %}
+
+---
+
+And that's that! Once again, [you can see these in presentation form here](/cards).
