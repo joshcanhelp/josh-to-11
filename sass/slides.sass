@@ -1,0 +1,26 @@
+@import "vendor/reveal/mixins"
+@import "vendor/reveal/settings"
+@import "variables"
+
+$backgroundColor: $c_bg_dark
+$mainFontSize: $f_size_base * 2
+$mainFont: $f_family_serif
+$linkColor: $c_blue
+$headingFont: $f_family_sans
+$headingTextShadow: none
+$headingLetterSpacing: normal
+$headingTextTransform: none
+$headingFontWeight: bold
+
+@import "vendor/reveal/theme"
+
+body
+    background-color: $c_bg_dark
+
+.reveal
+    img 
+        display: none
+
+    blockquote  
+        padding: 0.8em 1em
+        width: auto

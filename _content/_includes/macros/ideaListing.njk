@@ -5,7 +5,7 @@
     <h2>{{ idea.data.title | safe }}</h2>
     <div class="content">{{ idea.templateContent | safe }}</div>
     <p class="actions">
-      <a class="tag" href="{{ idea.data.title | tweetIdeaUrl }}">Tweet me about this &rsaquo;</a>
+      <a class="tag" href="mailto:josh@joshcanhelp.com?subject={{ idea.data.title }}">Email me about this &rsaquo;</a>
     </p>
   </div>
 {% endmacro %}

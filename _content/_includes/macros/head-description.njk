@@ -1,0 +1,6 @@
+{% macro headDescription(description) %}
+	{% if description %}
+		<meta name="description" content="{{ description }}">
+		<meta name="twitter:description" content="{{ description }}">
+	{% endif %}
+{% endmacro %}
