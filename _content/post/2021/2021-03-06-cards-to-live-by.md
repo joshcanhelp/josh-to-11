@@ -4,7 +4,7 @@ title: "Cards to Live By"
 excerpt: A little system I use to remember what's important to focus on during the day. 
 permalink: cards-to-live-by/index.html
 layout: post
-tags: [ "Personal Development" ]
+tags: [ "Personal Development", "Physical Health" ]
 date: 2021-03-06 12:00:00
 featured_img: /_images/2021/02/cards_to_live_by_THUMB.jpg
 twitter_url: 
@@ -23,7 +23,7 @@ In the hopes of inspiring someone else to do the same, I thought I'd share the p
 
 ---
 
-{% include ../partials/cards-to-live-by.md %}
+{% include ../_partials/cards-to-live-by.md %}
 
 ---
 
