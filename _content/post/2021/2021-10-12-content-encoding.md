@@ -130,7 +130,7 @@ See the `content-encoding` header? It's now `gzip`. If you run that same command
 Accept-Encoding: deflate, gzip
 ```
 
-The `--compressed` adds the header above and also attempts to decompress the request based on the response header. The `br` encoding is missing in my case because I am not on the latest cURL version ([added in 7.57.0](https://daniel.haxx.se/blog/tag/brotli/)).
+The `--compressed` flag adds the header above and then attempts to decompress the request based on the response header. The `br` encoding is missing in my case because I am not on the latest cURL version ([added in 7.57.0](https://daniel.haxx.se/blog/tag/brotli/)).
 
 So we have a way to easily modify the request we're making and see the response that comes back. That should help us figure out a number of content encoding and negotiation issues we might come across. But there's one problem, the one I was troubleshooting, that we need to test. What if the server tells us that it's sending content compressed one way but it's actually compressing it a different way or not at all?
 
