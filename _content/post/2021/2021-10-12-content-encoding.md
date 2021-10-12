@@ -4,7 +4,7 @@ title: "Accept-Encoding, Content-Encoding, and ERR CONTENT DECODING FAILED"
 excerpt: An error message in a browser-based app lead to some digging and learning about content encoding and negotiation.
 permalink: accept-encoding-content-encoding-err-content-decoding-failed/index.html
 layout: post
-tags: [ "Site Optimization", "Development" ]
+tags: [ "Site Optimization", "Development", "Best Of" ]
 date: 2021-10-12 12:00:00
 featured_img: /_images/2021/content-negotiation.jpg
 
