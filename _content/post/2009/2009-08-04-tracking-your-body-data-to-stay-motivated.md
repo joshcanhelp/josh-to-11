@@ -5,7 +5,7 @@ excerpt: "One of the hardest things for me to wrap my head around when I started
 date: 2009-08-04 18:40:17
 modified: 2009-08-04 18:40:17
 permalink: tracking-your-body-data-to-stay-motivated/index.html
-tags: ["Personal Data", "Physical Health", "FFK"]
+tags: ["Personal Data", "Health + Fitness"]
 featured_img:
 wpid: 13
 ---

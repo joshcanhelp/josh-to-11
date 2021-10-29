@@ -1,14 +1,13 @@
 ---
 title: "Progress In January"
 layout: post
-excerpt: ""
+excerpt: "In keeping with the theme of sharing my journey to eliminate goals, I wanted to share an update on how January went."
 date: 2015-02-09 16:48:12
 modified: 2016-11-19 22:59:54
 permalink: progress-january/index.html
-tags: ["Physical Health", "Fitness Data", "Motivation"]
+tags: ["Health + Fitness", "Personal Data", "Motivation"]
 featured_img: /_images/2016/11/img_3811-150x150.jpg
 ---
-
 
 In keeping with the theme of sharing my journey to [eliminate goals through systems](/systematic-goal-elimination/ "Systematic Goal Elimination"), I wanted to share an update on how January went and what I expect in February.
 
