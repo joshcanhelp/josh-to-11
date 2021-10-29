@@ -5,10 +5,12 @@ excerpt: "Read the title of this and commit it to memory; this is your mantra fo
 date: 2004-01-07 12:00:00
 permalink: eating-is-half-of-the-equation/index.html
 tags: ["Health + Fitness"]
-featured_img: /_images/2019/06/IMG_1438-150x150.jpg
+featured_img: /_images/2021/peppers-and-tomatoes_THUMB.jpg
 ---
 
 Read the title of this and commit it to memory; this is your mantra for losing weight and keeping it off. You cannot replace poor diet with excessive exercise to lose weight correctly. Conversely, you cannot ignore exercise and eat nothing but a handful of veggies throughout the day. Your goal with weight loss is to reduce fat and increase lean muscle which is, of course, easier said than done. The ONLY way to do that is through a structured exercise program and a brand new way of looking at food. This is definitely the hardest part about losing weight. It is more expensive to eat right, takes more thought and is difficult to start off. On the other hand, once you’ve got it, you’ve got it for good. Eat right for a few months and you will never go back! It gets easier (I promise) but just like with any life change, there are major sacrifices and some pain to endure. Keep reading those fitness magazines and keep your jealousy towards “the fit people” (that you hate) and you’ll make it through!
+
+![](/_images/2021/peppers-and-tomatoes.jpg)
 
 The tips below were compiled from Muscle and Fitness's [20 Best Ways to Lose Weight Fast](https://www.muscleandfitness.com/nutrition/lose-fat/20-best-ways-lose-weight-fast/). This is probably the most comprehensive, realistic view on eating right and losing weight I have ever read. Here are a few additions from me:
 
@@ -80,7 +82,7 @@ This is IMPORTANT. You must have your cheat days now and then or you will go cra
 
 {% h2br %}Update 2021-11-29{% endh2br %}
 
-This is something I wrote a long time ago when I was busy losing ~100 pounds. Several people asked me how I did it so I wrote this up in Word, printed multiple copies at work on the laser printer, and physically handed copies to people who asked. I'm paying closer attention to my health these days and came across this list as I was cleaning up some of my digital hoarding. Alsot 2 decades later, most of these are still important. For me right now, these are key:
+This is something I wrote a long time ago when I was busy losing ~100 pounds. Several people asked me how I did it so I wrote this up in Word, printed multiple copies at work on the laser printer, and physically handed copies to people who asked. I'm paying closer attention to my health these days and came across this list as I was cleaning up some of my digital hoarding. Almost 2 decades later, most of these are still important. For me right now, these are key:
 
 - Don't diet, change your lifestyle; easier said then done but nothing feels worse than losing 20 pounds and then just gaining it right back (ask me how I know)
 - Never get to starving; it's unnecessary and leads to bad choices
