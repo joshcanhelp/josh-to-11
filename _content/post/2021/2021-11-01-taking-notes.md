@@ -56,3 +56,13 @@ I walked through how I use Obsidian in the video below, hopefully that's helpful
 - Anything that is (or can be) text and could at all be useful in the future gets stored 
 - Journal text is exported as text and copied 
 - Blog posts are symlinked so they can searched and referenced
+
+Enjoy!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7uuXbUGjRUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+{% h2br %}References{% endh2br %}
+
+- [Great post that helped me make the move from Roam to Obsidian](https://nileswyler.medium.com/why-i-switched-a-deep-dive-into-roam-vs-obsidian-df1a394971ff)
+- [Hacker News thread with lots of comments about Obsidian, other note taking apps, and the PKB concept in general](https://news.ycombinator.com/item?id=28894481)
