@@ -30,7 +30,7 @@ At some point someone turned me on to [nvALT](https://brettterpstra.com/projects
 
 I kept with this system for a long time because it worked and because it was simple. Apps like Evernote and OneNote and came out and I tried that but it just wasn't for me. I wanted mostly plain text stored locally. 
 
-Then someone told me about [Workflowy](https://workflowy.com/a/) and I was, once again, totally blown away. Workflowy is basically one giant bullet point list that lets you focus in at any point of the tree. Imagine all of your notes and references and everything all in one massive document and then setting what amounts to bookmarks at places where you want to jump back in. I realized that 95% of my notes and references were bullet points and that that rest of my writing was just a bullet point list that didn't know it was a bullet point list yet (picture the HTML DOM). I had an honest-to-god revelation and realized that it's bullet points all the way down, man. 
+Then someone told me about [Workflowy](https://workflowy.com/a/) and I was, once again, totally blown away. Workflowy is basically one giant bullet point list that lets you focus in at any point of the tree. Imagine all of your notes and references and everything all in one massive document and then setting what amounts to bookmarks at places where you want to jump back in. I realized that 95% of my notes and references were bullet points and that the rest of my writing was just a bullet point list that didn't know it was a bullet point list yet (picture the HTML DOM). I had an honest-to-god revelation and realized that it's bullet points all the way down, man. 
 
 ![](/_images/2021/html-dom-as-bullet-points.png)
 
@@ -44,7 +44,7 @@ I loved this concept and felt like I had found a very important piece of the puz
 
 Roam Research is a very cool product and it advanced my note-taking ability and workflow greatly but two main problems - no local copy and a clunky user interface - made me feel unsure about migrating everything I had into it. That said, I have been using the heck out of Roam since May 2020 and have written more notes in that time than the 2-3 years previous combined. Bullet points, bi-directional linking, and daily notes were key to that productivity. 
 
-Then came [Obsidian](https://obsidian.md) and, for a variety of reasons, I'm pretty sure this is the app I'll stuck with for many years to come. It has nearly all of the features of all the other apps I've used combined, along with an interface that gets out of my way almost completely. I now have almost 10MB of text that I've created accessible through this app making linking things together very powerful. Now that it's all in one place, the idea of a PKB is more salient than ever. 
+Then came [Obsidian](https://obsidian.md) and, for a variety of reasons, I'm pretty sure this is the app I'll stick with for many years to come. It has nearly all of the features of all the other apps I've used combined, along with an interface that gets out of my way almost completely. I now have almost 10MB of text that I've created accessible through this app making linking things together very powerful. Now that it's all in one place, the idea of a PKB is more salient than ever. 
 
 I walked through how I use Obsidian in the video below, hopefully that's helpful for folks looking to take their notes to another level or migrate in from another system. In the video, I cover:
 
