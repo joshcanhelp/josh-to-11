@@ -1,7 +1,7 @@
 ---
 title: "Getting the Non-Essentials Done"
 layout: post
-excerpt: "After years of reading about productivity (a generally unproductive thing to do), trying out different techniques and apps, and journalling, I have finally constructed a system that helps me complete concrete tasks consistently and efficiently."
+excerpt: "After years of reading about productivity (a generally unproductive thing to do), trying out different techniques and apps, and journaling, I have finally constructed a system that helps me complete concrete tasks consistently and efficiently."
 date: 2017-01-13 04:19:01
 modified: 2018-07-19 04:36:44
 permalink: getting-the-non-essentials-done/index.html
@@ -10,7 +10,7 @@ featured_img:
 wpid: 4819
 ---
 
-After years of reading about productivity (a generally unproductive thing to do), trying out different techniques and apps, and journalling, I have finally constructed a system that helps me complete concrete tasks consistently and efficiently. The navel-gazing process of describing it here would probably put you to sleep so, for context, I use a combination of Asana, Post-It notes, nvAlt, text messages processed by IFTTT, and a single pile of papers.
+After years of reading about productivity (a generally unproductive thing to do), trying out different techniques and apps, and journaling, I have finally constructed a system that helps me complete concrete tasks consistently and efficiently. The navel-gazing process of describing it here would probably put you to sleep so, for context, I use a combination of Asana, Post-It notes, nvAlt, text messages processed by IFTTT, and a single pile of papers.
 
 I’ve tried no less than 40 different to-do/organization/task apps over the years and found that getting stuff done is simple combination of keeping my queue full but not too full, setting priority, and finding time to focus on that queue. For me, it’s not any more complicated than that and the more work I do to structure these atomic tasks, the more work I have. Record, prioritize, complete, repeat.
 
