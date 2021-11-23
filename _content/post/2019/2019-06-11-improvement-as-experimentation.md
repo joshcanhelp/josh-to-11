@@ -160,7 +160,7 @@ If the motivation you keep in your mind for the things you want to change does n
 
 {% h2br %}2020-11-24{% endh2br %}
 
-I just heard a great interview with James Clear, led by Sam Harris, and realized part-way through one of the answers that he was talking about exactly this. Interview is [here](https://samharris.org/podcasts/200-creatures-habit/), notes below are from 24:45 and onward.
+I just heard a great interview with James Clear, led by Sam Harris, and realized part-way through one of the answers that he was talking about exactly this. Interview is [here](https://samharris.org/podcasts/200-creatures-habit/), notes below are from 24:45 and onward. ^e2d249
 
 - SH: Goals are enjoyed very briefly. Think about finishing a marathon: you finish and can spend a while after wringing out whatever satisfaction you can get out of reapeating that to yourself. But the process is the life of being a runner, someone who likes running *after* the marathon
 - JC: You do not rise to the level of your goals, you fall to the level of your systems

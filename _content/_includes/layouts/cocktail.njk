@@ -1,0 +1,25 @@
+{% extends "_html.njk" %}
+
+{% block content %}
+
+  <article>
+    <div class="post-header">
+      <div class="title">
+        <h1>{{ title }}</h1>
+      </div>
+    </div>
+
+    {% if tags | length %}
+      <p>
+        {% for tag in tags %}
+          {% if tag %}<strong>* {{ tag }}</strong>{% endif %}
+        {% endfor %}
+      </p>
+    {% endif %}
+
+    {{ content | stripBrackets | safe }}
+
+    <p><a href="/cocktails" class="tag">&lsaquo; See All Cocktails</a></p>
+
+  </article>
+{% endblock %}

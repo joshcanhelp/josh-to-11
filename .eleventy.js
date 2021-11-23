@@ -22,6 +22,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
   eleventyConfig.addLayoutAlias("idea", "layouts/idea.njk");
   eleventyConfig.addLayoutAlias("anna", "layouts/anna.njk");
+  eleventyConfig.addLayoutAlias("cocktail", "layouts/cocktail.njk");
 
   eleventyConfig.setUseGitIgnore(false);
 
@@ -74,7 +75,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection("bestOfCollection", function (collection) {
     const tmpCollection = collection.getAllSorted();
-    return tmpCollection.reverse().filter(function (tpl) {
+    return tmpCollection.reverse().filter(tpl => {
       if (
         isPublishedPost(tpl.data) &&
         tpl.data.tags &&
@@ -87,12 +88,34 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection("ideasCollection", function (collection) {
     const tmpCollection = collection.getAllSorted();
-    return tmpCollection.reverse().filter(function (tpl) {
+    return tmpCollection.reverse().filter(tpl => {
       if ("idea" === tpl.data.layout) {
         return true;
       }
     });
   });
+
+  eleventyConfig.addCollection("cocktailsMadeCollection", function (collection) {
+    return collection.getAllSorted().filter(tpl => {
+      if ("cocktail" === tpl.data.layout && tpl.filePathStem.includes("/made/")) {
+        return true;
+      }
+    }).sort(alphaSortTitle);
+  });
+
+  eleventyConfig.addCollection("cocktailsNextCollection", function (collection) {
+    return collection.getAllSorted().filter(tpl => {
+      if ("cocktail" === tpl.data.layout && tpl.filePathStem.includes("/next/")) {
+        return true;
+      }
+    }).sort(alphaSortTitle);
+  });
+
+  const alphaSortTitle = (a, b) => {
+    if (a.data.title < b.data.title) return -1;
+    if (b.data.title > a.data.title) return 1;
+    return 0;
+  }
 
   eleventyConfig.addCollection("allTags", function (collection) {
     let allTags = [];
@@ -129,6 +152,10 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("slug", function (text) {
     return makeSlug(text);
+  });
+
+  eleventyConfig.addFilter("stripBrackets", function (text) {
+    return text.replace("[[", "").replace("]]", "");
   });
 
   eleventyConfig.addFilter("tweetIdeaUrl", function (text) {
