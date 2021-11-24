@@ -1,7 +1,7 @@
 * 1 oz blanco [[Tequila]]
 * 1 oz lime juice
 * 1 oz [[Campari]]
-* 0.75 oz 1:1 demerara syrup
+* 0.75 oz 1:1 Demerara syrup
 * 2 oz hazy IPA
 * Garnish: grapefruit peel
 

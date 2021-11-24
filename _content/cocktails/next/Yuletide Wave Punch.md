@@ -1,14 +1,16 @@
-15 oz pineapple juice
-7.5 oz lemon juice
-5 oz vanilla syrup
-10 oz bourbon
-10 oz aged rum
-5 oz pear liqueur
-2.5 oz allspice dram
-Garnish: ground cinnamon
+[[Large Batch]]
+
+- 15 oz pineapple juice
+- 7.5 oz lemon juice
+- 5 oz vanilla syrup
+- 10 oz [[Bourbon]]
+- 10 oz aged [[Rum]]
+- 5 oz [[Pear Liqueur]]
+- 2.5 oz [[Allspice Liqueur]]
+- Garnish: ground cinnamon
 
 **Steps:**
 
-- Combine all ingredients into a pitcher
-- Cover and refrigerate for 4 hours
-- Pour into punch bowl with large chunks of ice
+1. Combine all ingredients into a pitcher
+2. Cover and refrigerate for 4 hours
+3. Pour into punch bowl with large chunks of ice

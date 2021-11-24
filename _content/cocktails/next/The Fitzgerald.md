@@ -1,4 +1,8 @@
-2 oz [[Gin]]
-.75 oz fresh-squeezed lemon juice
-.75 oz simple syrup
-2 dashes angostura bitters
+- 2 oz [[Gin]]
+- .75 oz lemon juice
+- .75 oz 1:1 simple syrup
+- 2 dashes angostura bitters
+
+**Steps:**
+ 
+ Shake with ice and strain into glass

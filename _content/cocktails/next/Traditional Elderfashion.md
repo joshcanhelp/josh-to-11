@@ -1,7 +1,7 @@
 * 2 oz [[Bourbon]]
-* 2 dashes Angostura Bitters
-* 1 oz St. Germain
-* 1 Tsp club soda
+* 2 dashes Angostura
+* 1 oz [[Elderflower Liqueur]]
+* splash club soda
 
 **Steps:**
 

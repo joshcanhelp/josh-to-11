@@ -1,9 +1,9 @@
 - 1.5 oz [[Cynar]]
-- 0.75 oz [[Ginger Liqueur (large batch)]]
+- 0.75 oz [[Ginger Liqueur]]
 - 0.5 oz lemon juice
 - 1 tsp brown sugar
 - 1 dash Angostura
-- 2 oz sparkling wine
+- 2 oz [[Sparkling Wine]]
 - Garnish: nutmeg
 
 **Steps:**

@@ -1,7 +1,9 @@
+[[Large Batch]]
+
 * 0.75 cup [[Brandy]]
 * 0.75 cup [[Peach Schnapps]]
 * 1 cup ginger beer
-* 2 bottles of dry champagne
+* 2 bottles of dry [[Sparkling Wine]]
 * 8 dashes Angostura
 
 **Steps:**

@@ -2,7 +2,7 @@
 * 0.5 oz [[Cointreau]]
 * 0.25 oz lemon juice
 * 0.25 oz [[Maraschino Liqueur]]
-* 2 oz dry sparkling wine
+* 2 oz dry [[Sparkling Wine]]
 
 **Steps:**
  

@@ -3,7 +3,7 @@
 * 1 oz 1:1 simple syrup
 * 2 dashes Angostura
 * 6-8 mint leaves
-* 2 oz dry sparkling wine
+* 2 oz dry [[Sparkling Wine]]
 
 **Steps:**
 

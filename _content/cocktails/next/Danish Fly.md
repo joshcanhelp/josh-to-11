@@ -1,5 +1,5 @@
-- 1 oz good banana liqueur
-- 1 oz Aquavit
+- 1 oz [[Banana Liqueur]]
+- 1 oz [[Aquavit]]
 - 1 oz lemon juice
 - 0.5 oz grenadine
 

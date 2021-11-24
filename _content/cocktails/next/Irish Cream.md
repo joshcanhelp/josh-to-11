@@ -1,12 +1,14 @@
-5 tbsp granulated sugar
-1 oz water
-2 vanilla beans, split
-1 tbsp unsalted butter
-0.75 cup cacao nibs
-1 oz maple syrup
-2 cups heavy cream
-0.25 tsp almond extract
-4 oz Irish whisky
+[[Large Batch]]
+
+- 5 tbsp granulated sugar
+- 1 oz water
+- 2 vanilla beans, split
+- 1 tbsp unsalted butter
+- 0.75 cup cacao nibs
+- 1 oz maple syrup
+- 2 cups heavy cream
+- 0.25 tsp almond extract
+- 4 oz [[Irish Whisky]]
 
 **Steps:**
 

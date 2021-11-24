@@ -1,5 +1,5 @@
 - 2oz [[Pear Vodka]]
-- 0.5oz [[Ginger Liqueur (large batch)]]
+- 0.5oz [[Ginger Liqueur]]
 - 1oz simple syrup
 - 1oz lemon juice
 - Garnish: pear or crystalized ginger

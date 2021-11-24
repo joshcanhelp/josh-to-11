@@ -1,5 +1,7 @@
+[[Large Batch]]
+
 * 1 pint [[Brandy]]
-* 2 bottles dry sparkling wine
+* 2 bottles dry [[Sparkling Wine]]
 * 1 cup grenadine
 * 0.5 liter ginger ale/beer
 * 1 pint sherbert

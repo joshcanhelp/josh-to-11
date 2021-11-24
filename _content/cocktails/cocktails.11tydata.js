@@ -1,5 +1,14 @@
+const fs = require('fs');
+
 module.exports = {
   eleventyComputed: {
+    ingredients: async data => {
+      const filePath = data.page.inputPath.replace("./_content/cocktails", __dirname);
+      const fileContent = await fs.readFileSync(filePath, 'utf8');
+      const ingredients = fileContent.matchAll(/\[\[[\w\d\s]*\]\]/gm);
+      const ingredientsFlat = [...new Set([...ingredients].flat(10))];
+      return ingredientsFlat.map(ingredient => ingredient.replace("[[", "").replace("]]", ""));
+    },
     layout: "cocktail",
     title: data => data.page.fileSlug,
     tags: data => {return [

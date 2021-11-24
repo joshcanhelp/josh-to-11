@@ -3,7 +3,7 @@
 - 0.5 oz lemon juice
 - 2 barspoons high-quality cranberry sauce
 - 2 dashes Angostura
-- 2 oz sparkling wine
+- 2 oz [[Sparkling Wine]]
 
 **Steps:**
 

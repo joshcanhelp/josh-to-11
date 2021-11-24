@@ -1,3 +1,5 @@
+[[Large Batch]]
+
 - 9 oz cacao nibs
 - 16 oz Dermerara sugar
 - 0.5 tsp salt

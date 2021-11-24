@@ -1,5 +1,7 @@
-- 25 1" sprigs of doug fir (with stem)
-- 750mL bottle of vodka
+[[Large Batch]]
+
+- 25 x 1" sprigs of Douglas fir (with stem)
+- 750mL bottle of [[Vodka]]
 - 0.5 cup cane sugar
 - 0.25 cup water
 

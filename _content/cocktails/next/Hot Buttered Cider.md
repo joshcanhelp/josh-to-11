@@ -1,3 +1,5 @@
+[[Large Batch]]
+
 6.5 cups fresh apple cider
 12 oz [[Apple Brandy]] or [[Bourbon]]
 2 oz [[Elderflower Liqueur]]

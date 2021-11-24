@@ -1,12 +1,12 @@
-1.5oz [[Gin]]
-1oz dry vermouth
-0.5oz green chartreuse
-0.5oz maraschino liqueur 
-0.75oz lime juice
-0.5oz 75/25 everclear/green chartreuse
+- 1.5oz [[Gin]]
+- 1oz [[Dry Vermouth]]
+- 0.5oz [[Green Chartreuse]]
+- 0.5oz [[Maraschino Liqueur]]
+- 0.75oz lime juice
+- 0.5oz 75/25 [[Everclear]]/[[Green Chartreuse]]
 
 **Steps:**
 
-- Add rosemary and everclear to glass
-- Shake up other ingredients and set aside
-- Light rosemary on fire then immediately douse with shaken cocktail
+1. Add rosemary and everclear to glass
+2. Shake up other ingredients and set aside
+3. Light rosemary on fire then immediately douse with shaken cocktail

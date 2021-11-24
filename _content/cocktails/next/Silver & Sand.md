@@ -1,14 +1,13 @@
-1 oz Balvenie 12 year infused with Lemon and Ginger
-1 oz Cherry Heering
-1oz Fresh Lemon Juice
-1 oz Lillet Rouge
-Lemon Bitters
-1 Egg White
+- 1 oz [[Scotch]] infused with Lemon and Ginger
+- 1 oz [[Cherry Heering]]
+- 1 oz lemon juice
+- 1 oz [[Sweet Vermouth]]
+- Lemon Bitters
+- 1 Egg White
+- Garnish: lemon twist
 
-Glassware & Garnish:
-Coupe
-Lemon Twist Garnish
+**Steps:**
 
-Dry shake all ingredients for 10 seconds
-Add ice and vigorously shake for 20 seconds
-Fine strain into cocktail glass and garnish with a lemon twist
+1. Dry shake all ingredients for 10 seconds
+2. Add ice and vigorously shake for 20 seconds
+3. Fine strain into cocktail glass and garnish with a lemon twist

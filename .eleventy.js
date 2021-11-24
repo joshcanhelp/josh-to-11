@@ -154,8 +154,8 @@ module.exports = function (eleventyConfig) {
     return makeSlug(text);
   });
 
-  eleventyConfig.addFilter("stripBrackets", function (text) {
-    return text.replace("[[", "").replace("]]", "");
+  eleventyConfig.addFilter("stripSquareBrackets", function (text) {
+    return text.replace(/\[\[/g, "").replace(/\]\]/g, "");
   });
 
   eleventyConfig.addFilter("tweetIdeaUrl", function (text) {

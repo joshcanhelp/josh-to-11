@@ -1,6 +1,6 @@
-- 1oz coffee liqueur (Patron Cafe)
+- 1oz [[Coffee Liqueur]]
 - 1.5oz [[Tequila]]
-- 0.75oz dark chocolate liqueur
+- 0.75oz [[Creme de Cacao]]
 - 0.5oz heavy cream
 - Garnish: chile pepper powder or flakes
 

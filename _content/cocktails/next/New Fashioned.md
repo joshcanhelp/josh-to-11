@@ -2,7 +2,7 @@
 - 1 oz [[Cocchi Americano]]
 - 1 oz dry red wine
 - 3 dashes grapefruit bitters
-- 1 pea-sized lump of coconut or demerara sugar
+- 1 pea-sized lump of coconut or Demerara sugar
 - Garnish: lemon twist
 
 **Steps:**
