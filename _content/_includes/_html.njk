@@ -3,7 +3,7 @@
 <head>
 	{% include "partials/head.html" %}
 	{% from "macros/head-title.njk" import headTitle %}
-	{{ headTitle(title) }}
+	{{ headTitle(metaTitle or title) }}
 	{% from "macros/head-description.njk" import headDescription %}
 	{{ headDescription(excerpt) }}
 	{% from "macros/head-featured-img.njk" import headFeaturedImg %}
