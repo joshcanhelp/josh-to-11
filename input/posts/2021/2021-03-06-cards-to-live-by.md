@@ -23,7 +23,7 @@ In the hopes of inspiring someone else to do the same, I thought I'd share the p
 
 ---
 
-{% include ../_partials/cards-to-live-by.md %}
+{% include ../_includes/partials/cards-to-live-by.md %}
 
 ---
 
