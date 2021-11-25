@@ -216,7 +216,7 @@ module.exports = function (eleventyConfig) {
 
   return {
     dir: {
-      input: "_content",
+      input: "input",
       output: "_dist",
     },
     templateFormats: [
