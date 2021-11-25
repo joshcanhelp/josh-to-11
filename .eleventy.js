@@ -95,27 +95,45 @@ module.exports = function (eleventyConfig) {
     });
   });
 
-  eleventyConfig.addCollection("cocktailsMadeCollection", function (collection) {
-    return collection.getAllSorted().filter(tpl => {
-      if ("cocktail" === tpl.data.layout && tpl.filePathStem.includes("/made/")) {
-        return true;
-      }
-    }).sort(alphaSortTitle);
-  });
+  eleventyConfig.addCollection(
+    "cocktailsMadeCollection",
+    function (collection) {
+      return collection
+        .getAllSorted()
+        .filter((tpl) => {
+          if (
+            "cocktail" === tpl.data.layout &&
+            tpl.filePathStem.includes("/made/")
+          ) {
+            return true;
+          }
+        })
+        .sort(alphaSortTitle);
+    }
+  );
 
-  eleventyConfig.addCollection("cocktailsNextCollection", function (collection) {
-    return collection.getAllSorted().filter(tpl => {
-      if ("cocktail" === tpl.data.layout && tpl.filePathStem.includes("/next/")) {
-        return true;
-      }
-    }).sort(alphaSortTitle);
-  });
+  eleventyConfig.addCollection(
+    "cocktailsNextCollection",
+    function (collection) {
+      return collection
+        .getAllSorted()
+        .filter((tpl) => {
+          if (
+            "cocktail" === tpl.data.layout &&
+            tpl.filePathStem.includes("/next/")
+          ) {
+            return true;
+          }
+        })
+        .sort(alphaSortTitle);
+    }
+  );
 
   const alphaSortTitle = (a, b) => {
     if (a.data.title < b.data.title) return -1;
     if (b.data.title > a.data.title) return 1;
     return 0;
-  }
+  };
 
   eleventyConfig.addCollection("allTags", function (collection) {
     let allTags = [];
