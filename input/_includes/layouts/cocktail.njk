@@ -9,12 +9,8 @@
       </div>
     </div>
 
-    {% if tags | length %}
-      <p>
-        {% for tag in tags %}
-          {% if tag %}<strong>* {{ tag }}</strong>{% endif %}
-        {% endfor %}
-      </p>
+    {% if contentPrepend %}
+    <p><strong>* {{ contentPrepend | safe }}</strong></p>
     {% endif %}
 
     {{ content | stripSquareBrackets | safe }}

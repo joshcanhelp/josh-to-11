@@ -12,10 +12,7 @@ module.exports = {
     layout: "cocktail",
     title: data => data.page.fileSlug,
     metaTitle: data => data.page.fileSlug + " Cocktail Recipe",
-    tags: data => {return [
-      data.page.filePathStem.includes("/made/") ? "I Have Made This" : undefined,
-      data.page.filePathStem.includes("/next/") ? "I Have Not Made This Yet" : undefined,
-    ]},
+    contentPrepend: data => data.page.filePathStem.includes("/made/") ? "I Have Made This" : "I Have Not Made This Yet",
     permalink: data => "cocktails/" + data.page.fileSlug
       .replace(/([a-z])([A-Z])/g, "$1-$2")
       .replace(/[\s_]+/g, '-')
