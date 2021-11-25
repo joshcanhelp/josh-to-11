@@ -75,7 +75,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection("bestOfCollection", function (collection) {
     const tmpCollection = collection.getAllSorted();
-    return tmpCollection.reverse().filter(tpl => {
+    return tmpCollection.reverse().filter(function (tpl) {
       if (
         isPublishedPost(tpl.data) &&
         tpl.data.tags &&
@@ -88,7 +88,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection("ideasCollection", function (collection) {
     const tmpCollection = collection.getAllSorted();
-    return tmpCollection.reverse().filter(tpl => {
+    return tmpCollection.reverse().filter(function (tpl) {
       if ("idea" === tpl.data.layout) {
         return true;
       }
