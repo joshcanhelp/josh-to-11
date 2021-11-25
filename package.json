@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "11": "npx @11ty/eleventy",
-    "build": "npm run 11 && npm run sass",
+    "build": "npm rebuild node-sass && npm run 11 && npm run sass",
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "npx @11ty/eleventy --serve --watch --quiet",
     "sass": "node-sass sass -o _dist/_css",
