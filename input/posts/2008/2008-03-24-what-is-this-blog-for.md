@@ -1,6 +1,5 @@
 ---
 title: "What Is This Blog For?"
-layout: post
 excerpt: "This blog is the story of Josh Can Help (dot com) ... how it came about, how it came together, and how it’s going."
 modified: 2016-03-30 18:30:19
 permalink: what-is-this-blog-for/index.html

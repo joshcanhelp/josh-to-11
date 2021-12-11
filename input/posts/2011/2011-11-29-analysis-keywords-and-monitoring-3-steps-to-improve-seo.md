@@ -1,6 +1,5 @@
 ---
 title: "Improve Site SEO in 3 Steps: Analysis, Keywords &amp; Monitoring"
-layout: post
 excerpt: ""
 modified: 2016-10-20 16:44:00
 permalink: analysis-keywords-and-monitoring-3-steps-to-improve-seo/index.html

@@ -1,6 +1,5 @@
 ---
 title: "Slowly but surely, I think we're starting to fit in"
-layout: post
 excerpt: "With a haircut by a French barber and just enough French to get by, I’m claiming honorary (though temporary) status as a Parisian."
 modified: 2010-09-06 21:17:41
 permalink: slowly-but-surely-i-think-were-starting-to-fit-in/index.html

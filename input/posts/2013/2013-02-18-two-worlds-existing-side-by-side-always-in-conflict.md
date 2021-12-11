@@ -1,6 +1,5 @@
 ---
 title: "Two Worlds, Existing Side-by-Side, Always In Conflict"
-layout: post
 excerpt: "On how I have made a commitment, each day, to never getting mad, irritable, frustrated, depressed, or negative, no matter what. This probably sounds a little trite to some, maybe totally obvious to others, but it's something I needed to understand. &quot;When the student is prepared, the teacher appears,&quot; says Brother Ali .... preach on. "
 modified: 2019-06-29 20:51:08
 permalink: two-worlds-existing-side-by-side-always-in-conflict/index.html

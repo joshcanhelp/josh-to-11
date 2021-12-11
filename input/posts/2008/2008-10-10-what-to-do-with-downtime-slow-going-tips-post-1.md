@@ -1,6 +1,5 @@
 ---
 title: "What to do with downtime: slow-going tips post #1"
-layout: post
 excerpt: ""
 modified: 2016-10-20 16:44:20
 permalink: what-to-do-with-downtime-slow-going-tips-post-1/index.html

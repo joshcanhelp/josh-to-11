@@ -1,6 +1,5 @@
 ---
 title: "Leaving San Diego"
-layout: post
 excerpt: "I’m sitting here at LAX wondering how I can communicate how intense this last week has been. I don’t think I can ... and I don’t think it matters. Still, let me share what our final week in San Diego had in store for us. "
 modified: 2010-08-13 11:10:23
 permalink: leaving-san-diego/index.html

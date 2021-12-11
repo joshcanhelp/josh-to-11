@@ -1,6 +1,5 @@
 ---
 title: "Much Needed Inspiration"
-layout: post
 excerpt: "An incredible movie, a life-changing product, and a quote. Might be just what you need right now too. "
 modified: 2016-10-20 16:43:59
 permalink: inspiration-1/index.html

@@ -1,6 +1,5 @@
 ---
 title: "Working with Me"
-layout: post
 excerpt: "Frequently asked questions about what I do, how I do it, and details about working with me."
 modified: 2016-10-17 17:36:23
 permalink: working-with-me-in-2016/index.html

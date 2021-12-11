@@ -1,6 +1,5 @@
 ---
 title: "8ninths Site Rebuild"
-layout: post
 excerpt: "Just in time for an announcement by Microsoft about their HoloLens project, we launched a complete site rebuild for 8ninths, focusing on their VR and AR capabilities. "
 modified: 2016-11-02 22:10:59
 permalink: 8ninths-site-rebuild/index.html

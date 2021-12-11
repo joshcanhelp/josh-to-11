@@ -1,6 +1,5 @@
 ---
 title: "New Business Card Design"
-layout: post
 excerpt: "Layer-by-layer, inch-by-inch. The message is more effective as a snowball, building momentum and speed and power and influence over time, than as one massive onslaught. A better presence is made by just that: presence."
 modified: 2016-04-01 01:18:42
 permalink: new-business-card-design/index.html

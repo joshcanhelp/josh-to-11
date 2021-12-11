@@ -1,6 +1,5 @@
 ---
 title: "Make it Simple, Focused, High-Performance, and Polished: My Web Philosophy"
-layout: post
 excerpt: ""
 modified: 2016-04-01 04:26:01
 permalink: make-it-simple-focused-high-performance-and-polished-my-web-philosophy/index.html

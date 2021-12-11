@@ -1,6 +1,5 @@
 ---
 title: "Is your wifi disconnecting frequently? Here's the fix... "
-layout: post
 excerpt: "Stop your wifi from disconnecting frequently in Windows XP."
 modified: 2016-04-01 03:52:20
 permalink: does-your-wifi-disconnect-often-before-you-smash-your-laptop-heres-the-fix/index.html

@@ -1,6 +1,5 @@
 ---
 title: "What it means to me to be a free agent"
-layout: post
 excerpt: ""
 modified: 2016-04-03 02:32:59
 permalink: what-it-means-to-me-to-be-a-free-agent/index.html

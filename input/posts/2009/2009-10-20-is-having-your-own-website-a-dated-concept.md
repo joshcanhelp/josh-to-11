@@ -1,6 +1,5 @@
 ---
 title: "Is having your own website a dated concept"
-layout: post
 excerpt: "For the record, this is one of the reasons I find immense value in Twitter: exposure to a broad range of opinions on an equally broad range of topics. Since this particular option pertained to what I do, I figured I’d chime in."
 modified: 2016-10-20 16:44:17
 permalink: is-having-your-own-website-a-dated-concept/index.html

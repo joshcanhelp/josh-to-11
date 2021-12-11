@@ -1,6 +1,5 @@
 ---
 title: "Traditional networking is dead"
-layout: post
 excerpt: "I think I’ve found my calling: exchanging ideas and talking them through. What’s that pay nowadays?"
 modified: 2016-04-01 04:12:24
 permalink: traditional-networking-is-dead/index.html

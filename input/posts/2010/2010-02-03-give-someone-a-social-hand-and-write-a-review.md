@@ -1,6 +1,5 @@
 ---
 title: "Give someone a social hand and write a review"
-layout: post
 excerpt: "A reminder to get out there and write reviews about the stores and products you can’t live without and the ones you want to annihilate."
 modified: 2016-04-01 03:03:59
 permalink: give-someone-a-social-hand-and-write-a-review/index.html

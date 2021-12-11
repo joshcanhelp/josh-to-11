@@ -1,6 +1,5 @@
 ---
 title: "Gist: Add custom fields by shortcode"
-layout: post
 excerpt: ""
 modified: 2016-11-02 22:10:59
 permalink: gist-add-custom-fields-shortcode/index.html

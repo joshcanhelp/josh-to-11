@@ -1,6 +1,5 @@
 ---
 title: "PROPER Web Development"
-layout: post
 excerpt: ""
 modified: 2016-10-20 16:44:00
 permalink: proper-web-development/index.html

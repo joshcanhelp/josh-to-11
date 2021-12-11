@@ -1,6 +1,5 @@
 ---
 title: "Making a commitment to better output: NO MORE F*CKING TYPOS"
-layout: post
 excerpt: ""
 modified: 2016-04-03 02:32:59
 permalink: making-a-commitment-to-better-output-no-more-fcking-typos/index.html

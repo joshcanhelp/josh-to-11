@@ -1,6 +1,5 @@
 ---
 title: "Great Content Is Like a Produce Stand in Paris"
-layout: post
 excerpt: "You're just another blog out there but with a little creativity and some care for the people coming through, you can be just what someone needs at just the right time."
 modified: 2019-08-10 22:44:03
 permalink: great-content-is-like-a-produce-stand-in-paris/index.html

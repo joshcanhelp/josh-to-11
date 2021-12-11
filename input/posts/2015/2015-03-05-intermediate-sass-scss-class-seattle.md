@@ -1,6 +1,5 @@
 ---
 title: "Intermediate Sass/SCSS class in Seattle"
-layout: post
 excerpt: "For web development folks in Seattle who want to level up on Sass, SCSS, Bourbon, and the like, I'm helping to organize an intermediate-level class sometime in the next couple of months. "
 modified: 2016-10-20 16:43:59
 permalink: intermediate-sass-scss-class-seattle/index.html

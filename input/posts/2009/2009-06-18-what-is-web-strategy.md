@@ -1,6 +1,5 @@
 ---
 title: "What Is Web Strategy?"
-layout: post
 excerpt: "I've realized in the last year that my passion is centered around the web and how people connect to one another, use simple online tools to solve their problems, and create a name for themselves or their business in a way that was never possible before."
 modified: 2016-10-20 16:44:18
 permalink: what-is-web-strategy/index.html

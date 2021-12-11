@@ -1,6 +1,5 @@
 ---
 title: "Reims - You Want To Go To There"
-layout: post
 excerpt: "Get comfortable, grab a glass of something cold, white, and bubbly, and let me tell you about our day trip to a great little town called Reims."
 modified: 2019-06-29 20:47:27
 permalink: reims-you-want-to-go-to-there/index.html

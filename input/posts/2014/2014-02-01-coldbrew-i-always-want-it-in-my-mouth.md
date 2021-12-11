@@ -1,6 +1,5 @@
 ---
 title: "I Don't Know What Exactly Makes This Coldbrew So AMAZING but I Do Know I Always Want It In My Mouth"
-layout: post
 excerpt: ""
 modified: 2016-01-19 04:20:04
 permalink: coldbrew-i-always-want-it-in-my-mouth/index.html

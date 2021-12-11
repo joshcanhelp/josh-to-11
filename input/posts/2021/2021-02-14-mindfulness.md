@@ -1,7 +1,6 @@
 ---
 
 title: "Curiosity, Freedom, and Truth: My Path to Mindfulness"
-layout: post
 permalink: mindfulness/index.html
 tags: ["Personal Development", "Mindfulness", "COVID-19"]
 featured_img: /_images/2021/san_juan_island_fence_THUMB.jpg

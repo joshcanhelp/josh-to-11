@@ -3,7 +3,6 @@
 title: "Taking Notes: Why and How"
 excerpt: "I've been writing for myself regularly for probably 15 years and have tried out many different systems and apps. Recently, I think I finally found the right one."
 permalink: notes/index.html
-layout: post
 tags: [ "Best Of", "Content Management", "Personal Data", "Writing" ]
 featured_img: /_images/2021/taking-notes_THUMB.jpg
 

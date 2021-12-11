@@ -1,6 +1,5 @@
 ---
 title: "WP-Drudge on Alan.com"
-layout: post
 excerpt: "Alan Colmes needed a central hub for his news curation and community surrounding his radio show and books. We've been iterating on this site for a few years and finally settled on a very customized version of the WP-Drudge theme I created. "
 modified: 2016-10-20 16:43:59
 permalink: wp-drudge-on-alan-com/index.html

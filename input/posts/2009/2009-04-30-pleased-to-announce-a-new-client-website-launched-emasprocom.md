@@ -1,6 +1,5 @@
 ---
 title: "Pleased To Announce a New Client Website Launched: EMASPro.com"
-layout: post
 excerpt: "I’m very excited to announce the culmination of a lot of planning, design, and coding. The site emaspro.com went live on Monday night without any major fiascoes, issues, meltdowns, or problems."
 modified: 2016-10-20 16:44:18
 permalink: pleased-to-announce-a-new-client-website-launched-emasprocom/index.html

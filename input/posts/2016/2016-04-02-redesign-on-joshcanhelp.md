@@ -1,6 +1,5 @@
 ---
 title: "Redesign on JoshCanHelp"
-layout: post
 excerpt: "A few details about the current (5th) iteration of this site. "
 modified: 2016-11-02 22:10:59
 permalink: redesign-on-joshcanhelp/index.html

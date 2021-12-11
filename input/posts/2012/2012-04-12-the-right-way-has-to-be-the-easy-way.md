@@ -1,6 +1,5 @@
 ---
 title: "The Right Way Has To Be The &quot;Easy&quot; Way"
-layout: post
 excerpt: "When you're ready to start using social media, ask yourself two questions: how much time do I have to spend on this activity and what kind of value can I provide?"
 modified: 2020-01-19 22:12:08
 permalink: right-way-has-to-be-the-easy-way/index.html

@@ -3,7 +3,6 @@
 title: "Protect your WordPress REST API with OAuth2 using Auth0"
 excerpt: In this post, we are going to add the ability to use Auth0-generated access tokens for WP REST API endpoints that require an account and certain capabilities.
 permalink: protect-wordpress-rest-api-with-oauth2-auth0/index.html
-layout: post
 tags: [ "WordPress", "Auth0", "OAuth2", "Best Of" ]
 featured_img: /_images/2020/12/wp-rest-api-authentication-thumb.png
 

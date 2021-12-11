@@ -1,6 +1,5 @@
 ---
 title: "Recommended reading for web site owners"
-layout: post
 excerpt: "These are must-reads for anyone who has or thinks they should have a website out there and gathering eyeballs."
 modified: 2016-10-20 16:44:17
 permalink: recommended-reading-for-web-site-owners/index.html

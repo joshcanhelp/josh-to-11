@@ -1,6 +1,5 @@
 ---
 title: "Google Analytics Basics"
-layout: post
 excerpt: "Knowing what pages are the most popular, what keywords people are using to find you, and where people are going paint a picture about your customers."
 modified: 2016-10-20 16:44:18
 permalink: understanding-the-basics-of-google-analytics/index.html

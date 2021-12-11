@@ -1,6 +1,5 @@
 ---
 title: "Staying positive"
-layout: post
 excerpt: "We are stuck in (beautiful) Toulon because of train strikes (and bus strikes and no rental cars) and this fact makes enjoying this beautiful part of the country more difficult than it could be."
 modified: 2019-08-10 22:45:09
 permalink: staying-positive/index.html

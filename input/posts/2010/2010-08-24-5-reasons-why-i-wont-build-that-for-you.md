@@ -1,6 +1,5 @@
 ---
 title: "5 Reasons Why I Won't Build That For You (it's not just because I said so)"
-layout: post
 excerpt: ""
 modified: 2016-04-03 02:32:59
 permalink: 5-reasons-why-i-wont-build-that-for-you/index.html

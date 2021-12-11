@@ -1,6 +1,5 @@
 ---
 title: "&quot;Customer service&quot;"
-layout: post
 excerpt: "I want to address a conversation I had with a Cox cable technical support rep yesterday."
 modified: 2013-04-06 22:40:45
 permalink: customer-service/index.html

@@ -1,6 +1,5 @@
 ---
 title: "Web strategy and resources links for July 31st"
-layout: post
 excerpt: ""
 modified: 2016-10-20 16:44:18
 permalink: web-strategy-and-resources-links-for-july-31st/index.html

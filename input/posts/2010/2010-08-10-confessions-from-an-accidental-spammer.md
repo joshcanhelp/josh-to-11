@@ -1,6 +1,5 @@
 ---
 title: "Confessions from an accidental spammer"
-layout: post
 excerpt: ""
 modified: 2016-04-03 02:32:59
 permalink: confessions-from-an-accidental-spammer/index.html

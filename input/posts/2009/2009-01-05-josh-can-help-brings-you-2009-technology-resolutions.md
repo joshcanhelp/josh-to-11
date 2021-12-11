@@ -1,6 +1,5 @@
 ---
 title: "Josh Can Help brings you: 2009 Technology Resolutions"
-layout: post
 excerpt: ""
 modified: 2016-10-20 16:44:19
 permalink: josh-can-help-brings-you-2009-technology-resolutions/index.html

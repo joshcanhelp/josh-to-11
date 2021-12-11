@@ -1,6 +1,5 @@
 ---
 title: "Hiring a Virtual Assistant"
-layout: post
 excerpt: ""
 modified: 2016-10-20 16:44:00
 permalink: hiring-a-virtual-assistant/index.html

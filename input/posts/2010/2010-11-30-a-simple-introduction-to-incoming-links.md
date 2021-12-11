@@ -1,6 +1,5 @@
 ---
 title: "Simple introduction to incoming links"
-layout: post
 excerpt: "The incoming link concept is one of those things that is hard to get your head around but one of the key concepts of having an maintaining a healthy website."
 modified: 2016-04-03 02:32:59
 permalink: a-simple-introduction-to-incoming-links/index.html

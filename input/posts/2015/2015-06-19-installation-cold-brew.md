@@ -1,6 +1,5 @@
 ---
 title: "Installation Cold Brew: Buzz King"
-layout: post
 excerpt: ""
 modified: 2016-01-19 04:20:04
 permalink: installation-cold-brew/index.html

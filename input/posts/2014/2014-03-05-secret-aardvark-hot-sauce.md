@@ -1,6 +1,5 @@
 ---
 title: "My Favorite Hot Sauce Ever ... This Month"
-layout: post
 excerpt: ""
 modified: 2016-01-19 04:20:04
 permalink: secret-aardvark-hot-sauce/index.html
