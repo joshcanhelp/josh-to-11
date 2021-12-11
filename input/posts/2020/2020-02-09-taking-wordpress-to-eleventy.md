@@ -2,7 +2,6 @@
 
 title: "Taking WordPress to Eleventy"
 excerpt: "How I converted 12 years of posts in WordPress to an Eleventy static site ... and loved every minute of it."
-modified: Last Modified
 permalink: taking-wordpress-to-eleventy/index.html
 tags: [ "Best Of", "WordPress", "Eleventy", "Open Source" ]
 featured_img: /_images/2020/02/IMG_2468-150x150.jpg
