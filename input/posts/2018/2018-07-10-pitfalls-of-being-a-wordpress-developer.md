@@ -1,6 +1,5 @@
 ---
 title: "Pitfalls of Being a WordPress Developer"
-layout: post
 excerpt: "Something happens to you as a developer when you start on and stick with a single platform for a long period of time. As you get better and better at that platform, you get further and further away from the rest of the ecosystem."
 modified: 2019-06-11 18:24:41
 permalink: pitfalls-of-being-a-wordpress-developer/index.html

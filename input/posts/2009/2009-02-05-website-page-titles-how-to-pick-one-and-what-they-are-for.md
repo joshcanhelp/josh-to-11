@@ -1,6 +1,5 @@
 ---
 title: "Website page titles - how to pick one and what they are for"
-layout: post
 excerpt: "Sometimes it’s the things you don’t see that make the biggest difference."
 modified: 2016-10-20 16:44:19
 permalink: website-page-titles-how-to-pick-one-and-what-they-are-for/index.html

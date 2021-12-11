@@ -1,6 +1,5 @@
 ---
 title: "Stoic Technology: Learning to Love Adversity"
-layout: post
 excerpt: ""
 modified: 2016-04-03 02:32:59
 permalink: stoic-technology-learning-to-love-adversity/index.html

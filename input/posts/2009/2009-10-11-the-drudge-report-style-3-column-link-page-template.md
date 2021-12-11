@@ -1,6 +1,5 @@
 ---
 title: "Drudge Report template - 3 column link display page in HTML"
-layout: post
 excerpt: "I started from scratch and made this very simple, lightweight, one-file, one-page site template that mimics the layout of Drudge report with a few extra features."
 modified: 2019-01-08 00:18:32
 permalink: the-drudge-report-style-3-column-link-page-template/index.html

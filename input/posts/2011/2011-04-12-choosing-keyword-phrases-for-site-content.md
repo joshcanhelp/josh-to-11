@@ -1,6 +1,5 @@
 ---
 title: "Choosing Keyword Phrases for Content Pages"
-layout: post
 excerpt: "A step-by-step guide on how to choose the right keywords for your site content. "
 modified: 2016-04-03 02:32:59
 permalink: choosing-keyword-phrases-for-site-content/index.html

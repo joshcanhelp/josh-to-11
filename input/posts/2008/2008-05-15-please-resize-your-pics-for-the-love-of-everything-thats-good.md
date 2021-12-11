@@ -1,6 +1,5 @@
 ---
 title: "Please, resize your pics, for the love of everything that's good!"
-layout: post
 excerpt: "This post goes out to the habitual offenders and for those who do it and do it right but want others to do the same."
 modified: 2016-04-01 04:03:11
 permalink: please-resize-your-pics-for-the-love-of-everything-thats-good/index.html

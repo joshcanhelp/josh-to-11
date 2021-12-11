@@ -1,6 +1,5 @@
 ---
 title: "Self-Teach or Go Back to School?"
-layout: post
 excerpt: "Advice to a few friends on learning web development."
 permalink: self-teach-or-go-back-to-school/index.html
 tags: ["Development", "Open Source"]

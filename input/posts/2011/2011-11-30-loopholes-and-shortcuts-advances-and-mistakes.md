@@ -1,6 +1,5 @@
 ---
 title: "Loopholes and shortcuts, advances and mistakes"
-layout: post
 excerpt: ""
 modified: 2020-01-19 22:12:08
 permalink: loopholes-and-shortcuts-advances-and-mistakes/index.html

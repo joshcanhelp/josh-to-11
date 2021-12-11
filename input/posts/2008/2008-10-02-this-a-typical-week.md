@@ -1,6 +1,5 @@
 ---
 title: "This, a typical week"
-layout: post
 excerpt: "I have been talking recently (more in person than anywhere) about being a generalist and what that means to me. I am, in every sense of the word, a generalist, a mash-up artist, comfortable between groups than deep within them."
 modified: 2016-10-20 16:44:20
 permalink: this-a-typical-week/index.html

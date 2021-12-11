@@ -1,6 +1,5 @@
 ---
 title: "Beautiful piece about time "
-layout: post
 excerpt: ""
 modified: 2017-01-24 06:06:17
 permalink: beautiful-piece-time/index.html

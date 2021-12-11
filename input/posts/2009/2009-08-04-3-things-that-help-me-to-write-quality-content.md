@@ -1,6 +1,5 @@
 ---
 title: "3 things that help me to write quality content"
-layout: post
 excerpt: "I am fascinated by how people are able (or unable) to consume the amount of information that is available on so many topics. I am also perpetually interested in improving my own ability at presenting information."
 modified: 2016-10-20 16:44:18
 permalink: 3-things-that-help-me-to-write-quality-content/index.html

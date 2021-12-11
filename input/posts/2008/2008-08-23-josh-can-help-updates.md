@@ -1,6 +1,5 @@
 ---
 title: "Josh Can Help updates..."
-layout: post
 excerpt: "I meant to use this blog as a place to update information about my business and maybe some relevant personal stuff but I’m so boring that all I write about is work and coding!"
 modified: 2016-10-20 16:44:21
 permalink: josh-can-help-updates/index.html

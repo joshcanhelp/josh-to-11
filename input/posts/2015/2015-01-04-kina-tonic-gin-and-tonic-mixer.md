@@ -1,6 +1,5 @@
 ---
 title: "Kina Tonic For A Unique Gin & Tonic Experience"
-layout: post
 excerpt: ""
 modified: 2016-01-19 04:20:04
 permalink: kina-tonic-gin-and-tonic-mixer/index.html

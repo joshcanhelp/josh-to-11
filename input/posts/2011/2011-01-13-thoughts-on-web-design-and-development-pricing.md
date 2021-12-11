@@ -1,6 +1,5 @@
 ---
 title: "Thoughts on web design and development pricing"
-layout: post
 excerpt: ""
 modified: 2016-04-03 02:32:59
 permalink: thoughts-on-web-design-and-development-pricing/index.html

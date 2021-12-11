@@ -1,6 +1,5 @@
 ---
 title: "One component of Josh Can Help's website philosophy - Understanding"
-layout: post
 excerpt: "One of the most challenging and interesting parts of what I do is bridging the gap between potentially confusing technology and people who are far removed from how it works."
 modified: 2016-10-20 16:44:21
 permalink: the-5-components-of-josh-can-helps-website-philosophy-part-1-understand/index.html

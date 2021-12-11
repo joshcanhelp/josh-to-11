@@ -1,6 +1,5 @@
 ---
 title: "Building a homepage from a blog: Part 2: Finalizing the design and planning out mark-up and CSS structure."
-layout: post
 excerpt: "After weeks of stressing out in Illustrator, I finally decided on a design I like."
 modified: 2016-04-03 02:33:18
 permalink: building-a-homepage-from-a-blog-part-1-finalizing-the-design-and-planning-out-mark-up-and-css-structure/index.html

@@ -1,6 +1,5 @@
 ---
 title: "AleSmith Grand Cru - One of My Favorite Beers of All Time"
-layout: post
 excerpt: ""
 modified: 2016-01-19 04:20:04
 permalink: one-of-the-best-stouts-money-can-buy/index.html

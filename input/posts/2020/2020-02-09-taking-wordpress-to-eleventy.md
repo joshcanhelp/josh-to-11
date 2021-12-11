@@ -1,7 +1,6 @@
 ---
 
 title: "Taking WordPress to Eleventy"
-layout: post
 excerpt: "How I converted 12 years of posts in WordPress to an Eleventy static site ... and loved every minute of it."
 modified: Last Modified
 permalink: taking-wordpress-to-eleventy/index.html

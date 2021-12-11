@@ -1,6 +1,5 @@
 ---
 title: "Repo: WP CSV Importer"
-layout: post
 excerpt: ""
 modified: 2016-10-20 16:43:59
 permalink: repo-wp-csv-importer/index.html

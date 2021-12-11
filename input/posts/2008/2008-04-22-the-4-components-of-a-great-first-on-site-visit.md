@@ -1,6 +1,5 @@
 ---
 title: "The 4 Components of a Great First On-Site Visit"
-layout: post
 excerpt: "I learned a great deal about stress management and face-to-face interactions on my very first on-site call. I came up with 4 important things to think about before your first face-to-face customer interaction."
 modified: 2016-03-30 18:59:17
 permalink: the-4-components-of-a-great-first-on-site-visit/index.html

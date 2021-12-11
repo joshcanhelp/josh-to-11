@@ -1,6 +1,5 @@
 ---
 title: "Free Excel Invoice Template"
-layout: post
 excerpt: "I just recently made an invoice for myself and thought I would share it with the world! It’s clean, simple, and easy to use."
 modified: 2016-04-01 01:37:30
 permalink: free-excel-invoice-template/index.html

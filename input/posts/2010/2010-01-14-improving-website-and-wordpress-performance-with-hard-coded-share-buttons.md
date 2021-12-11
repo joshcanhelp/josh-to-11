@@ -1,6 +1,5 @@
 ---
 title: "Improving Website and WordPress Performance with Hard-Coded Share Buttons"
-layout: post
 excerpt: "Quickly add hard-coded share links badges to your WordPress or static site. "
 modified: 2016-03-30 19:10:37
 permalink: improving-website-and-wordpress-performance-with-hard-coded-share-buttons/index.html

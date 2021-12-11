@@ -1,6 +1,5 @@
 ---
 title: "And so it begins - planning, preparation, and PayPal"
-layout: post
 excerpt: "I decided to start this little travel blog of sorts to share the newlyweds’ adventures across a few different countries. Imagine my surprise when my very private and, at times, very shy wife seemed almost more excited than I was."
 modified: 2010-08-01 19:14:40
 permalink: and-so-it-begins-planning-preparation-and-paypal/index.html

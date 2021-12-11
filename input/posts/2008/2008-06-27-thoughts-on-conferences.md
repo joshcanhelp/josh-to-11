@@ -1,6 +1,5 @@
 ---
 title: "Thoughts on conferences"
-layout: post
 excerpt: "A few random thoughts on how to make a conference presentation go well."
 modified: 2016-04-01 04:17:01
 permalink: thoughts-on-conferences/index.html

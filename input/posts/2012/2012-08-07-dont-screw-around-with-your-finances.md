@@ -1,6 +1,5 @@
 ---
 title: "Don't Screw Around with Your Finances"
-layout: post
 excerpt: ""
 modified: 2016-10-20 16:44:00
 permalink: dont-screw-around-with-your-finances/index.html

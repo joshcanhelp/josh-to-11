@@ -1,6 +1,5 @@
 ---
 title: "Easy Feedback To-dos with Gmail and Asana"
-layout: post
 excerpt: "I recently needed feedback on a product I'm creating and wanted to figure out the easiest way to get feedback from contacts who were generous enough to give it. Maybe this will work for you too."
 modified: 2016-10-20 16:43:59
 permalink: easy-feedback-dos-gmail-asana/index.html

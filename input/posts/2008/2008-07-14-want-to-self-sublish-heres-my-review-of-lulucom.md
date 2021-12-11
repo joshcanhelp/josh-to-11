@@ -1,6 +1,5 @@
 ---
 title: "Want to self-publish? My review of Lulu.com"
-layout: post
 excerpt: "I liked Lulu the best from my research and chose them to publish my client’s book. Here are my impressions about the whole writing, publishing, and uploading experience."
 modified: 2019-01-08 00:16:52
 permalink: want-to-self-sublish-heres-my-review-of-lulucom/index.html

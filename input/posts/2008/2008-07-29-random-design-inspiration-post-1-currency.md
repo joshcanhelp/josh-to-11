@@ -1,6 +1,5 @@
 ---
 title: "Random design inspiration post #1 - Currency"
-layout: post
 excerpt: "Pull a bill out and look at it really close. The detail is impressive and the layout is very interesting, particularly because it has a lot of limitations/requirements. "
 modified: 2016-04-03 02:33:18
 permalink: random-design-inspiration-post-1-currency/index.html

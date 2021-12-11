@@ -1,6 +1,5 @@
 ---
 title: "Neil Roseman on conversations/interviews"
-layout: post
 excerpt: ""
 modified: 2016-11-22 17:51:15
 permalink: neil-roseman-on-conversations-interviews/index.html

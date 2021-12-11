@@ -1,6 +1,5 @@
 ---
 title: "Information Reservoirs (or) How I Keep Track of a Large Amount of Incoming Information"
-layout: post
 excerpt: ""
 modified: 2016-10-20 16:44:19
 permalink: information-reservoirs-or-how-i-keep-track-of-a-large-amount-of-incoming-information/index.html

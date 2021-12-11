@@ -1,6 +1,5 @@
 ---
 title: "RESPONSE ABILITY: An art project to benefit the homeless around the world."
-layout: post
 excerpt: ""
 modified: 2016-03-30 18:30:18
 permalink: response-ability-an-art-project-to-benefit-the-homeless-around-the-world/index.html

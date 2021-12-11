@@ -1,6 +1,5 @@
 ---
 title: "A(nother) WordPress Starter Template"
-layout: post
 excerpt: "This theme is an extension of a framework created for a local agency that wanted a way to spin up custom WordPress sites quickly and correctly. It grew into the starting point for all sites that I create."
 modified: 2016-10-20 16:43:59
 permalink: another-wordpress-starter-template/index.html

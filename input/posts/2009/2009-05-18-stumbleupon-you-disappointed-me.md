@@ -1,6 +1,5 @@
 ---
 title: "StumbleUpon: You Disappointed Me"
-layout: post
 excerpt: "Poor usability abound but, for some things, there are no excuses."
 modified: 2016-10-20 16:44:18
 permalink: stumbleupon-you-disappointed-me/index.html

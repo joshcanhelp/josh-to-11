@@ -1,6 +1,5 @@
 ---
 title: "Blue Bottle Giant Steps"
-layout: post
 excerpt: ""
 modified: 2016-01-19 04:20:04
 permalink: blue-bottle-giant-steps/index.html

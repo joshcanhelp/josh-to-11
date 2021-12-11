@@ -1,6 +1,5 @@
 ---
 title: "Tips, tricks, and advice for visiting Paris"
-layout: post
 excerpt: "These are a few things that we found and enjoyed in and around Paris during our 2 month stay there in 2010."
 modified: 2013-02-13 17:50:29
 permalink: tips-tricks-and-advice-for-visiting-paris/index.html
