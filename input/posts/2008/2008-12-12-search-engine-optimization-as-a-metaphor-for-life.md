@@ -2,7 +2,6 @@
 title: "Search Engine Optimization as a metaphor for life"
 layout: post
 excerpt: ""
-date: 2008-12-12 17:00:49
 modified: 2016-10-20 16:44:19
 permalink: search-engine-optimization-as-a-metaphor-for-life/index.html
 tags: ["SEO"]

@@ -2,7 +2,6 @@
 title: "Josh Can Help Is Alive!"
 layout: post
 excerpt: "I, Josh Cunningham, am starting a business, more or less by myself. You can tell that I’m serious about this because I already have a website. Take notes: website = serious stuff. That one’s free."
-date: 2008-03-17 07:09:03
 modified: 2016-04-01 04:41:19
 permalink: josh-can-help-is-alive/index.html
 tags: ["About JoshCanHelp"]

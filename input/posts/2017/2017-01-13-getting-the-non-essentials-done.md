@@ -2,7 +2,6 @@
 title: "Getting the Non-Essentials Done"
 layout: post
 excerpt: "After years of reading about productivity (a generally unproductive thing to do), trying out different techniques and apps, and journaling, I have finally constructed a system that helps me complete concrete tasks consistently and efficiently."
-date: 2017-01-13 04:19:01
 modified: 2018-07-19 04:36:44
 permalink: getting-the-non-essentials-done/index.html
 tags: ["Personal Development"]

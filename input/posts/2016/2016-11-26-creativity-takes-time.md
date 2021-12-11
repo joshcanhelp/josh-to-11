@@ -2,7 +2,6 @@
 title: "Creativity Takes Time"
 layout: post
 excerpt: ""
-date: 2016-11-26 05:47:48
 modified: 2016-11-29 05:50:20
 permalink: creativity-takes-time/index.html
 tags: []

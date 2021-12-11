@@ -5,7 +5,6 @@ excerpt: "I've been writing for myself regularly for probably 15 years and have 
 permalink: notes/index.html
 layout: post
 tags: [ "Best Of", "Content Management", "Personal Data", "Writing" ]
-date: 2021-11-01 12:00:00
 featured_img: /_images/2021/taking-notes_THUMB.jpg
 
 ---

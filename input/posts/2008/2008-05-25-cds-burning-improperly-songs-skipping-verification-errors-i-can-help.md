@@ -2,7 +2,6 @@
 title: "CDs burning improperly? Songs skipping? Verification errors? I can help!"
 layout: post
 excerpt: "Here are a few things I found out about burning a CD of any type. It turns out, the solution was easy."
-date: 2008-05-25 11:35:41
 modified: 2016-04-01 03:52:11
 permalink: cds-burning-improperly-songs-skipping-verification-errors-i-can-help/index.html
 tags: ["Throwback", "Hardware"]

@@ -2,7 +2,6 @@
 title: "How to be a better self-promoter in the creative industry"
 layout: post
 excerpt: "I was having coffee at a local coffee shop recently and came across one of the worse examples of in-person self-promotion I’ve seen in a while. I wanted to share the experience so you know where this kind of thing can go wrong."
-date: 2012-02-15 16:43:25
 modified: 2016-10-20 16:44:00
 permalink: how-to-be-a-better-self-promoter-in-the-creative-industry/index.html
 tags: ["Personal Brand", "Marketing", "Community"]

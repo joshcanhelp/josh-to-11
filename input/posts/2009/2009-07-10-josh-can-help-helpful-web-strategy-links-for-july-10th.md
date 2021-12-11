@@ -2,7 +2,6 @@
 title: "Josh Can Help: Helpful web strategy links for July 10th"
 layout: post
 excerpt: "Every Friday, I’m going to collect the best links I’ve saved and sent out and list out the ones I think the are the most useful."
-date: 2009-07-10 17:25:30
 modified: 2016-10-20 16:44:18
 permalink: josh-can-help-helpful-web-strategy-links-for-july-10th/index.html
 tags: ["CSS", "Facebook", "Twitter", "Social Media", "Web Strategy"]

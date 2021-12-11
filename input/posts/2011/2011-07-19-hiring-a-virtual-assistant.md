@@ -2,7 +2,6 @@
 title: "Hiring a Virtual Assistant"
 layout: post
 excerpt: ""
-date: 2011-07-19 13:47:00
 modified: 2016-10-20 16:44:00
 permalink: hiring-a-virtual-assistant/index.html
 tags: ["About JoshCanHelp"]

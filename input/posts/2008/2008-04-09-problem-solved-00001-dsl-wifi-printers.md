@@ -2,7 +2,6 @@
 title: "Problem Solved #00001 - DSL, Wifi, printers"
 layout: post
 excerpt: "This customer called me to help him move his router, make sure wi-fi worked throughout the house, set up a printer with Vista (which was causing him problems), and possibly help him acquire a new desktop."
-date: 2008-04-09 09:20:51
 modified: 2016-04-01 03:48:57
 permalink: problem-solved-00001-dsl-wifi-printers/index.html
 tags: ["WiFi", "Hardware", "Throwback"]

@@ -2,7 +2,6 @@
 title: "Create a simple website with the Google Docs CMS"
 layout: post
 excerpt: "In attempt to solve one problem, I figured out a way to easily publish and manage data on the web by using a simple Google Documents spreadsheet."
-date: 2009-11-12 20:44:25
 modified: 2016-04-01 04:21:40
 permalink: create-a-simple-website-with-the-google-docs-cms/index.html
 tags: ["Product", "Content Management"]

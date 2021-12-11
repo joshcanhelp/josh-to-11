@@ -2,7 +2,6 @@
 title: "Succeed by Finding Your Audience"
 layout: post
 excerpt: "I think the fundamental issue with many, many websites out there is that few people have identified what activities contribute the most to their bottom line."
-date: 2009-11-09 19:27:33
 modified: 2016-03-30 18:54:49
 permalink: succeed-by-finding-your-audience/index.html
 tags: ["Web Strategy"]

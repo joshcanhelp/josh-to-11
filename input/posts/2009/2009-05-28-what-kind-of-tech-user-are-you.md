@@ -2,7 +2,6 @@
 title: "What Kind of Tech User Are You?"
 layout: post
 excerpt: "While I was on the Pew Internet Project site, I took their “What Kind of Tech User Are You?” quiz. Not surprisingly, I got an A."
-date: 2009-05-28 23:19:25
 modified: 2016-10-20 16:44:18
 permalink: what-kind-of-tech-user-are-you/index.html
 tags: ["About JoshCanHelp"]

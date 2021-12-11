@@ -2,7 +2,6 @@
 title: "Become A WordPress Developer Overnight After 4 Months of Work"
 layout: post
 excerpt: "This is a summary of an email I sent to someone who wants to get into creating custom WordPress themes and plugins. I've been doing this for over 7 years now and would like to think I have something interesting and helpful to say about this. "
-date: 2015-03-23 00:27:39
 modified: 2016-11-22 17:56:13
 permalink: become-a-wordpress-developer-overnight-after-4-months-of-work/index.html
 tags: ["Development", "Personal Development", "WordPress"]

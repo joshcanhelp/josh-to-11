@@ -2,7 +2,6 @@
 title: "Progress In January"
 layout: post
 excerpt: "In keeping with the theme of sharing my journey to eliminate goals, I wanted to share an update on how January went."
-date: 2015-02-09 16:48:12
 modified: 2016-11-19 22:59:54
 permalink: progress-january/index.html
 tags: ["Health + Fitness", "Personal Data", "Motivation"]

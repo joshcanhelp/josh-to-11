@@ -2,7 +2,6 @@
 title: "I Don't Live the Life I Want (yet)"
 layout: post
 excerpt: ""
-date: 2011-06-21 16:01:35
 modified: 2016-10-20 16:44:01
 permalink: i-dont-live-the-life-i-want-yet/index.html
 tags: ["About JoshCanHelp", "Personal Development"]

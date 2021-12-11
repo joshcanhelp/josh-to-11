@@ -2,7 +2,6 @@
 title: "Information Reservoirs (or) How I Keep Track of a Large Amount of Incoming Information"
 layout: post
 excerpt: ""
-date: 2009-02-19 17:57:55
 modified: 2016-10-20 16:44:19
 permalink: information-reservoirs-or-how-i-keep-track-of-a-large-amount-of-incoming-information/index.html
 tags: ["Systems", "Social Media"]

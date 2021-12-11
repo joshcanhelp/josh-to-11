@@ -2,7 +2,6 @@
 title: "5 Reasons You Should Fire Your SEO &quot;Professional&quot;"
 layout: post
 excerpt: ""
-date: 2011-07-04 15:46:02
 modified: 2016-10-20 16:44:00
 permalink: 5-reasons-that-you-should-fire-your-seo-professional/index.html
 tags: ["SEO", "Web Strategy", "Writing For The Web"]

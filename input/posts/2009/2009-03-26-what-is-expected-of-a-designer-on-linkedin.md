@@ -2,7 +2,6 @@
 title: "&quot;What is expected of a designer?&quot; on LinkedIn"
 layout: post
 excerpt: ""
-date: 2009-03-26 19:00:34
 modified: 2016-10-20 16:44:18
 permalink: what-is-expected-of-a-designer-on-linkedin/index.html
 tags: ["Design", "Social Media", "LinkedIn", "Personal Development"]

@@ -2,7 +2,6 @@
 title: "Friends: holding you back or helping you?"
 layout: post
 excerpt: "By the end of my cigarette smoking career, it had taken me about 40 tries to put those damn things down but, one day, for no good reason, I did it.  Was it just one of those great miracles of life? Maybe not ..."
-date: 2009-09-03 19:43:55
 modified: 2009-09-03 19:43:55
 permalink: friends-holding-you-back-or-helping-you/index.html
 tags: ["Personal Development"]

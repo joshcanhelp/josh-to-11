@@ -2,7 +2,6 @@
 title: "Make it Simple, Focused, High-Performance, and Polished: My Web Philosophy"
 layout: post
 excerpt: ""
-date: 2010-03-11 21:49:59
 modified: 2016-04-01 04:26:01
 permalink: make-it-simple-focused-high-performance-and-polished-my-web-philosophy/index.html
 tags: ["About JoshCanHelp", "Design", "Site Optimization", "SEO", "Social Media", "Photoshop"]

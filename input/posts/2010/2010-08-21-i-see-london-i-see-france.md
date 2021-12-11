@@ -2,7 +2,6 @@
 title: "I see London, I see France"
 layout: post
 excerpt: "Determined to make the most of our time in London, we dug the sweaters and raincoats from the bottoms of our suitcases and bravely ventured into the cold and rain. We did as the locals and drank room temperature pints on mid-afternoon sight-seeing breaks."
-date: 2010-08-21 07:24:54
 modified: 2010-08-21 07:24:54
 permalink: i-see-london-i-see-france/index.html
 tags: ["Paris"]

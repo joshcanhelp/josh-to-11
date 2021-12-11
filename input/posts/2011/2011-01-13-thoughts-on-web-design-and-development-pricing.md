@@ -2,7 +2,6 @@
 title: "Thoughts on web design and development pricing"
 layout: post
 excerpt: ""
-date: 2011-01-13 14:45:06
 modified: 2016-04-03 02:32:59
 permalink: thoughts-on-web-design-and-development-pricing/index.html
 tags: ["Design", "Development", "About JoshCanHelp"]

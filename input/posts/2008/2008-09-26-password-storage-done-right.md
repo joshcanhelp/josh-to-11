@@ -2,7 +2,6 @@
 title: "Password storage done right"
 layout: post
 excerpt: "It took me long enough but I’m finally implementing a password safe and I’m choosing KeePass."
-date: 2008-09-26 17:00:38
 modified: 2016-10-20 16:44:20
 permalink: password-storage-done-right/index.html
 tags: ["Passwords"]

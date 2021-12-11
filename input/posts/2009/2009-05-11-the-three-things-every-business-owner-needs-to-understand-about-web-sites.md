@@ -2,7 +2,6 @@
 title: "The three things every business owner needs to understand about web sites"
 layout: post
 excerpt: "I find myself often explaining how a website works, what is needed to get one on-line, and what needs to be maintained. About half of the information I give is good to know and the other half is vital to protecting your business, your brand, and your security."
-date: 2009-05-11 18:00:03
 modified: 2016-10-20 16:44:18
 permalink: the-three-things-every-business-owner-needs-to-understand-about-web-sites/index.html
 tags: ["Hosting", "Web Strategy"]

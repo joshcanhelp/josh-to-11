@@ -2,7 +2,6 @@
 title: "Loopholes and shortcuts, advances and mistakes"
 layout: post
 excerpt: ""
-date: 2011-11-30 22:40:05
 modified: 2020-01-19 22:12:08
 permalink: loopholes-and-shortcuts-advances-and-mistakes/index.html
 tags: []

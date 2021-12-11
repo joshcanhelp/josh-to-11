@@ -2,7 +2,6 @@
 title: "PROPER Web Development"
 layout: post
 excerpt: ""
-date: 2013-04-04 19:59:23
 modified: 2016-10-20 16:44:00
 permalink: proper-web-development/index.html
 tags: ["About JoshCanHelp"]

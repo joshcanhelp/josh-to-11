@@ -2,7 +2,6 @@
 title: "Thoughts on Focus"
 layout: post
 excerpt: "I think a lot about focus, what it means, and how to find it. Focus is something that does not come naturally to most people and can be very difficult when you live an over-connected lifestyle. It’s something that you have to commit to, practice, experiment with, and make a priority."
-date: 2012-08-14 14:00:06
 modified: 2016-10-20 16:44:00
 permalink: thoughts-on-focus/index.html
 tags: ["Personal Development", "Focus"]

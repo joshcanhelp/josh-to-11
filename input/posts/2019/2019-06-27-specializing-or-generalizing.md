@@ -3,7 +3,6 @@
 title: "Specializing vs Generalizing"
 layout: post
 excerpt: "Should you specialize and go deep or generalize and go broad? I'd argue they they are two sides of the same coin."
-date: 2019-06-27 06:00:00
 modified: Last Modified
 permalink: specializing-vs-generalizing/index.html
 tags: ["Personal Development", "Best Of"]

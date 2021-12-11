@@ -2,7 +2,6 @@
 title: "Tracking your body data to stay motivated"
 layout: post
 excerpt: "One of the hardest things for me to wrap my head around when I started to lose weight was how to actually do it. When the time came to get down to business and start losing the chub, I was lost before I even started."
-date: 2009-08-04 18:40:17
 modified: 2009-08-04 18:40:17
 permalink: tracking-your-body-data-to-stay-motivated/index.html
 tags: ["Personal Data", "Health + Fitness"]

@@ -2,7 +2,6 @@
 title: "Installation Cold Brew: Buzz King"
 layout: post
 excerpt: ""
-date: 2015-06-19 16:41:54
 modified: 2016-01-19 04:20:04
 permalink: installation-cold-brew/index.html
 tags: ["Premium Consumption"]

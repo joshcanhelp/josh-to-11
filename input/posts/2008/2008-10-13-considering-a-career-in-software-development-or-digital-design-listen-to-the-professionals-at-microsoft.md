@@ -2,7 +2,6 @@
 title: "Considering a career in software, development, or digital design? Listen to the professionals at Microsoft."
 layout: post
 excerpt: ""
-date: 2008-10-13 18:00:53
 modified: 2016-10-20 16:44:20
 permalink: considering-a-career-in-software-development-or-digital-design-listen-to-the-professionals-at-microsoft/index.html
 tags: ["Programming", "Personal Development"]

@@ -2,7 +2,6 @@
 title: "Creating a functional, useable, linkable website: write a few articles"
 layout: post
 excerpt: ""
-date: 2009-01-15 18:00:41
 modified: 2016-10-20 16:44:19
 permalink: creating-a-functional-useable-linkable-website-write-a-few-articles/index.html
 tags: ["Writing For The Web", "Web Strategy"]

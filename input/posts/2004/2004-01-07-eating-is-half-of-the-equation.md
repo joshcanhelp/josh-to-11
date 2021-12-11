@@ -2,7 +2,6 @@
 title: "Eating: Half of the Equation"
 layout: post
 excerpt: "Read the title of this and commit it to memory; this is your mantra for losing weight and keeping it off."
-date: 2004-01-07 12:00:00
 permalink: eating-is-half-of-the-equation/index.html
 tags: ["Health + Fitness"]
 featured_img: /_images/2021/peppers-and-tomatoes_THUMB.jpg
