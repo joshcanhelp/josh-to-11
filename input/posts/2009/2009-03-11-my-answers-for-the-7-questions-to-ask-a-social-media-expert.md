@@ -2,7 +2,6 @@
 title: "My Answers for the 7 Questions to Ask a Social Media Expert"
 excerpt: "7 questions to ask a social media consultant before you hire them and my answers as a social media participant."
 modified: 2016-10-20 16:44:18
-permalink: my-answers-for-the-7-questions-to-ask-a-social-media-expert/index.html
 tags: ["Social Media"]
 featured_img: /_images/2009/02/facebook_logo.png
 wpid: 626

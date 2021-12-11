@@ -2,7 +2,6 @@
 title: "Creating a functional, useable, linkable website: write a few articles"
 excerpt: ""
 modified: 2016-10-20 16:44:19
-permalink: creating-a-functional-useable-linkable-website-write-a-few-articles/index.html
 tags: ["Writing For The Web", "Web Strategy"]
 featured_img:
 wpid: 491

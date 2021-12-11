@@ -2,7 +2,6 @@
 title: "New new business card design: the process + feedback"
 excerpt: "I also need a business card and have not been giving this important piece of a business that relies on word-of-mouth enough attention."
 modified: 2016-04-01 03:52:25
-permalink: new-new-business-card-design-the-process-feedback/index.html
 tags: ["Design", "About JoshCanHelp"]
 featured_img: /_images/2008/07/lp_card_07_final-296x296.jpg
 wpid: 41

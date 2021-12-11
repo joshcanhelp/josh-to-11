@@ -2,7 +2,6 @@
 title: "Systematic Goal Elimination"
 excerpt: "Scott Adams: &quot;To put it bluntly, goals are for losers. That’s literally true most of the time. For example, if your goal is to lose 10 pounds, you will spend every moment until you reach the goal—if you reach it at all—feeling as if you were short of your goal. In other words, goal-oriented people exist in a state of nearly continuous failure that they hope will be temporary.&quot;"
 modified: 2016-11-19 23:04:53
-permalink: systematic-goal-elimination/index.html
 tags: ["Health + Fitness", "Personal Development"]
 featured_img: /_images/2015/01/IMG_0633_fix01-1-150x150.jpg
 wpid: 378

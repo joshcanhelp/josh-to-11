@@ -2,7 +2,6 @@
 title: "PROPER Web Development"
 excerpt: ""
 modified: 2016-10-20 16:44:00
-permalink: proper-web-development/index.html
 tags: ["About JoshCanHelp"]
 featured_img: /_images/2013/04/proper-sq-med-150x150.png
 wpid: 3226

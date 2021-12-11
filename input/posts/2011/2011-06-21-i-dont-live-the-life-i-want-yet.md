@@ -2,7 +2,6 @@
 title: "I Don't Live the Life I Want (yet)"
 excerpt: ""
 modified: 2016-10-20 16:44:01
-permalink: i-dont-live-the-life-i-want-yet/index.html
 tags: ["About JoshCanHelp", "Personal Development"]
 featured_img:
 wpid: 2218

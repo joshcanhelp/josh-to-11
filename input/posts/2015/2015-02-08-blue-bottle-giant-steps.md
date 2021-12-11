@@ -2,7 +2,6 @@
 title: "Blue Bottle Giant Steps"
 excerpt: ""
 modified: 2016-01-19 04:20:04
-permalink: blue-bottle-giant-steps/index.html
 tags: ["Premium Consumption"]
 featured_img: /_images/2015/02/blue_bottle_giant_steps-150x150.jpg
 link_to: https://bluebottlecoffee.com/store/giant-steps

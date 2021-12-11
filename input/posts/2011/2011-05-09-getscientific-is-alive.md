@@ -2,7 +2,6 @@
 title: "It Actually Happened - GetScientific is Alive!"
 excerpt: "We set out to build “an online database of learning aids, resources, links, and guides for students and professors of hard sciences” based on our experience trying to find useful resources online during our stint as undergraduate chemistry students."
 modified: 2016-04-03 02:32:59
-permalink: getscientific-is-alive/index.html
 tags: ["Community", "About JoshCanHelp"]
 featured_img: /_images/2011/07/gs_thumbnail.png
 wpid: 2083

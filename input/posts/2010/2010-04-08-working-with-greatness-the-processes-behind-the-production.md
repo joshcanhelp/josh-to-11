@@ -2,7 +2,6 @@
 title: "Working with Greatness: The Processes Behind the Production"
 excerpt: ""
 modified: 2016-03-30 18:47:31
-permalink: working-with-greatness-the-processes-behind-the-production/index.html
 tags: ["Graffiti", "Design", "Personal Development"]
 featured_img:
 wpid: 1482

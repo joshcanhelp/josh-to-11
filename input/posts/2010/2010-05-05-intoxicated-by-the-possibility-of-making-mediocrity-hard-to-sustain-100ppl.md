@@ -2,7 +2,6 @@
 title: "Intoxicated by the possibility of making mediocrity hard to sustain (#100ppl)"
 excerpt: ""
 modified: 2016-04-03 02:32:59
-permalink: intoxicated-by-the-possibility-of-making-mediocrity-hard-to-sustain-100ppl/index.html
 tags: ["Ideas", "Design"]
 featured_img:
 wpid: 1559

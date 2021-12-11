@@ -2,7 +2,6 @@
 title: "Basic Website Analytics for Content Managers"
 excerpt: ""
 modified: 2016-04-03 02:32:59
-permalink: basic-website-analytics-for-content-managers/index.html
 tags: ["Content Management", "Analytics"]
 featured_img:
 wpid: 1539

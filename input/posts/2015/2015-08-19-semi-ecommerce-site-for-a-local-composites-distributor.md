@@ -2,7 +2,6 @@
 title: "Semi-eCommerce Site for a Local Composites Distributor"
 excerpt: "This site was a partial migration from a custom PHP and MySQL application that was in dire need of an update. Collaborating with a talented designer, I built a site housing almost 400 products and dominates search ranking for high-value, niche terms. "
 modified: 2016-10-20 16:43:59
-permalink: semi-ecommerce-site-for-a-local-composites-distributor/index.html
 tags: ["WordPress"]
 featured_img: /_images/2015/08/pacific-coast-composites-logo-150x150.png
 wpid: 3847

@@ -2,7 +2,6 @@
 title: "Thoughts on web design and development pricing"
 excerpt: ""
 modified: 2016-04-03 02:32:59
-permalink: thoughts-on-web-design-and-development-pricing/index.html
 tags: ["Design", "Development", "About JoshCanHelp"]
 featured_img:
 wpid: 1750

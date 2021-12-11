@@ -2,7 +2,6 @@
 title: "6 steps to easy typography in any document"
 excerpt: "This small primer serves as either an introduction to typography or all the information you’ll ever need to know as a non-designer."
 modified: 2016-04-03 02:33:18
-permalink: 6-steps-to-easy-typography-in-any-document/index.html
 tags: ["Design", "Typography", "Fonts"]
 featured_img:
 wpid: 40

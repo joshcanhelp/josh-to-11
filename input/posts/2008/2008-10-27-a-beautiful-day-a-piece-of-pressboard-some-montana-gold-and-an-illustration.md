@@ -2,7 +2,6 @@
 title: "A beautiful day, a piece of pressboard, some Montana Gold, and an illustration"
 excerpt: "I finally got around to throwing up some paint in my graffiti class. It had been a while since I last held a can and, because the last go-around was so disappointing, I was afraid it might happen again."
 modified: 2016-10-20 16:44:20
-permalink: a-beautiful-day-a-piece-of-pressboard-some-montana-gold-and-an-illustration/index.html
 tags: ["Graffiti", "Design"]
 featured_img:
 wpid: 362

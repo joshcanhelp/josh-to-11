@@ -2,7 +2,6 @@
 title: "A Veggie Sandwich"
 excerpt: "Is there a more polarizing set of words in the English language than “veggie sandwich?”"
 modified: 2020-01-19 22:12:08
-permalink: a-veggie-sandwich/index.html
 tags: ["Food"]
 featured_img:
 wpid: 313

@@ -2,7 +2,6 @@
 title: "Digital Detox"
 excerpt: "Before this, I wasn’t just losing time, I was actively harming my thought process for the rest of the time that I wasn’t distracting myself. All of this consumption, in the name of doing more and better, was robbing my ability to do just that."
 modified: 2019-02-15 16:02:06
-permalink: digital-detox/index.html
 tags: ["About JoshCanHelp", "Email", "Personal Development", "Social Media", "LinkedIn", "Twitter"]
 featured_img: /_images/2016/11/IMG_1940-150x150.jpg
 wpid: 4655

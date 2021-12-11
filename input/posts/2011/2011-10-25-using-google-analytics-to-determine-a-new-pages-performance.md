@@ -2,7 +2,6 @@
 title: "Using Google Analytics to determine a new page's performance"
 excerpt: ""
 modified: 2016-10-20 16:44:00
-permalink: using-google-analytics-to-determine-a-new-pages-performance/index.html
 tags: ["Analytics", "SEO"]
 featured_img: 
 wpid: 2521

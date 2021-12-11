@@ -2,7 +2,6 @@
 title: "Loopholes and shortcuts, advances and mistakes"
 excerpt: ""
 modified: 2020-01-19 22:12:08
-permalink: loopholes-and-shortcuts-advances-and-mistakes/index.html
 tags: []
 featured_img:
 wpid: 4664

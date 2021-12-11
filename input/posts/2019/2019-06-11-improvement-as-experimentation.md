@@ -2,7 +2,6 @@
 title: "Improvement as Experimentation"
 excerpt: "I've gone through many transformations in my life.  I have been lucky a number of times in a way that benefited me. I've also been unlucky a number of times that held me back."
 modified: 2020-11-24 01:33:39
-permalink: improvement-as-experimentation/index.html
 tags: ["Personal Development", "Health + Fitness", "Best Of"]
 featured_img: /_images/2019/06/IMG_1438-150x150.jpg
 wpid: 4837

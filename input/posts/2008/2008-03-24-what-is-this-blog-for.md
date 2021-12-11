@@ -2,7 +2,6 @@
 title: "What Is This Blog For?"
 excerpt: "This blog is the story of Josh Can Help (dot com) ... how it came about, how it came together, and how it’s going."
 modified: 2016-03-30 18:30:19
-permalink: what-is-this-blog-for/index.html
 tags: ["About JoshCanHelp", "Writing For The Web"]
 featured_img: /_images/default-img-size-medium.png
 wpid: 3094

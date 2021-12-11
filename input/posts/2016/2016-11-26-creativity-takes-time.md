@@ -2,7 +2,6 @@
 title: "Creativity Takes Time"
 excerpt: ""
 modified: 2016-11-29 05:50:20
-permalink: creativity-takes-time/index.html
 tags: []
 featured_img:
 wpid: 4691

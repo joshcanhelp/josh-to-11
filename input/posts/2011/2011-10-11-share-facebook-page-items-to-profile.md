@@ -2,7 +2,6 @@
 title: "Share Facebook Page Items to your Profile"
 excerpt: ""
 modified: 2016-10-20 16:44:00
-permalink: share-facebook-page-items-to-profile/index.html
 tags: ["Facebook", "Social Media"]
 featured_img:
 wpid: 2502

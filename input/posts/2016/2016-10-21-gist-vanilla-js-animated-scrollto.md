@@ -2,7 +2,6 @@
 title: "Gist: vanilla JS animated scrollTo"
 excerpt: ""
 modified: 2016-11-02 22:10:59
-permalink: gist-vanilla-js-animated-scrollto/index.html
 tags: ["Gist", "JavaScript"]
 featured_img:
 wpid: 4570

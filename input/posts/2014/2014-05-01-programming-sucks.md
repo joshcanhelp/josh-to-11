@@ -2,7 +2,6 @@
 title: "Programming Sucks"
 excerpt: ""
 modified: 2016-11-22 17:50:36
-permalink: programming-sucks/index.html
 tags: []
 featured_img:
 wpid: 367

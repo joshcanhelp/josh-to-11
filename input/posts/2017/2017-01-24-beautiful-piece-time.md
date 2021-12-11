@@ -2,7 +2,6 @@
 title: "Beautiful piece about time "
 excerpt: ""
 modified: 2017-01-24 06:06:17
-permalink: beautiful-piece-time/index.html
 tags: []
 featured_img:
 wpid: 4736

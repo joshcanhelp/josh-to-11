@@ -2,7 +2,6 @@
 title: "Gist: WP-CLI migration from ejunkie to WooCommerce"
 excerpt: ""
 modified: 2016-10-20 16:43:59
-permalink: gist-wp-cli-migration-from-ejunkie-to-woocommerce/index.html
 tags: ["Gist"]
 featured_img:
 wpid: 4399

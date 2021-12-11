@@ -2,7 +2,6 @@
 title: "Don't Screw Around with Your Finances"
 excerpt: ""
 modified: 2016-10-20 16:44:00
-permalink: dont-screw-around-with-your-finances/index.html
 tags: ["Money"]
 featured_img:
 wpid: 3011

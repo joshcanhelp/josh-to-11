@@ -2,7 +2,6 @@
 title: "Cause for Alarm?"
 excerpt: "I was informed that Europe was on alert and later learned that the State Department probably would be releasing an alert. A quick news search found countless articles about heightened security, new intelligence, and possible targets."
 modified: 2019-06-29 20:49:35
-permalink: cause-for-alarm/index.html
 tags: ["Paris"]
 featured_img: /_images/2010/10/IMG_0610-1-e1561841352894-150x150.jpg
 wpid: 152

@@ -2,7 +2,6 @@
 title: "Back home and feeling great"
 excerpt: "Just a quick update for everyone.... we're back on the West Coast after too many trains, a wonderful stop in Amsterdam, a much-needed catch-up with great friends in New York, and 3 flights. We're now safe, sound, and comfortable with friends in San Diego getting caught up and getting our affairs in order. "
 modified: 2019-08-10 22:44:40
-permalink: back-home-and-feeling-great/index.html
 tags: ["Paris"]
 featured_img: /_images/2010/11/IMG_3301-1-150x150.jpg
 wpid: 219

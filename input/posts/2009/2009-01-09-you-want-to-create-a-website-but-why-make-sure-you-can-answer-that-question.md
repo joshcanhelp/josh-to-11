@@ -2,7 +2,6 @@
 title: "You want to create a website but why? Make sure you can answer that question..."
 excerpt: ""
 modified: 2016-10-20 16:44:19
-permalink: you-want-to-create-a-website-but-why-make-sure-you-can-answer-that-question/index.html
 tags: ["Marketing", "Web Strategy"]
 featured_img:
 wpid: 484

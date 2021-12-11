@@ -2,7 +2,6 @@
 title: "AleSmith Grand Cru - One of My Favorite Beers of All Time"
 excerpt: ""
 modified: 2016-01-19 04:20:04
-permalink: one-of-the-best-stouts-money-can-buy/index.html
 tags: ["Premium Consumption"]
 featured_img: /_images/2014/02/alesmith_decadence-300x300.jpg
 link_to: http://alesmith.com/beers/barrel-aged-grand-cru/

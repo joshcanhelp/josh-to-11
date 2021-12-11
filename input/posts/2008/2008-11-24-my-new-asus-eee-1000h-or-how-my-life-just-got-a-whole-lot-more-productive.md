@@ -2,7 +2,6 @@
 title: "My New ASUS EEE 1000H (or) How my life just got a whole lot more productive"
 excerpt: "I’m not the type of person who needs new, cool things all the time. But one device recently has changed what I do so drastically that it’s my obligation to talk about it."
 modified: 2016-10-20 16:44:20
-permalink: my-new-asus-eee-1000h-or-how-my-life-just-got-a-whole-lot-more-productive/index.html
 tags: ["Hardware"]
 featured_img: /_images/2008/11/eee07_sm-150x150.jpg
 wpid: 400

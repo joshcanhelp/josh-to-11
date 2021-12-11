@@ -2,7 +2,6 @@
 title: "Building a homepage from a blog: Part 2: Finalizing the design and planning out mark-up and CSS structure."
 excerpt: "After weeks of stressing out in Illustrator, I finally decided on a design I like."
 modified: 2016-04-03 02:33:18
-permalink: building-a-homepage-from-a-blog-part-1-finalizing-the-design-and-planning-out-mark-up-and-css-structure/index.html
 tags: ["Design", "Writing For The Web", "About JoshCanHelp", "Web Strategy"]
 featured_img: /_images/2008/08/website_design_06_sm-300x300.jpg
 wpid: 187

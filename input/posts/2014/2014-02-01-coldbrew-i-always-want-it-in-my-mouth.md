@@ -2,7 +2,6 @@
 title: "I Don't Know What Exactly Makes This Coldbrew So AMAZING but I Do Know I Always Want It In My Mouth"
 excerpt: ""
 modified: 2016-01-19 04:20:04
-permalink: coldbrew-i-always-want-it-in-my-mouth/index.html
 tags: ["Premium Consumption"]
 featured_img: /_images/2014/02/blue_bottle_new_orleans_iced-150x150.jpg
 link_to: https://bluebottlecoffee.com/store/new-orleans-iced-kit
