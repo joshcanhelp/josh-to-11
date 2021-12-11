@@ -15,6 +15,7 @@ console.log(data.page);
 module.exports = {
   eleventyComputed: {
     layout: "post",
+    modified: "Last Modified",
     date: data => {
       const { inputPath, fileSlug } = data.page;
       const inputPathParts = inputPath.split("/");
