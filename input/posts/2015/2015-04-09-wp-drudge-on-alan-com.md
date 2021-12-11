@@ -2,7 +2,6 @@
 title: "WP-Drudge on Alan.com"
 excerpt: "Alan Colmes needed a central hub for his news curation and community surrounding his radio show and books. We've been iterating on this site for a few years and finally settled on a very customized version of the WP-Drudge theme I created. "
 modified: 2016-10-20 16:43:59
-permalink: wp-drudge-on-alan-com/index.html
 tags: ["WordPress", "Community"]
 featured_img: /_images/2015/04/Screen-Shot-2015-04-17-at-10.43.54-AM-150x150.png
 wpid: 3692

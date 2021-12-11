@@ -2,7 +2,6 @@
 title: "&quot;What is expected of a designer?&quot; on LinkedIn"
 excerpt: ""
 modified: 2016-10-20 16:44:18
-permalink: what-is-expected-of-a-designer-on-linkedin/index.html
 tags: ["Design", "Social Media", "LinkedIn", "Personal Development"]
 featured_img:
 wpid: 639

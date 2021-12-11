@@ -2,7 +2,6 @@
 title: "Make Coconut Chips at Home, Then Give Up and Buy Dang"
 excerpt: ""
 modified: 2016-01-19 04:20:04
-permalink: make-coconut-chips-at-home-then-give-up-and-buy-dang/index.html
 tags: ["Premium Consumption"]
 featured_img: /_images/2015/01/IMG_1508_pc_post-150x150.jpg
 link_to: http://amzn.to/1LaeJR8

@@ -2,7 +2,6 @@
 title: "Thoughts on conferences"
 excerpt: "A few random thoughts on how to make a conference presentation go well."
 modified: 2016-04-01 04:17:01
-permalink: thoughts-on-conferences/index.html
 tags: ["Presentation", "Personal Development"]
 featured_img: /_images/2008/06/usbs_sm_02-150x150.jpg
 wpid: 32

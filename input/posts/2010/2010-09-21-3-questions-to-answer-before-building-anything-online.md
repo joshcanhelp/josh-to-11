@@ -2,7 +2,6 @@
 title: "3 Questions to Answer Before Building Anything Online"
 excerpt: ""
 modified: 2016-04-03 02:32:59
-permalink: 3-questions-to-answer-before-building-anything-online/index.html
 tags: ["Web Strategy"]
 featured_img:
 wpid: 1710

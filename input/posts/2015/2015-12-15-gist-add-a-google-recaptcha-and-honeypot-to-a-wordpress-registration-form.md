@@ -2,7 +2,6 @@
 title: "Gist: Add a Google RECAPTCHA and honeypot to a WordPress registration form"
 excerpt: ""
 modified: 2016-10-20 16:43:59
-permalink: gist-add-a-google-recaptcha-and-honeypot-to-a-wordpress-registration-form/index.html
 tags: ["WordPress", "Gist"]
 featured_img:
 wpid: 3972

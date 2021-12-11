@@ -2,7 +2,6 @@
 title: "What it means to me to be a free agent"
 excerpt: ""
 modified: 2016-04-03 02:32:59
-permalink: what-it-means-to-me-to-be-a-free-agent/index.html
 tags: ["Customer Service", "Freelancing", "About JoshCanHelp", "Personal Development"]
 featured_img:
 wpid: 1626

@@ -2,7 +2,6 @@
 title: "6 key ways to improve your email communication"
 excerpt: ""
 modified: 2013-04-06 22:40:42
-permalink: 6-key-ways-to-improve-your-email-communication/index.html
 tags: ["Email"]
 featured_img:
 wpid: 1258

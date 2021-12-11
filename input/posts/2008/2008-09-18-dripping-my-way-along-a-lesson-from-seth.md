@@ -2,7 +2,6 @@
 title: "Dripping my way along... a lesson from Seth"
 excerpt: "If you put your name on it, put your best into it. The work you do now could come back to haunt you later and it’s up to you whether this phantom is benevolent or not."
 modified: 2016-10-20 16:44:20
-permalink: dripping-my-way-along-a-lesson-from-seth/index.html
 tags: ["Personal Development"]
 featured_img:
 wpid: 260

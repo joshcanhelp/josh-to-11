@@ -1,7 +1,6 @@
 ---
 title: "Self-Teach or Go Back to School?"
 excerpt: "Advice to a few friends on learning web development."
-permalink: self-teach-or-go-back-to-school/index.html
 tags: ["Development", "Open Source"]
 featured_img:
 wpid: 4757

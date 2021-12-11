@@ -2,7 +2,6 @@
 title: "Website performance and health reports"
 excerpt: "Without close monitoring and regular reporting, websites run the risk of losing traffic, accumulating errors, and becoming difficult to search."
 modified: 2016-10-20 16:44:18
-permalink: website-performance-and-health-reports/index.html
 tags: ["Analytics", "Site Optimization"]
 featured_img: /_images/2009/06/analytics-472x472.png
 wpid: 865

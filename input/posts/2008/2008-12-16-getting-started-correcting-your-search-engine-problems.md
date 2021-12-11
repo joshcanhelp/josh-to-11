@@ -2,7 +2,6 @@
 title: "Getting started correcting your search engine problems."
 excerpt: ""
 modified: 2016-10-20 16:44:19
-permalink: getting-started-correcting-your-search-engine-problems/index.html
 tags: ["SEO"]
 featured_img:
 wpid: 477

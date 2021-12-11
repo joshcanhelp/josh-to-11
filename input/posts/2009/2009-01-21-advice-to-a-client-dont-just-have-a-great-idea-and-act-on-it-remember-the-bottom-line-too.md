@@ -2,7 +2,6 @@
 title: "Advice to a client: don't just have a great idea and act on it – remember the bottom line too"
 excerpt: ""
 modified: 2016-10-20 16:44:19
-permalink: advice-to-a-client-dont-just-have-a-great-idea-and-act-on-it-remember-the-bottom-line-too/index.html
 tags: ["Freelancing"]
 featured_img:
 wpid: 517

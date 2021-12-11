@@ -2,7 +2,6 @@
 title: "Seasonal web traffic: what to expect and how to improve it"
 excerpt: "Does your traffic dip during the holiday season? Don't freak out, it's completely normal. Here's what happened to me and what can be done."
 modified: 2016-04-01 04:25:16
-permalink: seasonal-web-traffic/index.html
 tags: ["Analytics"]
 featured_img:
 wpid: 1453

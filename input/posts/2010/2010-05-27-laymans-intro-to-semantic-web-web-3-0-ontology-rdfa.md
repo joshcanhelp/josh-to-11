@@ -2,7 +2,6 @@
 title: "A Layman's Intro to the Semantic Web: Web 3.0, ontology, and RDFa"
 excerpt: ""
 modified: 2016-04-03 02:32:59
-permalink: laymans-intro-to-semantic-web-web-3-0-ontology-rdfa/index.html
 tags: ["Semantic Web", "SEO"]
 featured_img:
 wpid: 1596

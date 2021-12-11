@@ -2,7 +2,6 @@
 title: "Repo: WP CSV Importer"
 excerpt: ""
 modified: 2016-10-20 16:43:59
-permalink: repo-wp-csv-importer/index.html
 tags: []
 featured_img:
 wpid: 4391

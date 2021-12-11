@@ -2,7 +2,6 @@
 title: "Web strategy and resources links for July 31st"
 excerpt: ""
 modified: 2016-10-20 16:44:18
-permalink: web-strategy-and-resources-links-for-july-31st/index.html
 tags: ["CSS", "Design", "Social Media", "Web Strategy"]
 featured_img:
 wpid: 973

@@ -2,7 +2,6 @@
 title: "Hiring a Virtual Assistant"
 excerpt: ""
 modified: 2016-10-20 16:44:00
-permalink: hiring-a-virtual-assistant/index.html
 tags: ["About JoshCanHelp"]
 featured_img:
 wpid: 2405

@@ -2,7 +2,6 @@
 title: "How to be an old(er) undergraduate or How I learned to accept what I've been given"
 excerpt: "I've been thinking about my past as a student and how far I’ve come as a person. I wanted to share a bit about what I’ve learned as the oldest dude in my graduating class (except that other guy)."
 modified: 2016-10-20 16:44:20
-permalink: how-to-be-an-older-undergraduate-or-how-i-learned-to-accept-what-ive-been-given/index.html
 tags: ["Personal Development"]
 featured_img:
 wpid: 366

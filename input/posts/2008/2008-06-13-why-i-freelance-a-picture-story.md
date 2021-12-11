@@ -2,7 +2,6 @@
 title: "Why I freelance (a picture story)"
 excerpt: ""
 modified: 2016-04-01 03:52:16
-permalink: why-i-freelance-a-picture-story/index.html
 tags: ["Throwback", "Freelancing"]
 featured_img:
 wpid: 28

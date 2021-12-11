@@ -2,7 +2,6 @@
 title: "The Worst Possible Way to Work (or) How to Find a System That Works for You"
 excerpt: "I’m going to share with you how I work. This method would/will drive certain people nuts. This method is not foolproof but none of them are."
 modified: 2016-10-20 16:44:20
-permalink: the-worst-possible-way-to-work-or-how-to-find-a-system-that-works-for-you/index.html
 tags: ["Email", "Systems", "Personal Development"]
 featured_img:
 wpid: 380

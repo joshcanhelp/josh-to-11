@@ -2,7 +2,6 @@
 title: "The Mad Printer... an interesting coffeeshop activity"
 excerpt: ""
 modified: 2016-10-20 16:44:19
-permalink: the-mad-printer-an-interesting-coffeeshop-activity/index.html
 tags: ["Hardware", "Throwback"]
 featured_img:
 wpid: 488

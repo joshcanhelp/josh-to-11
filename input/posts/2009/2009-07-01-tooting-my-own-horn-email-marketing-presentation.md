@@ -2,7 +2,6 @@
 title: "Tooting my own horn - Email marketing presentation"
 excerpt: "I just recently gave an hour long talk on email marketing titled '6 Questions to Ask Before Sending an Email Campaign.' I thought I’d toot my own horn a bit and post the feedback that I got."
 modified: 2016-10-20 16:44:18
-permalink: tooting-my-own-horn-email-marketing-presentation/index.html
 tags: ["About JoshCanHelp", "Email"]
 featured_img: /_images/default-img-size-medium.png
 wpid: 871

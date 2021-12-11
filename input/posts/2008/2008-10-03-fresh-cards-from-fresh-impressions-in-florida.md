@@ -2,7 +2,6 @@
 title: "Fresh cards from Fresh Impressions in Florida"
 excerpt: ""
 modified: 2016-10-20 16:44:20
-permalink: fresh-cards-from-fresh-impressions-in-florida/index.html
 tags: ["About JoshCanHelp", "Design"]
 featured_img:
 wpid: 325

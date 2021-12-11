@@ -2,7 +2,6 @@
 title: "Lessons Learned in Agency"
 excerpt: "I've been doing agency development and design work for almost a decade, and customer service for almost 2. But I learned a lot when the tables were turned. "
 modified: 2016-10-20 16:43:59
-permalink: agency-lessons/index.html
 tags: ["About JoshCanHelp", "Design", "Personal Development", "Web Strategy"]
 featured_img: /_images/2015/06/924055_993139194035301_1576746067_n-150x150.jpg
 wpid: 3713

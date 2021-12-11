@@ -2,7 +2,6 @@
 
 title: "Cards to Live By"
 excerpt: A little system I use to remember what's important to focus on during the day. 
-permalink: cards-to-live-by/index.html
 tags: [ "Personal Development", "Health + Fitness" ]
 featured_img: /_images/2021/02/cards_to_live_by_THUMB.jpg
 twitter_url: 

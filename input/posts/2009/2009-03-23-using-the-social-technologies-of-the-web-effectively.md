@@ -2,7 +2,6 @@
 title: "Using the social technologies of the web effectively while staying out of trouble"
 excerpt: ""
 modified: 2016-10-20 16:44:18
-permalink: using-the-social-technologies-of-the-web-effectively/index.html
 tags: ["Social Media"]
 featured_img:
 wpid: 636

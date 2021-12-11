@@ -2,7 +2,6 @@
 title: "My WordPress Developer's Wishlist"
 excerpt: "I build a lot of WordPress and I use WordPress all day, every day. Here’s what I’d love to see in future WordPress releases."
 modified: 2016-10-20 16:44:00
-permalink: my-wordpress-developers-wishlist/index.html
 tags: ["WordPress"]
 featured_img: /_images/2009/09/wordpress-logo-notext-rgb-300x300.png
 wpid: 2731

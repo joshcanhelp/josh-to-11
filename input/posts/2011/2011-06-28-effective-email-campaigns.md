@@ -2,7 +2,6 @@
 title: "Creating effective email marketing campaigns"
 excerpt: "A presentation on creating great email marketing campaigns along with links to other resources. "
 modified: 2016-10-20 16:44:01
-permalink: effective-email-campaigns/index.html
 tags: ["Marketing", "Email"]
 featured_img:
 wpid: 2246

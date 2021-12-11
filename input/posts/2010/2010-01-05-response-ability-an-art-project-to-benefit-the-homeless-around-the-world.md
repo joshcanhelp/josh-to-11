@@ -2,7 +2,6 @@
 title: "RESPONSE ABILITY: An art project to benefit the homeless around the world."
 excerpt: ""
 modified: 2016-03-30 18:30:18
-permalink: response-ability-an-art-project-to-benefit-the-homeless-around-the-world/index.html
 tags: ["Graffiti", "Design"]
 featured_img:
 wpid: 1344
