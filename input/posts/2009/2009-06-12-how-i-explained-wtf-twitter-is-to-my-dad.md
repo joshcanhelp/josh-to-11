@@ -2,7 +2,6 @@
 title: "How I explained WTF Twitter is to my Dad"
 layout: post
 excerpt: "My dad and I have been working on a plan for a website to promote his business valuation report for a few months now. The site that inevitably came up that was Twitter."
-date: 2009-06-12 18:00:34
 modified: 2016-10-20 16:44:18
 permalink: how-i-explained-wtf-twitter-is-to-my-dad/index.html
 tags: [ "Twitter", "Social Media", "Marketing"]

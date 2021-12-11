@@ -2,7 +2,6 @@
 title: "Connecting Strategy to Tactics"
 layout: post
 excerpt: "Like a lot of people, I have many, many ideas going on at once and many, many tasks that need my time and attention, both of which are in short supply. Where do I start? What do I do? Where is my direction?"
-date: 2014-04-29 21:45:13
 modified: 2016-10-20 16:44:00
 permalink: connecting-strategy-tactics/index.html
 tags: ["Design", "Personal Development"]

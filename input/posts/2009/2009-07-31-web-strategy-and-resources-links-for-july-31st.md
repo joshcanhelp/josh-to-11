@@ -2,7 +2,6 @@
 title: "Web strategy and resources links for July 31st"
 layout: post
 excerpt: ""
-date: 2009-07-31 19:54:22
 modified: 2016-10-20 16:44:18
 permalink: web-strategy-and-resources-links-for-july-31st/index.html
 tags: ["CSS", "Design", "Social Media", "Web Strategy"]

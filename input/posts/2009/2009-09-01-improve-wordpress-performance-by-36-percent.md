@@ -2,7 +2,6 @@
 title: "Improve WordPress Performance by 36 Percent"
 layout: post
 excerpt: "I was approached recently by the owner of a popular blog using WordPress. He wanted to know if there was anything he could do to speed up his site. As usual, Josh Can (and did) Help."
-date: 2009-09-01 19:00:03
 modified: 2016-10-20 16:44:17
 permalink: improve-wordpress-performance-by-36-percent/index.html
 tags: ["WordPress",  "Site Optimization"]

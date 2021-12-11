@@ -2,7 +2,6 @@
 title: "Working with a web designer: help us help you"
 layout: post
 excerpt: "This post is about helping me help you to come up with the best design we possibly can."
-date: 2012-01-10 17:54:31
 modified: 2016-10-20 16:44:00
 permalink: working-with-a-web-designer-help-us-help-you/index.html
 tags: ["Design", "Web Strategy"]

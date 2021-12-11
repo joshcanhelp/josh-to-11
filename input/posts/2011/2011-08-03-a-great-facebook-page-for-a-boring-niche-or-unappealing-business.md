@@ -2,7 +2,6 @@
 title: "A Great Facebook Page for a Boring, Niche, or Unappealing Business"
 layout: post
 excerpt: ""
-date: 2011-08-03 13:55:41
 modified: 2016-10-20 16:44:00
 permalink: a-great-facebook-page-for-a-boring-niche-or-unappealing-business/index.html
 tags: ["Social Media"]

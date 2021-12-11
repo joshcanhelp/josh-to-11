@@ -2,7 +2,6 @@
 title: "Redesign, Drupal migration, and WooCommerce to CiviCRM Integration"
 layout: post
 excerpt: "A massive undertaking: migrate a popular eCommerce site from unsupported versions of Drupal and CiviCRM to WordPress. Challenge accepted!"
-date: 2014-02-17 23:16:45
 modified: 2016-10-27 20:14:39
 permalink: wordpress-ecommerce-site-integrated-civicrm-migrated-drupal-6/index.html
 tags: ["WordPress"]

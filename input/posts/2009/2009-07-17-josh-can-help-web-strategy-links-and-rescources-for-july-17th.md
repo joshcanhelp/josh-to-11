@@ -2,7 +2,6 @@
 title: "Web strategy links and Resources for July 17th"
 layout: post
 excerpt: "These are links that I’ve saved on Delicious or sent over Twitter since last Friday that you might find useful."
-date: 2009-07-17 18:41:26
 modified: 2016-10-20 16:44:18
 permalink: josh-can-help-web-strategy-links-and-rescources-for-july-17th/index.html
 tags: ["Analytics", "LinkedIn", "Design", "WordPress", "Web Strategy"]

@@ -2,7 +2,6 @@
 title: "Share Facebook Page Items to your Profile"
 layout: post
 excerpt: ""
-date: 2011-10-11 14:06:53
 modified: 2016-10-20 16:44:00
 permalink: share-facebook-page-items-to-profile/index.html
 tags: ["Facebook", "Social Media"]

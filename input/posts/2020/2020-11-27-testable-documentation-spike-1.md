@@ -4,7 +4,6 @@ title: "Testable Documentation Spike #1: \"It's Just Code\""
 permalink: testable-documentation-spike-1/index.html
 layout: post
 tags: [ "Documentation", "Development", "Testing", "JavaScript"]
-date: 2020-11-27 10:05:00
 featured_img: /_images/2020/11/code_sample-300x300.png
 excerpt: My first spike on finding a system to take linted, tested code and outputting usable markup. This spike uses Docco to turn transpile commented JS files to HTML.
 

@@ -2,7 +2,6 @@
 title: "How I Focus Now"
 layout: post
 excerpt: "After reading several articles and a great book, Deep Work by Cal Newport, I’m sold: focus is tough, necessary, and at a premium. I’ve been on a month-long discovery process to find how to work more efficiently (in other words: less screen time with more output), produce better, and avoid negative thoughts."
-date: 2016-12-08 21:16:02
 modified: 2016-12-08 21:16:02
 permalink: how-i-focus-now/index.html
 tags: ["Personal Development", "Social Media", "Focus", "Twitter"]

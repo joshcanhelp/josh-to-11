@@ -5,7 +5,6 @@ excerpt: A little system I use to remember what's important to focus on during t
 permalink: cards-to-live-by/index.html
 layout: post
 tags: [ "Personal Development", "Health + Fitness" ]
-date: 2021-03-06 12:00:00
 featured_img: /_images/2021/02/cards_to_live_by_THUMB.jpg
 twitter_url: 
 

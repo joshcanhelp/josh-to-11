@@ -2,7 +2,6 @@
 title: "Screencasts: recording on-screen training videos"
 layout: post
 excerpt: " I’ve learned quite a bit about what works and what doesn’t when recording on-screen videos. I want to share a few tips that a colleague and I came up with while making these videos."
-date: 2008-08-19 19:00:06
 modified: 2016-04-03 02:33:18
 permalink: recording-on-screen-training-videos/index.html
 tags: ["Online Training"]

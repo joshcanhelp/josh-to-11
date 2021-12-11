@@ -2,7 +2,6 @@
 title: "Engineer Support for Content and Communication Rockstars"
 layout: post
 excerpt: "Regardless of the industry, when people care deeply about what they're making and who they're helping, it shows."
-date: 2017-01-05 22:56:25
 modified: 2017-04-05 22:58:03
 permalink: engineer-support-content-communication-rockstars/index.html
 tags: []

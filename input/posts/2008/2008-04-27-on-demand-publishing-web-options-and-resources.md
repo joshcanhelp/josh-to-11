@@ -2,7 +2,6 @@
 title: "On-Demand and Web Publishing Resources"
 layout: post
 excerpt: "I'm looking into a low-cost method for getting a book published and available on-line so I thought I would share what I found while combing through the web."
-date: 2008-04-27 04:57:01
 modified: 2016-04-01 03:49:49
 permalink: on-demand-publishing-web-options-and-resources/index.html
 tags: ["Self-publishing", "Writing"]

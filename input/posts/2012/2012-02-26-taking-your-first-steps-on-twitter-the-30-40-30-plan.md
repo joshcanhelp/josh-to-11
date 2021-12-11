@@ -2,7 +2,6 @@
 title: "Taking Your First Steps on Twitter: The 30 - 40 - 30 Plan"
 layout: post
 excerpt: "This post is for anyone who just signed up for Twitter and thought, 'OK, now what?' It’s for the businesses and individuals curious about how to get started on Twitter and have fun with it."
-date: 2012-02-26 22:27:10
 modified: 2016-10-20 16:44:00
 permalink: taking-your-first-steps-on-twitter-the-30-40-30-plan/index.html
 tags: ["Social Media", "Twitter"]

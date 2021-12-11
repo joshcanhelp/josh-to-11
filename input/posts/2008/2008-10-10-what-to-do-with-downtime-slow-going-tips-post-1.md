@@ -2,7 +2,6 @@
 title: "What to do with downtime: slow-going tips post #1"
 layout: post
 excerpt: ""
-date: 2008-10-10 18:00:55
 modified: 2016-10-20 16:44:20
 permalink: what-to-do-with-downtime-slow-going-tips-post-1/index.html
 tags: ["Freelancing", "Email", "Marketing", "SEO" ]

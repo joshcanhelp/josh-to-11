@@ -2,7 +2,6 @@
 title: "Blue Bottle Giant Steps"
 layout: post
 excerpt: ""
-date: 2015-02-08 16:48:12
 modified: 2016-01-19 04:20:04
 permalink: blue-bottle-giant-steps/index.html
 tags: ["Premium Consumption"]

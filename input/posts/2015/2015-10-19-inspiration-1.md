@@ -2,7 +2,6 @@
 title: "Much Needed Inspiration"
 layout: post
 excerpt: "An incredible movie, a life-changing product, and a quote. Might be just what you need right now too. "
-date: 2015-10-19 17:20:57
 modified: 2016-10-20 16:43:59
 permalink: inspiration-1/index.html
 tags: ["Personal Development"]

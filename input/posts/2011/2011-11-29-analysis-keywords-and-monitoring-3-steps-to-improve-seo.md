@@ -2,7 +2,6 @@
 title: "Improve Site SEO in 3 Steps: Analysis, Keywords &amp; Monitoring"
 layout: post
 excerpt: ""
-date: 2011-11-29 06:16:53
 modified: 2016-10-20 16:44:00
 permalink: analysis-keywords-and-monitoring-3-steps-to-improve-seo/index.html
 tags: ["Analytics", "SEO", "Writing For The Web"]

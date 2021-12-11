@@ -2,7 +2,6 @@
 
 title: "Notes from Rock Your Code Reviews with Dr. Michaela Greiler"
 layout: post
-date: 2020-01-15 19:00:00
 permalink: rock-your-code-reviews-webinar/index.html
 tags: ["Development", "Team Dynamics"]
 featured_img: /_images/2020/01/code-block.png

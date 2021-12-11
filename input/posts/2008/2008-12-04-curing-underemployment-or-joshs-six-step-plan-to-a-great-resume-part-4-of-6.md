@@ -2,7 +2,6 @@
 title: "Curing Underemployment (or) Josh’s Six Step Plan to a Great Resume (part 4 of 6)"
 layout: post
 excerpt: ""
-date: 2008-12-04 19:00:31
 modified: 2016-10-20 16:44:19
 permalink: curing-underemployment-or-joshs-six-step-plan-to-a-great-resume-part-4-of-6/index.html
 tags: ["Personal Development"]

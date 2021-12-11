@@ -2,7 +2,6 @@
 title: "The Mad Printer... an interesting coffeeshop activity"
 layout: post
 excerpt: ""
-date: 2009-01-12 17:00:38
 modified: 2016-10-20 16:44:19
 permalink: the-mad-printer-an-interesting-coffeeshop-activity/index.html
 tags: ["Hardware", "Throwback"]

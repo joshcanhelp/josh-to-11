@@ -2,7 +2,6 @@
 title: "Beginner Exercises to Learn PHP Programming"
 layout: post
 excerpt: "I’ve been on a quest to try my hand at a real programming language. I get the feeling that I’m really going to like what I learn."
-date: 2008-11-20 20:00:21
 modified: 2016-10-20 16:44:20
 permalink: beginner-excercises-to-learn-php-programming/index.html
 tags: ["Programming"]

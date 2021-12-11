@@ -2,7 +2,6 @@
 title: "Building a homepage from a blog: Part 1: Conceptualization and Planning"
 layout: post
 excerpt: "When I’m complete, joshcanhelp.com will point to a home page on this blog, directing people to information about me and what I do."
-date: 2008-08-07 17:00:20
 modified: 2016-04-03 02:33:18
 permalink: building-a-homepage-from-a-blog-part-1-conceptualization-and-planning/index.html
 tags: ["About JoshCanHelp", "Design", "Web Strategy"]

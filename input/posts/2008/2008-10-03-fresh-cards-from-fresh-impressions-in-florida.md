@@ -2,7 +2,6 @@
 title: "Fresh cards from Fresh Impressions in Florida"
 layout: post
 excerpt: ""
-date: 2008-10-03 20:45:55
 modified: 2016-10-20 16:44:20
 permalink: fresh-cards-from-fresh-impressions-in-florida/index.html
 tags: ["About JoshCanHelp", "Design"]

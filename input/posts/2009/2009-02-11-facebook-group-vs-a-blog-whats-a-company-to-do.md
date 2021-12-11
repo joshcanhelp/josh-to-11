@@ -2,7 +2,6 @@
 title: "Facebook Group vs A Blog: What's a Company to Do?"
 layout: post
 excerpt: "I was having a virtual conversation with a colleague last week and the topic of Facebook group pages versus blogs came up. I wanted to share this conversation because I think it’s essential to exchange ideas like this, especially ideas that pertain to experimentation and exploration."
-date: 2009-02-11 16:00:25
 modified: 2016-10-20 16:44:19
 permalink: facebook-group-vs-a-blog-whats-a-company-to-do/index.html
 tags: ["Facebook", "Social Media", "Writing For The Web", "Web Strategy"]

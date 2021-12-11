@@ -2,7 +2,6 @@
 title: "I learned something today"
 layout: post
 excerpt: "Sometimes there is an easy way, sometimes there’s just an easIER way, and sometimes there’s just hard ways."
-date: 2008-09-09 20:00:37
 modified: 2016-10-20 16:44:21
 permalink: i-learned-something-today/index.html
 tags: ["Writing For The Web", "Marketing", "Personal Development"]

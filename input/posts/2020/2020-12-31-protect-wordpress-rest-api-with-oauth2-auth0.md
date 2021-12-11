@@ -5,7 +5,6 @@ excerpt: In this post, we are going to add the ability to use Auth0-generated ac
 permalink: protect-wordpress-rest-api-with-oauth2-auth0/index.html
 layout: post
 tags: [ "WordPress", "Auth0", "OAuth2", "Best Of" ]
-date: 2020-12-31 13:00:00
 featured_img: /_images/2020/12/wp-rest-api-authentication-thumb.png
 
 ---

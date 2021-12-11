@@ -2,7 +2,6 @@
 title: "Confessions from an accidental spammer"
 layout: post
 excerpt: ""
-date: 2010-08-10 15:36:19
 modified: 2016-04-03 02:32:59
 permalink: confessions-from-an-accidental-spammer/index.html
 tags: ["Email"]

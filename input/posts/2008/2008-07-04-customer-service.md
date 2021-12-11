@@ -2,7 +2,6 @@
 title: "&quot;Customer service&quot;"
 layout: post
 excerpt: "I want to address a conversation I had with a Cox cable technical support rep yesterday."
-date: 2008-07-04 09:03:31
 modified: 2013-04-06 22:40:45
 permalink: customer-service/index.html
 tags: ["Customer Service"]

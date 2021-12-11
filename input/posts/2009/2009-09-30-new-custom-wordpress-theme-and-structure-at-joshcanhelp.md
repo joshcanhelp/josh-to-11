@@ -2,7 +2,6 @@
 title: "New custom WordPress theme and structure at JoshCanHelp"
 layout: post
 excerpt: "I finally made the time to finish my site’s re-design and re-build. Part of me thought this would be a minor remodel with a new WordPress theme but, in the end, I re-did all of my page content and changed my whole organization."
-date: 2009-09-30 20:00:56
 modified: 2016-10-20 16:44:17
 permalink: new-custom-wordpress-theme-and-structure-at-joshcanhelp/index.html
 tags: ["Design", "WordPress", "About JoshCanHelp"]

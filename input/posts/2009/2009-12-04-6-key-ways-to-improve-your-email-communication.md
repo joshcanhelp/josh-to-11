@@ -2,7 +2,6 @@
 title: "6 key ways to improve your email communication"
 layout: post
 excerpt: ""
-date: 2009-12-04 20:48:14
 modified: 2013-04-06 22:40:42
 permalink: 6-key-ways-to-improve-your-email-communication/index.html
 tags: ["Email"]

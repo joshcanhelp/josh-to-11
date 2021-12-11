@@ -2,7 +2,6 @@
 title: "Essential Hardware And Software for Virtual Employees and Contractors"
 layout: post
 excerpt: ""
-date: 2010-02-19 02:14:49
 modified: 2016-04-01 04:25:26
 permalink: essential-hardware-and-software-for-virtual-employees-and-contractors/index.html
 tags: ["Hardware"]

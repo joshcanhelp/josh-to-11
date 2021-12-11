@@ -2,7 +2,6 @@
 title: "Do it, then do it better: an iterative mindset"
 layout: post
 excerpt: "Though I haven’t eliminated repetition from my professional life entirely, I’m aware of something very different at work. Creating websites from scratch can be tedious but it has taught me something critical about iteration."
-date: 2009-10-27 02:40:30
 modified: 2016-10-20 16:44:17
 permalink: do-it-and-then-do-it-better-an-iterative-mindset/index.html
 tags: ["Iteration", "Design", "Personal Development", "Web Strategy"]

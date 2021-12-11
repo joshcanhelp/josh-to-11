@@ -2,7 +2,6 @@
 title: "Ballard to Fremont - Bikes and Brews"
 layout: post
 excerpt: "A list of the breweries in Ballard and Fremont and a few suggested schedules for the weekend days."
-date: 2013-08-15 04:51:40
 modified: 2013-08-15 04:51:40
 permalink: ballard-to-fremont-bikes-and-brews/index.html
 tags: ["Seattle"]

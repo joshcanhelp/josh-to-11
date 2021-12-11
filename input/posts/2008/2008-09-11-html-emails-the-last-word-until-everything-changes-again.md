@@ -2,7 +2,6 @@
 title: "HTML emails: the last word (until everything changes again)"
 layout: post
 excerpt: "Here is everything I know about creating HTML emails. This is the most boring and most useful post I’ve ever created by far."
-date: 2008-09-11 18:00:49
 modified: 2016-10-20 16:44:21
 permalink: html-emails-the-last-word-until-everything-changes-again/index.html
 tags: ["Marketing", "Email", "Throwback", "Yahoo"]

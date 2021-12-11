@@ -2,7 +2,6 @@
 title: "What it means to me to be a free agent"
 layout: post
 excerpt: ""
-date: 2010-06-24 22:51:21
 modified: 2016-04-03 02:32:59
 permalink: what-it-means-to-me-to-be-a-free-agent/index.html
 tags: ["Customer Service", "Freelancing", "About JoshCanHelp", "Personal Development"]

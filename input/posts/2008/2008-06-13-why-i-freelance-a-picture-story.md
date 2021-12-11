@@ -2,7 +2,6 @@
 title: "Why I freelance (a picture story)"
 layout: post
 excerpt: ""
-date: 2008-06-13 10:09:35
 modified: 2016-04-01 03:52:16
 permalink: why-i-freelance-a-picture-story/index.html
 tags: ["Throwback", "Freelancing"]

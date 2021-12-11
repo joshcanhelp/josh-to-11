@@ -2,7 +2,6 @@
 title: "Creating a functional, useable, linkable website: start and maintain a blog"
 layout: post
 excerpt: ""
-date: 2009-01-26 19:00:14
 modified: 2016-10-20 16:44:19
 permalink: creating-a-functional-useable-linkable-website-start-and-maintain-a-blog/index.html
 tags: ["Writing For The Web", "Web Strategy"]

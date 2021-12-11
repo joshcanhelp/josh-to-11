@@ -2,7 +2,6 @@
 title: "Daily rebirth"
 layout: post
 excerpt: "Each day that we are granted is a chance to escape the condemnation of comparison and start anew on our way to who we know we can be."
-date: 2008-09-22 20:14:33
 modified: 2016-10-20 16:44:20
 permalink: daily-rebirth/index.html
 tags: ["Personal Development"]

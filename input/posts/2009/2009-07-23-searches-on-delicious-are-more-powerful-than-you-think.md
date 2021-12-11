@@ -2,7 +2,6 @@
 title: "Searches on Delicious are more powerful than you think"
 layout: post
 excerpt: "I talk about Delicious.com a lot because I’ve found it very critical for my own web strategy and organization. Saving links is incredibly easy and I LOVE being able to share categories of links with people."
-date: 2009-07-23 19:00:36
 modified: 2016-10-20 16:44:18
 permalink: searches-on-delicious-are-more-powerful-than-you-think/index.html
 tags: ["Social Media"]

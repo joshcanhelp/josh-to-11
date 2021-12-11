@@ -2,7 +2,6 @@
 title: "Beautiful piece about time "
 layout: post
 excerpt: ""
-date: 2017-01-24 06:06:17
 modified: 2017-01-24 06:06:17
 permalink: beautiful-piece-time/index.html
 tags: []

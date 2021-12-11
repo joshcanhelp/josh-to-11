@@ -2,7 +2,6 @@
 title: "Spam: what is it? what does it do? why am I sending it? who cares?"
 layout: post
 excerpt: "I had an interesting conversation with a colleague recently about what constitutes spam email and how we could go about avoiding it."
-date: 2008-11-04 16:00:06
 modified: 2016-10-20 16:44:20
 permalink: spam-what-is-it-what-does-it-do-why-am-i-sending-it-who-cares/index.html
 tags: ["Email", "Marketing"]

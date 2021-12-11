@@ -2,7 +2,6 @@
 title: "Installing a font in Windows XP"
 layout: post
 excerpt: "This is a companion to my article I wrote a while back. Here is the quick and dirty process for adding a font in Windows XP."
-date: 2008-06-06 04:06:18
 modified: 2016-04-01 03:52:13
 permalink: installing-a-font-in-windows-xp/index.html
 tags: ["Fonts", "Throwback"]

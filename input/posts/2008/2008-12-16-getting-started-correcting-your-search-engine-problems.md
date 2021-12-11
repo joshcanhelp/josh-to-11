@@ -2,7 +2,6 @@
 title: "Getting started correcting your search engine problems."
 layout: post
 excerpt: ""
-date: 2008-12-16 18:00:07
 modified: 2016-10-20 16:44:19
 permalink: getting-started-correcting-your-search-engine-problems/index.html
 tags: ["SEO"]

@@ -2,7 +2,6 @@
 title: "Good advice to a client about building a blog from the ground up"
 layout: post
 excerpt: "My honest take on starting a blog from scratch. Do it because you like it and don’t assume you don’t like it because you have no idea what you’re doing."
-date: 2008-10-23 16:00:39
 modified: 2016-10-20 16:44:20
 permalink: good-advice-to-a-client-about-building-a-blog-from-the-ground-up/index.html
 tags: ["Writing For The Web"]
