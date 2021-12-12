@@ -214,6 +214,11 @@ module.exports = function (eleventyConfig) {
     (text) => `<figcaption><em>${text}</em></figcaption>`
   );
 
+  eleventyConfig.addPairedShortcode(
+    "bigtext",
+    (text) => `<p class="bigtext">${text}</p>`
+  );
+
   return {
     dir: {
       input: "input",

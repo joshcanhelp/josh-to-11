@@ -12,13 +12,25 @@ wpid: 3794
 
 Inspired by [this](https://nownownow.com/about).
 
+### 12/12/2021
+
+I can say, without hesitation, that this now is before than the last now. 
+
+We're all vaccinated and the kids are back in school and doing great. Just that is such a massive weight off of our collective shoulders that it hardly feels necessary to talk about anything else!
+
+I'm the same team at Auth0 (acquired by Okta this year) and have been enjoying working for our team as the technical lead. Lately, I've been spending my time leveling the team up on planning, diagramming our architecture, and documenting all the things. 
+
+On the side, I've been thinking about and working on getting our digital archive in order, including digitizing paper documents, collecting personal and family data in one place, and getting our money tracking in order. A huge help with all of this and writing more in general, has been [taking notes in Obsidian](/notes). 
+
+I've also been working on my physical health by making some diet changes and focusing on getting exercise more often, in any form. I use an Oura ring to remind me to take breaks, keep my activity level up, and shame me for not focusing on my sleep. With all of this thinking and planning comes with, of course, the actual behavior change itself, which is the main challenge. I keep coming back to [my thoughts in 2019 about experiments](/improvement-as-experimentation/) instead of trying (and failing) to just will myself to change. 
+
 ### 5/17/2020
 
 Oh man ... now. Now is weird and hard. 
 
 Professionally, things are good. I'm on a new team at Auth0 working on the core platform which has been great. Tons of learning and building and designing and product thinking. It's been tough to mov away from open source and our community but also refreshing as well. I've been doing support professionally in some form for 2 decades at this point, it's time for a break. 
 
-Besides the occasion support request, my time working with WordPress has concluded. This blog is [now on Eleventy](/taking-wordpress-to-eleventy/), I don't do any freelance work, and my work at Auth0 is primarily focused on Node and React. It's been a relief to leave all my WordPress ideas in the past (though I'm working on one final post about WordPress testing that I'll get out soon).
+Besides the occasional support request, my time working with WordPress has concluded. This blog is [now on Eleventy](/taking-wordpress-to-eleventy/), I don't do any freelance work, and my work at Auth0 is primarily focused on Node and React. It's been a relief to leave all my WordPress ideas in the past (though I'm working on one final post about WordPress testing that I'll get out soon).
 
 Personally ... well, we have kids and there is a pandemic. If you're in the same boat, then you know **exactly** what my life looks like. If you're not and would like to imagine what it's like to suddenly take on teaching a first grader, [I just published a post about it](/how-we-are-teaching-right-now/).
 
