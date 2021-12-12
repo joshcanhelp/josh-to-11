@@ -82,9 +82,13 @@
 
 .bigtext
 	font-size: $f_size_big
-	padding: 1em
+	padding-top: 1em
+	padding-bottom: 1em
 	border-bottom: 1px solid $c_vivid_yellow
 	border-top: 1px solid $c_vivid_yellow
+
+	+larger_than_phone
+		padding: 1em
 
 .tag
 	display: inline-block
