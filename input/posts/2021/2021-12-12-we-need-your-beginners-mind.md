@@ -48,8 +48,8 @@ I don't have the answer to this. What I can say is that I have been a part of or
 
 As a beginner, you can **embrace your beginner's mind** by:
 
-- Recognizing it's value and that it is temporary.
-- Asking [good questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/) to your company, your team, or even just one person that you trust.
+- Recognizing its value and acknowledging its transiency.
+- Asking all of your [good questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/) to your company, your team, or even just one person that you trust.
 - Recognizing that asking someone to teach you is a gift to them.
 - Remembering that we were all there at some point, even that one intimidating person.
 
