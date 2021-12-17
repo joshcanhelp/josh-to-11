@@ -57,9 +57,17 @@ As a beginner, you can **embrace your beginner's mind** by:
 > 
 > [@laurieontech](https://twitter.com/laurieontech/status/1250900874743947267)
 
+> The world needs more people who are two days into learning something writing about the problems of people who are one day in.
+> 
+> [@patio11](https://twitter.com/patio11/status/803825771349426176)
+
 As someone with more experience, you can **help those getting started** by:
 
 - Encouraging questions and asking your own "dumb" questions.
 - Embracing the teacher role by taking your time to educate others.
 - If you don't have the time to give a great answer, saying so and coming back when you can.
 - Telling the stories about your mistakes, disasters, and missteps.
+
+{% h2br %}Links {% endh2br %}
+- [Hacker News comment thread](https://news.ycombinator.com/item?id=29580547)
+- [Shoshin: "In the beginner's mind there are many possibilities, in the expert's mind there are few"](https://en.wikipedia.org/wiki/Shoshin)
