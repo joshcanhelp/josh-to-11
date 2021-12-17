@@ -68,6 +68,7 @@ As someone with more experience, you can **help those getting started** by:
 - If you don't have the time to give a great answer, saying so and coming back when you can.
 - Telling the stories about your mistakes, disasters, and missteps.
 
-{% h2br %}Links {% endh2br %}
+{% h2br %}Links{% endh2br %}
+
 - [Hacker News comment thread](https://news.ycombinator.com/item?id=29580547)
-- [Shoshin: "In the beginner's mind there are many possibilities, in the expert's mind there are few"](https://en.wikipedia.org/wiki/Shoshin)
+- [Shoshin: 'In the beginner's mind there are many possibilities, in the expert's mind there are few'](https://en.wikipedia.org/wiki/Shoshin)
