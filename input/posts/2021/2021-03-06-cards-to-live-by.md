@@ -49,7 +49,7 @@ Take a minute to ask yourself: what is a thought? When you are lost in thought, 
 
 ![Meditating snowman](/_images/2021/02/meditating-snowman.jpg)
 
-For me, thoughts are images combined with lots of words, typically in my voice. This slideshow can be mesmorizing but I can also become aware of it, see it for what it is (images and words), and it kind of just .... melts away. This is my reminder that this exercise is possible. [More thoughts from me on mindfulness here](/mindfulness).
+For me, thoughts are images combined with lots of words, typically in my voice. This slideshow can be mesmerizing but I can also become aware of it, see it for what it is (images and words), and it kind of just .... melts away. This is my reminder that this exercise is possible. [More thoughts from me on mindfulness here](/mindfulness).
 
 ## Begin again,<br>in this moment
 
