@@ -30,10 +30,18 @@ permalink: /tag/{{ tag | slug }}/
 
     <p>
       <a href="/archives/tags/" class="tag">&lsaquo; All tags</a>
+      <a href="/tag/{{ tag | slug }}/rss.xml" class="tag">RSS feed for this tag</a>
     </p>
+
     {% set taglist = collections[tag] %}
     {% for post in taglist | reverse %}
       {{ postListing(post) }}
     {% endfor %}
+
+    <p>
+      <a href="/archives/tags/" class="tag">&lsaquo; All tags</a>
+      <a href="/tag/{{ tag | slug }}/rss.xml" class="tag">RSS feed for this tag</a>
+    </p>
+    
   </article>
 {% endblock %}
