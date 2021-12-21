@@ -4,6 +4,7 @@ title: "We Need Your Beginner's Mind"
 excerpt: "We need your experiments and your questions and your feedback. Your lack of understanding is a valuable attribute that goes away as you gain experience."
 tags: ["Personal Development", "Team Dynamics", "Best Of"]
 featured_img: /_images/2021/experience_THUMB.jpg
+hn_link: "https://news.ycombinator.com/item?id=29580547"
 
 ---
 
@@ -70,5 +71,4 @@ As someone with more experience, you can **help those getting started** by:
 
 {% h2br %}Links{% endh2br %}
 
-- [Hacker News comment thread](https://news.ycombinator.com/item?id=29580547)
 - [Shoshin: 'In the beginner's mind there are many possibilities, in the expert's mind there are few'](https://en.wikipedia.org/wiki/Shoshin)
