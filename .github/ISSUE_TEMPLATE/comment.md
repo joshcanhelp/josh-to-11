@@ -2,12 +2,12 @@
 name: Comment
 about: Leave a comment for content on joshcanhelp.com
 title: Comment on joshcanhelp.com
-labels: ''
+labels: 'comment'
 assignees: joshcanhelp
 
 ---
 
-❤️ Thank you for taking your time to write me, I greatly appreciate all feedback ❤️
+❤️ Thank you for taking your time to write me, I greatly appreciate any feedback you're willing to give ❤️
 
 ## Content you're commenting on
 
