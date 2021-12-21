@@ -25,7 +25,8 @@ permalink: /tag/{{ tag | slug }}/
       </div>
     </div>
 
-    {% include "partials/tag-" + tag | slug + ".html" ignore missing %}
+    {% set snippet %}{% include "../partials/tags/" + tag | slug + ".md" ignore missing %}{% endset %}
+    {% markdown snippet %}
 
     <p>
       <a href="/archives/tags/" class="tag">&lsaquo; All tags</a>

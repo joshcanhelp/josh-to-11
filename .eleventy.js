@@ -1,6 +1,9 @@
 const moment = require("moment");
 const htmlmin = require("html-minifier");
 const slugify = require("slugify");
+const markdown = require("markdown-it")({
+  html: true
+});
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 moment.locale("en");
@@ -229,6 +232,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPairedShortcode(
     "bigtext",
     (text) => `<p class="bigtext">${text}</p>`
+  );
+
+  eleventyConfig.addNunjucksShortcode(
+    "markdown",
+    content => markdown.render(content)
   );
 
   return {
