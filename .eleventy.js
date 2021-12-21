@@ -23,6 +23,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias("idea", "layouts/idea.njk");
   eleventyConfig.addLayoutAlias("anna", "layouts/anna.njk");
   eleventyConfig.addLayoutAlias("cocktail", "layouts/cocktail.njk");
+  eleventyConfig.addLayoutAlias("slideshow", "layouts/slideshow.njk");
 
   eleventyConfig.setUseGitIgnore(false);
 
@@ -32,6 +33,10 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addTransform("htmlMinifier", function (content, outputPath) {
     if (!outputPath.endsWith(".html")) {
+      return content;
+    }
+
+    if (process.env.NODE_ENV === "development") {
       return content;
     }
 
@@ -155,6 +160,13 @@ module.exports = function (eleventyConfig) {
   /*
    * Filters
    */
+
+  eleventyConfig.addFilter("markdownToSlides", function (content) {
+    return content
+      .replace(/<h2>/g, "<section><section><h2>")
+      .replace(/<\/h2>/g, "</h2></section><section>")
+      .replace(/<hr>/g, "</section></section>");
+  });
 
   eleventyConfig.addFilter("dateformat", function (dateIn) {
     return moment(dateIn).format("MMM DD, YYYY");
