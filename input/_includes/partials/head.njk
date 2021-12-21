@@ -1,0 +1,37 @@
+<meta charset="UTF-8">
+
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="alternate" type="application/atom+xml" title="RSS Feed for joshcanhelp.com" href="/rss.xml">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="LUHQNXTGWRW08M2FzdsoXt65KunT0hwMaXHCvNZnOO8">   
+
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Josh Can Help">
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:domain" content="Josh Can Help">
+<meta name="twitter:site" content="@joshcanhelp">
+
+{% set titleTag = metaTitle or title %}
+{% if titleTag %}
+  <title>{{ titleTag }} - Josh Can Help</title>
+  <meta property="og:title" content="{{ titleTag }}">
+  <meta name="twitter:title" content="{{ titleTag }}">
+{% endif %}
+
+{% set description = metaDescription or excerpt %}
+{% if description %}
+  <meta name="description" content="{{ description }}">
+  <meta name="twitter:description" content="{{ description }}">
+{% endif %}
+
+{% if canonical_link %}
+  <link rel="canonical" href="{{canonical_link}}" />
+{% endif %}
+
+{% if featured_img %}
+  <meta property="og:image" content="https://www.joshcanhelp.com{{ featured_img }}">
+  <meta name="twitter:image" content="https://www.joshcanhelp.com{{ featured_img }}">
+{% endif %}
