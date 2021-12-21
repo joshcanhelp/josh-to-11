@@ -2,7 +2,7 @@
 title: "Make it Simple, Focused, High-Performance, and Polished: My Web Philosophy"
 excerpt: ""
 modified: 2016-04-01 04:26:01
-tags: ["About JoshCanHelp", "Design", "Site Optimization", "SEO", "Social Media", "Photoshop"]
+tags: ["About JoshCanHelp", "Design", "Site Optimization", "SEO", "Social Media"]
 featured_img:
 wpid: 1471
 ---

@@ -2,7 +2,7 @@
 title: "HTML emails: the last word (until everything changes again)"
 excerpt: "Here is everything I know about creating HTML emails. This is the most boring and most useful post I’ve ever created by far."
 modified: 2016-10-20 16:44:21
-tags: ["Marketing", "Email", "Throwback", "Yahoo"]
+tags: ["Marketing", "Email", "Throwback"]
 featured_img:
 wpid: 233
 ---

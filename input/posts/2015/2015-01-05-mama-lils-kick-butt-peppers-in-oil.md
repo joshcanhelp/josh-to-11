@@ -2,7 +2,7 @@
 title: "Mama Lil's Kick Butt Peppers in Oil"
 excerpt: ""
 modified: 2016-01-19 04:20:04
-tags: ["Premium Consumption"]
+tags: ["Food + Drink"]
 featured_img: /_images/2015/01/mama_lils-150x150.jpg
 link_to: https://mamalils.com/collections/frontpage/products/kick-butt-peppers-in-oil-original-12oz-6-pack
 wpid: 49

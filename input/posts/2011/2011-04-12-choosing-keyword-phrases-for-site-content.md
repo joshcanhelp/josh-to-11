@@ -2,7 +2,7 @@
 title: "Choosing Keyword Phrases for Content Pages"
 excerpt: "A step-by-step guide on how to choose the right keywords for your site content. "
 modified: 2016-04-03 02:32:59
-tags: ["Analytics", "SEO", "Web Strategy", "Writing For The Web"]
+tags: ["Analytics", "SEO", "Web Strategy", "Writing + Publishing"]
 featured_img:
 wpid: 2054
 ---

@@ -1,6 +1,6 @@
 ---
 title: "What it means to me to be a free agent"
-excerpt: ""
+excerpt: "My answers to the 16 questions for people making a living as a free agent."
 modified: 2016-04-03 02:32:59
 tags: ["Customer Service", "Freelancing", "About JoshCanHelp", "Personal Development"]
 featured_img:
@@ -8,7 +8,7 @@ wpid: 1626
 ---
 
 
-Seth Godin posed[ 16 questions for people making a living as a free agent](http://sethgodin.typepad.com/seths_blog/2010/06/16-questions-for-free-agents-.html). While the people I currently help and those I might help in the future may benefit from knowing the answers here, it’s more important to put in words why I do what I do to make sure I understand that for myself. Still, I hope this little exercise provides a helpful window into how I work and who I am.
+Seth Godin posed [16 questions for people making a living as a free agent](http://sethgodin.typepad.com/seths_blog/2010/06/16-questions-for-free-agents-.html). While the people I currently help and those I might help in the future may benefit from knowing the answers here, it’s more important to put in words why I do what I do to make sure I understand that for myself. Still, I hope this little exercise provides a helpful window into how I work and who I am.
 
 ![](/_images/2010/06/jch04.jpg "jch04")
 

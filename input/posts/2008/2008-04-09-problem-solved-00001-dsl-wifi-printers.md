@@ -2,7 +2,7 @@
 title: "Problem Solved #00001 - DSL, Wifi, printers"
 excerpt: "This customer called me to help him move his router, make sure wi-fi worked throughout the house, set up a printer with Vista (which was causing him problems), and possibly help him acquire a new desktop."
 modified: 2016-04-01 03:48:57
-tags: ["WiFi", "Hardware", "Throwback"]
+tags: ["Throwback"]
 featured_img: /_images/2008/04/2wire-1000hw.jpg
 wpid: 10
 ---

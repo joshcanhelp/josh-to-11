@@ -1,5 +1,5 @@
 ---
-title: "&quot;Customer service&quot;"
+title: "\"Customer service\""
 excerpt: "I want to address a conversation I had with a Cox cable technical support rep yesterday."
 modified: 2013-04-06 22:40:45
 tags: ["Customer Service"]
@@ -19,12 +19,12 @@ We got to the point where it seemed logical to schedule a technician to come and
 
 Flash forward 10+ minutes of this ridiculous back and forth stemming from my desire to have the outside wiring checked but the inside wiring ignored. In the end, my question was answered and my request was possible but only after I got worked up enough to write this and wasted tons of time between the two of us.
 
-\*sigh\*
+*sigh*
 
 So this turned into a rant, I guess, but let’s make something productive out of it. I taught customer service to phone reps for 2 years so here is what I would do on the other end of the phone.
 
 - **Listen.** Stop talking and listen. Let the customer speak their mind, regardless of what they are saying. You can disarm someone very easily by not talking over them and just letting them get everything out. Don’t interrupt, wait for your turn, and stop sounding like you’re just looking for a gap in between words so you can start blabbing.
-- **Write.**Write down what I say as I say it. Not only will this keep you listening but, when you get confused or it’s your turn to solve the issue, you have a bit of information to work with. If the person I talked to had written down what I said about paying the fee, maybe our conversation could have been 80% shorter.
+- **Write.** Write down what I say as I say it. Not only will this keep you listening but, when you get confused or it’s your turn to solve the issue, you have a bit of information to work with. If the person I talked to had written down what I said about paying the fee, maybe our conversation could have been 80% shorter.
 - **Explore.** Either with me on the phone or by yourself while I’m on hold, run through all the possible options for the situation and be clear on what they mean. Even if you’re just brainstorming with me, I would rather hear 10 different options that don’t work instead of 1. Chances are that one out of the 10 actually WILL work for me.
 - **Solve.** If I repeat myself eight times then you’re not hearing what my problem is (or I’m trying to hypnotize you). Solve my problem by re-phrasing yourself or repeating back what I said or offering different solutions. If we’re both repeating ourselves then there is something wrong. Since you can’t control the customer, control yourself.
 

@@ -2,7 +2,7 @@
 title: "I learned something today"
 excerpt: "Sometimes there is an easy way, sometimes there’s just an easIER way, and sometimes there’s just hard ways."
 modified: 2016-10-20 16:44:21
-tags: ["Writing For The Web", "Marketing", "Personal Development"]
+tags: ["Writing + Publishing", "Marketing", "Personal Development"]
 featured_img:
 wpid: 235
 ---

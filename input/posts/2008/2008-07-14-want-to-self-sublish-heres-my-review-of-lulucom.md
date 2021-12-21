@@ -2,7 +2,7 @@
 title: "Want to self-publish? My review of Lulu.com"
 excerpt: "I liked Lulu the best from my research and chose them to publish my client’s book. Here are my impressions about the whole writing, publishing, and uploading experience."
 modified: 2019-01-08 00:16:52
-tags: ["Self-publishing", "Writing", "Photoshop"]
+tags: ["Writing + Publishing"]
 featured_img: /_images/2008/07/lulu_rev_07_sm-150x150.jpg
 wpid: 38
 ---

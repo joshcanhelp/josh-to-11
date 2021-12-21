@@ -2,7 +2,7 @@
 title: "Free software and websites that really, really, really help me"
 excerpt: "The following computer-based implements have become so essential to me that I would pay good money to keep them. They happen, however, to be completely free."
 modified: 2016-10-20 16:44:19
-tags: ["Productivity", "Freelancing"]
+tags: ["Freelancing"]
 featured_img:
 wpid: 556
 ---

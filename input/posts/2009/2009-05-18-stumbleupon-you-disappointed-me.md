@@ -2,7 +2,7 @@
 title: "StumbleUpon: You Disappointed Me"
 excerpt: "Poor usability abound but, for some things, there are no excuses."
 modified: 2016-10-20 16:44:18
-tags: ["Social Media", "UX"]
+tags: ["Social Media", "Throwback"]
 featured_img: /_images/2009/05/stumbleupon_logo.png
 wpid: 746
 ---

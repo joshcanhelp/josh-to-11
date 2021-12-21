@@ -2,7 +2,7 @@
 title: "Is your wifi disconnecting frequently? Here's the fix... "
 excerpt: "Stop your wifi from disconnecting frequently in Windows XP."
 modified: 2016-04-01 03:52:20
-tags: ["WiFi", "Throwback"]
+tags: ["Hardware", "Throwback"]
 featured_img:
 wpid: 37
 ---

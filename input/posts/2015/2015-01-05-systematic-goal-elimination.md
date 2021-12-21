@@ -1,6 +1,6 @@
 ---
 title: "Systematic Goal Elimination"
-excerpt: "Scott Adams: &quot;To put it bluntly, goals are for losers. That’s literally true most of the time. For example, if your goal is to lose 10 pounds, you will spend every moment until you reach the goal—if you reach it at all—feeling as if you were short of your goal. In other words, goal-oriented people exist in a state of nearly continuous failure that they hope will be temporary.&quot;"
+excerpt: "I made a few significant life changes to achieve a set of personal goals that I’ve been chasing for years. I think we call this a “resolution” but I’m hesitant to use that colloquialism. These changes need to stay with me for the rest of my life."
 modified: 2016-11-19 23:04:53
 tags: ["Health + Fitness", "Personal Development"]
 featured_img: /_images/2015/01/IMG_0633_fix01-1-150x150.jpg
@@ -10,7 +10,11 @@ wpid: 378
 
 ![img_0633_fix01](/_images/2015/01/IMG_0633_fix01-1.jpg)
 
-On the first of January, I made a few significant life changes to achieve a set of personal goals – healthier consumption, regular exercise, fat loss – I’ve been chasing for years. I think we call this a “resolution” but I’m hesitant to use that colloquialism. These changes need to stay with me for the rest of my life for their impact to be meaningful.
+On the first of January, I made a few significant life changes to achieve a set of personal goals – healthier consumption, regular exercise, fat loss – I’ve been chasing for years. I think we call this a “resolution” but I’m hesitant to use that colloquialism.
+
+{% bigtext %}
+These changes need to stay with me for the rest of my life for their impact to be meaningful.
+{% endbigtext %}
 
 A resolution is like a goal: it’s a promise to yourself (in this case) to achieve something. An achievement has a beginning, a middle, and an end. In this way, achievements and goals are like little trophies you can arrange on a shelf. You set out to, say, lose 30 pounds, you work towards that goal, and when you finish, you take a photo of the new number and post it on Instagram. Badge acquired, trophy mounted.
 

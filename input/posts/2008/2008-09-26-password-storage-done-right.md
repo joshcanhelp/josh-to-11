@@ -2,7 +2,7 @@
 title: "Password storage done right"
 excerpt: "It took me long enough but I’m finally implementing a password safe and I’m choosing KeePass."
 modified: 2016-10-20 16:44:20
-tags: ["Passwords"]
+tags: []
 featured_img:
 wpid: 277
 ---
@@ -18,7 +18,7 @@ It took me long enough but I’m finally implementing a password safe. I have so
 
 [Export passwords to FF](http://www.mccreath.org.uk/Article/ClockWork-FireFox-to-KeePass-Converter_8.aspx): Make sure to download and install both pieces for this to work. It essentially creates an XML file with all of your Firefox passwords. I found it a bit scary that this can be made so easily. Even scarier is that ALL of your passwords can be seen in Firefox under Tools &gt; Options &gt; Security &gt; Saved Passwords. Still want them saved in Firefox? I didn’t think so…
 
-KeeForm plugin (http://www.autoitscript.com/forum/index.php?showtopic=19403) : this plugin allows you to open websites from the KeePass interface. It only opens in Internet Explorer though which is slightly odd.
+[KeeForm plugin](http://www.autoitscript.com/forum/index.php?showtopic=19403): this plugin allows you to open websites from the KeePass interface. It only opens in Internet Explorer though which is slightly odd.
 
 That’s all for now. I’ll let you know if I learn more fun stuff about it!
 

@@ -2,7 +2,7 @@
 title: "Great Content Is Like a Produce Stand in Paris"
 excerpt: "You're just another blog out there but with a little creativity and some care for the people coming through, you can be just what someone needs at just the right time."
 modified: 2019-08-10 22:44:03
-tags: ["Paris", "SEO", "Writing For The Web"]
+tags: ["Paris", "SEO", "Writing + Publishing"]
 featured_img: /_images/2011/10/paris_market-150x150.jpg
 wpid: 2080
 ---

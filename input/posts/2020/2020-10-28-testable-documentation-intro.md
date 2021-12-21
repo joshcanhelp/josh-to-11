@@ -1,7 +1,7 @@
 ---
 
 title: "Technical Research: Testable Documentation"
-tags: [ "Documentation", "Development", "Testing", "Auth0", "JavaScript"]
+tags: [ "Documentation", "Software Engineering", "Testing", "Auth0", "JavaScript"]
 featured_img: /_images/2020/11/IMG_4092-300x300.jpg
 excerpt: I've been thinking about documentation quite a bit lately, especially the code-centric type, and how to avoid punishing myself for spending time writing it. Here's the start of my research project to that end.
 

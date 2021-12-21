@@ -1,6 +1,6 @@
 ---
-title: "&quot;What is expected of a designer?&quot; on LinkedIn"
-excerpt: ""
+title: "\"What is expected of a designer\" on LinkedIn"
+excerpt: "I think a designer should be expected to think about the whole project: the medium, the message, the format, the audience, the technology, and the client. The closer the pieces of the project are to the design, the more they should know."
 modified: 2016-10-20 16:44:18
 tags: ["Design", "Social Media", "LinkedIn", "Personal Development"]
 featured_img:
@@ -18,11 +18,15 @@ So, first, the question:
 
 My response, verbatim, is this:
 
-*Designing without any concept of how the whole project comes together (think website or brochure or presentation) or what the limitations are (platform or budgetary or format) puts you at a total disadvantage. I’ve worked with designs from people who understand the web and from people who don’t and the difference, in both time and final product, is clear.*
+---
 
-*I think a designer should be expected to think about the whole project: the medium, the message, the format, the audience, the technology, and the client. The closer the pieces of the project are to the design, the more they should know. Should a front-end designer be fluent in SQL? It might make for an interesting combination but knowing the syntax isn’t going to make the site design better. Should the designer understand how the site is going to interact with the database? It’s not necessary but it might help them work better with the developer.*
+Designing without any concept of how the whole project comes together (think website or brochure or presentation) or what the limitations are (platform or budgetary or format) puts you at a total disadvantage. I’ve worked with designs from people who understand the web and from people who don’t and the difference, in both time and final product, is clear.
+
+I think a designer should be expected to think about the whole project: the medium, the message, the format, the audience, the technology, and the client. The closer the pieces of the project are to the design, the more they should know. Should a front-end designer be fluent in SQL? It might make for an interesting combination but knowing the syntax isn’t going to make the site design better. Should the designer understand how the site is going to interact with the database? It’s not necessary but it might help them work better with the developer.
 
 In short, a designer needs to see the big picture of what they are doing. Possessing incredible design skills is great but, without seeing how your creativity plugs into everything else, you’ll perpetually be at a disadvantage (and, potentially, be difficult to work with).
+
+---
 
 What do others have to say?
 

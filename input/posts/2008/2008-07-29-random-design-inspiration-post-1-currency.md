@@ -2,7 +2,7 @@
 title: "Random design inspiration post #1 - Currency"
 excerpt: "Pull a bill out and look at it really close. The detail is impressive and the layout is very interesting, particularly because it has a lot of limitations/requirements. "
 modified: 2016-04-03 02:33:18
-tags: ["Design", "Photoshop"]
+tags: ["Design"]
 featured_img: /_images/2008/07/currency04_pallet-150x150.jpg
 wpid: 42
 ---

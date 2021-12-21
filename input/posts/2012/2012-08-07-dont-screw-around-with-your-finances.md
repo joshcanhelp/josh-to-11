@@ -1,9 +1,8 @@
 ---
 title: "Don't Screw Around with Your Finances"
-excerpt: ""
+excerpt: "What if there was someone you could talk to for an hour and get definitive answers to the questions above and a lot more?"
 modified: 2016-10-20 16:44:00
-tags: ["Money"]
-featured_img:
+tags: []
 wpid: 3011
 ---
 

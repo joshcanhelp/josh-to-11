@@ -2,7 +2,7 @@
 title: "Web strategy and resources links for July 31st"
 excerpt: ""
 modified: 2016-10-20 16:44:18
-tags: ["CSS", "Design", "Social Media", "Web Strategy"]
+tags: ["Design", "Social Media", "Web Strategy"]
 featured_img:
 wpid: 973
 ---

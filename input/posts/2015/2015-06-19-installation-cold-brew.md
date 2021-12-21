@@ -2,7 +2,7 @@
 title: "Installation Cold Brew: Buzz King"
 excerpt: ""
 modified: 2016-01-19 04:20:04
-tags: ["Premium Consumption"]
+tags: ["Food + Drink"]
 featured_img: /_images/2015/06/IMG_3478-e1434732782486-150x150.jpg
 wpid: 119
 ---

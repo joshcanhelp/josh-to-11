@@ -2,7 +2,7 @@
 title: "Craigslist feeds blocked from Yahoo Pipes via 403 error"
 excerpt: "It looks like Yahoo Pipes, the incredibly amazing feed/data aggregator/sorter, is being blocked by Craigslist via a 403 Forbidden error."
 modified: 2016-10-20 16:44:19
-tags: ["Craigslist", "Yahoo", "Throwback"]
+tags: ["Throwback"]
 featured_img:
 wpid: 580
 ---

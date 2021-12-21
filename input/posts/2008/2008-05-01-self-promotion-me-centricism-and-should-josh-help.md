@@ -2,7 +2,7 @@
 title: "Self-Promotion, Me-Centricism, and Should Josh Help?"
 excerpt: "I have acquired a heavy pile of new books to certify myself in all things IT-related, an egotistical domain, and a sinking sensation that I might be going about this all the wrong way."
 modified: 2016-04-01 01:38:30
-tags: ["Personal Brand", "About JoshCanHelp"]
+tags: ["About JoshCanHelp"]
 featured_img:
 wpid: 21
 ---

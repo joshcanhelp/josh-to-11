@@ -2,7 +2,7 @@
 title: "Please, resize your pics, for the love of everything that's good!"
 excerpt: "This post goes out to the habitual offenders and for those who do it and do it right but want others to do the same."
 modified: 2016-04-01 04:03:11
-tags: ["Throwback", "Photoshop"]
+tags: ["Throwback"]
 featured_img: /_images/2008/05/flower_400x300-150x150.jpg
 wpid: 23
 ---

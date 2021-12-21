@@ -7,7 +7,6 @@ featured_img: /_images/2019/06/i-dont-know.png
 
 ---
 
-
 So, you want to be a generalist! **Great!** Generalists get better job offers, have secret powers, and are better than specialists. They also kill sales pipelines and and can’t be afforded.
 
 *Wait, what? I don’t want that.*

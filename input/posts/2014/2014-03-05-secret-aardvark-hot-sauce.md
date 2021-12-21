@@ -2,7 +2,7 @@
 title: "My Favorite Hot Sauce Ever ... This Month"
 excerpt: ""
 modified: 2016-01-19 04:20:04
-tags: ["Premium Consumption"]
+tags: ["Food + Drink"]
 featured_img: /_images/2014/03/IMG_2899-150x150.jpg
 link_to: https://secretaardvark.com/shop/sauce/aardvark-habanero-hot-sauce/
 wpid: 60

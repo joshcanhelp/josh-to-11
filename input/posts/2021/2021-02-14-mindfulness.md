@@ -1,7 +1,7 @@
 ---
 
 title: "Curiosity, Freedom, and Truth: My Path to Mindfulness"
-tags: ["Personal Development", "Mindfulness", "COVID-19"]
+tags: ["Personal Development", "COVID-19", "Focus"]
 featured_img: /_images/2021/san_juan_island_fence_THUMB.jpg
 excerpt: Despite still riding out this pandemic with young children, the last 5 months have been a different internal experience than any other I can remember because of mindfulness.
 

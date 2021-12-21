@@ -1,5 +1,5 @@
 ---
-title: "Excellent piece on quarantine coping and much more:"
+title: "Excellent piece on quarantine coping and much more"
 link_to: "https://longreads.com/2020/04/16/my-body-is-not-a-temple/"
 tags: [ "COVID-19" ]
 excerpt: "\"It’s emasculating, to feel like this — to be completely useless in the final analysis. For your only means of helping to be by doing nothing.\""
