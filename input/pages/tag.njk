@@ -25,8 +25,9 @@ permalink: /tag/{{ tag | slug }}/
       </div>
     </div>
 
-    {% set snippet %}{% include "../partials/tags/" + tag | slug + ".md" ignore missing %}{% endset %}
-    {% markdown snippet %}
+    {% markdown %}{%
+      include "../partials/tags/" + tag | slug + ".md" ignore missing
+    %}{% endmarkdown %}
 
     <p>
       <a href="/archives/tags/" class="tag">&lsaquo; All tags</a>
@@ -42,6 +43,6 @@ permalink: /tag/{{ tag | slug }}/
       <a href="/archives/tags/" class="tag">&lsaquo; All tags</a>
       <a href="/tag/{{ tag | slug }}/rss.xml" class="tag">RSS feed for this tag</a>
     </p>
-    
+
   </article>
 {% endblock %}

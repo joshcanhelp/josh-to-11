@@ -1,20 +1,32 @@
-const moment = require("moment");
-const htmlmin = require("html-minifier");
-const slugify = require("slugify");
-const markdown = require("markdown-it")({
-  html: true
-});
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
-moment.locale("en");
+const { htmlMinifier } = require("./eleventy/transforms");
+
+const {
+  allTags,
+  cocktailsNextCollection,
+  cocktailsMadeCollection,
+  ideasCollection,
+  postsCollection,
+  bestOfCollection,
+  sitemapCollection,
+  rssCollection,
+} = require("./eleventy/collections");
+
+const {
+  stripSquareBrackets,
+  makeSlug,
+  jsonStringify,
+  objectKeys,
+  dateformat,
+  markdownToSlides,
+} = require("./eleventy/filters");
+
+const { h2br, info, warning, caption, bigtext, markdownRender } = require("./eleventy/shortcodes");
 
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 module.exports = function (eleventyConfig) {
-  /*
-   * Configuration
-   */
-
   eleventyConfig.addPassthroughCopy({ images: "_images" });
   eleventyConfig.addPassthroughCopy({ html: "_html" });
 
@@ -30,214 +42,30 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.setUseGitIgnore(false);
 
-  /*
-   * Transforms
-   */
+  eleventyConfig.addTransform("htmlMinifier", htmlMinifier);
 
-  eleventyConfig.addTransform("htmlMinifier", function (content, outputPath) {
-    if (!outputPath.endsWith(".html")) {
-      return content;
-    }
+  eleventyConfig.addCollection("allTags", allTags);
+  eleventyConfig.addCollection("bestOfCollection", bestOfCollection);
+  eleventyConfig.addCollection("cocktailsMadeCollection", cocktailsMadeCollection);
+  eleventyConfig.addCollection("cocktailsNextCollection", cocktailsNextCollection);
+  eleventyConfig.addCollection("ideasCollection", ideasCollection);
+  eleventyConfig.addCollection("postsCollection", postsCollection);
+  eleventyConfig.addCollection("rssCollection", rssCollection);
+  eleventyConfig.addCollection("sitemapCollection", sitemapCollection);
 
-    if (process.env.NODE_ENV === "development") {
-      return content;
-    }
+  eleventyConfig.addFilter("dateformat", dateformat);
+  eleventyConfig.addFilter("json", jsonStringify);
+  eleventyConfig.addFilter("keys", objectKeys);
+  eleventyConfig.addFilter("markdownToSlides", markdownToSlides);
+  eleventyConfig.addFilter("slug", makeSlug);
+  eleventyConfig.addFilter("stripSquareBrackets", stripSquareBrackets);
 
-    return htmlmin.minify(content, {
-      useShortDoctype: true,
-      removeComments: true,
-      collapseWhitespace: true,
-    });
-  });
-
-  /*
-   * Collections
-   */
-
-  eleventyConfig.addCollection("rssCollection", function (collection) {
-    const tmpCollection = collection.getAllSorted();
-    return tmpCollection.reverse().filter(function (tpl) {
-      if (isPublishedPost(tpl.data) && !tpl.data.link_to) {
-        return true;
-      }
-    });
-  });
-
-  eleventyConfig.addCollection("sitemapCollection", function (collection) {
-    const tmpCollection = collection.getAllSorted();
-    return tmpCollection.reverse().filter(function (tpl) {
-      if (tpl.data.permalink && !tpl.data.hidden) {
-        return true;
-      }
-    });
-  });
-
-  eleventyConfig.addCollection("postsCollection", function (collection) {
-    const tmpCollection = collection.getAllSorted();
-    return tmpCollection.reverse().filter(function (tpl) {
-      if (isPublishedPost(tpl.data)) {
-        return true;
-      }
-    });
-  });
-
-  eleventyConfig.addCollection("bestOfCollection", function (collection) {
-    const tmpCollection = collection.getAllSorted();
-    return tmpCollection.reverse().filter(function (tpl) {
-      if (
-        isPublishedPost(tpl.data) &&
-        tpl.data.tags &&
-        tpl.data.tags.includes("Best Of")
-      ) {
-        return true;
-      }
-    });
-  });
-
-  eleventyConfig.addCollection("ideasCollection", function (collection) {
-    const tmpCollection = collection.getAllSorted();
-    return tmpCollection.reverse().filter(function (tpl) {
-      if ("idea" === tpl.data.layout) {
-        return true;
-      }
-    });
-  });
-
-  eleventyConfig.addCollection(
-    "cocktailsMadeCollection",
-    function (collection) {
-      return collection
-        .getAllSorted()
-        .filter((tpl) => {
-          if (
-            "cocktail" === tpl.data.layout &&
-            tpl.filePathStem.includes("/made/")
-          ) {
-            return true;
-          }
-        })
-        .sort(alphaSortTitle);
-    }
-  );
-
-  eleventyConfig.addCollection(
-    "cocktailsNextCollection",
-    function (collection) {
-      return collection
-        .getAllSorted()
-        .filter((tpl) => {
-          if (
-            "cocktail" === tpl.data.layout &&
-            tpl.filePathStem.includes("/next/")
-          ) {
-            return true;
-          }
-        })
-        .sort(alphaSortTitle);
-    }
-  );
-
-  const alphaSortTitle = (a, b) => {
-    if (a.data.title < b.data.title) return -1;
-    if (b.data.title > a.data.title) return 1;
-    return 0;
-  };
-
-  eleventyConfig.addCollection("allTags", function (collection) {
-    let allTags = [];
-
-    collection.getAllSorted().forEach(function (el) {
-      allTags = allTags.concat(el.data.tags);
-    });
-
-    let tagDict = {};
-    allTags.sort().forEach(function (el) {
-      if (el) {
-        tagDict[el] = tagDict[el] ? tagDict[el] + 1 : 1;
-      }
-    });
-
-    return tagDict;
-  });
-
-  /*
-   * Filters
-   */
-
-  eleventyConfig.addFilter("markdownToSlides", function (content) {
-    return content
-      .replace(/<h2>/g, "<section><section><h2>")
-      .replace(/<\/h2>/g, "</h2></section><section>")
-      .replace(/<hr>/g, "</section></section>");
-  });
-
-  eleventyConfig.addFilter("dateformat", function (dateIn) {
-    return moment(dateIn).format("MMM DD, YYYY");
-  });
-
-  eleventyConfig.addFilter("keys", function (data) {
-    return Object.keys(data);
-  });
-
-  eleventyConfig.addFilter("json", function (data) {
-    return JSON.stringify(data, null, 2);
-  });
-
-  eleventyConfig.addFilter("slug", function (text) {
-    return makeSlug(text);
-  });
-
-  eleventyConfig.addFilter("stripSquareBrackets", function (text) {
-    return text.replace(/\[\[/g, "").replace(/\]\]/g, "");
-  });
-
-  eleventyConfig.addFilter("tweetIdeaUrl", function (text) {
-    const tweetText = `Hey @joshcanhelp, I want ${text}! https://www.joshcanhelp.com/ideas#${makeSlug(
-      text
-    )}`;
-    return (
-      "https://twitter.com/intent/tweet?text=" + encodeURIComponent(tweetText)
-    );
-  });
-
-  /*
-   * Shortcodes
-   */
-
-  eleventyConfig.addPairedShortcode(
-    "h2br",
-    (text, anchor) =>
-      `<h2 class="hr" id="${anchor || makeSlug(text)}">
-      <span class="pink">&lt;</span>
-        ${text}
-      <span class="pink">&gt;</span>
-    </h2>`
-  );
-
-  eleventyConfig.addPairedShortcode(
-    "info",
-    (text) => `<blockquote class="info-block">${text}</blockquote>`
-  );
-
-  eleventyConfig.addPairedShortcode(
-    "warning",
-    (text) => `<blockquote class="warning-block">${text}</blockquote>`
-  );
-
-  eleventyConfig.addPairedShortcode(
-    "caption",
-    (text) => `<figcaption><em>${text}</em></figcaption>`
-  );
-
-  eleventyConfig.addPairedShortcode(
-    "bigtext",
-    (text) => `<p class="bigtext">${text}</p>`
-  );
-
-  eleventyConfig.addNunjucksShortcode(
-    "markdown",
-    content => markdown.render(content)
-  );
+  eleventyConfig.addPairedShortcode("h2br", h2br);
+  eleventyConfig.addPairedShortcode("info", info);
+  eleventyConfig.addPairedShortcode("warning", warning);
+  eleventyConfig.addPairedShortcode("caption", caption);
+  eleventyConfig.addPairedShortcode("bigtext", bigtext);
+  eleventyConfig.addPairedShortcode("markdown", markdownRender);
 
   return {
     dir: {
@@ -260,6 +88,3 @@ module.exports = function (eleventyConfig) {
     passthroughFileCopy: true,
   };
 };
-
-const isPublishedPost = (data) => data.permalink && "post" === data.layout;
-const makeSlug = (text) => slugify(text, { lower: true, strict: true });
