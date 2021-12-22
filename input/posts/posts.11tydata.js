@@ -12,18 +12,17 @@ console.log(data.page);
 
 module.exports = {
   eleventyComputed: {
-    permalink: data => {
+    permalink: (data) => {
       return data.page.fileSlug + "/index.html";
     },
     layout: "post",
     modified: "Last Modified",
-    date: data => {
+    date: (data) => {
       const { inputPath, fileSlug } = data.page;
       const inputPathParts = inputPath.split("/");
       const fileName = inputPathParts[inputPathParts.length - 1];
       const postDate = fileName.replace(`-${fileSlug}.md`, "");
-      return postDate + " 12:00:00"
-    }
-  }
+      return postDate + " 12:00:00";
+    },
+  },
 };
-
