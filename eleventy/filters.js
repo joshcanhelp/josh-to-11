@@ -19,6 +19,11 @@ const makeSlug = (text) => slugify(text);
 
 const stripSquareBrackets = (text) => text.replace(/\[\[/g, "").replace(/\]\]/g, "");
 
+const urlToDomain = (url) => {
+  const urlObject = new URL(url);
+  return urlObject.hostname;
+};
+
 module.exports = {
   stripSquareBrackets,
   makeSlug,
@@ -26,4 +31,5 @@ module.exports = {
   objectKeys,
   dateformat,
   markdownToSlides,
+  urlToDomain,
 };

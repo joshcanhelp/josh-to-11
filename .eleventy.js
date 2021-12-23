@@ -20,6 +20,7 @@ const {
   objectKeys,
   dateformat,
   markdownToSlides,
+  urlToDomain,
 } = require("./eleventy/filters");
 
 const { h2br, info, warning, caption, bigtext, markdownRender } = require("./eleventy/shortcodes");
@@ -59,6 +60,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("markdownToSlides", markdownToSlides);
   eleventyConfig.addFilter("slug", makeSlug);
   eleventyConfig.addFilter("stripSquareBrackets", stripSquareBrackets);
+  eleventyConfig.addFilter("domain", urlToDomain);
 
   eleventyConfig.addPairedShortcode("h2br", h2br);
   eleventyConfig.addPairedShortcode("info", info);

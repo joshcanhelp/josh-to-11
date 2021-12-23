@@ -13,15 +13,19 @@
     </div>
     {{ content | safe }}
 
-    {% h2br %}Take Action!{% endh2br %}
-
-    
-    {% if link_to %}
-    <p><a href="{{ link_to }}" class="tag" target="_blank" rel="noreferrer noopener">Go there &rsaquo;</a></p>
-    {% endif %}
+    <p>
+      <a href="/archives/all/" class="tag">&lsaquo; All Posts</a>
+      {% if link_to %}
+      <a href="{{ link_to }}" class="tag" target="_blank" rel="noreferrer noopener">
+        Go to {{ link_to | domain }} &rsaquo;
+      </a>
+      {% endif %}
+    </p>
 
     <p>
-      <a href="{{ metaData.gitHubLink(page) }}" class="tag" target="_blank" rel="noreferrer noopener">Suggest changes on GitHub &rsaquo;</a>
+      <a href="{{ metaData.gitHubLink(page) }}" class="tag" target="_blank" rel="noreferrer noopener">
+        Suggest changes on GitHub &rsaquo;
+      </a>
     </p>
 
     <p>
@@ -31,7 +35,7 @@
       <a href="mailto:josh@joshcanhelp.com?subject=Comment%20on%20{{ page.url }}" class="tag">Email &rsaquo;</a>
       <a href="{{ metaData.gitHubComment(page) }}" class="tag">GitHub &rsaquo;</a>
       {% if hn_link %}
-      <a href="{{ hn_link }}" class="tag" target="_blank" rel="noreferrer noopener">Hacker News &rsaquo;</a> 
+      <a href="{{ hn_link }}" class="tag" target="_blank" rel="noreferrer noopener">Hacker News &rsaquo;</a>
       {% endif %}
     <p>
 
