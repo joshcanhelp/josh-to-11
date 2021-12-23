@@ -8,7 +8,8 @@ wpid: 2402
 ---
 
 
-Let’s get right to the point: **you are not in a mainstream industry**. What you sell is very specific or not very exciting to talk about or reminds people of places they don’t want to be. What you do is not the center of attention at a party and you have to explain your service carefully, using layman’s terms that barely get the job done. Face it: you’re in a boring, niche, or unappealing industry. There’s good news, though: **social media doesn’t care**.  
+Let’s get right to the point: **you are not in a mainstream industry**. What you sell is very specific or not very exciting to talk about or reminds people of places they don’t want to be. What you do is not the center of attention at a party and you have to explain your service carefully, using layman’s terms that barely get the job done. Face it: you’re in a boring, niche, or unappealing industry. There’s good news, though: **social media doesn’t care**.
+
 ![social_media_is_for_everyone](/_images/2011/08/social_media_is_for_everyone.jpg)
 
 There’s this sentiment out there that only coolest businesses can join in the fun online. You’ve got to have wild pictures of amazing year-end parties or celebrity clients you can **Like**. There has to be some kind of shimmer to the work you do, you have to be deserving of attention already to get any of it on Facebook or anywhere else. This sentiment goes a long way towards convincing people that they’re not “worthy” of being listened to, which leads to a big hesitation to do any kind of online marketing.

@@ -69,5 +69,3 @@ And Notre Dame de Reims:
 This was, in every sense of the word, a great, great day. It’s hard to beat a beautiful, sunny afternoon in France sipping expensive adult beverages and learning about such a precise and completely irrational human endeavor. We had history, exercise, bubbly beverages, knowledge, and excellent company. I think back to when we were planning this little day trip and I was whining about the cost of the train tickets and the cost of the tour and how much I had to do. To think I wouldn’t have this great day to look back on prepares me to re-think any apprehension I might have in the future towards such a unique experience.
 
 This trip has definitely changed me for the better. I guess that’s probably why people travel.
-
-[**More photos here**](http://www.facebook.com/album.php?aid=216622&id=588768836&l=4048dc5bb1)
