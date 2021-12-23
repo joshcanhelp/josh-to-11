@@ -11,38 +11,22 @@
         <h1>{{ title }}</h1>
       </div>
     </div>
+
     {{ content | safe }}
 
     <p>
       <a href="/archives/all/" class="tag">&lsaquo; All Posts</a>
-      {% if link_to %}
-      <a href="{{ link_to }}" class="tag" target="_blank" rel="noreferrer noopener">
-        Go to {{ link_to | domain }} &rsaquo;
-      </a>
-      {% endif %}
     </p>
 
-    <p>
-      <a href="{{ metaData.gitHubLink(page) }}" class="tag" target="_blank" rel="noreferrer noopener">
-        Suggest changes on GitHub &rsaquo;
-      </a>
-    </p>
+    {% h2br %}Take Action{% endh2br %}
+
+    {% include "partials/content-footer.njk" %}
+
+    <h6 class="sub-head">
+      <span>Subscribe via:</span>
+    </h6>
 
     <p>
-      <h6 class="sub-head">
-        <span>Comment via:</span>
-      </h6>
-      <a href="mailto:josh@joshcanhelp.com?subject=Comment%20on%20{{ page.url }}" class="tag">Email &rsaquo;</a>
-      <a href="{{ metaData.gitHubComment(page) }}" class="tag">GitHub &rsaquo;</a>
-      {% if hn_link %}
-      <a href="{{ hn_link }}" class="tag" target="_blank" rel="noreferrer noopener">Hacker News &rsaquo;</a>
-      {% endif %}
-    <p>
-
-    <p>
-      <h6 class="sub-head">
-        <span>Subscribe via:</span>
-      </h6>
       <a href="/rss.xml" class="tag">RSS &rsaquo;</a>
       <a href="https://twitter.com/joshcanhelp" class="tag">Twitter &rsaquo;</a>
       <a href="https://github.com/joshcanhelp/josh-to-11/watchers" class="tag">GitHub &rsaquo;</a>
@@ -51,9 +35,7 @@
     {% set previousPost = collections.postsCollection | getPreviousCollectionItem(page) %}
     {% set nextPost = collections.postsCollection | getNextCollectionItem(page) %}
 
-    {% if previousPost or nextPost or tags %}
-      {% h2br %}Read More{% endh2br %}
-    {% endif %}
+    {% h2br %}Read More{% endh2br %}
 
     {% if tags | length %}
       <h6 class="sub-head">

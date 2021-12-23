@@ -4,6 +4,7 @@ excerpt: "After reading several articles and a great book, Deep Work by Cal Newp
 modified: 2016-12-08 21:16:02
 tags: ["Personal Development", "Social Media", "Focus", "Twitter"]
 featured_img: /_images/2016/12/focus-150x150.png
+hn_link: https://news.ycombinator.com/item?id=13134394
 wpid: 4694
 ---
 
@@ -192,12 +193,12 @@ Thank you for reading!
 I was recently asked for an update on how all this was going now. I was a little worried that maybe I had thrown everything out the window and was now back to being an unfocused mess. Turns out ... a global health crisis and young kids at home means you focus or you _die trying_. Here's what my focus life is like these days:
 
 - The major change is a full-time job with a single company. When I wrote this I was doing freelance development for a number of clients so my days were often spent rushing from this half hour billable task to the next. I also did not enjoy what I was doing nearly as much as I do now. Loving what you do, what you actually spend your time each day doing, has no substitute.
-- That said, 99% all of my professional communication happens in Slack, which is a beast to tame. I leave it off as much of the day as I can (open, reply or save for later, then close), use emojis in place of words as much as possible, and keep notifications off for the most part. It is not currently and will not ever be installed on my phone. 
+- That said, 99% all of my professional communication happens in Slack, which is a beast to tame. I leave it off as much of the day as I can (open, reply or save for later, then close), use emojis in place of words as much as possible, and keep notifications off for the most part. It is not currently and will not ever be installed on my phone.
 - I've quit (or quit using) all social networks (more on the latest one [here](/tag/twitter/)) for various reasons. I end up on Hacker News more often than ever but that only takes up a few minutes for a few times each day. I do not miss any of them at all.
-- I still have a morning routine but it changes regularly and I'm not extremely rigid. I try to [meditate](/mindfulness) each morning for 10-20 minutes (I am less regular that I used to be), I focus on coffee/water/breakfast and keep my phone off for the first part of each day, and I make it a point to pick the ~2 main tasks that I expect to get done each day before I start. 
+- I still have a morning routine but it changes regularly and I'm not extremely rigid. I try to [meditate](/mindfulness) each morning for 10-20 minutes (I am less regular that I used to be), I focus on coffee/water/breakfast and keep my phone off for the first part of each day, and I make it a point to pick the ~2 main tasks that I expect to get done each day before I start.
 - I keep [Roam Research](https://roamresearch.com/) open to collect thoughts, notes, tasks throughout the day. Taking notes while working definitely improves my focus on the task at hand and has the added benefits of [producing artifacts](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing).
-- I still listen to mostly-nameless music on Spotify and Brain.fm. If you ask me who my favorite artists are, you'll get a list from about a decade ago, none of which cross my ears regularly. Except [Robotaki](https://open.spotify.com/artist/5ar4zFgUQG1RsH8nhmjOeM?si=yV5fWZL2SpSlQbhaeWkbUw), who is both fantastic _and_ relevant. 
-- No fasting but lots of water. Still no notifications but everything is back to color (such a waste to have such a beautiful display in black and white). A clean desk is still critical. 
+- I still listen to mostly-nameless music on Spotify and Brain.fm. If you ask me who my favorite artists are, you'll get a list from about a decade ago, none of which cross my ears regularly. Except [Robotaki](https://open.spotify.com/artist/5ar4zFgUQG1RsH8nhmjOeM?si=yV5fWZL2SpSlQbhaeWkbUw), who is both fantastic _and_ relevant.
+- No fasting but lots of water. Still no notifications but everything is back to color (such a waste to have such a beautiful display in black and white). A clean desk is still critical.
 
-Overall, I'm just much better at noticing when I'm distracted, checking in with myself to see if it's systematic (need food, water, walk, break, nap, sun, etc.), trying again (turning everything off, turn on focus music, pick the task, and shut everything else down), and giving up when I know it's not worth it to push too hard. 
+Overall, I'm just much better at noticing when I'm distracted, checking in with myself to see if it's systematic (need food, water, walk, break, nap, sun, etc.), trying again (turning everything off, turn on focus music, pick the task, and shut everything else down), and giving up when I know it's not worth it to push too hard.
 
