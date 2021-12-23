@@ -7,9 +7,10 @@ permalink: "asynchronous-communication/index.html"
 
 ---
 
-I've been maintaining this list privately for a while but wanted to get it out in the world to potentially spark some collaboration, communication, and [writing](/tag/async-communication/). Who knows?
+I've been maintaining this list privately for a while but wanted to get it out in the world to potentially spark some collaboration, communication, and [writing](/tag/async-communication/).
 
 ## Why does this need to be considered?
+
 - Asynchronous communication is primarily written communication ([The Future of Work is Written](https://increment.com/remote/future-of-work-is-written/)) but goes beyond that
 	- Audio
 	- Video
