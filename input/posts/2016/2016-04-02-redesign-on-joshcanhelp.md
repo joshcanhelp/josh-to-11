@@ -50,6 +50,6 @@ What’s next? Well, let me consult my overly-ambitious Trello list of internal 
 - Add technology tags with a filter on my work section; make that all AJAX-y
 - Switch commenting to be on-page without reloading (considering React for this since I’m moving in that direction but probably overkill unless I’m using it everywhere else)
 - Finish the 4 posts that have been sitting as drafts for a while
-- Turn [this post](/ideas-1/) into a React-powered votable list using [Airtable](https://airtable.com/) (amazing piece of software)
+- Turn [this page](/ideas/) into a React-powered votable list using [Airtable](https://airtable.com/) (amazing piece of software)
 
 I’ll just knock all that out this weekend.

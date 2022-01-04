@@ -63,7 +63,7 @@ Once again, back to the house metaphor. Your site is the house itself, the thing
 
 A few talking points about web sites:
 
-**Be careful who you hire:** I’ve seen some scary websites over the years. Though much of this comes from designers who don’t care or don’t know better, it’s up to you to pick the right one. Ask about valid code (I do it), ask if they use CSS ([I use it](/tag/css)), and ask them what they think about web standards (a great idea but nothing is perfect). If they look at you funny, run away.
+**Be careful who you hire:** I’ve seen some scary websites over the years. Though much of this comes from designers who don’t care or don’t know better, it’s up to you to pick the right one. Ask about valid code (I write it), ask if they use CSS (I use it), and ask them what they think about web standards (a great idea but nothing is perfect). If they look at you funny, run away.
 
 **Flashy doesn’t mean effective:** For as many awful sites as I’ve seen, I’ve also seen a lot of very cool ones that aren’t doing anything. Paying $10K for a cutting edge, beautiful site doesn’t mean anything is going to come of it. Be clear on your goals and make sure the visuals contribute to them.
 

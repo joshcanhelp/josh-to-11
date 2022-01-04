@@ -9,13 +9,23 @@
   status = 301
 
 [[redirects]]
+  from = "docs/*"
+  to = "/_files/:splat"
+  status = 301
+
+[[redirects]]
+  from = "downloads/*"
+  to = "/_files/:splat"
+  status = 301
+
+[[redirects]]
   from = "/work"
-  to = "/archives/all/"
+  to = "/posts/"
   status = 301
 
 [[redirects]]
   from = "/feed"
-  to = "/archives/all/"
+  to = "/posts/"
   status = 301
 
 [[redirects]]
@@ -35,7 +45,17 @@
 
 [[redirects]]
   from = "/type/*"
-  to = "/archives/all/"
+  to = "/posts/"
+  status = 301
+
+[[redirects]]
+  from = "/archives/tags/"
+  to = "/tags/"
+  status = 301
+
+[[redirects]]
+  from = "/archives/all/"
+  to = "/posts/"
   status = 301
 
 [[redirects]]

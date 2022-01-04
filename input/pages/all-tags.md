@@ -1,7 +1,7 @@
 ---
 title: "All Tags"
-permalink: archives/tags/index.html
+permalink: tags/index.html
 layout: "layouts/all-tags.njk"
 ---
 
-Also see [All Posts](/archives/all) and [All Ideas](/ideas).
+Also see [All Posts](/posts/) and [All Ideas](/ideas/).

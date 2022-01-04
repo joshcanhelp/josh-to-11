@@ -12,17 +12,6 @@ ExpiresByType application/x-shockwave-flash "access plus 2 weeks"
 RewriteCond %{HTTPS} !^on$
 RewriteRule (.*) https://%{HTTP_HOST}/$1 [R,L]
 
-RewriteBase /
-
-RewriteRule ^docs(.*)$ /_files$1 [L,R=301]
-RewriteRule ^downloads(.*)$ /_files$1 [L,R=301]
-RewriteRule ^category(.*)$ /tag$1 [L,R=301]
-RewriteRule ^wp-content/uploads/(.*)$ /_images/$1 [L,R=301]
-RewriteRule ^work /archives/all [L,R=301]
-RewriteRule ^contact / [L,R=301]
-RewriteRule ^type/(.*)$ /archives/all [L,R=301]
-RewriteRule ^resume$ https://www.linkedin.com/in/joshcanhelp/ [L,R=302]
-
 ErrorDocument 404 /404/index.html
 
 # php -- BEGIN cPanel-generated handler, do not edit
