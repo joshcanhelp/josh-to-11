@@ -11,15 +11,15 @@ wpid: 3794
 
 Inspired by [this](https://nownownow.com/about).
 
-### 1/5/2022
+{% h2br %}2022-1-5{% endh2br %}
 
 I formally published my [library of cocktails](/cocktails/) along with [a guide on custom content type collections](eleventy-custom-content-type-collections) in [Eleventy](/tag/eleventy/). Over the last 2 years I've grown much more familiar with, and fond of, Eleventy and all it has to offer. I'm starting to dial in my personal knowledge base and publishing systems while making more time to [take notes](/notes/) and process information. Part of me feels like this could be a big rabbit hole but the practice has, so far, felt like a good use of time and a way to make connections that I otherwise would not have made. 
 
-### 1/4/2022
+{% h2br %}2022-1-4{% endh2br %}
 
 I just updated the [About Me page](/about/) with a few things I'm thinking about lately. I've been writing a lot more everywhere and trying to work in public a bit more. Part of that is more frequent updates here.
 
-### 12/12/2021
+{% h2br %}2021-12-12{% endh2br %}
 
 I can say, without hesitation, that *this* now is better than the *last* now. 
 
@@ -31,7 +31,7 @@ On the side, I've been thinking about and working on getting our digital archive
 
 I've also been working on my physical health by making some diet changes and focusing on getting exercise more often, in any form. I use an Oura ring to remind me to take breaks, keep my activity level up, and shame me for not focusing on my sleep. With all of this thinking and planning comes with, of course, the actual behavior change itself, which is the main challenge. I keep coming back to [my thoughts in 2019 about experiments](/improvement-as-experimentation/) instead of trying (and failing) to just will myself to change. 
 
-### 5/17/2020
+{% h2br %}2020-5-17{% endh2br %}
 
 Oh man ... now. Now is weird and hard. 
 
@@ -45,7 +45,7 @@ I've been writing a lot, both in a journal and on a blog. I take a lot of phone 
 
 I miss the gym and breweries and breaks from the kids and eating out with my wife and friends and family and the library and so so many things. We're doing our part with once-weekly grocery trips, wearing masks, and staying isolated. We've had some really great bonding time together, though, and are able to stay employed doing jobs we love and are challenged by. It's hard but it could be worse.
 
-### 7/19/2018
+{% h2br %}2018-7-19{% endh2br %}
 
 After reducing all of the professional clutter – trading it in for a “real job” I’m quite fond of – I started concentrating on the material and digital clutter around me. I’ve gotten rid of around half of the stuff I used to keep in my office and I’ll do another half more before the year is out. If this form of obsession appeals to you, I’d recommend [Marie Kondo’s first book](https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308/ref=sr_1_1).
 
@@ -55,7 +55,7 @@ I joined a fantastic company called [Auth0](https://auth0.com) in January of 201
 
 I’m working less with WordPress and more with [vanilla PHP](https://github.com/joshcanhelp/auth0-php-test) and [Node](https://github.com/joshcanhelp/repos-to-csv). I’m also picking up [Ruby](https://github.com/joshcanhelp/auth0-ruby-basic), writing [tons of documentation](https://github.com/auth0/docs/commits/master?author=joshcanhelp), and [solving](https://wordpress.org/support/users/auth0josh/) [problems](https://community.auth0.com/u/josh.cunningham/summary). I miss SCSS and UI/UX but not SEO, analytics, or PhotoShop.
 
-### 6/30/2017
+{% h2br %}2017-6-30{% endh2br %}
 
 Right now my focus is paring down. I sold my WP product business … not taking on any new client projects … archived most of the things I had on my list to work on.
 
