@@ -1,6 +1,7 @@
 const fs = require("fs");
 
 module.exports = {
+  layout: "cocktail",
   eleventyComputed: {
     ingredients: async (data) => {
       const filePath = data.page.inputPath.replace("./_content/cocktails", __dirname);
@@ -9,7 +10,6 @@ module.exports = {
       const ingredientsFlat = [...new Set([...ingredients].flat(10))];
       return ingredientsFlat.map((ingredient) => ingredient.replace("[[", "").replace("]]", ""));
     },
-    layout: "cocktail",
     title: (data) => data.page.fileSlug,
     metaTitle: (data) => data.page.fileSlug + " Cocktail Recipe",
     contentPrepend: (data) =>
