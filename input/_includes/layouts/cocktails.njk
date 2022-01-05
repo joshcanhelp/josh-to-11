@@ -1,6 +1,15 @@
 {% extends "_html.njk" %}
 
-{% from "macros/cocktailListing.njk" import cocktailListing %}
+{% macro cocktailListing(post) %}
+  {% if post.data.permalink %}
+    <div class="card-small">
+        <h3>
+          <a href="{{ post.url | safe }}">{{ post.data.title | safe }}</a>
+        </h3><br>
+        <p class="display-tags"><span>{{post.data.ingredients.join("</span> <span>") | safe}}</span></p>
+      </div>
+  {% endif %}
+{% endmacro %}
 
 {% block content %}
   <article>
