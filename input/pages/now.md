@@ -15,6 +15,8 @@ Inspired by [this](https://nownownow.com/about).
 
 I formally published my [library of cocktails](/cocktails/) along with [a guide on custom content type collections](eleventy-custom-content-type-collections) in [Eleventy](/tag/eleventy/). Over the last 2 years I've grown much more familiar with, and fond of, Eleventy and all it has to offer. I'm starting to dial in my personal knowledge base and publishing systems while making more time to [take notes](/notes/) and process information. Part of me feels like this could be a big rabbit hole but the practice has, so far, felt like a good use of time and a way to make connections that I otherwise would not have made. 
 
+Publishing a big list of cocktails right now is funny timing as I stopped drinking for ~1 year starting 2021-12-20. This is partly an experiment and partly because it just feels like the right thing to do after 2 years of [COVID](/tag/covid-19) YOLO.
+
 {% h2br %}2022-1-4{% endh2br %}
 
 I just updated the [About Me page](/about/) with a few things I'm thinking about lately. I've been writing a lot more everywhere and trying to work in public a bit more. Part of that is more frequent updates here.
