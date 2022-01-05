@@ -8,12 +8,12 @@ featured_img: /_images/2020/02/IMG_2468-150x150.jpg
 ---
 
 
-For someone who likes to write, I don’t blog here a lot. I log in now and then, gasp at the number of spam comment that have piled up, maybe add or update a draft or two, then then let my session expire. Maybe it’s because I write a lot at work? Or maybe I don’t think I have much to share with the world at large? It’s hard to say.
+For someone who likes to write, I didn’t blog here a lot over the last 2 years. I logged into the wp-admin now and then, gasp at the number of spam comment that have piled up, maybe add or update a draft or two, then then let my session expire. Maybe it’s because I write a lot at work? Or maybe I don’t think I have much to share with the world at large? It’s hard to say.
 
 <img src="/_images/2020/02/IMG_2468-700x469.jpg" class="aligncenter" alt="Mechanical keyboard">
 {% caption %}Clackity clack{% endcaption %}
 
-One thing is for sure, though. This site does not accurately reflect who I am professionally and drawing any additional attention here feels disingenuous at best. I’m not a “WordPress guy” anymore and I’m not a freelancer either. The things I’ve built in the past are not the same things I’m building now. I don’t need a place to “showcase my work,” that’s what GitHub does for me these days.
+One thing is for sure, though. This site did not accurately reflect who I am professionally and drawing any additional attention here recently felt disingenuous at best. I’m not a “WordPress guy” anymore and I’m not a freelancer either. The things I’ve built in the past are not the same things I’m building now. I don’t need a place to “showcase my work,” that’s what GitHub does for me these days.
 
 I wanted to get away from plugin updates, core updates, spam comments, logins, themes, and everything else that was such a large part of my life as a developer for so long. I started to think about what I really needed out of my site:
 
@@ -146,6 +146,10 @@ foreach( $posts as $post ) {
 }
 ```
 
+{% info %}
+I originally defined the permalink in each post and page file but found that this was duplicating what I was using in my file names so I switched to using a [template data file](https://www.11ty.dev/docs/data-template-dir/) to generate that from the file slug. [See the code here](https://github.com/joshcanhelp/josh-to-11/blob/master/input/posts/posts.11tydata.js).
+{% endinfo %}
+
 #### `layout`
 
 This determines what template will used when compiling. As I mentioned above, I added layout aliases to Eleventy so I could just use a word like `post` or `page` and the appropriate layout file would be used. It also makes it easy to change the file location at some point in the future and only making the change once.
@@ -207,6 +211,10 @@ module.exports = function(eleventyConfig) {
 	// ...
 };
 ```
+
+{% info %}
+Similar to the permalink, I switched to using a [template data file](https://www.11ty.dev/docs/data-template-dir/) to generate that from the file slug. [See the code here](https://github.com/joshcanhelp/josh-to-11/blob/master/input/posts/posts.11tydata.js).
+{% endinfo %}
 
 #### The rest
 
@@ -432,7 +440,9 @@ I would **highly** recommend trying this out if you're just getting started with
 
 {% h2br %}Resources / References{% endh2br %}
 
-- [WP-CLI script to convert your WordPress content to Markdown](https://github.com/joshcanhelp/wordpress-to-markdown)
+- [This blog on GitHub](https://github.com/joshcanhelp/josh-to-11)
+- [My WP-CLI script to convert your WordPress content to Markdown](https://github.com/joshcanhelp/wordpress-to-markdown)
 - [Eleventy project built from the WP Theme Unit Test content](https://github.com/joshcanhelp/wordpress-to-11ty)
 - [A fine post by @efjspencer about a difference approach to the same problem](https://edspencer.me.uk/posts/2019-10-16-migrating-from-wordpress-to-eleventy/)
 - [WP-CLI Commands Cookbook](https://make.wordpress.org/cli/handbook/commands-cookbook/)
+- [Run-down of the data cascade in Eleventy](https://benmyers.dev/blog/eleventy-data-cascade/) - this is one of the most confusing things to learn in Eleventy and this post does a great job of laying it all out.

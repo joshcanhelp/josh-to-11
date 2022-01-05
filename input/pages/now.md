@@ -11,6 +11,10 @@ wpid: 3794
 
 Inspired by [this](https://nownownow.com/about).
 
+### 1/5/2022
+
+I formally published my [library of cocktails](/cocktails/) along with [a guide on custom content type collections](eleventy-custom-content-type-collections) in [Eleventy](/tag/eleventy/). Over the last 2 years I've grown much more familiar with, and fond of, Eleventy and all it has to offer. I'm starting to dial in my personal knowledge base and publishing systems while making more time to [take notes](/notes/) and process information. Part of me feels like this could be a big rabbit hole but the practice has, so far, felt like a good use of time and a way to make connections that I otherwise would not have made. 
+
 ### 1/4/2022
 
 I just updated the [About Me page](/about/) with a few things I'm thinking about lately. I've been writing a lot more everywhere and trying to work in public a bit more. Part of that is more frequent updates here.
