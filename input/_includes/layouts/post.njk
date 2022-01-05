@@ -12,6 +12,10 @@
       </div>
     </div>
 
+    {% if contentPrepend %}
+    {% info %}{{ contentPrepend | safe }}{% endinfo %}
+    {% endif %}
+
     {{ content | safe }}
 
     {% h2br %}Take Action{% endh2br %}
