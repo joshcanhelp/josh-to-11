@@ -19,7 +19,7 @@ module.exports = {
   modified: "Last Modified",
   eleventyComputed: {
     permalink: (data) => {
-      return data.page.fileSlug + "/index.html";
+      return data.permalink || data.page.fileSlug + "/index.html";
     },
     eleventyExcludeFromCollections: isDraft,
     date: (data) => {
