@@ -10,14 +10,22 @@ console.log(data.page);
 }
 */
 
+const { dateformat } = require("../../eleventy/filters");
+
+const isDraft = (data) => data.page.fileSlug.split("-")[0] === "DRAFT";
+
 module.exports = {
+  layout: "post",
+  modified: "Last Modified",
   eleventyComputed: {
     permalink: (data) => {
       return data.page.fileSlug + "/index.html";
     },
-    layout: "post",
-    modified: "Last Modified",
+    eleventyExcludeFromCollections: isDraft,
     date: (data) => {
+      if (isDraft(data)) {
+        return dateformat(new Date(0)) + " 12:00:00";
+      }
       const { inputPath, fileSlug } = data.page;
       const inputPathParts = inputPath.split("/");
       const fileName = inputPathParts[inputPathParts.length - 1];
