@@ -21,8 +21,11 @@ module.exports = {
     permalink: (data) => {
       return data.permalink || data.page.fileSlug + "/index.html";
     },
-    eleventyExcludeFromCollections: isDraft,
+    eleventyExcludeFromCollections: (data) => data.eleventyExcludeFromCollections || isDraft,
     date: (data) => {
+      if (data.date) {
+        return data.date;
+      }
       if (isDraft(data)) {
         return dateformat(new Date(0)) + " 12:00:00";
       }
