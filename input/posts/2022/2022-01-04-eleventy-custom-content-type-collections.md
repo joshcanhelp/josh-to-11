@@ -159,6 +159,6 @@ I used what I learned to [dynamically handle some of the post data](https://gith
 
 - [The full list of cocktails](/cocktails/) and [my favorite](http://localhost:8080/cocktails/vaquero/)
 - [PR to add this whole system](https://github.com/joshcanhelp/josh-to-11/pull/27/files) and the [PR to add all the recipes](https://github.com/joshcanhelp/josh-to-11/pull/28/files)
-- [Eleventy docs on template data files](https://www.11ty.dev/docs/data-template-dir/))
-- [Eleventy docs on collections](https://www.11ty.dev/docs/collections/))
+- [Eleventy docs on template data files](https://www.11ty.dev/docs/data-template-dir/)
+- [Eleventy docs on collections](https://www.11ty.dev/docs/collections/)
 - [Run-down of the data cascade in Eleventy](https://benmyers.dev/blog/eleventy-data-cascade/)
