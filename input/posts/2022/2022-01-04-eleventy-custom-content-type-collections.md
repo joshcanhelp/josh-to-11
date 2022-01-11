@@ -56,7 +56,7 @@ I set the `layout` to `"cocktail"` for everything in that directory and added [t
 
 So, we have a valid layout alias, content to work with, a layout to display that content, and a data file to tie it all together. Now it's time for the `eleventyComputed` magic!
 
-The easiest was the `title` and `metaTitle`. Those both come mostly as-is from the file name: 
+The easiest was the `title` and `meta_title`. Those both come mostly as-is from the file name: 
 
 ```js
 // input/cocktails/cocktails.11tydata.js
@@ -65,7 +65,7 @@ module.exports = {
 	// ... 
 	eleventyComputed: {
 		title: (data) => data.page.fileSlug,
-		metaTitle: (data) => data.page.fileSlug + " Cocktail Recipe",
+		meta_title: (data) => data.page.fileSlug + " Cocktail Recipe",
 		// ... 
 	}
 };

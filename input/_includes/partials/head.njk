@@ -14,14 +14,14 @@
 <meta name="twitter:domain" content="Josh Can Help">
 <meta name="twitter:site" content="@joshcanhelp">
 
-{% set titleTag = metaTitle or title %}
+{% set titleTag = meta_title or title %}
 {% if titleTag %}
   <title>{{ titleTag }} - Josh Can Help</title>
   <meta property="og:title" content="{{ titleTag }}">
   <meta name="twitter:title" content="{{ titleTag }}">
 {% endif %}
 
-{% set description = metaDescription or excerpt %}
+{% set description = meta_description or excerpt %}
 {% if description %}
   <meta name="description" content="{{ description }}">
   <meta name="twitter:description" content="{{ description }}">

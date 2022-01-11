@@ -11,7 +11,7 @@ module.exports = {
       return ingredientsFlat.map((ingredient) => ingredient.replace("[[", "").replace("]]", ""));
     },
     title: (data) => data.page.fileSlug,
-    metaTitle: (data) => data.page.fileSlug + " Cocktail Recipe",
+    meta_title: (data) => data.page.fileSlug + " Cocktail Recipe",
     contentPrepend: (data) =>
       data.page.filePathStem.includes("/made/") ? "I Have Made This" : "I Have Not Made This Yet",
     permalink: (data) =>
