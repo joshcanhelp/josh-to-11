@@ -1,6 +1,6 @@
 ---
 title: "JoshCanHelp - Software, Digtial Identity, Mindfulness, Focus, and Personal Improvement"
-layout: page
+layout: layouts/home-page.njk
 excerpt: ""
 date: 2016-03-17 15:00:16
 modified: 2020-01-19 22:06:07

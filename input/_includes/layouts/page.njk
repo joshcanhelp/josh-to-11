@@ -4,16 +4,8 @@
 
 {% block content %}
 <article>
-  {% if page.fileSlug === 'home-page' %}
-    {{ content | safe }}
-    {% h2br %}Best Of Posts{% endh2br %}
-    {% for post in collections.bestOfCollection %}
-      {{ postListing(post, true) }}
-    {% endfor %}
-    <p><a class="tag" href="/posts/">All posts &rsaquo;</a></p>
-  {% else %}
-    <div class="title"><h1>{{ title }}</h1></div>
-    {{ content | safe }}
-  {% endif %}
+  <div class="title"><h1>{{ title }}</h1></div>
+
+  {{ content | safe }}
 </article>
 {% endblock %}
