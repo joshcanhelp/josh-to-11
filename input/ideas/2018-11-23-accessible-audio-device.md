@@ -1,9 +1,5 @@
 ---
-
 title: "Accessible audio device"
-layout: idea
-date: 2018-11-23
-
 ---
 
 An audio book device for children, people with disabilities, and the elderly. Concentrate on extremely easy navigation and content discovery. Both audio and physical controls.

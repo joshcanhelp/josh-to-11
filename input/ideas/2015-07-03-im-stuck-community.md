@@ -1,9 +1,5 @@
 ---
-
 title: "I’m Stuck: a community to help you find your way out"
-layout: idea
-date: 2015-07-03
-
 ---
 
 I find myself in familiar "stuck" places regularly:

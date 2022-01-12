@@ -1,9 +1,5 @@
 ---
-
 title: "Central feed for writers of all kinds"
-layout: idea
-date: 2021-03-06
-
 ---
 
 An app, mostly automated, for writers to collect their published works from all sources. 
