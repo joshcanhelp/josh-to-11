@@ -4,7 +4,17 @@
 
 {% block content %}
 <article>
-  <div class="title"><h1>{{ title }}</h1></div>
+  <div class="post-header">
+      <p class="date">
+        <a href="/">Home</a>
+        {% if updated %}
+        &rsaquo; <span>Updated {{ updated | dateformat }}</span>
+        {% endif %}
+      </p>
+      <div class="title">
+        <h1>{{ title }}</h1>
+      </div>
+    </div>
 
   {{ content | safe }}
 </article>
