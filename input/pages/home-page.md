@@ -14,4 +14,4 @@ wpid: 3820
 
 I’ve been working on the web since 2007 as an engineer, designer, strategist, user interface consultant, team lead, project manager, and product builder. I’ve been working IRL since 2010 as a husband and since 2013 as a dad.
 
-{% include partials/find-me.html %}
+{% include "partials/find-me.html" %}

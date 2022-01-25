@@ -96,7 +96,7 @@ Everything between the pointer fingers is the procesed HTML.
 
 👇👇👇
 
-{% include partials/sample-1-use-module.html %}
+{% include "partials/sample-1-use-module.html" %}
 
 👆👆👆
 
