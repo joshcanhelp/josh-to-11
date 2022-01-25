@@ -25,7 +25,7 @@ But the content that made up these recipes was a bit different:
 
 This, as well as the URL, all needed to be built programmatically so I wouldn't have to maintain any of those data blocks. I was also hoping I'd find a way to manage my post dates and URLs using their file name instead of explicitly in the front matter.
 
-If you've worked in [WordPress](/tags/wordpress/) before then you're probably familiar with the concept of [custom post types](https://wordpress.org/support/article/post-types/#custom-post-types). These are developer-defined content types that can be edited and themed differently than the built-in posts and pages. They're great for unique content types like the ones I'm working with here and created the model that I needed in my head:
+If you've worked in [WordPress](/tag/wordpress/) before then you're probably familiar with the concept of [custom post types](https://wordpress.org/support/article/post-types/#custom-post-types). These are developer-defined content types that can be edited and themed differently than the built-in posts and pages. They're great for unique content types like the ones I'm working with here and created the model that I needed in my head:
 
 - I needed a single template file for individual content pieces of this type
 - I needed a page where they aggregate
