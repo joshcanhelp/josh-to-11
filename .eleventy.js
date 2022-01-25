@@ -28,8 +28,11 @@ const { h2br, info, warning, caption, bigtext, markdownRender } = require("./ele
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy({ images: "_images" });
-  eleventyConfig.addPassthroughCopy({ html: "_html" });
+  eleventyConfig.addPassthroughCopy({ 
+    images: "_images",
+    html: "_html",
+    "images/favicon": "/",
+  });
 
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginRss);
@@ -78,14 +81,11 @@ module.exports = function (eleventyConfig) {
       "md",
       "html",
       "txt",
-      "ico",
-      "png",
-      "jpg",
-      "gif",
       "htaccess",
       "pdf",
       "toml",
       "njk",
+      "webmanifest",
     ],
     passthroughFileCopy: true,
   };
