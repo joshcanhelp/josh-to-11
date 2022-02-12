@@ -16,13 +16,19 @@ const DEFAULT_THUMB = IMAGE_PATH + "default-thumb.png";
 
 module.exports = {
   helpers: {
-    getPostFileName: (locals) => {
+    getPostFileName: (locals, yearFolder = false) => {
       if (locals.isDraft === "yes") {
         return `DRAFT-${locals.permalink ? locals.permalink : uuidv4() }`;
       }
 
       const permalink = locals.permalink || paramCase(locals.title);
-      return `${getYear}/${getDate}-${permalink}`;
+      let postYear = getYear;
+      let postDate = getDate;
+      if (locals.date) {
+        postYear = locals.date.split("-")[0];
+        postDate = locals.date;
+      }
+      return `${yearFolder ? `${getYear}/` : ""}${postDate}-${permalink}`;
     },
     getYear,
     IMAGE_PATH,

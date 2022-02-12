@@ -13,7 +13,8 @@ module.exports = [
   {
     type: 'input',
     name: 'title',
-    message: "Post title"
+    message: "Post title",
+    validate: (value) => !value ? "Title cannot be empty" : true
   },
   {
     type: 'input',

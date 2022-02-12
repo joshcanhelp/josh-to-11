@@ -133,6 +133,8 @@ The list of fields I use as of this writing are:
 
 Each field needs a prompt in the `prompt.js` file for the generator. Most of these are just basic inputs but I took a look at the library Hygen uses for the prompts and ... [wow](https://github.com/enquirer/enquirer)! The number of field types is *mind-blowing*!
 
+One great feature of this library is the ability to write custom validation code. I use this for checking to make sure I'm not skipping required fields, like the title. The logic is simple here: return `true` if it passes validation or a string error message if not. See the next code block for how I'm using it for titles.
+
 I'll be honest, I'd like to spend a day thinking of things to add to posts just so I can use more of these prompts but that's another day. For now, everything is a basic input besides tags. Here's the start of the prompt file:
 
 ```js
@@ -142,12 +144,14 @@ module.exports = [
 	{
 		type: 'input',
 		name: 'title',
-		message: "Post title"
+		message: "Post title",
+    validate: (value) => !value ? "Title cannot be empty" : true
 	},
 	{
 		type: 'list',
 		name: 'tags',
 		message: "Enter tags, separated by commas"
+		// TODO: Validate against a list of existing tags
 	},
 ]
 ```
