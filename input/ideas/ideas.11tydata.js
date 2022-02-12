@@ -14,7 +14,6 @@ module.exports = {
   layout: "idea",
   modified: "Last Modified",
   eleventyComputed: {
-    title: (data) => data.page.fileSlug,
     date: (data) => {
       if (data.date) {
         return data.date;
