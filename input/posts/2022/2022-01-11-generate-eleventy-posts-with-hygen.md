@@ -145,7 +145,7 @@ module.exports = [
 		type: 'input',
 		name: 'title',
 		message: "Post title",
-    validate: (value) => !value ? "Title cannot be empty" : true
+		validate: (value) => !value ? "Title cannot be empty" : true
 	},
 	{
 		type: 'list',
