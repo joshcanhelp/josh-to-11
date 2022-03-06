@@ -1,15 +1,15 @@
 ---
 title: "Engineering Velocity from the Bottom Up"
-meta_description: "TODO: Write a description"
 featured_img: /_images/default-thumb.png
 excerpt: "When I look to increase my velocity, I&#39;m trying to deliver more work I'm proud of without burning out. I want to get the most out of my time and maximize the parts of the job that I enjoy. Here's how."
 tags: ["Systems", "Team Dynamics", "Software Engineering", "Iteration"]
+permalink: engineering-velocity/index.html
 hn_link:
 ---
 
 What comes to mind when you hear the term "engineering velocity?"
 
-If you take [Wikipedia's definition](https://en.wikipedia.org/wiki/Velocity_(software_development)))
+If you take [Wikipedia's definition](https://en.wikipedia.org/wiki/Velocity_(software_development)):
 
 > The main idea behind velocity is to help teams estimate how much work they can complete in a given time period based on how quickly similar work was previously completed.
 
@@ -23,7 +23,7 @@ When I look to increase my velocity, I'm trying to **deliver more work I'm proud
 
 Spending hours debugging issues, re-running flaky integration tests, fretting over whether or not a PR is ready to merge ... all of these things are low value tasks that slow us down and make us spend cycles on work that, frankly, we're just not that into. Clicking, typing, and talking faster might get your PR shipped but maybe it’s time to slow down and look closely at the system you are working in.
 
-> "... velocity improves when you focus on the details.  It's usually an aggregation of interruptions and churn that are the biggest productivity threats to a team." @Doug Darst
+> "... velocity improves when you focus on the details.  It's usually an aggregation of interruptions and churn that are the biggest productivity threats to a team." ~ Engineering Director at Okta
 
 I talked with a number of folks at different levels here at Auth0 and elsewhere to see where they see velocity sinks. As I compiled what I got out of those conversations, I saw a pattern of work "pooling" in different places, usually at a transition point. Depending on how your team is structured, these might be transition points between individuals or even teams, compounding the problem.
 
@@ -41,7 +41,7 @@ Your primary job as an individual in this system to be mindful of time sinks in 
 
 As I was putting this together, I kept thinking about a sequence diagram. Successful, deployed changes to an application flow from the initial state to the end state. Thinking about it end-to-end acted as a good reminder that my velocity does not start or end in my editor.
 
-<img src="/_images/2022/engineering-velocity.png" class="aligncenter" alt="Engineering velocity sequence">
+<a href="https://swimlanes.io/u/KjpfVHTFT" target="_blank_"><img src="/_images/2022/engineering-velocity.png" class="aligncenter" alt="Engineering velocity sequence"></a>
 
 The stages in the diagram above are explored below. Think of this less as a "how to do this exactly right" and more of a reminder to look for time sinks at each stage and gauge them relative to the others.
 
@@ -53,7 +53,7 @@ You might hear the word "alignment" in planning meetings and your eyes might gla
 
 If you're not sure how the specific thing you're building connects to the company strategy at large, **ask the question!** Seeing the big picture of the impact your change contributed to helps you to make decisions, both large and small, more easily and with more confidence.
 
-**Things that can help at this stage:**
+#### Things that can help at this stage:
 
 -   Links to company, domain, team, and product-specific vision documents from engineering artifacts
 -   Engineering participation in product meetings and documents
@@ -72,7 +72,9 @@ In terms of velocity, planning helps us do 3 critical things:
 -   **Avoid re-work and churn.** Building the wrong thing and finding bugs in production are huge time sinks and morale killers.
 -   **Help reviewers to gate on the right things.** Technical aspects of a PR are important but so is shipping something correct and complete.
 
-**Things that can help at this stage:**
+Easy, right?
+
+#### Things that can help at this stage:
 
 -   Early user research
 -   Designs that cover the targeted use cases
@@ -94,7 +96,7 @@ From [The Biggest Mistake I See Engineers Make](https://www.thezbook.com/the-big
 
 Finally, all this context-building at this stage is helpful down the road when you’re asking yourself “how does this work? why did we build it this way?”
 
-**Things that can help at this stage:**
+#### Things that can help at this stage:
 
 -   Technical design documents or diagrams and a system to organize them
 -   Spikes to gauge feasibility and complexity
@@ -120,7 +122,7 @@ What I suggest concentrating on are all the things that slow you down when you'r
 
 We all know that feeling that comes from working on something small or in the beginning. The tests run in seconds, the architecture is dead simple, and you can move at a super-human pace. Then you switch over to the app your team has been maintaining for 5 years and it's all swear words and hair pulling (ask me about the time I left vulgarities in demo content). The latter will never be the former but it's easy to find yourself regularly sinking the same 15 or 20 minutes into a task or problem in the name of "shipping."
 
-**Things that can help at this stage:**
+#### Things that can help at this stage:
 
 -   Stable unit and integration tests that can be run per file or group
 -   Initial setup and onboarding documentation
@@ -136,7 +138,7 @@ I'm personally fascinated by this stage of the process because it's such a [soci
 
 Depending on the flexibility your team has, start with an honest, open conversation about what makes this stage difficult. Everyone should know what constitutes a complete review so reviewers aren't scared to approve (or reject) a PR and authors aren't motivated to spend an inordinate amount of time gold-plating (aka making it perfect) trying to avoid embarrassment.
 
-**Things that can help at this stage:**
+#### Things that can help at this stage:
 
 -   Automated linting, checks, and tests
 -   Reducing PR sizes to encourage faster, more effective reviews
@@ -153,7 +155,7 @@ I started my development career as a freelancer. When you're building sites and 
 
 Once I started working at Auth0 and seeing how it's done when the stakes are much higher and when you have teams of people worrying about these kinds of things, **my mind was blown**. I thought back to countless hours I spent debugging a critical issue in production using only haphazard logging and sparse email descriptions of the error messages. At the time, I thought "there must be a better way" but a lack of knowledge and development budget kept the system functioning at the same, sub-optimal level.
 
-**Things that can help at this stage:**
+#### Things that can help at this stage:
 
 -   Functional or E2E tests that check your changes against the entire system
 -   Documentation for common pitfalls, errors, and flakiness
@@ -167,7 +169,7 @@ Catching bugs in production is expensive and rebuilding incorrectly-implemented 
 
 What you're doing at this stage is creating a way to review that's a level higher than individual changesets of code. This higher level creates a stronger connection between the changes you're making and the vision. You can think about this kind of hands-on testing as closing the loop on what you just made.
 
-**Things that can help at this stage:**
+#### Things that can help at this stage:
 
 -   Regular demos to reviewers, the team, and stakeholders
 -   Early and thorough testing by designers and stakeholders
