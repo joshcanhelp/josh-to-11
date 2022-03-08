@@ -2,7 +2,7 @@
 title: "Engineering Velocity from the Bottom Up"
 featured_img: /_images/default-thumb.png
 excerpt: "When I look to increase my velocity, I&#39;m trying to deliver more work I'm proud of without burning out. I want to get the most out of my time and maximize the parts of the job that I enjoy. Here's how."
-tags: ["Systems", "Team Dynamics", "Software Engineering", "Iteration"]
+tags: ["Systems", "Team Dynamics", "Software Engineering", "Iteration", "Best Of"]
 permalink: engineering-velocity/index.html
 hn_link:
 ---
