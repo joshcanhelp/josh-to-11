@@ -1,8 +1,7 @@
 ---
 title: "Keys to Good Technical Documentation"
-description: "Summary of the best comments in a Hacker News thread about technical docs."
+excerpt: "Summary of the best comments in a Hacker News thread about technical docs."
 featured_img: /_images/default-thumb.png
-excerpt: "Summary of comments from a Hacker News thread on technical docs."
 tags: ["Async Communication", "Documentation", "Writing + Publishing"]
 hn_link: "https://news.ycombinator.com/item?id=20909783"
 ---
