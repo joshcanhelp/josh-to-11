@@ -60,7 +60,7 @@ I've been maintaining this list privately for a while but wanted to get it out i
 - Everyone
     - Clarity and simplicity
     - Storytelling
-        - https://www.google.com/search?q=storytelling+brain
+        - [Storytelling brain on google](https://www.google.com/search?q=storytelling+brain)
         - use cases
         - user stories
     - Metaphors, analogies, examples
@@ -126,7 +126,7 @@ I've been maintaining this list privately for a while but wanted to get it out i
 - metadata like title, tags, etc
 - visibility
 
-## Techniques**
+## Techniques
 
 - Shitty first drafts and outlines
     - To do list
