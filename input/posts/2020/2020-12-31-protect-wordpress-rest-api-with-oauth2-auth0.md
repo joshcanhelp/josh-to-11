@@ -4,12 +4,19 @@ title: "Protect your WordPress REST API with OAuth2 using Auth0"
 excerpt: In this post, we are going to add the ability to use Auth0-generated access tokens for WP REST API endpoints that require an account and certain capabilities.
 tags: [ "WordPress", "Auth0", "Best Of" ]
 featured_img: /_images/2020/12/wp-rest-api-authentication-thumb.png
+updated: 2022-11-08
 
 ---
 
-I was the maintainer of the [Auth0 WordPress plugin](https://github.com/auth0/wp-auth0) for several years and, in that time, the idea of using Auth0 to protect the [WP REST API](https://developer.wordpress.org/rest-api/) came up several times. I finally got around to putting together a complete guide and, I'll be honest here, there is a lot more involved than I expected! Hopefully this is helpful to few folks out there looking to build a similar system.
+I was the maintainer of the [Auth0 WordPress plugin](https://github.com/auth0/wp-auth0) for several years and, in that time, the idea of using Auth0 to protect the [WP REST API](https://developer.wordpress.org/rest-api/) came up several times. I finally got around to putting together a complete guide and, I'll be honest here, there is a lot more involved than I expected! Hopefully this is helpful for folks out there looking to build a similar system.
 
-If you're not familiar with the REST API of WordPress, it's a collection of endpoints built into WordPress that can be used to do just about everything you can do with WordPress - read posts, make posts, manage users, etc. If you go to `/wp-json/` on any standard WordPress site, you should get a big block of JSON back with meta information and showing all the endpoints available. 
+## Overview
+
+![](/_images/2020/12/WP-REST-API-diagram.png)
+
+## What is the WP REST API?
+
+The WP REST API is a collection of endpoints built into WordPress that can be used to do just about everything you can do with WordPress in a browser: read posts, manage posts, manage users, etc. If you go to the `/wp-json/` route on any standard WordPress site, you should get a big block of JSON back with meta information and and a list of all the endpoints available. 
 
 One of those endpoints, `/wp-json/wp/v2/posts`, will show the latest published posts on the blog as JSON ([ref](https://developer.wordpress.org/rest-api/reference/posts/)).
 
@@ -30,11 +37,9 @@ One of those endpoints, `/wp-json/wp/v2/posts`, will show the latest published p
 ]
 ```
 
-This endpoint can be read without any authentication just like a typical list of blog posts does not require authentication. If you want to take an action that requires an account and maybe certain privileges - deleting a post, editing a user, etc. - then you would need to authenticate (details below). 
+This endpoint can be accessed without any authentication, just like a typical list of blog posts does not require authentication. If you want to take an action that requires an account along certain privileges, like deleting a post, editing a user, or similar, then you would need to authenticate (details below). 
 
-In this post, we're going to leave the default authentication method functional and add the ability to also use Auth0-generated access tokens for endpoints that require an account and certain capabilities.
-
-## WP REST API Authentication
+### Authentication
 
 The built-in authentication method for this API uses cookies. When you log into WordPress, a cookie called `wordpress_logged_in_RANDOM` is set. If you call the REST API from the front-end of the site, that cookie is included in the call and now you're able to take the same actions you would be able to using `wp-admin`.
 
@@ -112,10 +117,10 @@ Let's take the first step in getting this working: adding the WP API to Auth0.
 
 ## Register the WP API with Auth0
 
-I'm going to reference the Auth0 documentation here so I don't duplicate helpful words written by trained professionals. [Start here](https://auth0.com/docs/get-started/set-up-apis) and create an API using the following information:
+I'm going to reference the Auth0 documentation here so I don't duplicate helpful words written by trained professionals. [Start here](https://auth0.com/docs/get-started/auth0-overview/set-up-apis) and create an API using the following information:
 
 - **Name**: Choose something descriptive
-- **Identifer**: Use your WP API base URL like `https://auth0sdk.wpengine.com/wp-json/`
+- **Identifier**: Use your WP API base URL like `https://example.com/wp-json/`
 - **Signing Algorithm**: Set this to "HS256"
 
 Once you create the API, click on the **Settings** tab, scroll down, and turn on **Allow Offline Access** so we can refresh our access tokens. 
@@ -127,19 +132,17 @@ In this example, we're going to allow creating posts under the current user's ac
 - `publish_posts` with a description of "Publish posts for the current user"
 - `edit_posts` with a description of "Edit posts for the current user"
 
-![WP REST API setup in Auth0](/_images/2020/12/wp-rest-api-auth0-setup.png)
-
 Later, when we log into our external application, we'll ask for one or both of these permissions as scopes to take action on behalf of a user (second step in the WP OAuth2 sequence above).
 
 {% info %}
 If you want to learn more about how scopes and permissions interact, check out <a href="https://auth0.com/blog/on-the-nature-of-oauth2-scopes/">Vittorio Bertocci's post on OAuth2 scopes on the Auth0 blog</a>. Don't be afraid to read it more than once, there is a lot to unpack, especially if you're learning this stuff for the first time!
 {% endinfo %}
 
-The rest of the API settings can be left as their defaults for now.
+The rest of the API settings can be left as defaults for now.
 
 ## Access token authorization in WP
 
-Now we need to enable the API to receive these access tokens, validate them, and make decisions for protected routes. 
+Now we need to enable the WP API to receive these access tokens, validate them, and make decisions for protected routes. 
 
 To do all of this, we're going to use the core WordPress filter `determine_current_user` to look for a token in the request headers of a WP REST API call and decide whether or not the call should be allowed based on the call being made and in the information contained in the signed access token.
 
@@ -156,7 +159,7 @@ Now our job during authorization becomes a bit more clear:
 1. Make sure the permissions required for the API call appear in the `scope` claim
 1. Make sure the user is capable of the permissions necessary in the API call
 
-The first task is fairly straighforward and the last one is handled by core WordPress authentication. It's the second one that needs some attention. 
+The first task is fairly straightforward and the last one is handled by core WordPress authentication. It's the second one that needs some attention. 
 
 The WP REST API expects a specific user record to be present in order to make permission decisions. But it also needs a user in focus for calls like post creation in order to set a post author. By default, you can only *authenticate* against this API (prove who you are), not *authorize* (prove what you're allowed to do). 
 
