@@ -179,46 +179,48 @@ Once this is working, logins are handled with Auth0 and, on the first successful
 
 One thing we need to deal with, however, is what happens when a user logs into the external app and they don't have an account in the WordPress instance that serves the API. Without a WordPress account tied to the same Auth0 user, an access token will be valid but the WP API request will be rejected. 
 
-So we want to let applications that are requesting access tokens know if the user needs to register on the WordPress site first before the API call can be made. We're going to use an Auth0 [Rule](https://auth0.com/docs/rules) combined with endpoints provided by the Auth0 WordPress plugin to send back a true/false flag in the user identity. 
+So we want to let applications that are requesting access tokens know if the user needs to register on the WordPress site first before the API call can be made. We're going to use an Auth0 [Action](https://auth0.com/docs/customize/actions/actions-overview) in the [Login flow](https://auth0.com/docs/customize/actions/flows-and-triggers/login-flow) combined with endpoints provided by the Auth0 WordPress plugin to send back a true/false flag in the user identity. 
 
 {% warning %}
-One important thing to note here ... WordPress uses emails as a unique identifier and Auth0, by default, does not. If you are only using a single connection to log users in and that connection always provides an email address, then this will work fine. If, however, you allow users to log in with multiple connections that could provide the same email address, then you'll need to link those identities with their email address. <a href="https://auth0.com/docs/users/user-account-linking">More information on this here</a>.
+One important thing to note here ... WordPress uses emails as a unique identifier and Auth0, by default, does not. If you are only using a single connection to log users in and that connection always provides an email address, then this will work fine. If, however, you allow users to log in with multiple connections that could provide the same email address, then you'll need to link those identities with their email address. <a href="https://auth0.com/docs/manage-users/user-accounts/user-account-linking">More information on this here</a>.
 {% endwarning %}
 
 First, we'll turn on the endpoints we need in WordPress.
 
 1. Go to **Auth0 > Settings > Advanced** tab in the WordPress admin.
 2. Turn on **User Migration Endpoints** and click **Save Changes**.
-3. You should see a migration token now showing. Leave this tab open so we can use it in the Rule. 
+3. You should see a migration token now showing. Leave this tab open so we can use it in the Action. 
 
-Next, we'll create the Rule that will reach out and look for an account.
+Next, we'll create the Action that will reach out and look for an account. Follow the [Write Your First Action](https://auth0.com/docs/customize/actions/write-your-first-action) to create a new Action in the Login flow.
 
-1. Go to [Rules in the Auth0 dashboard](https://manage.auth0.com/#/rules)
-2. Click **Create Rule** on the top right
-3. Click **Empty Rule**
-4. Give the Rule a clear name like "Check for WordPress account by email"
-5. Paste in the code below and click **Save Changes**. The code is written in a way that it's skipped without the proper configuration values (set below) so the check will not occur yet. Still, it's always a good idea to test new stuff in a staging environment.
+{% info %}
+One thing to note about this system: the Auth0 Action needs the migration endpoint on the WordPress site to be accessible on the public internet. If you want to test this system out locally, you'll need to either disable the Action or make your local WordPress instance available using <a href="https://ngrok.com">ngrok</a> or something similar.
+{% endinfo %}
 
-<script src="https://gist.github.com/joshcanhelp/72910ae498c911051caf090cbf140f7f.js"></script>
-
-I added logging (use the [Real-time Webtaks Logs extension](https://auth0.com/docs/extensions/real-time-webtask-logs) to see them during login) to help determine what's happening if there is a problem. Some or all of these can be removed once you confirm that the Rule is working.
-
-Walking through the code above:
-
-* If the user does not have an email, the Rule is skipped
-* If the login is for the WordPress application, the Rule is skipped
-* If the Rule does not have the correct configuration, it is skipped
-* If the application is not requesting an access token for the WordPress API, the Rule is skipped
-* If everything looks good, we call the "get user" endpoint of the WordPress site to see if we have a user with the current user's email
-* If we got an error of some kind, including that the user does not exist, then we send a custom identity claim `https://custom-claim/has_wp_account` set to `false` so the receiving application knows that we might not be able to call the WP API as the current user
-* If everything worked out according to plan and we get a user back, we set `https://custom-claim/has_wp_account` to `true` and then the requesting application knows it can call the WP API with the access token it received
-
-The last bit here is to add the required configuration values. Click the [Back to Rules](https://manage.auth0.com/#/rules) link at the top of the screen and scroll down to the **Settings** section to add the following values:
+Add the following 4 secrets:
 
 * `WP_API_CLIENT_ID` - The Client ID for the WordPress application. This is the same value that's saved the Auth0 plugin settings.
 * `WP_API_IDENTIFIER` - The API identifier we got when we created the WP REST API earlier.
 * `WP_API_GET_USER_URL` - This is your WordPress site URL plus `/index.php?a0_action=migration-ws-get-user`. You should be able to visit this URL in a browser and see an "Unauthorized" error.
-* `WP_API_TOKEN` - This is the token from the Auth0 plugin, generated earlier in this section.
+* `WP_API_TOKEN` - This is the migration token from the Auth0 plugin, generated earlier in this article.
+
+Add a dependency for [`axios`](https://www.npmjs.com/package/axios) set to the latest version. Save the draft to make sure everything works. 
+
+Now, add the following code to the editor:
+
+<script src="https://gist.github.com/joshcanhelp/bee9bff4d4bacad90e91b0f0188ca7f4.js"></script>
+
+Walking through the code:
+
+* If the user does not have an email account thebn lookup is not possible and the Action is skipped.
+* If the Action does not have the correct configuration the Action is skipped.
+* If the login is for the WordPress application then account lookup is not necessary and the Action is skipped.
+* If the application is not requesting an access token for the WordPress API then account lookup is not necessary the Action is skipped.
+* If everything looks good, we call the "get user" endpoint of the WordPress site to see if we have a user with the current user's email
+* If we got an error of some kind, including that the user does not exist, then we send a custom identity claim `https://wp/has_account` set to `false` so the receiving application knows that we might not be able to call the WP API as the current user
+* If everything worked out according to plan and we get a user back, we set `https://wp/has_account` to `true` and then the requesting application knows it can call the WP API with the access token it received
+
+I added logging (use the [Real-time Webtaks Logs extension](https://auth0.com/docs/extensions/real-time-webtask-logs) to see them during login) to help determine what's happening if there is a problem. Some or all of these can be removed once you confirm that the Action is working.
 
 ## Build your Application
 
@@ -237,10 +239,6 @@ You can find help with these tasks on the following documentation pages:
 * [Auth0 Quickstarts](https://auth0.com/docs/quickstarts/) - many of these include a section on how to request access tokens during login. If not, check out the documentation for the SDK being used.
 
 If you want to see this running as a discreet system, however, I have a simple Node app that can play the part of the external app calling the WordPress API.
-
-{% info %}
-One thing to note about this system: the Auth0 Rule needs the migration endpoint on the WordPress site to be accessible on the public internet. If you want to test this out locally, you'll need to either disable the Rule or make your local WordPress instance available using <a href="https://ngrok.com">ngrok</a> or something similar.
-{% endinfo %}
 
 Start by logging into the WordPress install using Auth0 to create a user account associated to an Auth0 user ID.
 
