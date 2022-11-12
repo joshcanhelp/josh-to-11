@@ -12,11 +12,17 @@ I was the maintainer of the [Auth0 WordPress plugin](https://github.com/auth0/wp
 
 ## Overview
 
+What we will be building is a network of 2 applications that share a single source of identity, Auth0.
+
+One application will be a WordPress site that exposes a REST API (explained below). We will add Auth0 login capability and OAuth 2 protection for the API. This will allow API calls to be connected to the same user that created the WordPress account. 
+
+The other application will request an access token during login that will allow it to call the WordPress API on behalf of the user logging in. We will map our permissions to core WordPress capabilities to match, generally, the existing authorization scheme. 
+
 ![](/_images/2020/12/WP-REST-API-diagram.png)
 
 ## What is the WP REST API?
 
-The WP REST API is a collection of endpoints built into WordPress that can be used to do just about everything you can do with WordPress in a browser: read posts, manage posts, manage users, etc. If you go to the `/wp-json/` route on any standard WordPress site, you should get a big block of JSON back with meta information and and a list of all the endpoints available. 
+The [WP REST API](https://developer.wordpress.org/rest-api/) is a collection of endpoints built into WordPress core that can be used to do just about everything you can do with WordPress in a browser: read posts, manage posts, manage users, etc. If you go to the `/wp-json/` route on any self-hosted WordPress site, you will get a big block of JSON back with meta information and and a list of all the endpoints available. 
 
 One of those endpoints, `/wp-json/wp/v2/posts`, will show the latest published posts on the blog as JSON ([ref](https://developer.wordpress.org/rest-api/reference/posts/)).
 
@@ -37,13 +43,13 @@ One of those endpoints, `/wp-json/wp/v2/posts`, will show the latest published p
 ]
 ```
 
-This endpoint can be accessed without any authentication, just like a typical list of blog posts does not require authentication. If you want to take an action that requires an account along certain privileges, like deleting a post, editing a user, or similar, then you would need to authenticate (details below). 
+This endpoint can be accessed without any authentication, just like a typical list of blog posts does not require authentication. If you want to take an action that requires an account along certain privileges, like deleting a post, editing a user, or similar, then you would need to authenticate. 
 
 ### Authentication
 
-The built-in authentication method for this API uses cookies. When you log into WordPress, a cookie called `wordpress_logged_in_RANDOM` is set. If you call the REST API from the front-end of the site, that cookie is included in the call and now you're able to take the same actions you would be able to using `wp-admin`.
+The [built-in authentication method](https://developer.wordpress.org/rest-api/using-the-rest-api/authentication/#cookie-authentication) for this API uses cookies. When you log into WordPress, a cookie called `wordpress_logged_in_RANDOM` is set. If you call the REST API from the front-end of the site, that cookie is included in the call and now you're able to take the same actions you would be able to using `wp-admin`.
 
-[![WP REST API authentication diagram](/_images/2020/12/wp-rest-api-authentication.png)](https://www.websequencediagrams.com/?lz=dGl0bGUgV1AgUkVTVCBBUEkgQXV0aGVudGljYXRpb24KCkFsaWNlLT5XUCBMb2dpbjogVmlzaXRzIGxvZ2luIGZvcm0KABQILT4AKAU6IERpc3BsYXkAGA0ANxFFbnRlciB1c2VybmFtZSArIHBhc3N3b3JkCm5vdGUgb3ZlciAAbggKICAgAHoGIHN1Y2Nlc3NmdWwKZW5kIG5vdGUAdwoAeQlzZXRjb29raWU6IHdvcmRwcmVzc19sb2dnZWRfaW4AgSASMzAxIHRvIGhvbWUgcGFnZQCBbAtIb21lOiBMb2FkcwAVCwASBwCBaglKUyBmaWxlIHdpdGgAgkMKY2FsbACCOggAghUHVGFrZSBvbi1wYWdlIGFjAIJgBQCCWgoAgn8IAEwFY2FsbHMgL3dwLWpzb24vd3AvdjIvZW5kcG9pbnQAgxIHACcPAIFZHACCSg0Ag2gIAIJVBUMAgiYFIHZlcmlmaWVkAIJMDQCEEQgAgRAPRXhlY3V0AIE5CQAcDQCDfwcyMDAAgyYICg&s=default)
+![WP REST API authentication diagram](/_images/2020/12/wp-rest-api-authentication.png)
 
 You can see this in action on any standard WordPress site by doing the following:
 
@@ -51,14 +57,14 @@ You can see this in action on any standard WordPress site by doing the following
 
 ```bash
 ❯ curl --request POST \
---url 'https://auth0sdk.wpengine.com/wp-json/wp/v2/posts'
+--url 'https://wp.example.com/wp-json/wp/v2/posts'
 
 {"code":"rest_cannot_create",
 "message":"Sorry, you are not allowed to create posts as this user.",
 "data":{"status":401}}
 ```
 
-2. Now, log into the admin as someone who can create posts
+2. Now, log into the WordPress site as someone who can create posts
 3. View your cookies in the developer panel and copy the cookie starting with `wordpress_logged_in_`
 4. Generate a nonce using `wp_rest` as the action. I used the [WP Console plugin](https://wordpress.org/plugins/wp-console/) to run `echo wp_create_nonce("wp-rest");` and put that value in the call below. 
 4. Add the cookie value and the nonce to the call below:
@@ -67,7 +73,7 @@ You can see this in action on any standard WordPress site by doing the following
 ❯ curl --request POST \
 --cookie 'wordpress_logged_in_XXX=[[COOKIE_VALUE]]' \
 --header 'X-WP-Nonce: [[NONCE_VALUE]]' \
---url 'https://auth0sdk.wpengine.com/wp-json/wp/v2/posts'
+--url 'https://wp.example.com/wp-json/wp/v2/posts'
 
 {"code":"empty_content",
 "message":"Content, title, and excerpt are empty.",
@@ -82,35 +88,35 @@ This works fine if the calls are being made from the same site. The cookie and t
 
 ## API Authorization with Auth0
 
-We want to use Auth0 to protect our WP REST API in a way that will allow other applications to take actions that require privileges, like creating a post in our curl examples above. So a user will log into and application that is *not* the WordPress instance and be able to take actions on that WordPress site.
+We're going to use Auth0 to protect our API in a way that will allow other applications to take actions that require privileges, like creating a post in our curl examples above. So a user will log into and application that is *not* the WordPress instance and be able to take actions on the WordPress site.
 
 From the [Auth0 docs](https://auth0.com/docs/authorization):
 
-> &ldquo;Authorization refers to the process of verifying what a user has access to. In authorization, a user or application is granted access to an API after the API determines the extent of the permissions that it should assign. Usually, authorization occurs after identity is successfully validated through authentication so that the API has some idea of what sort of access it should grant.&rdquo;
+> Authorization refers to the process of verifying what a user has access to. In authorization, a user or application is granted access to an API after the API determines the extent of the permissions that it should assign. Usually, authorization occurs after identity is successfully validated through authentication so that the API has some idea of what sort of access it should grant.
 
 **So what does this mean for WordPress?** 
 
-A user in WordPress is given a [role](https://wordpress.org/support/article/roles-and-capabilities/) which allows them to do certain things. If I'm an editor, for example, I can create my own posts and publish other people's posts but I can't remove a plugin. If I'm an administrator, then I can do all 3. 
+A user in WordPress is given a [role](https://wordpress.org/support/article/roles-and-capabilities/) which allows them to do certain things. If I'm an editor, for example, I can create my own posts and publish other people's posts but I can't remove a plugin. If I'm an administrator, then I can do all 3 and more. Roles represent a collection of capabilities or permissions that a user can do.
 
-Authorization is describing this same scenario but from a different perspective. If I'm logged into WordPress as a WordPress user taking actions on a WordPress application, then it all works like the above. But if I'm logged into, say, a mobile app as a user that has access to a WordPress site taking actions on that site, then things get a little more complicated. In that case, the mobile app has to request access to the WordPress site on behalf of that WordPress user. If that access is granted, then the mobile app can take the same actions on the WordPress site as the WordPress user can.
+Authorization describes this same scenario but from a different perspective. If I'm logged into WordPress as a WordPress user taking actions on a WordPress application, then it all works like the above. But if I'm logged into, say, a mobile app as a user that has access to a WordPress site and want to take actions on that WordPress site, then things get a little more complicated. In that case, the mobile app has to request specific permissions for the WordPress site on behalf of that WordPress user. If those permissions are granted, the mobile app can now take the specific actions represented by those permissions.
 
 ![Head explodey](/_images/2020/12/head-explode-emoji.png)
 
-If your head is exploding a bit, **that's OK**. This stuff has a steep learning curve and lots of jargon (ask me how I know). That whole previous paragraph is a summary of the problem that OAuth2 was created to solve: applications calling APIs on behalf of users.
+If your head is exploding a bit, **that's OK**. This stuff has a steep learning curve and lots of jargon. That whole previous paragraph is a summary of the problem that OAuth2 was created to solve: applications calling APIs on behalf of users.
 
-In order to get this whole OAuth2 thing working, we'll do the following:
+In order to get this whole OAuth2 thing working on our WordPress site, we're going to do the following:
 
-1. Register the WordPress API in Auth0 and model what we want to allow users via this API (once)
+1. Register the WordPress API in Auth0 and model the actions we want to allow via this API (once)
 2. Add a token validation method option to the authorization used in the WordPress site providing the API (once)
 3. Configure the external application to reference the WP API during login with Auth0 to generate an access token (each login)
 4. Call the WP API with that access token (each WP action taken)
 
 Once this is complete, the authorization will look something like this (simplified):
 
-[![WP REST API authorization with OAuth2 diagram](/_images/2020/12/wp-rest-api-authorization-with-oauth2.png)](https://www.websequencediagrams.com/?lz=dGl0bGUgV1AgUkVTVCBBUEkgYWNjZXNzIHVzaW5nIE9BdXRoMgoKQWxpY2UtPk1vYmlsZSBhcHA6IENsaWNrcyB0byBsb2dpbgoAEgotPkF1dGgwOiBSZWRpcmVjdAAcCSByZWZlcmVuY2luZyBXUCBBUEkKbm90ZSBvdmVyIAAvB1N1AH0FZnVsAFMHAEkFAG8OQQCBHwZ0b2tlbiB0byBjYWxsAD8SAIEjDFN0b3JlAIFVCAAzBQCBQBVyZWF0ZXMgcG9zdACBRQ0AgScGABkIABsFIGZvciAAghQFLCBpbmNsdWQAUQ8AgVAKADYIVmFsaWRhdAB5DwCCAwYtAIJRDgCBfwcKCg&s=default)
+![WP REST API authorization with OAuth2 diagram](/_images/2020/12/wp-rest-api-authorization-with-oauth2.png)
 
 {% info %}
-If you're more interested in how this whole OAuth2 thing works, I would highly recommend <a href="https://auth0.com/docs/videos/learn-identity-series/calling-an-api">one of our Learning Identity videos</a>.
+If you're more interested in how this whole OAuth2 thing works, I would highly recommend <a href="https://auth0.com/docs/videos/learn-identity-series/calling-an-api">one of Auth0's Learning Identity videos</a>. Turn on closed captions so you don't miss any unfamiliar terms and don't be afraid to watch it more than once!
 {% endinfo %}
 
 Let's take the first step in getting this working: adding the WP API to Auth0.
@@ -125,7 +131,7 @@ I'm going to reference the Auth0 documentation here so I don't duplicate helpful
 
 Once you create the API, click on the **Settings** tab, scroll down, and turn on **Allow Offline Access** so we can refresh our access tokens. 
 
-Now click on the **Permissions** tab to add the WordPress actions we want to allow external applications to take. We don't need to add every single WordPress capability here, just the ones that will be requested by other applications. You can map these 1:1 with [existing WordPress capabilities](https://wordpress.org/support/article/roles-and-capabilities/#capability-vs-role-table) if you're using core WP REST endpoints or create additional ones if you're exposing your own API functionality. 
+Now click on the **Permissions** tab to add the WordPress actions we want to allow external applications to take. We don't need to add every single WordPress capability here, just the ones that will be requested by other applications. You can map these 1:1 with [existing WordPress capabilities](https://wordpress.org/support/article/roles-and-capabilities/#capability-vs-role-table) if you're using core WP REST endpoints or create additional ones if you're exposing your own API functionality ([covered here](https://developer.wordpress.org/rest-api/extending-the-rest-api/adding-custom-endpoints/)). 
 
 In this example, we're going to allow creating posts under the current user's account and editing them, so we'll add:
 
@@ -140,7 +146,7 @@ If you want to learn more about how scopes and permissions interact, check out <
 
 The rest of the API settings can be left as defaults for now.
 
-## Access token authorization in WP
+## Access token authorization in WordPress
 
 Now we need to enable the WP API to receive these access tokens, validate them, and make decisions for protected routes. 
 
@@ -151,11 +157,9 @@ The access token generated by Auth0 and sent by the external app will contain tw
 - The Auth0 user ID in the `sub` claim
 - The permissions consented to in the `scope` claim
 
-You can see these values in the token you generated above by dropping it into [jwt.io](https://jwt.io/) and looking at the **Payload** section on the right.
-
 Now our job during authorization becomes a bit more clear:
 
-1. Use the `sub` claim value to find an associated WordPress user
+1. Use the `sub` claim value to find a WordPress user
 1. Make sure the permissions required for the API call appear in the `scope` claim
 1. Make sure the user is capable of the permissions necessary in the API call
 
@@ -167,9 +171,16 @@ In other words, the API expects a WordPress user in order to determine whether i
 
 So, we do need a WordPress user in scope as we need to associate the post to someone, but we need to adjust the capabilities down to what the access token indicates. We'll do that by hooking into `determine_current_user` when we have an access token on a WP REST API route.
 
-To avoid a big block of unmaintained code here, I put the required logic for all of this in a [repo on GitHub](https://github.com/joshcanhelp/wp-rest-api-auth0/). The README walks through installation using Composer as well as manually. You can spin it all up on Docker using [this Gist](https://gist.github.com/joshcanhelp/0e35b657ca03142e3d79595c28bb3ed7).
+To avoid a big block of unmaintained code here, I put the required logic for all of this in a [repo on GitHub](https://github.com/joshcanhelp/wp-rest-api-auth0/). The README walks through installation using Composer as well as doing it manually. A few highlights of what [the code](https://github.com/joshcanhelp/wp-rest-api-auth0/blob/main/src/wp-rest-api-auth0.php) is doing:
 
-Our last step will be integrating Auth0 with WordPress and dealing with users that have not been created there yet.
+1. We add a new filter to the [`determine_current_user` hook](https://developer.wordpress.org/reference/hooks/determine_current_user/)
+2. We check if the request is for the WP API. If not, we return the `$user` that was passed in. 
+3. We check the request for an `Authorization` header set to `Bearer SOME_STRING`. If the header is not there or not formatted correctly, we return the same `$user`.
+4. At this point, we consider the request OAuth 2 protected and will fail requests that do not conform.
+5. We attempt to verify the access token as a valid JWT formatted like an ID token.
+6. We attempt to find a user in WordPress with the same Auth0 user ID found in the `sub` claim.
+7. If everything up to this point is successful, we walk through the user's capabilities and remove all of the capabilities that do not appear in the `scope` claim of the access token.
+8. We set the `global $current_user` to the modified user object and return the user ID.
 
 ## Manage WP users with Auth0
 
