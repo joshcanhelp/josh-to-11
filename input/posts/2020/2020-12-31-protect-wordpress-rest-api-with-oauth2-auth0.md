@@ -20,6 +20,14 @@ The other application will request an access token during login that will allow 
 
 ![](/_images/2020/12/WP-REST-API-diagram.png)
 
+### Prerequisites
+
+In order for this tutorial to work, you'll need to have the following. 
+
+* You should already have an Auth0 tenant and be familiar with how to create and manage applications and connections. The [Getting Started](https://auth0.com/docs/get-started) section of the Auth0 documentation is a good place to start. 
+* You should have a WordPress site(s) running and using the [Login by Auth0 plugin](https://wordpress.org/plugins/auth0/). The [installation instructions](https://auth0.com/docs/customize/integrations/cms/wordpress-plugin/install-login-by-auth0) show how to add Auth0 login to a new or existing WordPress site.
+* You should have at least one other application integrated with Auth0 to call the WordPress API. This tutorial includes instructions for a simple local application you can run to test this out if you're not ready to work with a live application right away. 
+
 ## What is the WP REST API?
 
 The [WP REST API](https://developer.wordpress.org/rest-api/) is a collection of endpoints built into WordPress core that can be used to do just about everything you can do with WordPress in a browser: read posts, manage posts, manage users, etc. If you go to the `/wp-json/` route on any self-hosted WordPress site, you will get a big block of JSON back with meta information and and a list of all the endpoints available. 
@@ -123,7 +131,7 @@ Let's take the first step in getting this working: adding the WP API to Auth0.
 
 ## Register the WP API with Auth0
 
-I'm going to reference the Auth0 documentation here so I don't duplicate helpful words written by trained professionals. [Start here](https://auth0.com/docs/get-started/auth0-overview/set-up-apis) and create an API using the following information:
+The first thing we need to do here is register our WordPress API in Auth0 so other applications can reference it during login and receive an access token to call it. I'm going to reference the Auth0 documentation here so I don't duplicate helpful words written by trained professionals. [Start here](https://auth0.com/docs/get-started/auth0-overview/set-up-apis) and create an API using the following information:
 
 - **Name**: Choose something descriptive
 - **Identifier**: Use your WP API base URL like `https://example.com/wp-json/`
@@ -182,19 +190,18 @@ To avoid a big block of unmaintained code here, I put the required logic for all
 7. If everything up to this point is successful, we walk through the user's capabilities and remove all of the capabilities that do not appear in the `scope` claim of the access token.
 8. We set the `global $current_user` to the modified user object and return the user ID.
 
-## Manage WP users with Auth0
+With all of this in place, the rest of the WordPress request will keep the correct user in scope but only allow the capabilities that were found in the access token. 
 
-In order for this system to work, we'll need the users in WordPress tied to users in Auth0. Thankfully we have a solution for that, the [Login by Auth0 plugin](https://wordpress.org/plugins/auth0/). Follow the [installation instructions](https://auth0.com/docs/cms/wordpress-plugin/install-login-by-auth0) (scroll down to the **Manual setup** section to connect the site to an existing database connection like the one we used above) and test the login process to make sure authentication is working. 
+## Check for WordPress Registration (optional)
 
-Once this is working, logins are handled with Auth0 and, on the first successful login/registration, the Auth0 user ID will be stored in the users metadata.
+{% info %}
+One thing to note about this segment: the Auth0 Action needs the migration endpoint on the WordPress site to be accessible on the public internet. If you want to test this system out locally, you'll need to either skip this section or make your local WordPress instance available using <a href="https://ngrok.com">ngrok</a>, <a href="https://github.com/localtunnel/localtunnel">localtunnel</a>, or something similar.
+{% endinfo %}
 
-One thing we need to deal with, however, is what happens when a user logs into the external app and they don't have an account in the WordPress instance that serves the API. Without a WordPress account tied to the same Auth0 user, an access token will be valid but the WP API request will be rejected. 
 
-So we want to let applications that are requesting access tokens know if the user needs to register on the WordPress site first before the API call can be made. We're going to use an Auth0 [Action](https://auth0.com/docs/customize/actions/actions-overview) in the [Login flow](https://auth0.com/docs/customize/actions/flows-and-triggers/login-flow) combined with endpoints provided by the Auth0 WordPress plugin to send back a true/false flag in the user identity. 
+What happens when a user logs into the external app and they don't have an account in the WordPress instance that serves the API? Without a WordPress account tied to the same Auth0 user, an access token will be valid but the WP API request will be rejected because the user cannot be found in the database.
 
-{% warning %}
-One important thing to note here ... WordPress uses emails as a unique identifier and Auth0, by default, does not. If you are only using a single connection to log users in and that connection always provides an email address, then this will work fine. If, however, you allow users to log in with multiple connections that could provide the same email address, then you'll need to link those identities with their email address. <a href="https://auth0.com/docs/manage-users/user-accounts/user-account-linking">More information on this here</a>.
-{% endwarning %}
+We can let applications that are requesting access tokens know if the user needs to register on the WordPress site first before the API call can be made. We're going to use an Auth0 [Action](https://auth0.com/docs/customize/actions/actions-overview) in the [Login flow](https://auth0.com/docs/customize/actions/flows-and-triggers/login-flow) combined with endpoints provided by the Auth0 WordPress plugin to send back a true/false flag in the user identity. 
 
 First, we'll turn on the endpoints we need in WordPress.
 
@@ -204,18 +211,14 @@ First, we'll turn on the endpoints we need in WordPress.
 
 Next, we'll create the Action that will reach out and look for an account. Follow the [Write Your First Action](https://auth0.com/docs/customize/actions/write-your-first-action) to create a new Action in the Login flow.
 
-{% info %}
-One thing to note about this system: the Auth0 Action needs the migration endpoint on the WordPress site to be accessible on the public internet. If you want to test this system out locally, you'll need to either disable the Action or make your local WordPress instance available using <a href="https://ngrok.com">ngrok</a> or something similar.
-{% endinfo %}
-
 Add the following 4 secrets:
 
-* `WP_API_CLIENT_ID` - The Client ID for the WordPress application. This is the same value that's saved the Auth0 plugin settings.
 * `WP_API_IDENTIFIER` - The API identifier we got when we created the WP REST API earlier.
-* `WP_API_GET_USER_URL` - This is your WordPress site URL plus `/index.php?a0_action=migration-ws-get-user`. You should be able to visit this URL in a browser and see an "Unauthorized" error.
+* `WP_API_BASE_URL` - This is your WordPress site URL.
 * `WP_API_TOKEN` - This is the migration token from the Auth0 plugin, generated earlier in this article.
+* `WP_API_CLIENT_ID` - The Client ID for the WordPress application. This is the same value that is saved the Auth0 plugin settings.
 
-Add a dependency for [`axios`](https://www.npmjs.com/package/axios) set to the latest version. Save the draft to make sure everything works. 
+Add a dependency for [`axios`](https://www.npmjs.com/package/axios) set to the latest version, then save the draft to make sure everything works. 
 
 Now, add the following code to the editor:
 
@@ -223,7 +226,7 @@ Now, add the following code to the editor:
 
 Walking through the code:
 
-* If the user does not have an email account thebn lookup is not possible and the Action is skipped.
+* If the user does not have an email account then lookup is not possible and the Action is skipped.
 * If the Action does not have the correct configuration the Action is skipped.
 * If the login is for the WordPress application then account lookup is not necessary and the Action is skipped.
 * If the application is not requesting an access token for the WordPress API then account lookup is not necessary the Action is skipped.
@@ -231,7 +234,7 @@ Walking through the code:
 * If we got an error of some kind, including that the user does not exist, then we send a custom identity claim `https://wp/has_account` set to `false` so the receiving application knows that we might not be able to call the WP API as the current user
 * If everything worked out according to plan and we get a user back, we set `https://wp/has_account` to `true` and then the requesting application knows it can call the WP API with the access token it received
 
-I added logging (use the [Real-time Webtaks Logs extension](https://auth0.com/docs/extensions/real-time-webtask-logs) to see them during login) to help determine what's happening if there is a problem. Some or all of these can be removed once you confirm that the Action is working.
+I added logging (use the [Real-time Webtask Logs extension](https://auth0.com/docs/extensions/real-time-webtask-logs) to see them during login) to help determine what's happening if there is a problem. Some or all of these can be removed once you confirm that the Action is working.
 
 ## Build your Application
 
@@ -239,7 +242,7 @@ We now (finally) have everything we need to call the WP REST API from another ap
 
 If you already have an application and a WordPress site running, you have everything you need at this point. The summary of what we need to do in the application calling the WordPress API is:
 
-1. Build a login URL including the API identifier as an `audience` parameter and the permissions we are requesting in a `scope` parameter
+1. Build a login URL for Auth0 that includes the API identifier as an `audience` parameter and the permissions we are requesting in a `scope` parameter. If you're using an [SDK](https://auth0.com/docs/libraries) then this should be as simple as adding a couple of options. 
 1. Redirect to Auth0 to perform the login and API consent (more on that later)
 1. Receive an authorization code back and exchange that for an access token
 1. Use that access token to call the WP REST API
@@ -249,18 +252,9 @@ You can find help with these tasks on the following documentation pages:
 * [How to get an access token](https://auth0.com/docs/tokens/access-tokens/get-access-tokens) - general information on requesting access tokens and links to more information.
 * [Auth0 Quickstarts](https://auth0.com/docs/quickstarts/) - many of these include a section on how to request access tokens during login. If not, check out the documentation for the SDK being used.
 
-If you want to see this running as a discreet system, however, I have a simple Node app that can play the part of the external app calling the WordPress API.
+If you want to see this running as a discreet system, however, I have a simple Node app that can play the part of the external app calling the WordPress API. Clone [this repo](https://github.com/joshcanhelp/node-util-app) locally and follow all the installation instructions to get it working. 
 
-Start by logging into the WordPress install using Auth0 to create a user account associated to an Auth0 user ID.
-
-Next, clone [this repo](https://github.com/joshcanhelp/node-util-app) and follow the installation instructions to get it working. Add the following values to the `.env` you created:
-
-* `CLIENT_SECRET` - The Client Secret for this Node app
-* `API_AUDIENCE` - API identitifer for the WP API, created above
-* `API_SCOPES` - API permissions to request; for this example, set this to `publish_posts edit_posts offline_access`
-* `WP_BASE_URL` - Base URL to the WP install serving the API
-
-If you have everything set up properly, you should be able to go to the `/post-to-wp` route on the Node application and see a simple form. 
+Once you have everything set up properly, go to the `/wp-api` route on the Node application and you should see a simple form. 
 
 ![Create post form for the WP API](/_images/2020/12/wp-rest-api-authentication-create-post-form.png)
 
@@ -268,7 +262,7 @@ Fill out the fields and click **Post**. If everything goes as expected, you shou
 
 ![Created post via the WP API](/_images/2020/12/wp-rest-api-authentication-created-post.png)
 
-If anything goes wrong, check the console output for the Node app and you should have a clue. If you're getting a 404 error, you might not have pretty permalinks turned on. If you're getting a 401, you might not have the MU plugin package installed properly.
+If anything goes wrong, check the console output for the Node app and you should have a clue. If you're getting a 404 error, you might not have pretty permalinks turned on for the WordPress site. If you're getting a 401, you might not have the MU plugin package installed properly.
 
 ---
 
@@ -280,6 +274,6 @@ If you made it to the end of this post, you deserve a cookie or something! Thank
 - [WP REST API Composer package](https://packagist.org/packages/joshcanhelp/wp-rest-api-auth0)
 - [Auth0 WordPress plugin](https://github.com/auth0/wp-auth0)
 - [Official WP REST API docs](https://developer.wordpress.org/rest-api/)
-- [Run WordPress locally using Docker](https://gist.github.com/joshcanhelp/0e35b657ca03142e3d79595c28bb3ed7)
+- [Run WordPress locally using Docker](https://www.npmjs.com/package/@wordpress/env)
 - [Auth0 documentation on authorization](https://auth0.com/docs/authorization)
 - [Auth0 documentation on getting access tokens](https://auth0.com/docs/tokens/access-tokens/get-access-tokens)
