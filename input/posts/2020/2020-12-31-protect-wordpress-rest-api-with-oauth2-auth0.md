@@ -114,24 +114,25 @@ Authorization describes this same scenario but from a different perspective. If 
 
 ![Head explodey](/_images/2020/12/head-explode-emoji.png)
 
-If your head is exploding a bit, **that's OK**. This stuff has a steep learning curve and lots of jargon. That whole previous paragraph is a summary of the problem that OAuth2 was created to solve: applications calling APIs on behalf of users.
+If your head is exploding a bit, **that's OK**. This stuff has a steep learning curve and lots of jargon. That whole previous paragraph is a summary of the problem that OAuth2 was created to solve: applications calling APIs on behalf of users. This is described in the system diagram in the **Overview** section above.
 
-In order to get this whole OAuth2 thing working on our WordPress site, we're going to do the following:
+In order to get this whole OAuth 2 thing working on our WordPress site, we're going to do the following:
 
 1. Register the WordPress API in Auth0 and model the actions we want to allow via this API (once)
 2. Add a token validation method option to the authorization used in the WordPress site providing the API (once)
-3. Configure the external application to reference the WP API during login with Auth0 to generate an access token (each login)
-4. Call the WP API with that access token (each WP action taken)
+3. Configure the external application to reference the WP API during login (once)
+4. Users log in using Auth0 to generate an access token (each login)
+5. Call the WP API with that access token (each WP action taken)
 
 Once this is complete, the authorization will look something like this (simplified):
 
-![WP REST API authorization with OAuth2 diagram](/_images/2020/12/wp-rest-api-authorization-with-oauth2.png)
+![WP REST API authorization with OAuth 2 diagram](/_images/2020/12/wp-rest-api-authorization-with-oauth2.png)
 
 {% info %}
 If you're more interested in how this whole OAuth2 thing works, I would highly recommend <a href="https://auth0.com/docs/videos/learn-identity-series/calling-an-api">one of Auth0's Learning Identity videos</a>. Turn on closed captions so you don't miss any unfamiliar terms and don't be afraid to watch it more than once!
 {% endinfo %}
 
-Let's take the first step in getting this working: adding the WP API to Auth0.
+Let's take the first step in getting this working: adding the WP REST API to Auth0.
 
 ## Register the WP API with Auth0
 
