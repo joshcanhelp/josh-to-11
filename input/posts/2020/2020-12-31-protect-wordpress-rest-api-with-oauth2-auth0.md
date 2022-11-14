@@ -1,6 +1,6 @@
 ---
 
-title: "Protect your WordPress REST API with OAuth2 using Auth0"
+title: "Protect your WordPress REST API with OAuth 2 using Auth0"
 excerpt: In this post, we are going to add the ability to use Auth0-generated access tokens for WP REST API endpoints that require an account and certain capabilities.
 tags: [ "WordPress", "Auth0", "Best Of" ]
 featured_img: /_images/2020/12/wp-rest-api-authentication-thumb.png
@@ -94,9 +94,9 @@ You can see this in action on any standard WordPress site by doing the following
 
 This works fine if the calls are being made from the same site. The cookie and the API have the same domain so your browser sends the cookie just like it would for a regular HTML page request. But if you want to call the API from a mobile app or a different application, cookies are not going to work because they cannot be sent across domains. 
 
-**OAuth2 to the rescue!**
+**OAuth 2 to the rescue!**
 
-![WordPress, OAuth2, and Auth0](/_images/2020/12/wp-rest-api-authentication-thumb.png)
+![WordPress, OAuth 2, and Auth0](/_images/2020/12/wp-rest-api-authentication-thumb.png)
 
 ## API authorization with Auth0
 
@@ -114,7 +114,7 @@ Authorization describes this same scenario but from a different perspective. If 
 
 ![Head explodey](/_images/2020/12/head-explode-emoji.png)
 
-If your head is exploding a bit, **that's OK**. This stuff has a steep learning curve and lots of jargon. That whole previous paragraph is a summary of the problem that OAuth2 was created to solve: applications calling APIs on behalf of users. This is described in the system diagram in the **Overview** section above.
+If your head is exploding a bit, **that's OK**. This stuff has a steep learning curve and lots of jargon. That whole previous paragraph is a summary of the problem that OAuth 2 was created to solve: applications calling APIs on behalf of users. This is described in the system diagram in the **Overview** section above.
 
 In order to get this whole OAuth 2 thing working on our WordPress site, we're going to do the following:
 
@@ -129,7 +129,7 @@ Once this is complete, the authorization will look something like this (simplifi
 ![WP REST API authorization with OAuth 2 diagram](/_images/2020/12/wp-rest-api-authorization-with-oauth2.png)
 
 {% info %}
-If you're more interested in how this whole OAuth2 thing works, I would highly recommend <a href="https://auth0.com/docs/videos/learn-identity-series/calling-an-api">one of Auth0's Learning Identity videos</a>. Turn on closed captions so you don't miss any unfamiliar terms and don't be afraid to watch it more than once!
+If you're more interested in how this whole OAuth 2 thing works, I would highly recommend <a href="https://auth0.com/docs/videos/learn-identity-series/calling-an-api">one of Auth0's Learning Identity videos</a>. Turn on closed captions so you don't miss any unfamiliar terms and don't be afraid to watch it more than once!
 {% endinfo %}
 
 Let's take the first step in getting this working: adding the WP REST API to Auth0.
@@ -149,10 +149,10 @@ In this example, we're going to allow creating posts under the current user's ac
 - `publish_posts` with a description of "Publish posts for the current user"
 - `edit_posts` with a description of "Edit posts for the current user"
 
-Later, when we log into our external application, we'll ask for one or both of these permissions as scopes to take action on behalf of a user (second step in the WP OAuth2 sequence above).
+Later, when we log into our external application, we'll ask for one or both of these permissions as scopes to take action on behalf of a user (second step in the WP OAuth 2 sequence above).
 
 {% info %}
-If you want to learn more about how scopes and permissions interact, check out <a href="https://auth0.com/blog/on-the-nature-of-oauth2-scopes/">Vittorio Bertocci's post on OAuth2 scopes on the Auth0 blog</a>. Don't be afraid to read it more than once, there is a lot to unpack, especially if you're learning this stuff for the first time!
+If you want to learn more about how scopes and permissions interact, check out <a href="https://auth0.com/blog/on-the-nature-of-oauth2-scopes/">Vittorio Bertocci's post on OAuth 2 scopes on the Auth0 blog</a>. Don't be afraid to read it more than once, there is a lot to unpack, especially if you're learning this stuff for the first time!
 {% endinfo %}
 
 The rest of the API settings can be left as defaults for now.
