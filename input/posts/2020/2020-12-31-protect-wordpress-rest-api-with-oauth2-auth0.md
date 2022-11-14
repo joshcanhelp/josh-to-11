@@ -228,7 +228,9 @@ Now, add the following code to the editor:
 
 <script src="https://gist.github.com/joshcanhelp/bee9bff4d4bacad90e91b0f0188ca7f4.js"></script>
 
-Walking through the code:
+You should now be able to select **Deloy** and add the Action to the Login flow according to the steps in the documentation linked above.
+
+Walking through the code we just deployed:
 
 * If the user does not have an email account then lookup is not possible and the Action is skipped.
 * If the Action does not have the correct configuration the Action is skipped.
