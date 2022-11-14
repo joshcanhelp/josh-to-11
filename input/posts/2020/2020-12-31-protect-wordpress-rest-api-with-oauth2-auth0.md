@@ -26,7 +26,7 @@ This system will allow the same user to log into both applications and create po
 
 In order for this tutorial to work, you'll need to have the following. 
 
-* You should already have an Auth0 tenant (sign up for free [here](https://auth0.com/signup)) and be familiar with how to create applications and connections. If you're starting from scratch, the WordPress plugin installation instructions will get you up to speed.
+* You should already have an Auth0 tenant (sign up for free [here](https://auth0.com/signup)) and be familiar with how to create applications and connections. If you're starting from scratch, the WordPress plugin installation instructions below will get you up to speed.
 * You should have a WordPress site(s) running and using the [Login by Auth0 plugin](https://wordpress.org/plugins/auth0/). The [installation instructions](https://auth0.com/docs/customize/integrations/cms/wordpress-plugin/install-login-by-auth0) show how to add Auth0 login to a new or existing WordPress site.
 * You should have at least one other application [integrated with Auth0](https://auth0.com/docs/libraries/). This tutorial will provide a link to a locally-running application that you can use to test this system.
 
