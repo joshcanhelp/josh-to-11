@@ -14,9 +14,11 @@ I was the maintainer of the [Auth0 WordPress plugin](https://github.com/auth0/wp
 
 What we will be building is a network of 2 applications that share a single source of identity, Auth0.
 
-One application will be a WordPress site that exposes a REST API (explained below). We will add Auth0 login capability and OAuth 2 protection for the API. This will allow API calls to be connected to the same user that created the WordPress account. 
+One application will be a WordPress site that exposes a REST API (explained below). We will add Auth0 login capability to the main application and OAuth 2 protection for the API. The latter will allow API calls to be connected to the same user that created the WordPress account. 
 
 The other application will request an access token during login that will allow it to call the WordPress API on behalf of the user logging in. We will map our permissions to core WordPress capabilities to match, generally, the existing authorization scheme. 
+
+This system will allow the same user to log into both applications and create posts via API with the same identity.
 
 ![](/_images/2020/12/WP-REST-API-diagram.png)
 
@@ -24,9 +26,11 @@ The other application will request an access token during login that will allow 
 
 In order for this tutorial to work, you'll need to have the following. 
 
-* You should already have an Auth0 tenant and be familiar with how to create and manage applications and connections. The [Getting Started](https://auth0.com/docs/get-started) section of the Auth0 documentation is a good place to start. 
+* You should already have an Auth0 tenant (sign up for free [here](https://auth0.com/signup)) and be familiar with how to create applications and connections. If you're starting from scratch, the WordPress plugin installation instructions will get you up to speed.
 * You should have a WordPress site(s) running and using the [Login by Auth0 plugin](https://wordpress.org/plugins/auth0/). The [installation instructions](https://auth0.com/docs/customize/integrations/cms/wordpress-plugin/install-login-by-auth0) show how to add Auth0 login to a new or existing WordPress site.
-* You should have at least one other application integrated with Auth0 to call the WordPress API. This tutorial includes instructions for a simple local application you can run to test this out if you're not ready to work with a live application right away. 
+* You should have at least one other application [integrated with Auth0](https://auth0.com/docs/libraries/). This tutorial will provide a link to a locally-running application that you can use to test this system.
+
+Alright, let's get started!
 
 ## What is the WP REST API?
 
