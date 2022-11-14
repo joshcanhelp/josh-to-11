@@ -108,7 +108,7 @@ From the [Auth0 docs](https://auth0.com/docs/authorization):
 
 **So what does this mean for WordPress?** 
 
-A user in WordPress is given a [role](https://wordpress.org/support/article/roles-and-capabilities/) which allows them to do certain things. If I'm an editor, for example, I can create my own posts and publish other people's posts but I can't remove a plugin. If I'm an administrator, then I can do all 3 and more. Roles represent a collection of capabilities or permissions that a user can do.
+A user in WordPress is given a [role](https://wordpress.org/support/article/roles-and-capabilities/) which allows them to do certain things. If I'm an editor, for example, I can create my own posts and publish other people's posts but I can't remove a plugin. If I'm an administrator, then I can do all 3 and more. Roles represent a collection of capabilities or permissions that are given all at once when that role is assigned.
 
 Authorization describes this same scenario but from a different perspective. If I'm logged into WordPress as a WordPress user taking actions on a WordPress application, then it all works like the above. But if I'm logged into, say, a mobile app as a user that has access to a WordPress site and want to take actions on that WordPress site, then things get a little more complicated. In that case, the mobile app has to request specific permissions for the WordPress site on behalf of that WordPress user. If those permissions are granted, the mobile app can now take the specific actions represented by those permissions.
 
