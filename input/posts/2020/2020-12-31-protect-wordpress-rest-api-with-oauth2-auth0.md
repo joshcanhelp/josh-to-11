@@ -98,7 +98,7 @@ This works fine if the calls are being made from the same site. The cookie and t
 
 ![WordPress, OAuth2, and Auth0](/_images/2020/12/wp-rest-api-authentication-thumb.png)
 
-## API Authorization with Auth0
+## API authorization with Auth0
 
 We're going to use Auth0 to protect our API in a way that will allow other applications to take actions that require privileges, like creating a post in our curl examples above. So a user will log into and application that is *not* the WordPress instance and be able to take actions on the WordPress site.
 
@@ -134,7 +134,7 @@ If you're more interested in how this whole OAuth2 thing works, I would highly r
 
 Let's take the first step in getting this working: adding the WP REST API to Auth0.
 
-## Register the WP API with Auth0
+## Register the WP REST API with Auth0
 
 The first thing we need to do here is register our WordPress API in Auth0 so other applications can reference it during login and receive an access token to call it. I'm going to reference the Auth0 documentation here so I don't duplicate helpful words written by trained professionals. [Start here](https://auth0.com/docs/get-started/auth0-overview/set-up-apis) and create an API using the following information:
 
@@ -142,9 +142,7 @@ The first thing we need to do here is register our WordPress API in Auth0 so oth
 - **Identifier**: Use your WP API base URL like `https://example.com/wp-json/`
 - **Signing Algorithm**: Set this to "HS256"
 
-Once you create the API, click on the **Settings** tab, scroll down, and turn on **Allow Offline Access** so we can refresh our access tokens. 
-
-Now click on the **Permissions** tab to add the WordPress actions we want to allow external applications to take. We don't need to add every single WordPress capability here, just the ones that will be requested by other applications. You can map these 1:1 with [existing WordPress capabilities](https://wordpress.org/support/article/roles-and-capabilities/#capability-vs-role-table) if you're using core WP REST endpoints or create additional ones if you're exposing your own API functionality ([covered here](https://developer.wordpress.org/rest-api/extending-the-rest-api/adding-custom-endpoints/)). 
+Now click on the **Permissions** tab to add the WordPress capabilities we want to allow external applications to take. We don't need to add every single WordPress capability here, just the ones that will be requested by other applications. You can map these 1:1 with [existing WordPress capabilities](https://wordpress.org/support/article/roles-and-capabilities/#capability-vs-role-table) if you're using core WP REST endpoints or create additional ones if you're exposing your own API functionality ([covered here](https://developer.wordpress.org/rest-api/extending-the-rest-api/adding-custom-endpoints/)). 
 
 In this example, we're going to allow creating posts under the current user's account and editing them, so we'll add:
 
@@ -161,7 +159,7 @@ The rest of the API settings can be left as defaults for now.
 
 ## Access token authorization in WordPress
 
-Now we need to enable the WP API to receive these access tokens, validate them, and make decisions for protected routes. 
+Now, we need to enable the WP API to receive these access tokens, validate them, and make decisions for protected routes. 
 
 To do all of this, we're going to use the core WordPress filter `determine_current_user` to look for a token in the request headers of a WP REST API call and decide whether or not the call should be allowed based on the call being made and in the information contained in the signed access token.
 
@@ -180,7 +178,7 @@ The first task is fairly straightforward and the last one is handled by core Wor
 
 The WP REST API expects a specific user record to be present in order to make permission decisions. But it also needs a user in focus for calls like post creation in order to set a post author. By default, you can only *authenticate* against this API (prove who you are), not *authorize* (prove what you're allowed to do). 
 
-In other words, the API expects a WordPress user in order to determine whether it will, say, allow a "create a post" call but, in this case, we only want a user that can do the actions that are in the `scope` claim in our access token. The WordPress user in question is delegating specfic actions they can take to the external application making the API call. Without checking the scopes, the external application could manage plugins, delete posts, and take actions that the WordPress user did not authorize. 
+In other words, the API expects a WordPress user in order to determine whether it will, say, allow a "create a post" call but, in this case, we only want a user that can do the actions that are in the `scope` claim in our access token. The WordPress user in question is delegating specific actions they can take to the external application making the API call. Without checking the scopes, the external application could manage plugins, delete posts, and take actions that the WordPress user did not authorize. 
 
 So, we do need a WordPress user in scope as we need to associate the post to someone, but we need to adjust the capabilities down to what the access token indicates. We'll do that by hooking into `determine_current_user` when we have an access token on a WP REST API route.
 
@@ -197,7 +195,7 @@ To avoid a big block of unmaintained code here, I put the required logic for all
 
 With all of this in place, the rest of the WordPress request will keep the correct user in scope but only allow the capabilities that were found in the access token. 
 
-## Check for WordPress Registration (optional)
+## Check for WordPress registration (optional)
 
 {% info %}
 One thing to note about this segment: the Auth0 Action needs the migration endpoint on the WordPress site to be accessible on the public internet. If you want to test this system out locally, you'll need to either skip this section or make your local WordPress instance available using <a href="https://ngrok.com">ngrok</a>, <a href="https://github.com/localtunnel/localtunnel">localtunnel</a>, or something similar.
@@ -241,7 +239,7 @@ Walking through the code:
 
 I added logging (use the [Real-time Webtask Logs extension](https://auth0.com/docs/extensions/real-time-webtask-logs) to see them during login) to help determine what's happening if there is a problem. Some or all of these can be removed once you confirm that the Action is working.
 
-## Build your Application
+## Build your application
 
 We now (finally) have everything we need to call the WP REST API from another application and publish posts there! If you walk through the second sequence diagram above, you can see all the different pieces coming together. 
 
@@ -270,8 +268,6 @@ Fill out the fields and click **Post**. If everything goes as expected, you shou
 If anything goes wrong, check the console output for the Node app and you should have a clue. If you're getting a 404 error, you might not have pretty permalinks turned on for the WordPress site. If you're getting a 401, you might not have the MU plugin package installed properly.
 
 ---
-
-If you made it to the end of this post, you deserve a cookie or something! Thanks for sticking with it and, if you have any questions, feel free to drop them in one of the repos below or give me a shout on [Twitter](https://twitter.com/joshcanhelp)!
 
 {% h2br %}References{% endh2br %}
 
