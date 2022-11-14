@@ -182,7 +182,7 @@ In other words, the API expects a WordPress user in order to determine whether i
 
 So, we need a WordPress user in scope to associate the post to someone, but we need to adjust the capabilities down to what the access token indicates. We'll do that by hooking into `determine_current_user` when we have an access token on a WP REST API route.
 
-To avoid a big block of unmaintained code here, I put the required logic for all of this in a [repo on GitHub](https://github.com/joshcanhelp/wp-rest-api-auth0/), which can be installed using the admin interface or Composer by following the steps in the README. 
+To avoid a big block of unmaintained code here, I put the required logic for all of this in a [repo on GitHub](https://github.com/joshcanhelp/wp-rest-api-auth0/), which can be installed using the admin interface or Composer by following the steps in the README. Don't forget to add the required constants!
 
 A few highlights of what [the code](https://github.com/joshcanhelp/wp-rest-api-auth0/blob/main/src/wp-rest-api-auth0.php) is doing:
 
