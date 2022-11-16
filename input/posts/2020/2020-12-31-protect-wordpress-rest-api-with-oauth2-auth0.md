@@ -152,7 +152,7 @@ In this example, we're going to allow creating posts under the current user's ac
 Later, when we log into our external application, we'll ask for one or both of these permissions as scopes to take action on behalf of a user (second step in the WP OAuth 2 sequence above).
 
 {% info %}
-If you want to learn more about how scopes and permissions interact, check out <a href="https://auth0.com/blog/on-the-nature-of-oauth2-scopes/">Vittorio Bertocci's post on OAuth 2 scopes on the Auth0 blog</a>. Don't be afraid to read it more than once, there is a lot to unpack, especially if you're learning this stuff for the first time!
+If you want to learn more about how scopes and permissions interact, check out <a href="https://auth0.com/blog/on-the-nature-of-oauth2-scopes/">Vittorio Bertocci's post on OAuth 2 scopes on the Auth0 blog</a>. There is a lot to unpack in this post, especially if you're learning this stuff for the first time, so I would recommend reading it more than once!
 {% endinfo %}
 
 The rest of the API settings can be left as defaults for now.
@@ -228,7 +228,7 @@ Now, add the following code to the editor:
 
 <script src="https://gist.github.com/joshcanhelp/bee9bff4d4bacad90e91b0f0188ca7f4.js"></script>
 
-You should now be able to select **Deloy** and add the Action to the Login flow according to the steps in the documentation linked above.
+You should now be able to select **Deploy** and add the Action to the Login flow according to the steps in the documentation linked above.
 
 Walking through the code we just deployed:
 
