@@ -9,6 +9,9 @@
         <a href="/">Home</a> &rsaquo;
         <a href="/posts">Posts</a> &rsaquo;
         <span>{{ page.date | dateformat }}</span>
+        {% if updated %}
+          (<span>updated {{ updated | dateformat }}</span>)
+        {% endif %}
       </p>
       <div class="title">
         <h1>{{ title }}</h1>
