@@ -270,8 +270,6 @@ Fill out the fields and click **Post**. If everything goes as expected, you shou
 
 If anything goes wrong, check the console output for the Node app and you should have a clue. If you're getting a 404 error, you might not have pretty permalinks turned on for the WordPress site. If you're getting a 401, you might not have the MU plugin package installed properly.
 
----
-
 {% h2br %}References{% endh2br %}
 
 - [WP REST API repo](https://github.com/joshcanhelp/wp-rest-api-auth0/)

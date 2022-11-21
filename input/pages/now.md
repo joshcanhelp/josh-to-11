@@ -11,6 +11,10 @@ wpid: 3794
 
 Inspired by [this](https://nownownow.com/about).
 
+{% h2br %}2022-11-21{% endh2br %}
+
+I've been back to work for 3 weeks after a 3 month leave following a [major family medical crisis](/stroke). I'm incredibly lucky to have the support that I do, both personally and professionally. I still have lots of processing to do around this but life has more or less settled into whatever "normal" means after something like this. 
+
 {% h2br %}2022-1-5{% endh2br %}
 
 I formally published my [library of cocktails](/cocktails/) along with [a guide on custom content type collections](/eleventy-custom-content-type-collections) in [Eleventy](/tag/eleventy/). Over the last 2 years I've grown much more familiar with, and fond of, Eleventy and all it has to offer. I'm starting to dial in my personal knowledge base and publishing systems while making more time to [take notes](/notes/) and process information. Part of me feels like this could be a big rabbit hole but the practice has, so far, felt like a good use of time and a way to make connections that I otherwise would not have made.
