@@ -8,4 +8,6 @@ This is the best margarita you'll have. If you've mostly had ones in Mexican res
 
 **Steps:**
 
-Shake and serve up or over fresh ice
+1. Shake everything besides the IPA with ice
+2. Strain into a coupe or cocktail glass
+3. Add the IPA

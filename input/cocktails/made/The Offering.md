@@ -17,5 +17,5 @@ A fantastic fall cocktail. Note that the shrub needs to be made 2 days in advanc
 **Steps:**
 
 1. Add all shrub ingredients except the vinegar into a sealed container, shake, and let sit for 2 days
-1. Add vinegars to the mixture, strain out the larger chunks, then pass through cheesecloth.
+1. Add vinegars to the mixture, shake, strain out the larger chunks, then pass through cheesecloth.
 1. Shake with ice, strain, and serve straight up.
