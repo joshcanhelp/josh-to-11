@@ -187,7 +187,7 @@ But perfection here is not the goal. Technology moves fast, we're all human, and
 
 In the end, I think it's critically important for us as individuals to move beyond a mindset that puts the responsibility for our productivity solely in our hands. Pushing yourself to write faster or work longer or check more boxes in a day _might_ work in the short term but you risk burnout, dissatisfaction, and frustration. Instead, **look at the systems that you're a part of and accept that your editor window is just a small piece of the puzzle.**
 
-## Resources
+{% h2br %}Read More{% endh2br %}
 
 - [Debugging engineering velocity and leading high-performing teams](https://leaddev.com/productivity-eng-velocity/debugging-engineering-velocity-and-leading-high-performing-teams)
 - [The Frustration with Productivity Culture](https://www.newyorker.com/culture/office-space/the-frustration-with-productivity-culture)
