@@ -24,9 +24,7 @@
     "html-minifier": "^4.0.0",
     "hygen": "^6.1.0",
     "moment": "^2.27.0",
-    "node-sass": "^7.0.3"
-  },
-  "dependencies": {
+    "node-sass": "^7.0.3",
     "change-case": "^4.1.2",
     "uuid": "^8.3.2"
   }

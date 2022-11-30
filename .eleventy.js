@@ -45,6 +45,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias("slideshow", "layouts/slideshow.njk");
 
   eleventyConfig.setUseGitIgnore(false);
+  eleventyConfig.setWatchThrottleWaitTime(1000);
 
   eleventyConfig.addTransform("htmlMinifier", htmlMinifier);
 

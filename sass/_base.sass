@@ -43,7 +43,7 @@ h6
 	font-family: $f_family_sans
 	line-height: 1.1em
 	clear: both
-	margin: 1em 0 0.66em
+	margin: $p_medium 0
 
 h1
 	font-size: 1.7em
@@ -88,14 +88,14 @@ figcaption
 
 p,
 pre
-	margin-bottom: $p_medium
+	margin: $p_medium 0
 
 ol,
 ul
 	margin: $p_small 0
 
 li
-	margin-bottom: $p_small
+	margin: $p_small 0
 
 	&:last-child
 		margin-bottom: 0
@@ -134,6 +134,9 @@ blockquote
 		padding: 4% 5%
 		border-left: 6px solid $c_g_medium
 		border-radius: 3px
+
+	> :first-child
+		margin-top: 0
 
 	> :last-child
 		margin-bottom: 0
