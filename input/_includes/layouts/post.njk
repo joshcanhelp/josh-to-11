@@ -32,11 +32,11 @@
       <span>Subscribe via:</span>
     </h6>
 
-    <p>
+    <div>
       <a href="/rss.xml" class="tag">RSS &rsaquo;</a>
       <a href="https://twitter.com/joshcanhelp" class="tag">Twitter &rsaquo;</a>
       <a href="https://github.com/joshcanhelp/josh-to-11/watchers" class="tag">GitHub &rsaquo;</a>
-    <p>
+    </div>
 
     {% set previousPost = collections.postsCollection | getPreviousCollectionItem(page) %}
     {% set nextPost = collections.postsCollection | getNextCollectionItem(page) %}
@@ -47,11 +47,11 @@
       <h6 class="sub-head">
         <span>Tags</span>
       </h6>
-      <p>
+      <div>
         {% for tag in tags %}
           <a href="/tag/{{ tag | slug }}" class="tag">{{ tag }}</a>
         {% endfor %}
-      </p>
+      </div>
     {% endif %}
 
     {% if previousPost %}
