@@ -11,6 +11,7 @@ console.log(data.page);
 */
 
 const { dateformat } = require("../../eleventy/filters");
+const { manningOidcPath, manningOidcPrompt } = require("../../eleventy/utilities");
 
 const isDraft = (data) => data.page.fileSlug.split("-")[0] === "DRAFT";
 
@@ -22,6 +23,27 @@ module.exports = {
       return data.permalink || data.page.fileSlug + "/index.html";
     },
     eleventyExcludeFromCollections: (data) => !!data.eleventyExcludeFromCollections || isDraft(data),
+    contentPrepend: (data) => {
+      const isTechnical = data.tags.some(
+        (tag) => [
+          "Software Engineering",
+          "Digital Identity",
+          "JavaScript",
+          "Writing + Publishing",
+          "Auth0",
+          "WordPress",
+          "Testing",
+          "Documentation",
+          "Open Source",
+          "Obsidian",
+          "Software Engineering",
+        ].includes(tag)
+      );
+
+      if (isTechnical && data.page.fileSlug !== manningOidcPath) {
+        return manningOidcPrompt
+      }
+    },
     date: (data) => {
       if (data.date) {
         return data.date;
