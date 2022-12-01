@@ -140,7 +140,7 @@ class TestHttpHalt extends \PHPUnit\Framework\TestCase {
 
 [See this using the helper library ›](https://github.com/joshcanhelp/wp-test-plugin/blob/master/tests/testHttpHaltWpTestCase.php)
 
-{% info %}You'll find that throwing a generic core `Exception` here can be a little problematic if the code you're testing fails for a different reason and you get an error from the JSON decoding. The helper library I link to above throws <a href="https://github.com/joshcanhelp/wp-unit-test-helpers/tree/master/src/Exceptions">specific exceptions</a> so you can catch what you throw in your helpers and everything else will bubble up.{% endinfo %}
+{% info %}You'll find that throwing a generic core `Exception` here can be a little problematic if the code you're testing fails for a different reason and you get an error from the JSON decoding. The helper library I link to above throws [specific exceptions](https://github.com/joshcanhelp/wp-unit-test-helpers/tree/master/src/Exceptions) so you can catch what you throw in your helpers and everything else will bubble up.{% endinfo %}
 
 Walking through what we're doing here:
 

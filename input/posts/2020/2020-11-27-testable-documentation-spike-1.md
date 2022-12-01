@@ -7,7 +7,7 @@ excerpt: My first spike on finding a system to take linted, tested code and outp
 
 ---
 
-{% info %}This is the first spike for the <a href="/testable-documentation-intro/">Testable Documentation project</a>.{% endinfo %}
+{% info %}This is the first spike for the [Testable Documentation project](/testable-documentation-intro/).{% endinfo %}
 
 I call this first spike the "code only" concept. I'm trying to combine code and documentation in a way that we can test and lint the code that we're using as an example. One way to do that is to just keep everything as code with the documentation as comments.
 

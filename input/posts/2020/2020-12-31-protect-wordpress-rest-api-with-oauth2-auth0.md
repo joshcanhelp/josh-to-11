@@ -129,7 +129,7 @@ Once this is complete, the authorization will look something like this (simplifi
 ![WP REST API authorization with OAuth 2 diagram](/_images/2020/12/wp-rest-api-authorization-with-oauth2.png)
 
 {% info %}
-If you're more interested in how this whole OAuth 2 thing works, I would highly recommend <a href="https://auth0.com/docs/videos/learn-identity-series/calling-an-api">one of Auth0's Learning Identity videos</a>. Turn on closed captions so you don't miss any unfamiliar terms and don't be afraid to watch it more than once!
+If you're more interested in how this whole OAuth 2 thing works, I would highly recommend [one of Auth0's Learning Identity videos](https://auth0.com/docs/videos/learn-identity-series/calling-an-api). Turn on closed captions so you don't miss any unfamiliar terms and don't be afraid to watch it more than once!
 {% endinfo %}
 
 Let's take the first step in getting this working: adding the WP REST API to Auth0.
@@ -152,7 +152,7 @@ In this example, we're going to allow creating posts under the current user's ac
 Later, when we log into our external application, we'll ask for one or both of these permissions as scopes to take action on behalf of a user (second step in the WP OAuth 2 sequence above).
 
 {% info %}
-If you want to learn more about how scopes and permissions interact, check out <a href="https://auth0.com/blog/on-the-nature-of-oauth2-scopes/">Vittorio Bertocci's post on OAuth 2 scopes on the Auth0 blog</a>. There is a lot to unpack in this post, especially if you're learning this stuff for the first time, so I would recommend reading it more than once!
+If you want to learn more about how scopes and permissions interact, check out [Vittorio Bertocci's post on OAuth 2 scopes on the Auth0 blog](https://auth0.com/blog/on-the-nature-of-oauth2-scopes/). There is a lot to unpack in this post, especially if you're learning this stuff for the first time, so I would recommend reading it more than once!
 {% endinfo %}
 
 The rest of the API settings can be left as defaults for now.
@@ -200,7 +200,7 @@ With all of this in place, the rest of the WordPress request will keep the corre
 ## Check for WordPress registration (optional)
 
 {% info %}
-One thing to note about this segment: the Auth0 Action needs the migration endpoint on the WordPress site to be accessible on the public internet. If you want to test this system out locally, you'll need to either skip this section or make your local WordPress instance available using <a href="https://ngrok.com">ngrok</a>, <a href="https://github.com/localtunnel/localtunnel">localtunnel</a>, or something similar.
+One thing to note about this segment: the Auth0 Action needs the migration endpoint on the WordPress site to be accessible on the public internet. If you want to test this system out locally, you'll need to either skip this section or make your local WordPress instance available using [ngrok](https://ngrok.com), [localtunnel](https://github.com/localtunnel/localtunnel), or something similar.
 {% endinfo %}
 
 What happens when a user logs into the external app and they don't have an account in the WordPress instance that serves the API? Without a WordPress account tied to the same Auth0 user, an access token will be valid but the WP API request will be rejected because the user cannot be found in the database.
