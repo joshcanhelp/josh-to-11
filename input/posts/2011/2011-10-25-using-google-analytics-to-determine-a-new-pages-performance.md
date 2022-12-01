@@ -21,7 +21,7 @@ Redesign it and they will come
 
 I’ve been making web long enough to know that a site redesign is probably a mistake half the time. Often, a better use of time, effort, and money is to refresh important pages for search engine optimization (SEO) and conversions (are people doing something after they read that page). I’ve taken this to heart on my own site, mostly because it’s the right move but partially because a redesign is time-consuming. In that vein, I redesigned my “Get Help” page back in July.
 
-![](/_images/2011/10/Screen-shot-2011-10-11-at-9.29.23-AM-e1318350613520.png "Josh Can Help "Get Help" page")
+![](/_images/2011/10/Screen-shot-2011-10-11-at-9.29.23-AM-e1318350613520.png "Josh Can Help Get Help page")
 
 This page had always been a bit of a catch-all and had some of the oldest perennial content on my whole site. I spent some time focusing my message with a great communication planner, Therese Beale, and I was ready for it to see the light of day. My idea was that I would outline what I have to offer (the first 4 things above) simply and give people a chance to buy in to the process before they even contact me by selecting an option to get started. I would get more information and they would be ready to take that next step:
 
