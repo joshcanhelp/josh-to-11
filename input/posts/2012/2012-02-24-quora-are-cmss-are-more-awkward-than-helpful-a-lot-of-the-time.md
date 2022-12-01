@@ -38,7 +38,7 @@ There's no way around it: you'll probably have to provide documentation of some 
 
 I've found that I need to re-document some of the features that have already been discussed. In fact, I'm building out a whole generic documentation section on my site that will help clients with some of the common features I use.
 
-I also build WP templates for sale and had to write a whole documentation section for the custom pieces: wpdrudge.com/docs. With that, people who have never used WordPress before are putting up sites. Without it, I'm answering questions all day every day.
+I also build WP templates for sale and had to write a whole documentation section for the custom pieces. With that, people who have never used WordPress before are putting up sites. Without it, I'm answering questions all day every day.
 
 **To conclude...**
 

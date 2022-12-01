@@ -24,7 +24,7 @@ This is where I start to stress out. I’ve got time left today to work on it bu
 
 - - - - - -
 
-I recently went through this whole process for the aforementioned online sales strategy for [WP-Drudge](http://wpdrudge.com), a theme I sell online. I was determined to take the big, scary picture in my head and parse it into a priority list of tasks to complete. I have always been good at big picture thinking and I’ve also been good at breaking things down into actionable tasks but there was always a disconnect between the two, especially on my own projects.
+I recently went through this whole process for the aforementioned online sales strategy for WP-Drudge, a theme I sell online. I was determined to take the big, scary picture in my head and parse it into a priority list of tasks to complete. I have always been good at big picture thinking and I’ve also been good at breaking things down into actionable tasks but there was always a disconnect between the two, especially on my own projects.
 
 I decided to get to the bottom of what I was feeling and experiencing by writing my way through the process. I found the whole thing very enlightening and thought others would as well.
 

@@ -16,7 +16,7 @@ You know what I like to do? **Make new plugins and themes**. My local environmen
 >
 > *– KidsAppHunt*
 
-But my favorite thing to build is one that people can, and hopefully will, use. Whether it’s free or paid, I like my work out there to be tested, critiqued, and improved. Because of that, I like to launch new things and I try to do that several times a year. This could be a [new plugin](http://theproperweb.com/product/google-news-wordpress/), [a release on a product I’m selling](http://wpdrudge.com/latest-release-version-2-6), a bug fix/new feature on an [open source plugin](https://wordpress.org/plugins/proper-contact-form/) I maintain, or [a solid blog post](http://wpdrudge.com/wordpress-rss-aggregator-theme). Whatever it is, I love to ship and that keeps me motivated to create new things.
+But my favorite thing to build is one that people can, and hopefully will, use. Whether it’s free or paid, I like my work out there to be tested, critiqued, and improved. Because of that, I like to launch new things and I try to do that several times a year. This could be a new plugin, a release on a product I’m selling, a bug fix/new feature on an [open source plugin](https://wordpress.org/plugins/proper-contact-form/) I maintain, or a solid blog post. Whatever it is, I love to ship and that keeps me motivated to create new things.
 
 The latest shipment comes in the form of a premium theme called Rank It WP. I built this during a slow period in November and December of last year and put it up for sale right before Christmas. The idea, explained in-depth below, was a Product Hunt-type site in WordPress.
 

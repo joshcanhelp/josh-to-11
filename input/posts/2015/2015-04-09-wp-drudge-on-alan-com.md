@@ -12,7 +12,7 @@ wpid: 3692
 >
 > *– Alan Colmes*
 
-I met Alan Colmes, radio and TV personality, several years ago in that funny way you sometimes meet people online. He was redesigning his site and found my [WP-Drudge](http://wpdrudge.com) template. Alan is the thoughtful, Liberal counterpoint to the loud, Conservative voices in Medialand and so he saw his website as a counterpoint to The Drudge Report. We worked together to build a custom version of the site which served him well for years with regular iterations.
+I met Alan Colmes, radio and TV personality, several years ago in that funny way you sometimes meet people online. He was redesigning his site and found my WP-Drudge template. Alan is the thoughtful, Liberal counterpoint to the loud, Conservative voices in Medialand and so he saw his website as a counterpoint to The Drudge Report. We worked together to build a custom version of the site which served him well for years with regular iterations.
 
 ![alan-dot-com-archive](/_images/2015/04/alan-dot-com-archive.png)
 
