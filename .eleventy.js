@@ -23,7 +23,7 @@ const {
   urlToDomain,
 } = require("./eleventy/filters");
 
-const { h2br, info, warning, caption, bigtext, markdownRender } = require("./eleventy/shortcodes");
+const { h2br, info, warning, caption, bigtext, markdownRender, promo } = require("./eleventy/shortcodes");
 
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
@@ -72,6 +72,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPairedShortcode("caption", caption);
   eleventyConfig.addPairedShortcode("bigtext", bigtext);
   eleventyConfig.addPairedShortcode("markdown", markdownRender);
+  eleventyConfig.addPairedShortcode("promo", promo);
 
   return {
     dir: {

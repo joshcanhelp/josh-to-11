@@ -15,6 +15,8 @@ const info = (text) => `<blockquote class="info-block">${markdownRender(text)}</
 
 const warning = (text) => `<blockquote class="warning-block">${markdownRender(text)}</blockquote>`;
 
+const promo = (text) => `<blockquote class="promo-block">${markdownRender(text)}</blockquote>`;
+
 const caption = (text) => `<figcaption><em>${markdownRender(text)}</em></figcaption>`;
 
 const bigtext = (text) => `<p class="bigtext">${markdownRender(text)}</p>`;
@@ -22,10 +24,11 @@ const bigtext = (text) => `<p class="bigtext">${markdownRender(text)}</p>`;
 const markdownRender = (content) => markdown.render(content);
 
 module.exports = {
+  bigtext,
+  caption,
   h2br,
   info,
-  warning,
-  caption,
-  bigtext,
   markdownRender,
+  promo,
+  warning,
 };
