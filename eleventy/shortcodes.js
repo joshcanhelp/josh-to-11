@@ -11,13 +11,13 @@ const h2br = (text, anchor) =>
     <span class="pink">&gt;</span>
   </h2>`;
 
-const info = (text) => `<blockquote class="info-block">${text}</blockquote>`;
+const info = (text) => `<blockquote class="info-block">${markdownRender(text)}</blockquote>`;
 
-const warning = (text) => `<blockquote class="warning-block">${text}</blockquote>`;
+const warning = (text) => `<blockquote class="warning-block">${markdownRender(text)}</blockquote>`;
 
-const caption = (text) => `<figcaption><em>${text}</em></figcaption>`;
+const caption = (text) => `<figcaption><em>${markdownRender(text)}</em></figcaption>`;
 
-const bigtext = (text) => `<p class="bigtext">${text}</p>`;
+const bigtext = (text) => `<p class="bigtext">${markdownRender(text)}</p>`;
 
 const markdownRender = (content) => markdown.render(content);
 
