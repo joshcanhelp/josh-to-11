@@ -1,6 +1,6 @@
 - 4 Luxardo cherries
 - 0.75 oz [[Scotch]]
-- 0.75 oz [[Blood Orange Liqueur]] or good [[Orange Curaçao]]
+- 0.75 oz high quality [[Orange Curaçao]]
 - 0.75 oz [[Sweet Vermouth]]
 - 0.5 oz pink grapefruit juice
 - 0.25 oz lemon juice
