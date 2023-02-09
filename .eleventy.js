@@ -11,6 +11,7 @@ const {
   bestOfCollection,
   sitemapCollection,
   rssCollection,
+  allIngredients,
 } = require("./eleventy/collections");
 
 const {
@@ -50,6 +51,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addTransform("htmlMinifier", htmlMinifier);
 
   eleventyConfig.addCollection("allTags", allTags);
+  eleventyConfig.addCollection("allIngredients", allIngredients);
   eleventyConfig.addCollection("bestOfCollection", bestOfCollection);
   eleventyConfig.addCollection("cocktailsMadeCollection", cocktailsMadeCollection);
   eleventyConfig.addCollection("cocktailsNextCollection", cocktailsNextCollection);

@@ -1,7 +1,7 @@
 * Splash of [[Mezcal]]
 * 2 oz blanco [[Tequila]]
 * 0.75 oz lime juice
-* 0.75 oz [[Modelo Syrup]]
+* 0.75 oz [Modelo syrup](/cocktails/modelo-syrup-ingredient)
 * 4 oz IPA
 
 **Steps:**

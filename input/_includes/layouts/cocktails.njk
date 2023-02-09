@@ -22,6 +22,13 @@
 
     {{ content | safe }}
 
+    {% h2br "ingredients" %}Ingredients [{{collections.allIngredients | length }}]{% endh2br %}
+    <p class="display-tags">
+    {% for ingredient in collections.allIngredients %}
+        <span data-ingredient="{{ ingredient | slug }}">{{ ingredient | safe }}</span>
+    {% endfor %}
+    </p>
+
     {% h2br "made" %}Cocktails Made [{{collections.cocktailsMadeCollection | length }}]{% endh2br %}
     {% for cocktail in collections.cocktailsMadeCollection %}
       {{ cocktailListing(cocktail) }}

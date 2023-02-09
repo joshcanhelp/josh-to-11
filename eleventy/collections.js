@@ -90,8 +90,19 @@ const allTags = (collections) => {
   return tagDict;
 };
 
+const allIngredients = (collections) => {
+  let ingredients = [];
+
+  collections.getAllSorted().forEach((el) => {
+    ingredients = ingredients.concat(el.data.ingredients);
+  });
+
+  return ingredients;
+};
+
 module.exports = {
   allTags,
+  allIngredients,
   cocktailsNextCollection,
   cocktailsMadeCollection,
   ideasCollection,

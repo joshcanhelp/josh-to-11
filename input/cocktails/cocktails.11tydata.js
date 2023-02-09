@@ -19,6 +19,8 @@ module.exports = {
       data.page.fileSlug
         .replace(/([a-z])([A-Z])/g, "$1-$2")
         .replace(/[\s_]+/g, "-")
+        .replace("(", "")
+        .replace(")", "")
         .toLowerCase() +
       "/index.html",
   },
