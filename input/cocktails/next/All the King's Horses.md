@@ -1,4 +1,4 @@
-- 1.5 oz [[Melon Vodka]]
+- 1.5 oz melon [[Vodka]]
 - 1 oz grapefruit juice
 - 1 oz [[Elderflower Liqueur]]
 - 1 oz lemon juice
