@@ -12,7 +12,7 @@ I've been trying to write this post for about a year now. Each time I start, the
 
 Here's what I want to you to know:
 
-{% bigtext %}Whether you're just getting started or a seasoned veteran, we need you. We need your experiments and your questions and your feedback. Your lack of understanding is a valuable attribute that goes away as you gain experience. Ask all the questions and give all the feedback because we're all better off for it. Your courage will be rewarded.{% endbigtext %}
+{% callout %}Whether you're just getting started or a seasoned veteran, we need you. We need your experiments and your questions and your feedback. Your lack of understanding is a valuable attribute that goes away as you gain experience. Ask all the questions and give all the feedback because we're all better off for it. Your courage will be rewarded.{% endcallout %}
 
 That feels better. Now, let me tell you why I know this is true. 
 
@@ -26,7 +26,7 @@ But, when you're just getting started, it's hard to see what you have to offer. 
 
 I've been getting better at this skill over the years but, in the beginning, it was mostly pain and suffering. I would text my friend pictures and questions when I got truly stuck (thanks Adam) and would often be up late at night just trying to get things working before a trip the next day. My knowledge is hard-earned and, now, I'm glad I don't end most sessions bleeding or ready to give up on cycling altogether.
 
-{% bigtext %}It's hard to be a beginner.{% endbigtext %}
+{% callout %}It's hard to be a beginner.{% endcallout %}
 
 You're slow and you mess up and you get frustrated. You might question your intelligence or agonize over repeated dumb mistakes, letting your self talk make a hard job even harder. You envy those who have gotten past this point and graduated to a higher level of skill. Worst case, you give up and leave this kind of work for smarter, more focused, more talented people. *What good are you, anyways?*
 
@@ -45,7 +45,7 @@ This is all well and good when we're talking abstractly but things get more comp
 
 I don't have the answer to this. What I can say is that I have been a part of or a bystander to many, many people just getting started at a company or skill. Time after time, the ones that succeed and seem to enjoy the journey more are the ones that take their time, question what's around them, and let go of feeling dumb. I have learned new things myself and found my own beginner's mind with their help. 
 
-{% bigtext %}If you don't feel safe to ask questions and make mistakes at work, it might be time to find a place that you can.{% endbigtext %}
+{% callout %}If you don't feel safe to ask questions and make mistakes at work, it might be time to find a place that you can.{% endcallout %}
 
 As a beginner, you can **embrace your beginner's mind** by:
 

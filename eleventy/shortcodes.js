@@ -19,12 +19,12 @@ const promo = (text) => `<blockquote class="promo-block">${markdownRender(text)}
 
 const caption = (text) => `<figcaption><em>${markdownRender(text)}</em></figcaption>`;
 
-const bigtext = (text) => `<p class="bigtext">${markdownRender(text)}</p>`;
+const callout = (text) => `<p class="bigtext">${text}</p>`;
 
 const markdownRender = (content) => markdown.render(content);
 
 module.exports = {
-  bigtext,
+  callout,
   caption,
   h2br,
   info,

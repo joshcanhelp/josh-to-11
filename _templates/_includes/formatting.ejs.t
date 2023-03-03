@@ -5,6 +5,6 @@
 
 {% info %}Info panel{% endinfo %}
 
-{% bigtext %}Big text{% endbigtext %}
+{% callout %}Big text{% endcallout %}
 
 {% h2br %}References{% endh2br %}
