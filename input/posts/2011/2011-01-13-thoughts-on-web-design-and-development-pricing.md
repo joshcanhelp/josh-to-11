@@ -2,7 +2,7 @@
 title: "Thoughts on web design and development pricing"
 excerpt: ""
 modified: 2016-04-03 02:32:59
-tags: ["Design", "Software Engineering", "About JoshCanHelp"]
+tags: ["Design", "Money", "Software Engineering", "About JoshCanHelp"]
 featured_img:
 wpid: 1750
 ---
