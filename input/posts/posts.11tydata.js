@@ -19,24 +19,17 @@ module.exports = {
   layout: "post",
   modified: "Last Modified",
   eleventyComputed: {
+    tags: (data) => data.tags || [],
     permalink: (data) => {
       return data.permalink || data.page.fileSlug + "/index.html";
     },
     eleventyExcludeFromCollections: (data) => !!data.eleventyExcludeFromCollections || isDraft(data),
     contentPrepend: (data) => {
-      const isTechnical = data.tags.some(
+      const isTechnical = (data?.tags || []).some(
         (tag) => [
-          "Software Engineering",
           "Digital Identity",
-          "JavaScript",
           "Writing + Publishing",
           "Auth0",
-          "WordPress",
-          "Testing",
-          "Documentation",
-          "Open Source",
-          "Obsidian",
-          "Software Engineering",
         ].includes(tag)
       );
 
