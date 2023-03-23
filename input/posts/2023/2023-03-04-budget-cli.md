@@ -5,7 +5,7 @@ tags: ["Money", "JavaScript", "Personal Data"]
 featured_img: /_images/2023/budget-cli-thumb.png
 excerpt: "After over a decade of trying to budget using existing tools, I decide to write my own in TypeScript. It turned out great!"
 link_to: https://github.com/joshcanhelp/budget-cli
-hn_link:
+hn_link: https://news.ycombinator.com/item?id=35269010
 ---
 
 I learned a little while back that I have a funny relationship with money. I'm not a miser but I've adopted two money concepts that make me more careful than I probably need to be:
