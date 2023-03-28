@@ -27,10 +27,6 @@ In no particular order, you, collectively, have:
 - **Helped me grow as a human and a husband and a dad.**
 - **Helped me feel just a little better.** 
 
-Specifically to my wife, Anna ... your position as a member of this Board is not incidental to our marriage. You have been a source of growth, inspiration, and motivation for the almost 2 decades that I've known you. You have had a hand in all of the things on that list above and, intensionally and otherwise, have helped me push far past who I ever thought I could be. **I am honored to know you as I do.**
-
-Specifically to my kids ... you have played an essential part in all this by being never-failing diving rods pointing to my deficiencies, anxieties, shortcomings, and mistakes. You are the truest truth that I know of and the source of immense, and often painful, growth. When I can handle all of my stuff combined with all of your stuff and still laugh at the end of the day, I feel like like a god. **Thank you for that challenge.**
-
 I think [Slimkid3 from Pharcyde](https://genius.com/600763) put it best:
 
 > There comes a time in every man's life  
@@ -44,3 +40,6 @@ Maybe you've watched my kids in a pinch or helped me move one (or many) times or
 
 Thank you again for what you've shown and taught me over the course of however long that I've known you. I sincerely hope that I have made a positive mark on your life as well, whatever the size.
 
+Specifically to my wife, Anna ... your position as a member of this Board is not incidental to our marriage. You have been a source of growth, inspiration, and motivation for the almost 2 decades that I've known you. You have had a hand in all of the things on that list above and, intensionally and otherwise, have helped me push far past who I ever thought I could be. **I am honored to know you as I do.**
+
+Specifically to my kids ... you have played an essential part in all this by being never-failing diving rods pointing to my deficiencies, anxieties, shortcomings, and mistakes. You are the truest truth that I know of and the source of immense, and often painful, growth. When I can handle all of my stuff combined with all of your stuff and still laugh at the end of the day, I feel like like a god. **Thank you for that challenge.**
