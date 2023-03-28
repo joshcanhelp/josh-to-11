@@ -8,7 +8,7 @@ Dear Distinguished Board Member,
 
 I'm am pleased to inform you that you've been accepted as a member of my mental boardroom. Congratulations! This position comes with no extra compensation but it also comes with no strings, expectations, or responsibilities attached. 
 
-You have been selected not because of your tenure, perfection, or what you have to offer but because of your character of composition, generosity of spirit, and approach to life. You have been an important voice inside my head and I'm a better person because of it. 
+You have been selected not because of your tenure, perfection, or what you have to offer but because of your composition of character, generosity of spirit, and approach to life. You have been an important voice inside my head and I'm a better person because of it. 
 
 Each board member, who shall, for the most part, remain anonymous, has helped me to create a life that I love and that I'm proud of and pushed me to be a better person in this world.
 
