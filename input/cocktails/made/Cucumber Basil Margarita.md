@@ -6,6 +6,7 @@ This works great with tequila or mezcal. The recipe below could easily make two 
 * 3 oz  [[Mezcal]] or [[Tequila]]
 * 0.75 oz agave or simple syrup
 * Pinch of salt
+* Black pepper
 
 **Steps:**
 
@@ -15,3 +16,4 @@ This works great with tequila or mezcal. The recipe below could easily make two 
 4. Rinse the shaker and pour the cocktail back in
 5. Add agave syrup and salt and swirl to mix; taste to make sure it's the right sweetness
 6. Add ice and shake for ~30 seconds, then strain into serving glasses
+7. Garnish with a few twists of fresh ground black pepper
