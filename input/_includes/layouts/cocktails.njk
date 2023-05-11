@@ -22,14 +22,9 @@
 
     {{ content | safe }}
 
-    {% h2br "made" %}Cocktails Made [{{collections.cocktailsMadeCollection | length }}]{% endh2br %}
-    {% for cocktail in collections.cocktailsMadeCollection %}
+    {% h2br "made" %}Cocktails Made [{{collections.cocktailsCollection | length }}]{% endh2br %}
+    {% for cocktail in collections.cocktailsCollection %}
       {{ cocktailListing(cocktail) }}
-    {% endfor %}
-
-    {% h2br "next" %}Cocktails to Make [{{collections.cocktailsNextCollection | length }}]{% endh2br %}
-    {% for cocktail in collections.cocktailsNextCollection %}
-       {{ cocktailListing(cocktail) }}
     {% endfor %}
   </article>
 {% endblock %}

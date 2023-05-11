@@ -12,8 +12,6 @@ module.exports = {
     },
     title: (data) => data.page.fileSlug,
     meta_title: (data) => data.page.fileSlug + " Cocktail Recipe",
-    contentPrepend: (data) =>
-      data.page.filePathStem.includes("/made/") ? "I Have Made This" : "I Have Not Made This Yet",
     permalink: (data) =>
       "cocktails/" +
       data.page.fileSlug

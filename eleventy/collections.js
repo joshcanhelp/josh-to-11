@@ -15,7 +15,7 @@ const rssCollection = (collection) => {
   });
 };
 
-sitemapCollection = (collection) => {
+const sitemapCollection = (collection) => {
   const tmpCollection = collection.getAllSorted();
   return tmpCollection.reverse().filter((tpl) => {
     if (tpl.data.permalink && !tpl.data.hidden) {
@@ -51,25 +51,10 @@ const ideasCollection = (collection) => {
   });
 };
 
-const cocktailsMadeCollection = (collection) => {
+const cocktailsCollection = (collection) => {
   return collection
     .getAllSorted()
-    .filter((tpl) => {
-      if ("cocktail" === tpl.data.layout && tpl.filePathStem.includes("/made/")) {
-        return true;
-      }
-    })
-    .sort(alphaSortTitle);
-};
-
-const cocktailsNextCollection = (collections) => {
-  return collections
-    .getAllSorted()
-    .filter((tpl) => {
-      if ("cocktail" === tpl.data.layout && tpl.filePathStem.includes("/next/")) {
-        return true;
-      }
-    })
+    .filter((tpl) => "cocktail" === tpl.data.layout)
     .sort(alphaSortTitle);
 };
 
@@ -105,8 +90,7 @@ const allTags = (collections) => {
 
 module.exports = {
   allTags,
-  cocktailsNextCollection,
-  cocktailsMadeCollection,
+  cocktailsCollection,
   ideasCollection,
   bestOfCollection,
   postsCollection,
