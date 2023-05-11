@@ -80,14 +80,27 @@ const allTags = (collections) => {
     allTags = allTags.concat(el.data.tags);
   });
 
-  let tagDict = {};
-  allTags.sort().forEach((el) => {
-    if (el) {
-      tagDict[el] = tagDict[el] ? tagDict[el] + 1 : 1;
+  const tagsWithCount = {};
+  allTags.sort().forEach((tag) => {
+    if (tag) {
+      tagsWithCount[tag] = tagsWithCount[tag] ? tagsWithCount[tag] + 1 : 1;
+    }
+    return tag;
+  })
+  
+  allTags.sort((a, b) => {
+    return tagsWithCount[a] > tagsWithCount[b] ? -1 : tagsWithCount[a] > tagsWithCount[b] ? -1 : 0;
+  });
+
+  [... new Set(allTags)].forEach(tag => {
+    if (tag) {
+      const count = tagsWithCount[tag];
+      delete tagsWithCount[tag];
+      tagsWithCount[tag] = count;
     }
   });
 
-  return tagDict;
+  return tagsWithCount;
 };
 
 module.exports = {
