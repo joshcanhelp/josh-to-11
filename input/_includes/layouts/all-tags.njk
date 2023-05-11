@@ -14,10 +14,13 @@ permalink: archives/tags/index.html
 
     {{ content | safe }}
     
+    <ul>
     {% for name, count in collections.allTags %}
-      <a href="/tag/{{ name | slug }}" class="tag">{{ name | safe }}
-        <span>{{ count }}</span>
-      </a>
+      <li>
+        <h6><a href="/tag/{{ name | slug }}">{{ name | safe }} ({{ count }})</a></h6>
+        {% if tagsMetadata[name] %}<p class="small">{{ tagsMetadata[name] }}</p>{% endif %}
+      </li>
     {% endfor %}
+    </ul>
   </article>
 {% endblock %}

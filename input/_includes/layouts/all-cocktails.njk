@@ -14,10 +14,7 @@
 {% block content %}
   <article>
     <div class="title">
-      <h1>All Cocktails <strong>{{ 
-        ( collections.cocktailsMadeCollection | length ) + 
-        ( collections.cocktailsNextCollection | length )
-      }}</strong></h1>
+      <h1>All {{ collections.cocktailsCollection | length }} Cocktails</h1>
     </div>
 
     {{ content | safe }}
