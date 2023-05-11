@@ -2,6 +2,7 @@
 title: "An Open Letter to My Mental Boardroom"
 tags: ["Personal Development"]
 excerpt: "A note to all the people that help make me better everyday."
+featured_img: /_images/icons/heart.png
 ---
 
 Dear Distinguished Board Member, 
