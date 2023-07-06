@@ -1,6 +1,6 @@
 ---
 title: "Engineering Velocity from the Bottom Up"
-featured_img: /_images/default-thumb.png
+featured_img: /_images/2022/gt40-engine-THUMB.jpg
 excerpt: "When I look to increase my velocity, I&#39;m trying to deliver more work I'm proud of without burning out. I want to get the most out of my time and maximize the parts of the job that I enjoy. Here's how."
 tags: ["Systems", "Team Dynamics", "Software Engineering", "Iteration", "Best Of"]
 permalink: engineering-velocity/index.html
@@ -8,6 +8,8 @@ hn_link: https://news.ycombinator.com/item?id=30602432
 ---
 
 What comes to mind when you hear the term "engineering velocity?"
+
+<img src="/_images/2022/gt40-engine.jpg" class="aligncenter" alt="">
 
 If you take [Wikipedia's definition](https://en.wikipedia.org/wiki/Velocity_(software_development)):
 
