@@ -1,4 +1,4 @@
----
+pe---
 title: "Conducting a Great Technical Interview"
 meta_description: "Technical interviews are a vital component of culture building and setting your team up for success. Here is how I make sure they go well and have a great time doing it."
 featured_img: /_images/default-thumb.png
@@ -27,7 +27,7 @@ The former is not guaranteed and can be harder to get right if you're naturally 
 
 ## As a team, prepare before all interviews
 
-This preparation starts with the team that the candidate is applying to join. Using the public job description as the foundation, **write a list of the technical-specific qualities, experience, and approach that this person should have to be successful**, if hired. These should be forward-looking, job-specific, and honest. Think about the things they should be able to do walking in the door as well as the things that they need to learn along the way. 
+This preparation starts with the team that the candidate is applying to join. Using the public job description as the foundation, **write a list of the technical-specific qualities, experience, and knowledge that this person should have to be successful**, if hired. These should be forward-looking, job-specific, and honest. Think about the things they should be able to do walking in the door as well as the things that they need to learn along the way. 
 
 As an example, let's say you're hiring for a mostly front-end programming position at a senior level. The job description might say "4 years programming experience with React, Vue, or similar." You should expect that the folks applying will have this experience on their resume in one form or another. But what else?
 
@@ -76,7 +76,7 @@ As an example, here's the opener I've used on the last several interviews I lead
 > 
 > "Do you have any questions or specific considerations before we get started?"
 
-The leader position should someone who has attended at least a few of these interviews before but it certainly doesn't have to be the most senior person on the team or the person who has done the most interviews. Consider rotating between team members so everyone gets experience. 
+The leader should typically be someone who has attended at least a couple of these interviews before but it certainly doesn't have to be the most senior person on the team or the person who has done the most interviews. Consider rotating between team members so everyone gets experience. 
 
 ## As an interviewer, prepare for specific interviews
 
@@ -90,17 +90,17 @@ I usually do this the day of the interview, often blocking out an hour before th
 - I read a few posts from their blog, if they have one
 - I'll look through their LinkedIn, if they have it
 
-What I'm looking for here are ways to personalize the questions that I have and hooks to keep them talking if I'm not getting a lot out of them. If you want, but don't need, experience with, for example, data pipelines, then look for experience in their resume. If there is not a hint of data experience, and that's not a show-stopper, then don't ask about it. If they built Kafka topics and Airflow jobs for a year, then don't ask if they have data experience or not, ask them about "position ABC at company XYZ" and use the words they used. You'll show them that you cared enough to do work ahead of time and avoid wasting valuable time.
+What I'm looking for here are ways to personalize the questions that I have and hooks to keep them talking if I'm not getting a lot out of them. If you want, but don't need, experience with, say, data pipelines, then look for experience in their resume. If there is not a hint of data experience, and that's not a show-stopper, then don't ask about it. If they built Kafka topics and Airflow jobs for a year, then don't ask if they have data experience or not, ask them about "position ABC at company XYZ" and use the words they used. You'll show them that you cared enough to do work ahead of time and avoid wasting valuable time.
 
 Be careful here, though, because the more personal you get, the less consistent you will be across all the interviews. Use the information you glean to pick your questions and tweak them, not to ask easy questions you know they have an answer for (or to ask questions you know they won't have a clue about). Use what you learn to preface questions, focus them, or eliminate them altogether. 
 
-One more thing I do at this stage is to write down an extra question or two just to make sure I have enough to work with. I find that that I'm the most nervous when I don't have enough questions to ask. 9 times out of 10 the interview is at risk of going long but every once in a while you get someone with tense, efficient answers and you're looking at the clock with 20 minutes left and nothing left to ask. Add a few questions at the end of your list so you end up disappointed you didn't have more time rather than stressed out that it's going too long. 
+One more thing I do at this stage is to write down an extra question or two just to make sure I have enough to work with. I find that that I'm the most nervous when I don't have enough questions to ask. 9 times out of 10 the interview is at risk of going long but every once in a while you get someone with terse, efficient answers and you're looking at the clock with 20 minutes left and nothing left to ask. Add a few questions at the end of your list so you end up disappointed you didn't have more time rather than stressed out that time is crawling. 
 
 ## During the interview
 
 Hopefully your anxiety about potentially altering the course of a person's life is reduced a bit but, like all things that happen during the messiness of being a human, you are not guaranteed a fun time just because you followed my advice.
 
-I find the hardest part about the interview itself is navigating the awkwardness I explained above. There are so many dynamics at play that it can be hard for all parties to stay focused on the task at hand. This often culminates in a situation that makes the candidate ramble, meander away from the question being asked, clam up, or misspeak.
+I find the hardest part about the interview itself is navigating the awkwardness I've talked about throughout this post. There are so many dynamics at play that it can be hard for all parties to stay focused on the task at hand. This often culminates in a situation that makes the candidate ramble, meander away from the question being asked, clam up, or misspeak.
 
 {% callout %}
 The most important thing to keep in mind is that <strong>signs of anxiety are not indications that the person is a bad fit for the job</strong>.
@@ -118,11 +118,11 @@ In fact, being nervous could be a sign that they are a perfect fit because they 
 
 Whatever the reason is, it's critical to understand that **it's up to you and your team to help them get through it**, it's your burden to bear. You have the advantage of preparation, more authority to interrupt to get things back on track, and less at stake. Internalizing this will make it easier to do everything you can to keep things comfortable. 
 
-One thing I like to do, usually as the interview leader, is to come up with a personalized (not personal) question that gives me some information but should be easy for them to answer. If they're a regular open source contributor, I'll ask them a question about a specific library they're active in. If I see something interesting (and job relevant) on their resume, I'll ask them to talk about it. What you're looking for is a question that makes it easy for them to start talking and an early win that they can be proud about. I can usually find a segue from that to a more pointed question, which has proven to be a great way to ramp up. 
+One thing I like to do, usually as the interview leader, is to come up with a personalized (not personal) ice-breaking question that gives me some information but should be easy for them to answer. If they're a regular open source contributor, I'll ask them a question about a specific library they're active in. If I see something interesting (and job relevant) on their resume, I'll ask them to talk about it. What you're looking for is a question that makes it easy for them to start talking and an early win that boosts their confidence. I can usually find a segue from that to a more pointed question, which has proven to be a great way to ramp up. 
 
-After that, the main thing I focus on doing is **listening, smiling, and nodding**. I want them to see me paying attention and plugged in. This is a challenge if you're a note-taker, like I am, but I can usually get a few key words out quickly and plug right back in. All of these things are signals to the candidate that you are interested in what they have to say and you care about what they are telling you. This boosts their confidence and allows them to do the best that they can. 
+After that, the main thing I focus on doing is **listening, smiling, and nodding**. I want them to see me paying attention and plugged in. This is a challenge if you're a note-taker, like I am, but I can usually type a few key words out quickly and plug right back in. All of these things are signals to the candidate that you are interested in what they have to say and you care about what they are telling you. This boosts their confidence and allows them to do the best that they can. 
 
-And, really, at the end of the day, it all comes down to listening. We've all had the experience of spacing out for a few minutes and losing the thread on a meeting. When it's a weekly team sync or a topic that might not be directly relevant for your day-to-day work, that's forgivable and not too difficult to recover from. But remember: **fighting awkwardness is your responsibility**. If you're not listening, you're going to stumble over the next question, appear disjointed, or leave a big block of radio silence that your teammates will struggle to fill. If you pay close attention, on the other hand, it should be easy to find a thread to pull on.
+And, really, at the end of the day, it all comes down to listening. We've all had the experience of spacing out for a few minutes and losing the thread on a meeting. When it's a weekly team sync or a topic that might not be directly relevant for your day-to-day work, that's forgivable and not too difficult to recover from. But remember: **fighting awkwardness is your responsibility**. If you're not listening, you're going to stumble over the next question, appear disjointed, or leave a big block of radio silence that your teammates might struggle to fill. If you pay close attention, on the other hand, it should be easy to find threads to pull on.
 
 ## After the interview
 
