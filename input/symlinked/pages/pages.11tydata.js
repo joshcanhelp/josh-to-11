@@ -1,4 +1,4 @@
-const { manningOidcPrompt } = require("../../eleventy/utilities");
+const { manningOidcPrompt } = require("../../../eleventy/utilities");
 
 module.exports = {
   eleventyComputed: {
