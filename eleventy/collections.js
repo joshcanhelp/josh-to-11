@@ -71,13 +71,13 @@ const allTags = (collections) => {
       tagsWithCount[tag] = tagsWithCount[tag] ? tagsWithCount[tag] + 1 : 1;
     }
     return tag;
-  })
-  
+  });
+
   allTags.sort((a, b) => {
     return tagsWithCount[a] > tagsWithCount[b] ? -1 : tagsWithCount[a] > tagsWithCount[b] ? -1 : 0;
   });
 
-  [... new Set(allTags)].forEach(tag => {
+  [...new Set(allTags)].forEach((tag) => {
     if (tag) {
       const count = tagsWithCount[tag];
       delete tagsWithCount[tag];

@@ -22,12 +22,20 @@ const {
   urlToDomain,
 } = require("./eleventy/filters");
 
-const { h2br, info, warning, caption, callout, markdownRender, promo } = require("./eleventy/shortcodes");
+const {
+  h2br,
+  info,
+  warning,
+  caption,
+  callout,
+  markdownRender,
+  promo,
+} = require("./eleventy/shortcodes");
 
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy({ 
+  eleventyConfig.addPassthroughCopy({
     images: "_images",
     html: "_html",
     "images/favicon": "/",
@@ -77,16 +85,7 @@ module.exports = function (eleventyConfig) {
       input: "input",
       output: "_dist",
     },
-    templateFormats: [
-      "md",
-      "html",
-      "txt",
-      "htaccess",
-      "pdf",
-      "toml",
-      "njk",
-      "webmanifest",
-    ],
+    templateFormats: ["md", "html", "txt", "htaccess", "pdf", "toml", "njk", "webmanifest"],
     passthroughFileCopy: true,
   };
 };

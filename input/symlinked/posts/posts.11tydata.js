@@ -23,18 +23,15 @@ module.exports = {
     permalink: (data) => {
       return data.permalink || data.page.fileSlug + "/index.html";
     },
-    eleventyExcludeFromCollections: (data) => !!data.eleventyExcludeFromCollections || isDraft(data),
+    eleventyExcludeFromCollections: (data) =>
+      !!data.eleventyExcludeFromCollections || isDraft(data),
     contentPrepend: (data) => {
-      const isTechnical = (data?.tags || []).some(
-        (tag) => [
-          "Digital Identity",
-          "Writing + Publishing",
-          "Auth0",
-        ].includes(tag)
+      const isTechnical = (data?.tags || []).some((tag) =>
+        ["Digital Identity", "Writing + Publishing", "Auth0"].includes(tag)
       );
 
       if (isTechnical && data.page.fileSlug !== manningOidcPath) {
-        return manningOidcPrompt
+        return manningOidcPrompt;
       }
     },
     date: (data) => {

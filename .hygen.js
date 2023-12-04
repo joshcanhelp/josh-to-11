@@ -7,7 +7,7 @@ const getYear = today.getFullYear();
 const getMonth = today.getMonth() + 1;
 const getDay = today.getDate();
 
-const padLeft = (num) => num < 10 ? "0" + num : "" + num;
+const padLeft = (num) => (num < 10 ? "0" + num : "" + num);
 
 const getDate = `${getYear}-${padLeft(getMonth)}-${padLeft(getDay)}`;
 
@@ -18,7 +18,7 @@ module.exports = {
   helpers: {
     getPostFileName: (locals, yearFolder = false) => {
       if (locals.isDraft === "yes") {
-        return `DRAFT-${locals.permalink ? locals.permalink : uuidv4() }`;
+        return `DRAFT-${locals.permalink ? locals.permalink : uuidv4()}`;
       }
 
       const permalink = locals.permalink || paramCase(locals.title);
@@ -33,5 +33,5 @@ module.exports = {
     getYear,
     IMAGE_PATH,
     DEFAULT_THUMB,
-  }
-}
+  },
+};
