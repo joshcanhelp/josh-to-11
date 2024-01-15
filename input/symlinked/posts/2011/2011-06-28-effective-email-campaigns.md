@@ -18,8 +18,8 @@ As a quick aside… it was great to really delve in on this topic and collect re
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/hOUCsYE4uQhNnm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin:2em; max-width: 100%;" allowfullscreen> </iframe>
 
-- [Presentation PDF](https://www.dropbox.com/s/pmtteou94ylewep/effective-email-marketing-campaigns.pdf?dl=0)
-- [MindMap PDF](https://www.dropbox.com/s/bxbg47va1kfout8/effective-email-marketing-campaigns-mindmap.pdf?dl=0) (I love these things!)
+- [Presentation PDF](https://www.icloud.com/iclouddrive/0ca_lPjLhPdGV202Ui1j7phmw#effective-email-marketing-campaigns)
+- [MindMap PDF](https://www.icloud.com/iclouddrive/079tuFNy3WnXCtbynyk_UPi9A#effective-email-marketing-campaigns-mindmap) (I love these things!)
 
 ## Outline
 

@@ -9,7 +9,7 @@ wpid: 12
 
 I just recently made an invoice for myself and thought I would share it with the world!
 
-[General invoice template (.XLS)](https://www.dropbox.com/s/2eec3ag80348wku/invoice_template.xls?dl=0)
+[General invoice template (.XLS)](https://www.icloud.com/iclouddrive/077ewkWJLO9Zz_ByWzM6l24cg#invoice%5Ftemplate)
 
 This took me about an hour to put together and I modeled it (slightly) after another template I found on-line (I didn’t like the format or the look). It’s clean, simple, and easy to use. Here are the steps on how to customize it a bit and use it for your business:
 

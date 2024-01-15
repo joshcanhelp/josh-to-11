@@ -102,7 +102,7 @@ Several pages of printer paper, a stick of mechanical pencil lead, and half an e
 
 Here is a bit more color, literally and figuratively:
 
-[![](/_images/2017/01/AHundredThings.png)](https://www.dropbox.com/s/zkk1xdd8f0l0oy0/AHundredThings.pdf?dl=0)
+[![](/_images/2017/01/AHundredThings.png)](https://www.icloud.com/iclouddrive/0f0E9bpD53rCB6Qf4XvY83Q5A#AHundredThings)
 
 {% h2br %}2020-11-29{% endh2br %}
 

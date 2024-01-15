@@ -19,7 +19,7 @@ One of the things I learned from Men’s Health was the concept of keeping track
 General Tracking
 ----------------
 
-There are three types of tracking you’ll want to do, especially when you first start: caloric intake, exercise, and general statistics. The big pain in the ass on that list is caloric intake, a topic I’ll cover in a future post (it’s safe to say that it played a major part in my weight loss then, now, and forever). The other two, general stats and exercise, can be combined together to make things easier. I made a [simple fitness tracking spreadsheet](https://www.dropbox.com/s/m4pcddvtgdk3sv3/fitness_tracking.xls?dl=0) you can use (it’s got all my data so you can see how I use it).
+There are three types of tracking you’ll want to do, especially when you first start: caloric intake, exercise, and general statistics. The big pain in the ass on that list is caloric intake, a topic I’ll cover in a future post (it’s safe to say that it played a major part in my weight loss then, now, and forever). The other two, general stats and exercise, can be combined together to make things easier.
 
 What you track is up to you and depends on what you’re doing. I recommend, at minimum, tracking the following:
 

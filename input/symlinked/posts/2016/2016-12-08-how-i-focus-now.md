@@ -58,7 +58,7 @@ Two things about this list …
 
 As a reminder to myself to actually make this all happen, I made a graphic to post on my wall (with [Canva](https://www.canva.com/), which is a lot of fun). Feel free to use/print/share (links to a PDF).
 
-<a href="https://www.dropbox.com/s/67vpivfzil0d4np/STARTUP-ROUTINE.pdf?dl=0"><img src="/_images/2016/12/STARTUP-ROUTINE-724x1024.jpg" class="aligncenter" alt="Startup Routine"></a>
+<a href="https://www.icloud.com/iclouddrive/05eWvjp6NIKhgtnR4UP79YYHg#STARTUP-ROUTINE"><img src="/_images/2016/12/STARTUP-ROUTINE-724x1024.jpg" class="aligncenter" alt="Startup Routine"></a>
 
 ## One Task
 
@@ -94,7 +94,7 @@ Again, this has been tough but I am getting better, hour by hour, day by day. It
 
 I made another graphic for this as well.
 
-<a href="https://www.dropbox.com/s/vtmum0pnebfnbj0/PROCESS.pdf?dl=0"><img src="/_images/2016/12/PROCESS-1024x768.jpg" class="aligncenter" alt="Process"></a>
+<a href="https://www.icloud.com/iclouddrive/011Cahckq3pjG1LqBxd125jBg#PROCESS"><img src="/_images/2016/12/PROCESS-1024x768.jpg" class="aligncenter" alt="Process"></a>
 
 ## Simplicity
 
@@ -166,7 +166,7 @@ I will say that it’s been quite tough to leave everything shut off; I can alwa
 
 And, once again, a graphic reminder:
 
-<a href="https://www.dropbox.com/s/3p4kqcv7eezzrcn/SHUTDOWN-ROUTINE.pdf?dl=0"><img src="/_images/2016/12/SHUTDOWN-ROUTINE-724x1024.jpg" class="aligncenter" alt="Shutdown routine"></a>
+<a href="https://www.icloud.com/iclouddrive/00fzVMexVk683VjkO49Eqpawg#SHUTDOWN-ROUTINE"><img src="/_images/2016/12/SHUTDOWN-ROUTINE-724x1024.jpg" class="aligncenter" alt="Shutdown routine"></a>
 
 ## fin
 
