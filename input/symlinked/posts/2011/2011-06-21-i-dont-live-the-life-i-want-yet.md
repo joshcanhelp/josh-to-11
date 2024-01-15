@@ -17,18 +17,14 @@ What I’m experiencing these days is a constant feeling of being behind, always
 I’m tempted to point the finger directly at email, with a sideways glance at Skype. The Terrible Twosome of communication, these two have a way of wreaking havoc on a potentially productive period of time. But you can’t place blame on something you’ve allowed to misbehave so poorly; you can’t blame a 3-year-old for burning down a fifth house if they were never disciplined properly after the first.
 
 No, I think the communication channels (which number about 12 at this point – 5 emails, 1 Skype, 2 Twitter, 2 Facebook, and 2 phone numbers), when taken together, just make a handy scapegoat. I’ve always been told that you can’t pin the blame for how you feel on other people, regardless of what they’re doing to you. So, in that vein, I’m going to absolve the distractions of their responsibility for my poor work habits and start working a little smarter.
-
-How do you work smarter when you already know how
--------------------------------------------------
+## How do you work smarter when you already know how
 
 I already know how to work better, in fact I know exactly how because I do it every now and then. I turn off communication distractions for most of the day, I prioritize what needs to be completed, I eat good food at regular intervals, I get some kind of exercise at some point during the day, and I stop before my eyes have trouble focusing. If I could manage do this every weekday, I could actually take weekends off, or at least be able to dedicate them to chipping away at the new programming languages, techniques, and ideas I have floating around me in swarms.
 
 But I don’t do this most days. In fact, I’m lucky if I get one day a week that’s well-regimented, productive for 8 hours, and doesn’t leave me feeling like I need a tall drink and complete mental disconnection at the end of the day. Most days are spent checking my email every 15 minutes, skipping between projects, tinkering with things mindlessly, and leaving me with just barely enough billable hours to cover my expenses.
 
 So why the hell am I in front of a computer for 9 – 12 hours a day?
-
-The “Problem”
--------------
+## The “Problem”
 
 I keep coming back to email and communication in general but there are a few “problems” occurring all at once, some of which are not problems at all but things I’m doing to create income in a very different way:
 
@@ -49,16 +45,12 @@ It sounds like a pretty full day of activity and there aren’t a lot of places 
 - [Painting (graffiti \[legal\])](/a-beautiful-day-a-piece-of-pressboard-some-montana-gold-and-an-illustration/ "A beautiful day, a piece of pressboard, some Montana Gold, and an illustration")
 
 These are all things I really enjoy doing and things that are good for me in multiple ways but they’re being pushed aside. It would be one thing if I was grinding out 10 billable hours a day (still something that would still need to change but a better trade-off) but I’m not. My time is being siphoned off in multiple directions and I don’t have much to show for it besides bags under my eyes.
-
-Something’s Got To Give
------------------------
+## Something’s Got To Give
 
 It’s clear that my work life needs to change fairly dramatically. I still very much love what I do and feel more confident in my output than I ever have in the past. But how I’m managing things (or not) is creating a situation where I feel like a burnout is right around the corner. Little distractions, admin tasks spread out over multiple sessions, communication channels being open all day, and a host of other things are slowly pestering me to death and I’m letting them do it.
 
 I keep thinking some app or blog or book will come swinging to my rescue out of the trees like Tarzan but it’s just not that simple. I have quite a few systems in place and I use them pretty well. I also know when to stop using something that I I started using, ostensibly, to get everything back in track. I’m not losing track of things, I’m just not getting tangible things done often enough and I’m not taking enough time for myself. I’m fanatically dedicated to keeping my clients doing their best online and I know I can keep doing that, I just need to figure out a different way to structure things.
-
-The Time is now
----------------
+## The Time is now
 
 I wrote this mostly to get it out of my system. Putting things into words on a page is very satisfying for me and it helps me frame things in a productive way. It also gets my mind working on the problem with the hope that a solution will drop out of all this navel-gazing.
 

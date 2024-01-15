@@ -17,9 +17,7 @@ Trust me, I totally understand the fear. I’ve seen the penalties first-hand an
 But there is, in fact, a way out. It’s not through weird tricks, paid links, or slight of hand; it’s through careful analysis, modest code fixes, intelligent keyword research, coherent content planning, and regular monitoring. **The plan I outline below is the road to good SEO.** Following these steps correctly are guaranteed not to break anything or hurt your ranking and, in the vast majority of cases, will lead to more traffic from search engines.
 
 I should mention… I help business’s navigate these three steps on a regular basis. If you’re interested in getting help, click “Improve Findability” here.
-
-Step 1: Current Site Analysis and Improvement
----------------------------------------------
+## Step 1: Current Site Analysis and Improvement
 
 The very first thing we need to do is understand where we’re at now. We can’t, of course, fix anything if we don’t know what’s wrong. But we also need to know what’s right. Not only that, we need to know where we’re starting in order to see the improvements we’ve made.
 
@@ -61,9 +59,7 @@ Depending on what platform you use for your site and how tech-savvy you are, the
 3. Next, move to major code issues like missing DOCTYPEs, duplicate or missing page titles, and missing header elements
 4. Look for and fix broken links
 5. After that, the rest is just a matter of how big the problem if and how difficult it is to fix each one
-
-Step 2: Research and Select Keywords
-------------------------------------
+## Step 2: Research and Select Keywords
 
 Now that your site is running the way it should, it’s time for the really in-depth SEO task: keyword choosing. I wrote a thorough post on [choosing keyword phrases for your content](/choosing-keyword-phrases-for-site-content) which sums up everything you’ll need to know about the process. I have a few more general tips to add, though…
 
@@ -74,9 +70,7 @@ Now that your site is running the way it should, it’s time for the really in-d
 - Some phrases are harder than others. Some industries are harder than others. Always look to get more specific if you can, as long as those phrases are being searched.
 
 Again, [this is where to start for choosing keywords](/choosing-keyword-phrases-for-site-content). Step 4 at the end will tell you where to place those words once you find them. You should look to do the whole process for each one of your existing content pages … static pages and blog posts alike. Make sure to keep track of what page got what keyword so you know what to look for in Google and in your analytics.
-
-Step 3: Monitoring, Experimenting, Modifying and Link Building
---------------------------------------------------------------
+## Step 3: Monitoring, Experimenting, Modifying and Link Building
 
 This last step is the ongoing part of this whole process. Step 1 is a one-time analysis, assuming you were able to permanently correct all of the problems you found. Step 2 speaks partly to the initial research but will be repeated with what you find out here.
 

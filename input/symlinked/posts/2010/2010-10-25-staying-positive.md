@@ -25,9 +25,7 @@ OK, I’m sorry, that wasn’t fair … nor, either, is it true. We are, however
 No, our existence right now is tolerable and we’re not spending any more money than we had originally expected. Still, staying in high spirits has been a conscious effort as this has felt less like a honeymoon and more like a test. We have found one thing, however, that keeps us going. This thing is the one thing that keeps everyone going through the tough times and the most important thing we’ve got going for us.
 
 **Beer**… no, sorry, that’s the other thing.
-
-People.
--------
+## People.
 
 The first two months of this trip were spent, for the most part, in “isolation.” By that I mean it was just Anna and I experiencing things, taking photos, making memories. Typically, we’d have a get together with friends on the weekend to share stories, photos, and lessons learned. As great as Skype has been, there’s just no substitution for face-to-face time (which is why I’m not so sure that the digital age is as lonely as people make it out to be… totally separate topic, that). Add to that our inability to communicate exactly as we’d like in French and you have a couple who are really ready for some friends and family time.
 

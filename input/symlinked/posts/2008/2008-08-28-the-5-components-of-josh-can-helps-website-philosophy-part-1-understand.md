@@ -11,9 +11,7 @@ wpid: 210
 One of the most challenging and interesting parts of what I do is bridging the gap between potentially confusing technology and people who are far removed from how it works. I think people intentionally avoid this massive gray area because of lack of patience, lack of interest, or inability (or no desire) to communicate properly. It can difficult to explain concepts like table-free design, search engine optimization, and digitizing art for print to people without the necessary experience. Despite that, it’s necessary for people who are promoting themselves or their business to understand these concepts on a basic level and realize how they can expand their work into new, expanding markets.
 
 I’ve taught billing systems and wireless networking to customer service representatives, math and science to family members and classmates, and blogs and social networking to colleagues and clients. What I’ve found to be the hardest concept to get across to people is the proper way to design and implement a website. I’m not exaggerating; explaining standards-based, table-free, search-optimized design to people without any experience can be a painful process to all parties involved. Clients want to understand what they are paying for – explicitly – and the only way to make this happen is to explain why I do what I do and why they want me to keep doing it that way.
-
-I’m new to all of this… how can this article help me?
------------------------------------------------------
+## I’m new to all of this… how can this article help me?
 
 #### Clients (those who need the design)
 
@@ -22,9 +20,7 @@ This post explains the very basic ins and outs of website design and why it can 
 #### Designers (those who provide the design)
 
 While I’m relatively new to the discipline, I’ve been teaching people and promiting understanding since I first strapped on that inbound call center headset. Let me help you find the words to use so you and your client are on the same page. Use your knowledge, skill, and people skills together to show your clients exactly what you do and why you do it that way. The worst that could happen is you lose 15 minutes and gain some personal clarity.
-
-Understand: Web design is it’s own discipline with it’s own subsets.
---------------------------------------------------------------------
+## Understand: Web design is it’s own discipline with it’s own subsets.
 
 I have always known this but it took [an article at A List Apart](http://www.alistapart.com/articles/understandingwebdesign), one of the most reputable voices in web design, standards, and usability, to really solidify this in my head. To quote the article (to avoid unnecessary paraphrasing):
 

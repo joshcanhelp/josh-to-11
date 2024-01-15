@@ -13,9 +13,7 @@ Last week was tough for me. I’d like to think I’m pretty hardened against re
 As usual, before I can completely drown in self-pity, the universe comes along and drops a few things right in my lap without me realizing they were connected. I’m aggressively skeptical towards pithy text-on-image quotes, popular Medium articles about passion, and books about finding yourself so inspiration comes in forms that don’t fit the typical mold. The Answer (TM) isn’t found in your email, it’s not on Twitter, and Google doesn’t index it. Trust me, I’ve looked.
 
 This morning, a Tweet rounded out a rapid-fire series of found media that has had an important and potentially lasting effect on my thinking. In order of when I found them:
-
-“Maidentrip”
-------------
+## “Maidentrip”
 
 I was sketching out a thing I’ll never build last night on the couch and my wife was looking for something to watch. She picked a documentary she’s seen before and asked “how about this?” I said, “sure, whatev.” About 5 minutes in, I put my sketch pad down and was mesmerized for the remainder.
 
@@ -26,9 +24,7 @@ The trailer doesn’t capture a fraction of the impact this documentary had on m
 Laura is unflappable, unceasingly optimistic, totally comfortable with herself, and completely self-sufficient. But she’s also tuned into her family, meets friends along the way, and takes someone along with her when, after 27K miles of sailing, she stops to commemorate the event, then hops back on the boat and heads to New Zealand.
 
 The message here is “anything is possible” and when it’s a teenager who, without a second thought, spent over a year alone on a sailboat, it’s really hard to deny. Seeing someone with such a strong self of self and emotional intelligence had a significant impact on me. **I highly suggest watching this.**
-
-The Ogo personal transportation device
---------------------------------------
+## The Ogo personal transportation device
 
 A bit of a clunky description there but this thing is so much more than a wheelchair (which, technically, is what it would be replacing). Think “chair attached to a Segway” and let a few images come to your mind. Sounds neat, right? Now watch this video:
 
@@ -47,9 +43,7 @@ The big inspiration for me, though, was how the founder talked and what he talke
 - Speed and distance – the Segway’s promise was more mobility, faster, with less effort. The promise here is the same but the difference is what it competes with. Segways compete with walking, running, cycling, unicycling, everything. But this competes with crutches, traditional wheelchairs (motorized or not), and no mobility at all. **No contest.**
 
 I can only hope that I’ll someday come up with a such a world-changing idea that’s also so incredibly cool. Just listen to Kevin’s words and take in how fantastic he and his team must be feeling putting something like this together.
-
-Seek Rejection
---------------
+## Seek Rejection
 
 This almost – *almost* – fell into the “ignorable quotations” bucket like the rest. It just happened to come to me at exactly the right time (notably, after the 2 above) and say exactly the right thing.
 

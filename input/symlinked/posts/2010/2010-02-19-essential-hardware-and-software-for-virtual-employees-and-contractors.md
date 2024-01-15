@@ -13,9 +13,7 @@ wpid: 1405
 [![](/_images/2010/02/Misc_003_fix.jpg "Misc_003_fix")](/_images/2010/02/Misc_003_fix.jpg)
 
 But, like always, reality stepped in fairly quickly and reminded me that the days between showers are unpleasant, coffee shops are expensive, and working from home has some subtle pitfalls that make it much less of a paradise than one might expect. Since my month (or two) of adjustment, I’ve learned what makes me a happy, successful, home-based cog and what can turn me into a grumpy, malnourished, pain in the ass. Some of it is attitude but a good portion comes from the right tools for the job.
-
-Desktop and Web-Based Software I Use and Love
----------------------------------------------
+## Desktop and Web-Based Software I Use and Love
 
 Certain people and companies deign to describe productivity nirvana through a perfect app. I’ve tried many, many of these incredible apps and have found about a 5% retention and success rate. That means 19 of 20 things I think will help don’t help and only get used a few times. A few, however, have stuck around for whatever reason.
 
@@ -30,9 +28,7 @@ Certain people and companies deign to describe productivity nirvana through a pe
 **[Keepass](http://keepass.info/):** KeePass stores and organizes all of your passwords in one place. it’s very secure and open source so there are developers creating plugins and add-ons. I just use the regular install and it makes my life much easier. I have a whole slew of client logins, passwords, and other information that I can’t just keep on a stack of post-it notes. I put everything into KeePass and just need to log in with one password when I need any of them. Joy. Combine it with Dropbox and your passwords can be synced across multiple computers.
 
 ![](/_images/2010/02/feedemon.png "feedemon")**FeedDemon****:** This is an interesting little RSS feed organizer that I started using a few months back. The one thing that caught my eye is that it plugs into Google Reader so there is a “cloud backup” of sorts. It also means you don’t have to install it everywhere so you can still use Reader on your laptop or phone and everything will stay copacetic. Feeds are easy to read, it has a built-in browser, and it’s fast and bug free (in my experience). Freeware gold.
-
-Desktop Software I Still Use But Hate
--------------------------------------
+## Desktop Software I Still Use But Hate
 
 So those are the applications that are a pleasure to use and make my life better. There are, however, a few that I use that I would love to just get rid of. Each one holds a special, dark place in my heart.
 
@@ -41,9 +37,7 @@ So those are the applications that are a pleasure to use and make my life better
 [![](/_images/2010/02/skype-logo.png "skype-logo")**Skype**](http://www.skype.com/)**:** Skype is the opposite of Tweetdeck in that it’s an application I hate which does things that I need to do. I really, really don’t like Skype for a number of reasons. Skype is the only IM client that I’ve ever used that I get real-time spam through which, to me, is quite disconcerting. Skype has the most annoying Fisher-Price interface I’ve ever had the displeasure of using (though the sounds are mostly pleasant), an interface that’s changed at least twice since I’ve started using it and has not improved even incrementally. Skype’s telephone function (dialing, sending tones, etc) does what it wants, sends the tones it sees fit, and only lets you use the num pad when it wants you to. If I could use something other than Skype, I’d do it in a second but taking calls through my computer is essential (audio quality is actually pretty damn good) and everyone seems to be on there so, what can I do?
 
 **[Adobe Creative Suite 3: ](http://en.wikipedia.org/wiki/Adobe_Creative_Suite)**Adobe had been on my bad side since they took 2 weeks to tell me via an (automated sounding) email that they wouldn’t help me with my Illustrator problem because they had already moved on to a new version. I’m one of probably 20% of people using their product that actually PAID for it rather than downloading it but apparently I should have already bought CS4. Their knowledge base moved around causing 404 not found pages from Google and their product decides not to work at really inconvenient occasions. Their products do amazing things, I’ll give them that, but when I heard Steve Jobs call them lazy, I found myself smiling and nodding. You can’t be at the top forever.
-
-Hardware That I Use and Love
-----------------------------
+## Hardware That I Use and Love
 
 So, we covered all the applications that make my life better, how about the physical stuff?
 

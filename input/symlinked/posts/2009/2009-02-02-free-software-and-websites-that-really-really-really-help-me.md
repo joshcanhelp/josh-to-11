@@ -26,9 +26,7 @@ A few resources for you:
 
 - [A great Lifehacker.com article (redundant) about using SyncBack to set up automatic back-ups](http://lifehacker.com/software/geek-to-live/geek-to-live-automatically-back-up-your-hard-drive-147855.php)
 - [Another SyncBack fan](http://randomwalksinlowcountries.blogspot.com/2009/02/backups-and-synchronization.html)
-
-Dropbox file synchronization
-----------------------------
+## Dropbox file synchronization
 
 [Get Dropbox synchronization software or find out more about it](https://www.dropbox.com/referrals/NTY0Mjc1OQ)
 
@@ -45,9 +43,7 @@ This is how it works:
 I’ve never had a problem with Dropbox, it’s never deleted files, and I’ve never had a conflict. It runs in the background, doesn’t suck memory, and just makes my life better. It’s a great way to stay productive on different machines but it’s also a triple back-up for the really important files that I’m currently working on. I have copies on three different computers (plus the external back-up).
 
 Dropbox gives you 2 gigs of storage which is quite a bit for what I need. If you’re only working with documents, you won’t get anywhere close to that. Image files and photographs stat to eat up space so you can upgrade to the 50 gig plan for $10/month. I have a lot of different files synced and I’m only at about 50%.
-
-Remember the Milk (RTM) online to-do list
------------------------------------------
+## Remember the Milk (RTM) online to-do list
 
 [![Rememberthemilk icon by moutzouris](/_images/2009/02/remember_the_milk_icon_by_moutzouris.jpg "remember_the_milk_icon_by_moutzouris")](http://www.rememberthemilk.com)
 
@@ -63,9 +59,7 @@ The best thing about RTM is the level of functionality that it has but does not 
 - I added RTM friends and share lists (I share a project list with one colleague and a tasks list with my girlfriend)
 
 And that’s just the half of it! You can sync it with your phone (part of the Pro account for a measly $25 per month), add pins to Google Maps, add time estimates to help planning, and add tags to help search. RTM has made me a lot more productive but, more than that, it’s really helped me get organizaed and not miss all the little things.
-
-Rambling
---------
+## Rambling
 
 Software and websites like the ones above are excellent tools not because they are absolutely essential but because they help automate things that make you successful. Ignore the whole time-saving aspect and think about what these things can help you accomplish and how much better they make you look. A couple examples:
 

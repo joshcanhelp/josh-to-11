@@ -13,18 +13,14 @@ When I started Josh Can Help, I billed myself as a “technology tamer,” boldl
 ![](/_images/2009/06/tamer_150.jpg)
 
 While I gained more experience over the last year, I realized my passion really centered around the web but it was more than just laying out sites and coding them. I was enthralled by how people could connect to one another, use simple tools to solve their problems, and create a name for themselves or their business in a way that was never possible before. What motivated me was how anyone could [leverage fairly simple technology to reach their goals](/how-to-make-a-technology-taming-plan/). **I realized that my energy was amplified when I was talking about WEB STRATEGY.**
-
-What is Web Strategy?
----------------------
+## What is Web Strategy?
 
 For all I know, I could be stealing a term from someone else so I apologize if this has been coined in some way before. It’s important to me to know what everyone else thinks about this term as well so **your comments are appreciated** (but, you know, read this post first).
 
 In one sentence, **web strategy is creating a track-able, improvable, and repeatable plan to achieve a specific goal on the internet.** If I could add another sentence I’d also say that this strategic plan would always seek to provide a clear [return on investment](/advice-to-a-client-dont-just-have-a-great-idea-and-act-on-it-remember-the-bottom-line-too/) and would be simple and (relatively) inexpensive to execute.
 
 That sums the term up nicely but there are very important components to creating a plan that works for your specific situation. I’m going to give you my take on the subject and I invite you to help me come up with more components.
-
-Web strategy … is scientific
-----------------------------
+## Web strategy … is scientific
 
 ![chemistry-lab01](/_images/2009/06/chemistry-lab01.jpg "chemistry-lab01")
 
@@ -46,9 +42,7 @@ Building an effective (read: successful) website starts with a goal. Let’s sta
 I think you see where this is going. The experiment, in this case, is to design a simple form using suggestions from people who have done the same. You could try a few different forms and switch them out occasionally, collecting data from each one. The data is the number and quality of sales leads generated from the form and the analysis will speak to whether the form increased the number of inquires, increased the quality of inquiries, or did nothing.
 
 Designing your plan like a scientist **keeps you focused on the goal, objective about the results, and ready and willing to start over and try something new**.
-
-Web strategy … is focused on returns
-------------------------------------
+## Web strategy … is focused on returns
 
 ![money01](/_images/2009/06/money01.jpg "money01")
 
@@ -67,9 +61,7 @@ But it’s more than just “*yay, I did it!*” You need to ask yourself a few 
 3. Am I properly set up to react to these leads or am I dropping the ball?
 
 **Spending money on a website or spending time marketing your business online is not just due diligence**. Have a outcome in mind and be sure that what you’re doing online helps you reach that outcome (unless you’re just screwing around on Twitter because that’s fun sometimes).
-
-Web strategy… makes things better, not worse.
----------------------------------------------
+## Web strategy… makes things better, not worse.
 
 Chores: I hate them. Washing the car, taking out the garbage, cleaning the bathroom… I just feel like I have better things to do with my time. The have-tos in life are a drag, that’s for sure. **Why create more of them?**
 
@@ -78,9 +70,7 @@ Being truly strategic on the web means that you’re not creating two hours of e
 But I’m going to take it one step further. Web strategy is about doing new, fun things. It’s about connecting with people in and out of your industry. It’s about expressing yourself in a new way and putting yourself and your ideas out there. It’s about learning new things, sharing your domain knowledge, and getting to know your customers and clients.
 
 **The online world is a vibrant, amazing, supportive, strange, and fantastic community**. Building your web presence and connecting to that world should be fun and eye-opening. If it isn’t, you’re probably doing something wrong.
-
-Web strategy… is what I do
---------------------------
+## Web strategy… is what I do
 
 ![joshcanhelp_logo_wide01](/_images/2009/06/joshcanhelp_logo_wide01.jpg "joshcanhelp_logo_wide01")
 

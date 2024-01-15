@@ -17,9 +17,7 @@ I started by thinking about the hiring processes I’ve been a part of in the pa
 So I put together the two Universal Lists of Job Searches: requirements and desirements…. or whatever. These are the things I have to have and the things that help people to stand out above the rest. I’ll list these below with a bit more explanation for each.
 
 The point of posting here before somewhere like Craigslist is (a) to get feedback on what I’m asking for and how I’m asking and (b) put it out there for referrals from people I know. Do you know anyone that fits the bill? Send them my way!
-
-The Job
--------
+## The Job
 
 > It’s time to get a bit more help doing what I’m doing. I’m a freelance web developer, designer, and strategy guy who is looking for someone to help me with client support and some of the minutiae of running a business. Tasks might include:
 >
@@ -32,9 +30,7 @@ The Job
 > I’m not sure exactly how to structure this because I may not have a steady number of hours each week. I can do one of two things: you can turn in a time sheet every 2 weeks/month/whatever or I can pay you in advance for a bucket of hours. It’s my hope that within a year or less that I can pay you on a much more regular basis but, for the time being, it has to be as-needed. As such, I’ll assume you have another job or other responsibilities so I’m not going to be calling you at 11pm to do something ASAP; I’m not that guy and I don’t want you or I to have that life.
 >
 > I’ve listed a few requirements and desirements below. If you aren’t a right fit based on the requirements below, that’s OK, just don’t apply.
-
-Required
---------
+## Required
 
 > – Good communication skills (written and verbal) and an understanding of what good customer service is
 
@@ -57,9 +53,7 @@ One more thing… follow up is really key for me. I try to help other people rem
 > – Straight-forward and honest… just tell me if you can’t do it
 
 This is a big one. I really don’t need some kind of superhero, I just need someone who can get things done in the time that they say they can. I like it when people underpromise and over deliver. My wife and I joke about our expectations all the time but I think it’s an important thing to keep in mind. I believe that plans should be made to direct your actions and decisions but sometimes they go off-track, get changed, or get tossed. As long as we’re on the same page about availability, capacity, and due dates, we’ll be just fine.
-
-Desired:
---------
+## Desired:
 
 > – Active online and in social media somehow
 
@@ -90,9 +84,7 @@ My Google Account, including all the apps above plus Reader, Analytics, Sites, e
 > – Seattle Metro area a plus
 
 I’m all about working virtually so even if you are in Seattle metro, I’m not going to be asking you to drive to my office (house) all the time. It would just be nice to meet you in person before we go and get all cozy together.
-
-How to Apply
-------------
+## How to Apply
 
 Here’s how I asked people to apply:
 

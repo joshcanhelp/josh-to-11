@@ -29,9 +29,7 @@ This project was a **TON** of fun to build and came together a lot faster than I
 I’m proud of how it turned out and looking forward to pushing this *a lot* further. If you will lend me your ear for a few minutes, let me tell you about how this came to be and how it all comes together.
 
 **Edit:** [hunted and loved on Product Hunt!](https://www.producthunt.com/tech/rank-it-wp)
-
-The Concept
------------
+## The Concept
 
 Curation is a huge part of what happens on the web these days and I’ve been involved with it for many years, both with the WP-Drudge community, clients, and my own projects. I see curation as equal in importance and value as original content; in fact, the two work together very well to make a great web property.
 
@@ -51,9 +49,7 @@ After a few calls and tossing spec sheets back and forth, we figured out the bes
 - Automatic media embeds for supported sites
 
 The theme came together in about a month of work and with Josh’s testing help. We ended up with more features than I planned on (a good thing, in this case) and a solid first release.
-
-How It Works
-------------
+## How It Works
 
 Here’s how the flow of the site works. You can follow along with the non-admin functionality on the [demo site](http://demo.rankitwp.com/):
 

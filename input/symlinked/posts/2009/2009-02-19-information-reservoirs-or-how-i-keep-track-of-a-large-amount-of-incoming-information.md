@@ -11,32 +11,24 @@ wpid: 586
 A couple of months ago, I felt so overwhelmed and inundated by the amount of information I came across on the regular that I sat up for almost two hours with a pen and a pad of paper trying to sketch out a way to manage this insane digital life I was leading. Between photos, music, email, contacts, web links, articles, client files, school files, and scheduling stuff, I was drowning fast. I’m an overly-organized person too so this was literally eating away at my conscious mind. This is what I came up with (along with a lot of other overly complicated and, ultimately, unused solutions).
 
 ![Information Overload](/_images/2009/02/info_overload.jpg "info_overload")
-
-What’s the problem?
--------------------
+## What’s the problem?
 
 The problem is too much, too fast. Too much good info, too many tools, too many things to remember. There’s just too much and there’s seemingly no way to hold it all.
 
 Finding an organization system that works for you is a matter of balancing **storage versus retrieval**. To make retrieval easy, you need to do a lot of sorting when the information is stored. To make storage easy, you might make it harder to find what you want. The key is in the balance.
-
-Forget about retrieval
-----------------------
+## Forget about retrieval
 
 Didn’t I just say it was a balance?
 
 Between accurate tags (little words you assign to anything you store) and precise searching, getting your information back when you need is easy and only going to get easier. I can’t think of one thing that I’ve lost on the internet. A little Google magic and sites that I thought were lost forever can easily be found.
 
 So, forget about retrieval and concentrate on storage.
-
-Gather, gather, gather
-----------------------
+## Gather, gather, gather
 
 The solution to this madness is effective, coherent information reservoirs. You need a place for your information to go and to stay. Then, when you need it, you just need to search for it. This concept, if you’re not familiar with the term, is bordering on this “cloud computing” thing you’ve probably heard about.
 
 No more is the problem how much information you have coming in. Find large, convenient places that store information, throw your info there as fast as you can, and forget about it until you need it.
-
-Information and Their Reservoirs
---------------------------------
+## Information and Their Reservoirs
 
 ![lake_shasta01_sm](/_images/2009/02/lake_shasta01_sm.jpg "lake_shasta01_sm")
 
@@ -85,8 +77,6 @@ I save all my contacts in my phone, that’s a given. My phone lets me add a lot
   - Yahoo:
   - Hotmail: Click on Contact List on the left, click Manage at the top, then Import
 - Now, just make sure to keep your webmail contacts up-to date on a regular basis. Set a reminder or an appointment weekly to input everything new from your phone to your webmail.
-
-Summary
--------
+## Summary
 
 The point I’m trying to make is not just to use the internet more, it’s to find the big deluges of information and figure out a way to store them quickly. Depending on your passion(s) or industry(ies), you could have a totally different set of information to monitor. Still, there’s probably an easy way to collect that information without having to parse it all. **Collect now, worry later.**

@@ -11,9 +11,7 @@ wpid: 22
 I smoked cigarettes for more than ten years starting in my teens. One of the best personal decisions I ever made was to finally quit smoking. I did this just over a year after I moved to a new state and away from friends I’ve known and smoked with and drank with for many years.
 
 By the end of my smoking career, it had taken me about 40 tries to put those damn things down but, one day, for no good reason, I did it. One day I was a smoker and the next I was not. I didn’t feel differently, I didn’t have something happen, I didn’t get hypnotized (I tried that before to no avail), I just stopped. Was it just one of those great miracles of life? Maybe not…
-
-Societal influence is nothing to fuck with
-------------------------------------------
+## Societal influence is nothing to fuck with
 
 Besides an honest desire to quit smoking, there were two subtle but strong forces at play in my success in quitting smoking:
 
@@ -39,14 +37,10 @@ Back home, it seemed like everyone I knew smoked cigarettes. In fact, a non-smok
 A crowd of people smoking creates not only an ease-of-access issue but a shift in reality issue as well. Like I mentioned before, moving to California made me feel like and outsider when I smoked. Back home, when you went out for a cigarette, you went with 5 people. Even if you’re the only 6 people in the bar who smoke, you’re still a team and it still feels normal. You can convince yourself that it’s not THAT bad if all these other people are doing it too.
 
 Moving away from this group made smoking much less of a social activity which took a lot of its magic away. You’re not escaping the chaos for a few minutes with friends, you’re leaving the fun behind while you medicate yourself. Though I still enjoyed smoking, it started to feel like what it was: a destructive, needless, ridiculous habit. I hid it from people, specifically co-workers, and tried to smoke where I wouldn’t be seen. I was embarrassed by this habit and that was going to help me quit it.
-
-So, I quit smoking…
--------------------
+## So, I quit smoking…
 
 …and that was that. It took me several tries but one of them stuck and in October 2006, I stopped. Since then, I’ve had about 6 cigarettes and despite how good they sounded at the time, they all made my lungs hurt and did nothing to convince me to pick the habit back up.
-
-Your friends make it harder on you
-----------------------------------
+## Your friends make it harder on you
 
 I used to be a fan of Tom Leykis back when only half of his show was misogynistic crap. He has a pragmatically selfish world view that has always jived well with a part of me. One afternoon, I was cleaning my apartment and he did a show about how your friends and family hold you back, somewhat intentionally. It was just him riffing for almost an hour (maybe more) with very few commercial breaks. Here’s an overview:
 
@@ -61,9 +55,7 @@ A bit harsh, no? I certainly don’t feel this about my support system but I’v
 - People who don’t exercise will always try to get you to abandon your plans for a run or a trip to the gym
 
 This isn’t to say that the people around you are bad people (though I’m sure you’ve got one or two you could excise to your benefit… I’m just saying) it’s just that they aren’t going to help you reach your goals unless they’ve got similar ones they are striving for.
-
-What’s a social human being to do?
-----------------------------------
+## What’s a social human being to do?
 
 I certainly wouldn’t want point out a glaring problem without giving you a little help to deal with it. I’ve dealt with a lot of this over the years to varying degrees of success. I’ve also played a part in others’ wagon-falling (with a very guilty conscience afterwards). Here’s what I recommend:
 

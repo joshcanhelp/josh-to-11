@@ -23,9 +23,7 @@ Sara’s Sanctuary is run by an amazing woman who cares for her animals more tha
 ## Facebook for Business SuperGuide [gone]
 
 I think I found this through Twitter but it definitely made it to my bookmarks page. This page has about \[insert big number here\] links to articles, videos, blog posts, and PDFs on the subject of Facebook. I’m a fan of Facebook (no pun intended) for personal interaction and making sure that my friends and family see a little bit of what I do professionally (I love personal referrals). Marketing my business on there, however, has never been a priority for me. I think Facebook is great for some and not terrible useful for others. If you want to figure out which group you’re in, I’d start on this page.
-
-Twitter links
--------------
+## Twitter links
 
 **[17 Remarkably Professional Looking Free Fonts](https://webdesignledger.com/17-remarkably-professional-looking-free-fonts/)**: I’m a sucker for free fonts and I’m continually impressed by what’s out there. That’s not to say that I won’t buy one when I need it but a lot of the time you can get by with the free stuff.
 

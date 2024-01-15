@@ -11,16 +11,12 @@ wpid: 366
 I’m giving a short presentation in a minute on how to choose an undergraduate chemistry research lab to a few students who are considering the research route at San Diego State University. I volunteered for the opportunity because I’m always looking for reasons to talk in front of people. I was a corporate trainer at one point and really developed a speaking style that I was proud of. Since then, I’ve done very little talking publicly and have since contracted a serious set of nerves about it. As such, I intend to beat down these nerves and address people more often.
 
 Anyways, writing my notes for this presentation got me thinking about my past as a student and how far I’ve come as a person. I wanted to share a bit about what I’ve learned as the oldest dude in my graduating class (except that other guy).
-
-On being an undergraduate (at 29)
----------------------------------
+## On being an undergraduate (at 29)
 
 Sticking on the course that I chose for myself almost 7 years ago and staying motivated to complete it has been one of the hardest things I’ve ever done in my life. It’s also been one of the best experiences I could ever hope for and one that’s absolutely altered everything about me and how I live.
 
 One of the biggest things I’ve dealt with is the feeling of being “behind” in life. I’m one of the oldest undergraduates in my program (by about ~3-4 years) and, as such, I am constantly reminded that, in May, in terms of education, I’ll be 7 years behind most of the people I’m taking classes with. Just typing that knots my stomach up a bit. Having had the ability to choose my path at 17 when I graduated, I **could** be, best case scenario, 3 years post-PhD in whatever discipline I chose. I could celebrate my 30th as Dr. Cunningham making 6 figures and on the path to greatness (well, maybe). Instead, I’m going to celebrate my 30th completely exhausted with a BS in hand and, hopefully, an open spot waiting for me in a Master’s program for Computer Science (or Computational Science). Depressing when you put it like that, no?
-
-Other considerations
---------------------
+## Other considerations
 
 Of course, this kind of comparison would be unfair. At 17, my direction in life was absolutely nil. In fact, I tried community college for one quarter, hated every second of it, and quickly decided to enter the workforce as a barista. This led to a severe (and still present) caffeine addiction combined with a solid pessimism directed towards the human race. There’s really nothing worse than being an already depressed teenager dealing with crowds of people desperate for their drug of choice. I still have bad dreams about that job. The point I’m trying to make is that I, at that point in life, was not only incapable of choosing a path for myself, I did not have the tools necessary to apply myself towards anything. I was listless and lazy and proud of it.
 
@@ -29,9 +25,7 @@ Additionally, I don’t know that I would have ever chosen chemistry as a discip
 The most important thing, however, was what the 5 year delay in going to school taught me indirectly. I worked for a wireless company for almost 3 years before I decided to start taking classes again. In that 3 years I reached about 270 lbs, was completely inactive, smoked over a pack a day, was at a high point of anger and depression, and hated almost every second of my life. Looking back, I am very grateful for being able to experience what it is like to work for a good(-ish) company with good pay and good benefits doing something a computer program could do for 40 hours a week. I felt like a nothing and a nobody for 8 hours a day for several years and it taught me that I would never again accept that kind of position in life.
 
 Without this working period, I would never have met the important people that I did, learned incredibly important life lessons, and built the confidence and ability that I have today. I would have entered with world with a PhD (maybe), some incredible experiences, but, quite possibly, very little respect for what else is out there.
-
-There is no “behind”
---------------------
+## There is no “behind”
 
 The idea that someone can be behind in life is something that I’ve wanted to come completely to terms with but have a long way to go. I’m able to dismiss it slightly by realizing that this is primarily an American construct. Thinking that there is a goal to life or being worried about what you’ve accumulated or how much education you have or how far along you are (or are not) with your mortgage is something that we’re indirectly trained to believe in this country. People make job decisions based solely on how much they’re making with no consideration to what they are doing or who they might be harming… but I digress.
 
@@ -42,9 +36,7 @@ I also don’t have a divorce, I don’t have a degree I’m not using, I don’
 What do I have now? I have an amazing woman in my life (that, ironically, I met when I went to community college. Had I accepted my position to the UW when it was granted, we might have actually had a class together but never met when we did), I have close, close friends in several different states, I have a network of professors I can contact and learn from, I have a great GPA, I have 2 jobs, both of which are fairly stable, I am humble and respectful and can appreciate anyone’s lot in life, and I’m grateful for all of that.
 
 Am I behind? Yup. Am I ahead? Yup. Is anyone keeping score? Only me if I decide to.
-
-Thinking about going back to school in your 20s? 30s? 40s?
-----------------------------------------------------------
+## Thinking about going back to school in your 20s? 30s? 40s?
 
 The easy answer would be “yes, do it! Do it for you and me and them! Go back! Always” but I’m not going to say that because I’ve also learned that college just isn’t for anyone. Here’s what I think:
 
@@ -56,9 +48,7 @@ The easy answer would be “yes, do it! Do it for you and me and them! Go back! 
   - Take what you will make during that time away from what you would make and add that to the actual cost to get your absolute cost ($160,000 – $60,000 + $20,000 = $120,000)
   - Now figure out how much you’re gaining after you get the degree ([it’s been found](http://www.usnews.com/articles/education/2008/10/30/how-much-is-that-college-degree-really-worth.html) that college graduates make about $20K more per year than those without… so it will take you 6 years to make that $120K back).
 - Nothing can make you feel older than hanging out with people 10 years younger than you are. Still, you have the advantage. You want this degree ten times more than most of the people around you. You’re also more likely to get more sleep, take better care of yourself, try harder, and do better. Attend a few study groups, gab about teenage drama, tell them about your wife or kids or mortgage… get in there and get the experience. I’ve learned a lot about myself through the young’uns I go to class with.
-
-Update: 11/5/2014
------------------
+## Update: 11/5/2014
 
 I get feedback from people who read this post a few times a year and I thought I’d give a little update to folks that have read this and feel like they’re in a similar situation. Also, don’t be afraid to tell me your story in the comments below; it’s much easier to suffer in like-minded company than it is to suffer alone.
 

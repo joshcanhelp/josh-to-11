@@ -9,9 +9,7 @@ wpid: 1786
 
 
 This site offers scripts, plugins, and themes for sale and for free. A question I’m often asked by friends and colleagues is how I decide what I sell and what I give away. There’s no formula but there is a rationale.
-
-First: Giving Back Is Important
--------------------------------
+## First: Giving Back Is Important
 
 I built my whole career on the backs of many other people before me. I learned what I know, partly, from blog posts, free guides and ebooks, and reading open source code. I feel very grateful that the path I choose is so populated with generous, smart people who can help me level up. While there are cons for all the pros of free, abundant information, the net benefit is a highly-available, very complete (though poorly organized) library of information.
 
@@ -20,9 +18,7 @@ Beyond that, I’ve also been fortunate enough to be able to find clients who ha
 Going even one step further, open source software has allowed me to build a business around providing add-ons to existing functionality. Without the base platform, typically WordPress for me, I would have no starting point and no user base to sell to.
 
 I take none of this for granted and often find myself stunned that this whole ecosystem even exists. Without the hard work of thousands (millions?) of people, what’s happening on the web now would not be possible at all. Apache, Nginx, jQuery, MySQL … all of this and much, much more comes together to create near limitless possibility and empower endless creativity. The whole thing is mind-boggling and I’m very happy to be a part of it. So I give back.
-
-What Is Free?
--------------
+## What Is Free?
 
 Again, I don’t have a set of rules I follow but my free software typically:
 
@@ -37,9 +33,7 @@ For example, I created a contact form plugin called [PROPER Contact Form](https:
 I also built a [PHP Form Builder](https://github.com/joshcanhelp/php-form-builder) as a way to generate HTML forms easily with PHP. This is still in beta but I use it in the PROPER Contact Form plugin so it’s being used in the wild. This was just a thought experiment and was created to improve both my understanding of form HTML as well as object-oriented programming. People have found a few issues, used it in their own projects, and given me good feedback. The project served it’s purpose and it’s my pleasure to keep it up-to-date.
 
 Though I’m concentrating on selling more plugins and themes in the near future, my commitment to open source software will not wane. I have several open source plugins that I’ll be releasing this year and a pair of helper scripts that were created for a Drupal to WordPress migration that included CiviCRM. These represent a lot of hard-earned knowledge, most of which pulled from the work of others. I also intend to make 2014 the year I finally get a core contribution mention for WordPress.
-
-What Is For Sale and Why?
--------------------------
+## What Is For Sale and Why?
 
 The plugins and themes I have for sale here are all written from scratch by me and fill a gap in the market (I hope). I rarely use open source libraries in my for-profit code and, if I do, I’m diligent about respecting the license associated with the package.
 

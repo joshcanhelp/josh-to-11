@@ -13,9 +13,7 @@ wpid: 796
 ![](/_images/2009/06/not-email.jpg)
 
 By now, you should be confident about sending the email in the first place and have a measurable outcome in mind. You’ve combed through your email list, taken a close look at the images you’re sending, and feel confident about your subject line. Now, let’s move your campaign from passive to active.
-
-Tip #4 – Are you getting your message across clearly, honestly, and effectively?
---------------------------------------------------------------------------------
+## Tip #4 – Are you getting your message across clearly, honestly, and effectively?
 
 Since you have a goal in mind, make that goal the target for your whole message. Do you want people to sign up for a conference? Make sure that comes across clear as day in your email. Are you informing your existing clients to a change in your website or procedures? **Be straight-forward** and make sure the important stuff comes before anything extemporaneous.
 
@@ -44,9 +42,7 @@ One more thing to think about:
 > “Email marketing is not about what you can get away with. Email marketing is about treating people with respect so that they will listen to what you have to say. So you can build your brand. So you can tell your story.”
 
 You’re being given the opportunity to present yourself to anyone willing to open your email. **Don’t squander that permission**; it’s hard to gain back once you’ve lost it.
-
-Tip #5 – Is the next step for each email clear?
------------------------------------------------
+## Tip #5 – Is the next step for each email clear?
 
 I’m not sure where I heard this first but this is one of the few sales tactics that I find very valuable and not inherently dishonest.
 
@@ -78,9 +74,7 @@ Read through as much of that as you can stand… **your sales depend on it**. He
 > Scrutinize your competition’s design and organization flow of their landing pages…Put your most critical landing page elements in the upper 300 pixels of the page…Be obvious and use standard usage conventions…Make sure your page loads quickly
 
 No one ever said **effective** company email marketing was an easy job. You might create a whole template and one or two landing pages for each email you send out. That’s a lot of work but very worthwhile in the end.
-
-Tip #6 – What else can I try?
------------------------------
+## Tip #6 – What else can I try?
 
 I think five essential questions are about all anyone could take on this topic. That’s a lot of information to absorb. As such, this sixth one is more about playing around and experimenting.
 

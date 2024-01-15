@@ -9,9 +9,7 @@ wpid: 226
 
 
 These are a few things that we found and enjoyed in and around Paris during [our 2 month stay there in 2010](/tag/paris).
-
-Here are my eating tips:
-------------------------
+## Here are my eating tips:
 
 - It’s easy to get bad food there, especially at places that serve a bunch of different things. Go for specialty places.
 - If you want a crepe, look for a place that pours dough on the heating element, not one that reheats a pre-made one. Best crepes we had were in the market square right near Sacre Coeur.
@@ -22,18 +20,14 @@ Here are my eating tips:
 - For the most part, avoid the countless stereotypical cafes called brasseries…. scratch that, go to the one that looks the most authentic once and get a croque monsieur and a glass of rose wine and take an hour eating it. Then avoid them. Typically overpriced and uninspired.
 
 ![](/_images/2013/02/IMG_1411.jpg)
-
-Staying somewhere:
-------------------
+## Staying somewhere:
 
 - Best thing to do is to find it online and book it ASAP. If you go without plans, you could end up cheaper and better or worse and more expensive. In my opinion, it’s better to have a plan in place if you already know the dates.
 - Areas: Montmartre (9th arr) and Marais (3rd arr) will probably be your best value for location. Stay in a single-digit arr. so you’re close to things… though you can get ANYWHERE by the metro so it’s not a big deal. I found walking to be the best way to get around, though.
 - Trip Advisor is your friend.
 
 ![](/_images/2010/08/paris_apartment_view.jpg)
-
-Doing things:
--------------
+## Doing things:
 
 - A “a quick in and out” at the Louvre would be a mistake. Either plan for 3 – 4 hours or do something else, IMHO. I found it to be pretty incredible but it’s so massive, it would be a shame to go and miss out on half of it. If you do go, plan what you want to see, don’t go in cold.
 - Eiffel Tower is a must… pay for the ticket that gets you to the top but take the stairs to the second level. The construction is a sight to see, especially for visual types.

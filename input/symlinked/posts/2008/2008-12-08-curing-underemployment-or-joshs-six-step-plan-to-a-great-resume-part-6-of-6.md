@@ -11,9 +11,7 @@ wpid: 461
 Ha! I thought forgot about the last one, huh? Nope.
 
 On Friday, I posted the [5th step to a great resume, writing a “final” draft](/curing-underemployment-or-joshs-six-step-plan-to-a-great-resume-part-5-of-6/).
-
-Step 6: Lay it out as you go through it again (and again \[and again\])
------------------------------------------------------------------------
+## Step 6: Lay it out as you go through it again (and again \[and again\])
 
 This is the final step and possibly the most important one. This is called “checking your work” or “avoiding the if-only-I-had’s.”
 
@@ -28,9 +26,7 @@ Read it through normally once or twice, then mix it up a little bit:
 - Give it to someone else to read. This is a critical step, especially for resumes. It’s improbable that a second set of eyes WON’T catch something that you missed. Bite the bullet and hand it off to a spouse, friend, or parent.
 
 If you’ve read it more than 3 times, tried all three tips above, and feel good about it, then it’s time to get it ready to print.
-
-Final steps to get ready to send these out
-------------------------------------------
+## Final steps to get ready to send these out
 
 I said six steps but here’s a few bonus ones that bring this process home…
 

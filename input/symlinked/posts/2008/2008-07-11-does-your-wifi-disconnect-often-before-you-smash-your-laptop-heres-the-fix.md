@@ -20,9 +20,7 @@ I have definitely Googled this problem before and came up empty-handed but it al
 > I have been using Services.msc to stop WZC (I have it in my start-up folder), but I have to scroll to the bottom of the Services window to access WZC to stop it. I would like to find a faster way to do this, perhaps in the form of a shortcut to a batch file that would start or stop the service, or a shortcut directly to WZC within the Services window. Can you tell me how to accomplish my goal?
 
 Windows has these things called “services” that operate certain parts of the operating system. One of these services, the Wireless Zero Configuration (WZC), tries to find the best connection between your available connection and will drop you off of the network you’re on if it thinks it finds a better candidate (another preferred/automatic network). This works great for cell phones (this is actually how cellular services works, wireless hand-offs) because they know how to do it and keep the connection going (sometimes – dropped calls being the exception). Your wifi adapter, however, cannot do this so if you’re swimming in open networks and the connection you’re using isn’t the best, you might just get booted (by your own computer).
-
-How to stop the wifi disconnect? Stop the service…
---------------------------------------------------
+## How to stop the wifi disconnect? Stop the service…
 
 0\) Make sure you’re connected to the right wireless network first. Once you disable the service, you can’t connect/disconnect unless you restart the service.
 

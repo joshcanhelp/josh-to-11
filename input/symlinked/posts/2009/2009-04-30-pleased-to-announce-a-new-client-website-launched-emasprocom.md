@@ -11,9 +11,7 @@ wpid: 680
 I’m very excited to announce the culmination of a lot of planning, design, and coding. The site [www.emaspro.com](http://www.emaspro.com) went live on Monday night without any major fiascoes, issues, meltdowns, or problems.
 
 [![emaspro01](/_images/2009/04/emaspro01.jpg "emaspro01")](http://emaspro.com)
-
-The goal of this site
----------------------
+## The goal of this site
 
 The website team set out with a few goals in mind (listed in order):
 
@@ -22,9 +20,7 @@ The website team set out with a few goals in mind (listed in order):
 3. **Create a better landing page for email campaigns and conference leads**
 
 To this end, the design and content of the site serves to drive visitors towards the **Contact Us form** (aka the request a demo form). The software being sold on this site is a large, campus-wide relationship management tool so the option to pay and download does not exist. Our goal is to convince people that we’re worth the time to check out, drive home a few salient points, and get them to call or email for a demonstration.
-
-Information architecture to assist our sales lead goal
-------------------------------------------------------
+## Information architecture to assist our sales lead goal
 
 Since the goal was to funnel visitors towards the contact form, the site needed to avoid navigation confusion and always have the option to jump right to a contact form. Here’s what was done to achieve that goal:
 
@@ -33,9 +29,7 @@ Since the goal was to funnel visitors towards the contact form, the site needed 
 - Content resides only one or two levels deep. This means it takes only one or two clicks to get to the main content. Portal pages were created for topics with more than one page to create an index and a good landing spot for general links like the clients we support and our main selling points.  
   [![emaspro03](/_images/2009/04/emaspro03.jpg "emaspro03")](http://emaspro.com/why-emas-pro/)
 - Appropriate headlines and link text was used to both inform and entice. Whenever possible, long pieces of content were broken into sections and/or lists to make it easy to scan.
-
-Other features
---------------
+## Other features
 
 A lot of time, energy, and planning went into building this site. This is easily the most well-planned, fully designed site I’ve ever built. A few things I’m really psyched about:
 
@@ -48,9 +42,7 @@ A lot of time, energy, and planning went into building this site. This is easily
   ![emaspro05](/_images/2009/04/emaspro05.jpg "emaspro05")
 - The forms go to different mailboxes depending on the option that is selected. A special CSS-based anti-spam measure was added to replace the original idea of using a reCATCHA.  
   ![emaspro06](/_images/2009/04/emaspro06.jpg "emaspro06")
-
-What’s next?
-------------
+## What’s next?
 
 The site is not quite complete but needed to be launched. Here’s what’s just around the corner:
 

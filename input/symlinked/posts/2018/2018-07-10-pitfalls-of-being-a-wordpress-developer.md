@@ -29,9 +29,7 @@ Not everyone is going to fall into this trap but I definitely have and it’s be
 I’m currently an open source engineer at Auth0 maintaining our [PHP repos](https://github.com/auth0?utf8=%E2%9C%93&q=&type=&language=php), including a relatively large [WordPress plugin](https://github.com/auth0/wp-auth0/). My technical writing experience makes me valuable as a documentation contributor (highly valued at Auth0) and my relatively broad experience helps fill gaps where needed (like PR reviews, troubleshooting, and support requests). I’ve learned more in the past 5 months than I have in the last 4 years combined with no end in sight and I wouldn’t want it any other way.
 
 I wanted to collect some of the ways that I’ve lagged behind as a developer because of my WordPress focus with a goal of helping others who might be on my same path. If you love engineering, as I do, and want to continue on that path, these are a few things that might hold you back.
-
-Composer
---------
+## Composer
 
 Composer is a wonderful, beautiful thing. It’s reliable, usually does what you expect, and makes both package management and autoloading dead simple. I find it incredibly useful now, but only after using it regularly in the last half-year or so.
 
@@ -43,9 +41,7 @@ But package management is only a piece of what Composer can do. It can also:
 - [Build out project-specific scripts for testing and code sniffing](https://getcomposer.org/doc/articles/scripts.md). But, if you’re not testing and sniffing anyways, this feature is irrelevant.
 
 Both of these, along with the main package-management capabilities, have become essential to my development flow recently. And the main impetus was, to be honest, a good showing for an interview project. I knew about all of these things and that, in a general sense, they were a part of “modern development” but just never found a reason to implement them.
-
-Package Management
-------------------
+## Package Management
 
 Composer is the package manager that you should be using but probably aren’t. But why not?
 
@@ -56,9 +52,7 @@ But there is a world of small libraries out there that help you be more producti
 But, then, why do you even need any of that in a WordPress plugin? WordPress has an environment using constants in `wp-config.php` (guh) and an options table to log to (double-guh) and a router (infinity guh). And an HTTP library. And the `$wpdb` class.
 
 When you start pulling in external libraries to do things that WordPress already does, you add mostly-unnecessary weight and more to manage. But if you don’t, you’re stuck with what’s there which can be dated, hard-to-use, and lacking functionality. It’s a catch 22.
-
-New PHP features
-----------------
+## New PHP features
 
 WordPress was built, and continues to be maintained, to support the largest possible audience of hosts. As such, it [supports PHP versions down to 5.2.4](https://wordpress.org/about/requirements/). There is a pretty fierce and long-running debate about whether this minimum version should be increased but, so far, the consensus from the core team has been “no.”
 
@@ -88,9 +82,7 @@ One problem with missing out on these features is developer happiness. The featu
 But the biggest problem is just falling out-of-pace with PHP in general. Newer PHP libraries will be confusing, modern PHP development teams will be inaccessible, and you’ll miss out on functionality that might help you learn another technology.
 
 Also, PHP 7+ is really, really fast. Try it out locally, you’ll see an improvement (particularly running WordPress).
-
-OO Practices
-------------
+## OO Practices
 
 I recall watching a presentation several years back from a well-respected developer in the WordPress community called “Object-Oriented Design in WordPress” (or thereabouts). I was just “getting into” OO (meaning: reading about it and trying to understand it) and was excited to get some real guidance on how it comes together in the WP architecture.
 
@@ -99,9 +91,7 @@ By the end, I knew how to write multiple singleton objects to essentially do wha
 Whether or not Singletons are [are a bad design pattern](https://stackoverflow.com/questions/137975/what-is-so-bad-about-singletons) or not is beyond the scope here but I will say that classes are a poor way of working with the WordPress hooks system. [Here’s how to unhook a class method from an action or filter](https://wordpress.stackexchange.com/a/36110), you write it differently to being with. How about in a plugin that didn’t do that? [Here’s the answer](https://github.com/herewithme/wp-filters-extras/blob/master/wp-filters-extras.php), not pretty.
 
 All this to say … you will be hard-pressed to find great examples of OO implementation in WordPress core or in the ecosystem at large. This is a problem because, regardless of what you think about OO as a practice, it’s still a widely-used design pattern that you should be familiar with. PHP has a pretty competent [class and object system](http://php.net/manual/en/language.oop5.php) so there’s no specific obstacle beyond lack of understanding.
-
-Command Line
-------------
+## Command Line
 
 The command line is one of the most powerful things you can learn as a web developer. I’ve been learning more and more about using and scripting bash commands this year and it’s helped me do a lot more with a lot less. Besides Composer, `npm`, and Docker, I use it to [install WP test fixtures](https://gist.github.com/joshcanhelp/50f66002643ece68f01bf5f94e1abe56), [update WP SVN tags](https://gist.github.com/joshcanhelp/2120f1b7abf5e170fb7d1a001ed73dd8), keep backups of photos and music, maintain helpful aliases and environment variables, and more.
 
@@ -110,9 +100,7 @@ The problem with learning the command line, though, is that it takes a long time
 If you’re not using Composer or `npm` and you aren’t familiar with some of the great command line tools in other frameworks like Laravel and Rails, you might not have any exposure here at all. The gateway drug of the command like for WP developers is WP-CLI but I’ve met more developers that don’t use it than do (which is a shame, I couldn’t function without it).
 
 Because the command line can do everything, it can be hard to know where to start when learning it. And if the environment around you isn’t pushing you in that direction then you’re unlikely to ever get enough of a foothold to keep exploring.
-
-Missing MySQL knowledge
------------------------
+## Missing MySQL knowledge
 
 MySQL was on my “list of powerful and expansive technologies to just learn completely in my off time” for a long time. I knew enough to put together basic SELECT and UPDATE statements and could cobble together simple commands to solve basic problems but most of the time spent “writing statements” was just Googling, screwing up, and restoring back-ups.
 
@@ -135,9 +123,7 @@ And that’s a shame because understanding SQL and relational databases in gener
 Not only that, lack of MySQL knowledge will hurt you working with WordPress as well. If a seemingly simple content listing page is reaching 100 or more queries, do you know how to reduce that and where to start? If you install a required plugin and suddenly some of your external pages are slower, can you diagnose what might be going wrong? What if the WP API doesn’t do what you need, are you familiar with the `posts_*` family of filters?
 
 Lack of knowledge here is an easy condition to find yourself in and a tough one to get out of without self-directed experience or learning.
-
-Mitigation
-----------
+## Mitigation
 
 So, you’ve been writing standards-compliant, minimum version WordPress code for many years. Now what?
 
@@ -206,6 +192,4 @@ If you are exploring new technologies, here are a few recommendations:
 - I mentioned it a few times above but give Laravel a shot. It’s easy to use, has a competent CLI (hint hint), and will expose you to MVC in a simple way. I’ve been through the getting started tutorial at least twice and each time I’ll get a site up very fast and think “wow, that was it?” There is a lot to learn but ramp-up time is short.
 - If you do a lot of front-end development and feel comfortable with JS, give Node a try. The syntax will be familiar and the joy of writing the same code for both front and back-end is real.
 - If you want to do something totally different, try Ruby on Rails. There is tons of great documentation and tutorials out there and the focus on developer productivity and happiness is refreshing, to say the least. Over and over I find myself typing something and thinking “I wonder if this works?” and it just does.
-
-That’s all I’ve got.
---------------------
+## That’s all I’ve got.

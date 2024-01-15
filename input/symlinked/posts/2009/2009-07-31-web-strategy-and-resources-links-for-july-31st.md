@@ -25,9 +25,7 @@ I’m working on a web and social media strategy for an animal shelter in Washin
 ## [CSS Sprite Generator](https://spritegen.website-performance.org/)
 
 CSS sprites help your page load much faster by only accessing a single image (like the Google one above) instead of many. This only works for non-repeating images [called as a background](https://developer.mozilla.org/en-US/docs/Web/CSS/background) in your CSS file. For more info, see [this A List Apart article](https://alistapart.com/article/sprites/) and [this Smashing Magazine post](https://www.smashingmagazine.com/2009/04/the-mystery-of-css-sprites-techniques-tools-and-tutorials/).
-
-Twitter links
--------------
+## Twitter links
 
 **[What makes a good logo](https://justcreative.com/2009/07/27/what-makes-a-good-logo/):** Good logos always have this certain feeling to them but it’s more than metaphysics at play.
 

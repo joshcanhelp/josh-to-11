@@ -15,9 +15,7 @@ I learned a lot of what I know about health from the magazine Men’s Health. I 
 *Digressing…*
 
 One of the things I learned from Men’s Health was the concept of keeping track of things. Losing weight is just a numbers game – calories consumed, calories expended – and without a system to keep track of these numbers, you’re losing essential motivation and valuable information. Trust me on this one; creating a system to keep track of everything you do related to your fitness and weight loss gains is worth every second you spend perfecting it.
-
-General Tracking
-----------------
+## General Tracking
 
 There are three types of tracking you’ll want to do, especially when you first start: caloric intake, exercise, and general statistics. The big pain in the ass on that list is caloric intake, a topic I’ll cover in a future post (it’s safe to say that it played a major part in my weight loss then, now, and forever). The other two, general stats and exercise, can be combined together to make things easier.
 
@@ -31,9 +29,7 @@ What you track is up to you and depends on what you’re doing. I recommend, at 
 - notes (record your accomplishments)
 
 For me, the more I track, the better. I read a great Wired article on personal data and got really excited that other people found this stuff interesting. I track my sleep and how often I drink as well because these are both things I’m trying to improve.
-
-Why track all this crap?
-------------------------
+## Why track all this crap?
 
 This is a valid question with an easy answer.
 
@@ -44,9 +40,7 @@ So, how can we measure our success? Depending on the goal, this can be easy to d
 But it’s not just data collection, right? Collecting the data not only shows you how well you’ve done but it also shows you how much better you could do. It keeps it right in the front of your mind. That goal you want to achieve is quantified and those numbers, if you pick the right ones, don’t lie. Want your weight to be lower next week? Well, you know what to do… eat less and get your ass in gear. Every choice can come down a number you want to affect.
 
 Is this motivational? **Damn straight it is.** If you’ve never tried it, now is the time.
-
-Tips and tricks for collecting data
------------------------------------
+## Tips and tricks for collecting data
 
 - I think the real power of data comes when you can visualize it so graph that shit! I set my vertical axis to include my starting point and my goal so I don’t get an unrealistic view of the information. I also only graph the weekly numbers because those are the only ones that truly matter. You need a couple of weeks to make this worth your while.
 

@@ -17,18 +17,14 @@ I started a journal exactly a month before this meeting with myself. Professiona
 So I took a meeting with myself. I blocked off half the day and went to a Starbucks in the Columbia Center downtown (I’m not at all a fan of Starbucks but this place is one of a kind … see above). I turned off my phone, swore off email, and went to work. During this meeting, **PROPER Web Development** was born.
 
 ![proper_banner_1000x250](/_images/2013/04/proper_banner_1000x250.png)
-
-What is PROPER Development?
----------------------------
+## What is PROPER Development?
 
 I created this entity to bring together all of the development work I was doing. It started off as a framework for a company but ended up an identity for the projects I was creating, selling, and maintaining.
 
 A complaint you often hear from people leaving the client service game is that it wasn’t creatively satisfying for them. I know where this dissatisfaction comes from but it’s not one I share. I found I could be as creative or not creative as I wanted to be on every project I worked on. Yes, I’ve had good ideas rejected and less-than-spectacular ideas come to light but when I was in a creative slump, it was my own problem, not the problem of who I was working for.
 
 What’s critical, for me at least, to keep in a creative mindset and not become stagnant is to come up with my own ideas and then bring them to fruition. That, I realized, was the thing I was missing and that, my friends, is what brought PROPER about. I needed an output that was my own, something I could direct, maintain, and promote that related more to output (themes, plugins, scripts) than billed hours.
-
-What makes PROPER proper?
--------------------------
+## What makes PROPER proper?
 
 The idea for the name “PROPER” was not mine; it came in a batch of other names from a brainstorm with a colleague of mine. I believe names are very important and the right one just feels like the right one. It was between PROPER and another name and PROPER won out mostly because it was easy to spell and say.
 

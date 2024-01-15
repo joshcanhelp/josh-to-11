@@ -9,16 +9,12 @@ wpid: 470
 
 
 Yeah, seriously.
-
-What brought this up
---------------------
+## What brought this up
 
 I’ve been doing, inadvertently, a lot of thinking and reading about search engine optimization (SEO) lately. For the company I’m contracted with, we’re trying to come up with a solid strategy to rank better in our industry, get more online attention, and attract sales leads. For a couple of my clients, I’m trying to implement some simple changes and add information to get them as visible as possible. For my blog, I’m always looking for ways to help my ranking.
 
 Working for other people and helping them build an online presence is a whole hell of a lot easier than doing one for myself. I can help someone easily summarize what they do, help them pick keywords, and put them all in the right places. For myself, however, when trying to pick a niche, I find myself in these very existential moods. I’m picking 8 words or phrases to some up everything I can do for people. Wait, I have to sum up my professional interests in 8 words?! How?
-
-Keywords… those effing keywords
--------------------------------
+## Keywords… those effing keywords
 
 The problem isn’t finding things to write, thinking of relevant tweets, titling my blog posts, filtering what I want to write about versus what I should write about, the problem is picking keywords.
 
@@ -29,9 +25,7 @@ First, you have to summarize the things that people are going to search to find 
 Now, put those things in a keyword generator like Google’s and see what else comes up. Not only will you add 50 more words that never occurred to you in the first place, you’ll find that the words that were the most interesting to you are the hardest words to rank for. Not only that, once you start picking words that you have a chance in hell of ranking with, you find yourself limited and a bit off-center from what you actually do or want to do.
 
 ![](/_images/2008/12/2669604365_96f3ec906f.jpg)
-
-So what do you do? No really.
------------------------------
+## So what do you do? No really.
 
 ![](/_images/2008/12/2726639620_873a94f245.jpg)
 
@@ -42,9 +36,7 @@ Searching for keywords for something as important and, dare I say, intimate as y
 Part of my problem, in a business sense, is that I don’t have a well-formed “elevator pitch” for what I do. The value proposition (I hate that phrase but it’s relevant), the text at the top of this pitch, is about as close as I get. I help people build a web presence for their business or their own personal endeavors. That’s cool, sums it all up, right?
 
 But I also help people with writing projects, advertisement design, document layout, and self publishing. I alter photos, help people write resumes, layout print ads, teach HTML and CSS, customize email templates. I teach people about social media (what little I know), explain technology concepts to friends and family, and fix computers. I set up printers, cure slow-running computers, and answer questions. I do it all, Josh Can Help, dammit.
-
-Good for you. Now prioritize
-----------------------------
+## Good for you. Now prioritize
 
 That’s the key, prioritization.
 
@@ -53,9 +45,7 @@ First, I’m going to need to think about the work that I want. The most importa
 I want to work with people to build or repair their website. I want to help them make it as visible as possible to all the major search engines. I want to show them what else is out there that can build a more robust presence (social networks and media, blogs to read, online resources that are valuable). I want to explore advanced web development stuff like PHP development and Javascript coding on my own time, implementing interesting functionality for people who never thought they could have one of “those websites.”
 
 The people I want to help are small businesses and individuals. I love helping people in the art world because it keeps the right half of my brain active. I also, however, really want to get into the industry that I’m going to school for, chemistry. I want to help small technology companies do great things with the web and reach more people. I would love to work for a green technology company, either as an employee or a consultant.
-
-Endgame
--------
+## Endgame
 
 ![](/_images/2008/12/3095408247_0554505932.jpg)
 

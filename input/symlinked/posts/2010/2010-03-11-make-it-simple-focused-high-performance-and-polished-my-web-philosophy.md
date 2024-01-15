@@ -22,9 +22,7 @@ I whole-heartedly fall into the third category; **I love the web and everything 
 Being a designer/developer, I have a unique perspective on the web compared to other small businesses. I know what it looks like under the hood and can tell the difference between a Yugo and a Lexus. I know what works most of the time, what doesn’t work any of the time, and what needs to be explored and tested before putting it in place. I’ve also worked with many different businesses in many different industries and can appreciate different needs and approaches.
 
 I took a hard look at what I’ve learned about being on the web and wanted to share my complete web philosophy. If you’re reading this on my site, I invite you to add your own pieces here or address anything I’ve said here in the comments. I’d always rather have a conversation than a broadcast.
-
-1) Look for the path of least resistance
-----------------------------------------
+## 1) Look for the path of least resistance
 
 The best way to build something on the web is rarely the most expensive and never the most complicated. If it seems insurmountable then you haven’t done enough exploring. Every great developer will tell you that their most valuable tool is Google. I’ve found solutions to problems I didn’t even have, [saved them](/information-reservoirs-or-how-i-keep-track-of-a-large-amount-of-incoming-information/), and found a use a year later. Finding the path of least resistance is simple with a few questions:
 
@@ -33,9 +31,7 @@ The best way to build something on the web is rarely the most expensive and neve
 - *If it does exist, does it need improvement? If so, does it need major improvement?* Breaking into a segment with existing products is going to be tough if what you’re offering isn’t a big jump ahead of what is there. *If your potential competition is open source, can you contribute instead of starting something new?*
 - If it kind of exists or exists in a partial form, *can you extend or customize what’s there already?* If you want to build a site with a lot of different features and functionality, you’ll need a starting point. Custom-built software starts around $20,000 and can easily cost 10 times as much depending on what you want to do. Check out Drupal, WordPress, Ning, Facebook, PHPBB, Joomla, Magento, and KickApps.
 - For those looking to sell products on-line, *who is your competition?* If you want to sell shoes on-line you’re going to be contending with a big dog, Zappos, so you better be offering something very unique. If fact, that advice goes for anyone wanting to sell anything on the web. If you’re not standing out in some big way, you’re wasting your time.
-
-2) Have a goal in mind
-----------------------
+## 2) Have a goal in mind
 
 ![](/_images/2010/03/a-goal.jpg "a-goal")
 
@@ -46,9 +42,7 @@ If, for example, you’re a dentist, you might want a site for people to read ab
 Being clear about why your site should exist makes every decision down the road a matter of returning to your goal. If a feature or function doesn’t support what your goal, don’t implement it. Having a fun, exciting, pretty site is great but if it makes it harder for people to buy your product or contact you then you’re doing everyone a disservice. Be clear about what you want to do so you don’t buy yourself into non-performing site.
 
 This speaks mostly to business websites, i.e. one that promotes a product or service but the same idea goes for community and informative sites. Even if you’re not selling anything your site still has a function to perform. If you’re providing information, then your structure should be simple and well-thought-out. If you’re building a social site then it needs to be easy to sign up, get started, and contribute. If you’re promoting a cause then you need to make your message clear and give people easy ways to take the next step (donate, volunteer, sign up for more information). **Don’t fool yourself: [every site has a goal](/you-want-to-create-a-website-but-why-make-sure-you-can-answer-that-question/).**
-
-3) Always consider performance
-------------------------------
+## 3) Always consider performance
 
 The more I construct on the web, the more I understand how important this piece of the puzzle is. I was tempted to put this first since it is so often overlooked but making something work well isn’t going to help you if you’re building for the wrong reason and don’t have a goal in mind. Also, a great idea with a well-designed but poorly-performing site can be corrected.
 
@@ -67,9 +61,7 @@ SEO is a set of rules dictating how a site needs to be structured to allow the s
 It’s really tough to say what a conversion rate should be and how, precisely, it should be calculated; it’s different for every site. What is universal, however, is having a sense of what your rate is and where you’re potentially going wrong. Conversion rate problems I’ve seen very typically come from an unclear path to the goal, convoluted verbiage leading to a confused user, and too many steps to take to reach the goal.
 
 A final note on site performance. While it’s something that needs to be an important part of a site’s initial build, your performance, particularly in the areas of SEO and conversion, need to be monitored and re-visited. People change over time and so does what you offer. Collect data and watch the patterns and you’ll be surprised by what you can achieve with what you already have.
-
-4) Put your best foot forward
------------------------------
+## 4) Put your best foot forward
 
 ![](/_images/2010/03/new-288.jpg "new-288")
 

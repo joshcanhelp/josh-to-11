@@ -19,25 +19,19 @@ On top of that, design has to actually do something, it has a goal. Some of the 
 Oh, and let’s not forget to mention the pink elephant in the room here: budget. Maybe, just maybe, given an infinite budget and a due date of “at some point during your life,” perfection is possible (doubtful). But that’s just conjecture and, besides, it’s not the reality. There are limitations to how much money someone can spend, how long they can wait, and how long a designer can look at the same mock-up without ending up in an institution.
 
 Despite these obstacles, there is a path of least resistance and it’s our job to find that path. So where do we start?
-
-First, “I’ll know when I see it” is not a valid strategy here
--------------------------------------------------------------
+## First, “I’ll know when I see it” is not a valid strategy here
 
 I’ve read a few stories lately about how Steve Jobs worked with designers when he was alive. It sounded like complete and utter hell, all due respect. They would bring him something they spent long hours perfecting and he would dismiss it immediately. They would iterate and come back only to have it dismissed again. This would happen ad infinitum until he finally saw something that was just right and it would be shipped.
 
 Say what you will about Apple products but this kind of design process only works when you have a few billion dollars in the bank. During your typical web project, there’s just not enough room to re-re-re-design with little guidance until something falls out of the process. You’re not Steve Jobs and we’re not making Apple money so we have to find another way.
-
-The key is guided feedback
---------------------------
+## The key is guided feedback
 
 There are some people who come to us with exactly what they want outlined, explained, and ready to go. This type of situation is the exception, however, not the rule. Much more often, clients come to us with a vague (or missing) idea of what they want and need us to come up with something for them. This is definitely the place where a designer can shine but, without the right information to start with, we can easily end up going down the wrong road.
 
 In the end, it’s our job, as designers, to get the information we need from you. With no background in design or web development, you probably don’t know what’s possible, you aren’t sure what will look good, and you’re not willing to write a vague novella trying desperately to get down on paper what you see in your head.
 
 So, let us be your guide.
-
-1) Abstract Feedback
---------------------
+## 1) Abstract Feedback
 
 Before we paint picture in our heads of what you want and set up specific restrictions on what you don’t, it’s important to know about what this concept is all about.
 
@@ -48,9 +42,7 @@ Same question for individuals as for companies: what is this thing all about? Th
 **What makes you great, better than other people/companies doing the same thing?**
 
 The best sites are designed to communicate more than just good aesthetics. If you’re a fun, exciting company with a personality, your site should say that visually. If you’re an established group of professionals with a notorious attention to detail, your site should exude those qualities.
-
-2) Additive Feedback
---------------------
+## 2) Additive Feedback
 
 This is the feedback that will add up to create the backbone of what we design for you. This is describing where we can go with the sites and the kind of things that you would like to, or must, see in the mock-ups. We create this picture with the following questions:
 
@@ -69,9 +61,7 @@ This is a simple exercise that gets me thinking along the right lines for the si
 **Are there any design cues that you absolutely must have?**
 
 If you have to have red in your site, we need to know that. If there’s a font you’ve seen that really communicates something to you, show us so we can incorporate it somehow. There’s nothing worse than getting requirements after a design has been created.
-
-3) Reductive Feedback
----------------------
+## 3) Reductive Feedback
 
 This type of feedback is the other side of limitations: what you don’t want. Using the picture we created above, we need to take pieces away and set limits to where we can go and where we can’t.
 
@@ -86,9 +76,7 @@ Similar concept as the question above. We want to pick out elements and styles t
 **Are any of the following words off-limits – *modern, classic, minimal, dark, light, loud, retro, corporate***
 
 Choosing words that don’t describe what you want can be just as helpful as ones that do.
-
-Putting it all together
------------------------
+## Putting it all together
 
 With the abstract, additive, and reductive feedback above, we’re able to start thinking about what this site is going to look like. There might be more questions but I see the above as a solid starting place. So, now it’s your turn:
 

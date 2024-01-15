@@ -15,16 +15,12 @@ Let’s get right to the point: **you are not in a mainstream industry**. What y
 There’s this sentiment out there that only coolest businesses can join in the fun online. You’ve got to have wild pictures of amazing year-end parties or celebrity clients you can **Like**. There has to be some kind of shimmer to the work you do, you have to be deserving of attention already to get any of it on Facebook or anywhere else. This sentiment goes a long way towards convincing people that they’re not “worthy” of being listened to, which leads to a big hesitation to do any kind of online marketing.
 
 Now, don’t get me wrong, there are PLENTY of people who don’t deserve to be listened to online. I don’t have to list them because we all have our own little lists of bloggers, companies, hacks, and liars that we wish would just curl up and let their domains expire. There are lots of self-centered web broadcasters out there jamming up the channels and re-syndicating the stuff that was already boring people elsewhere.
-
-It’s not your fault
--------------------
+## It’s not your fault
 
 But it’s not the business or the industry or the product that makes for poor communicators, not at all; **it’s the approach.** Just because you’re a skydiving instructor doesn’t mean you’re interesting to listen to, at a party or on Facebook. Just because you’re an accountant or a dentist or a construction firm doesn’t mean you have to be boring to interact with online. **Your industry does not determine your online destiny**.
 
 If you’re part of a business that’s not very interesting to talk about then you have a situation on your Facebook page: there’s not much to say, specifically, about what you do during an average day. A video might look like a still picture, your RFPs aren’t going to wow anyone, and your product isn’t really all that fun to look at. It might not seem that way at first but **this is actually a blessing in disguise**.
-
-Ask yourself
-------------
+## Ask yourself
 
 Now that you’ve crossed off all the obvious (and, yes, boring) options, it’s time to get out your thinking cap (did I just say “thinking cap?”). You’re going to sit down with a couple of people (you can do this on your own but it’s not as fun, or as productive) and you’re going to ask these two important questions:
 
@@ -39,18 +35,14 @@ There are a few things to keep in mind when you figure out answers to these ques
 - It might be fun to have two separate groups come up with their own answers to both and then share what they came up with.
 - This works really well in a “brainstorming” format. This means you write **everything** down and eliminate at the end.
 - If you don’t care, that’s OK, but you’re probably not the best person for this task… or, possibly, for the job you have now. Consider all options.
-
-**Who?**
---------
+## **Who?**
 
 First, think about your audience, the people you need to talk to. Who are your clients? Who are you selling to? Who needs what you have? These are the people you need to reach but you don’t need to go to these people directly.
 
 Go one step beyond your audience and think about who is connected to them. Who has access to your potential customers or clients? Who do they interact with? Who supports them? Who do they support? The bigger group you can think of, the more likely you’ll get to the right people. On the other hand, the bigger the group, the harder it is to target what you do. There is definitely a balance here.
 
 Oh, and here’s a hint: **the answer to this question is not “everyone.”** If that’s what you have written down, start over.
-
-**What?**
----------
+## **What?**
 
 You’re starting off at a disadvantage: you want something, their attention. Problem is, everyone wants their attention and, as you’ve probably noticed as both a producer and a customer, it’s noisy out there. You’re breaking through the noise here and you’re not going to be able to do it by shouting louder or doing nothing.
 
@@ -65,9 +57,7 @@ Think about it… What should these folks know? What do they need? How can you h
 - Something personal about the people who are part of your team? Their stories?
 
 **Remember that the onus is on you to find/create good stuff, not them to like what you put out.**
-
-Examples of great niche Facebook pages
---------------------------------------
+## Examples of great niche Facebook pages
 
 Advice like this can be tough to put into practice without examples so how about a few?
 

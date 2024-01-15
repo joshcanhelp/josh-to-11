@@ -19,9 +19,7 @@ One of the things I learned, quite recently in fact, is that **your attention is
 Case in point, the ebook “[Focus](http://focusmanifesto.com/).” I read through this succinct, helpful piece in what amounted to a couple of hours, mostly because it was short (121 well-spaced pages) but partly because a lot of it identified actions that are already a part of how I work. I wanted to write a quick review/summary to share my thoughts on the subject and maybe help you find focus as well.
 
 I feel that it’s important to say… The words below are mostly my own, inspired by this ebook. Some things are my interpretation, some are almost direct quotes, and some are just things that occurred to me while reading. Disclaimer complete!
-
-Section 1: Step Back
---------------------
+## Section 1: Step Back
 
 - If you think you live your life free of significant distraction, you’re fooling yourself
 - You’re distracted because a connected life is distracting, not because there is something inherently wrong with you
@@ -33,9 +31,7 @@ Section 1: Step Back
 - Disconnection doesn’t just happen, you have to actually do it. Set a time and turn everything off: web, phone, work, everything.
 - I build disconnection into everything I do, though I can always do better. Page 24 had some great hacks to use to force this to happen.
 - It sounds a little “woo woo” but building rituals into your routine can be very helpful. Mine is to wake up early, make breakfast/coffee slowly, then start either writing or coding on something non-critical. Once I’m awake and aware, I set tasks for the day, set aside the time to do them, then look at email. 2 – 3 hours might pass before my inbox is opened.
-
-Section 2: Limiting the Stream
-------------------------------
+## Section 2: Limiting the Stream
 
 - If this is something you’re not doing, you need to read this section over and over until you start. Limiting the stream of things coming by way and batch processing communication has been so so critical to me
 - Start small but keep pushing the limits of how unconnected you can be; you’ll be surprised by how much less insane you feel
@@ -44,9 +40,7 @@ Section 2: Limiting the Stream
 - Throttle back email! Put your task list elsewhere (I like [Asana](http://asana.com/) more and more each day), religiously practice [Inbox Zero](http://www.43folders.com/izero) (transformative, honestly), and check email no more than once an hour, if that
 - Treat distraction like an addiction and treat it like you would any other destructive habit
 - Page 50 has a few great tools for beating distraction; my favorite at the moment is OmmWriter
-
-Section 3: Simplify
--------------------
+## Section 3: Simplify
 
 - This section might fall on deaf ears for some. It’s built into American culture to have “stuff,” get more “stuff,” and hang onto “stuff” for a long time. Simplifying your stuff is a matter of asking yourself over and over, for new things and old, do I need this? Really?
 - Cleaning your computer is definitely a critical one. If you’re working on one thing, close **everything** else besides that one window.
@@ -56,9 +50,7 @@ Section 3: Simplify
 - Prioritize by reducing the number of tasks, choosing carefully and passionately, and concentrate on that task until it is complete or has at least bee pushed forward. Simple words, huge impact.
 - Let go of your goals. Powerful idea that runs contrary to much of what you’ve probably heard. As soon as I read that, I understood what it meant. I did this subconsciously a while ago and come back to it all the time. Goals are something you strive towards, reach, and then reset. Where does satisfaction and relaxation and reward come in if all you’re doing is re-setting goals? Think on that…
 - Learn to say “no.” There’s a right and a wrong way to do this.
-
-Section 4: Focus
-----------------
+## Section 4: Focus
 
 - Make sure you’re working on “something amazing.” What’s funny about this thing is that it can be anything and it doesn’t have to be career/business/profession related at all. Just think about something you’ve been meaning to do or learn and choose it. Then, on a daily/regular basis, clear everything around you and just work on it.
 - Practice single-tasking. Multi-tasking is complete bullshit, there’s no such thing. Merlin Mann put it best: multi-tasking is simply the best way to do many things terribly at once. As soon as you start answering an email while on a conference call, you should be asking yourself how necessary are these two things if you can do both at once.

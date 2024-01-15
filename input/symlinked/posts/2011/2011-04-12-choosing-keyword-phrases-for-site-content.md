@@ -11,18 +11,14 @@ wpid: 2054
 If you’re someone who owns or operates a website and you’re reading this, I’m going to go out on a limb and say that you’ve never done proper search engine keyword research in your life. In fact, I bet you’ve never even given a second thought to what words people use in search engines, let alone how to determine if people are, in fact, using those phrases. Searching for and choosing the correct keyword phrases comes before everything else when you’re looking to improve incoming traffic from search engines and I’m going to teach you how to do it.
 
 ![leatherman_tool](/_images/2011/04/leatherman_tool.jpg)
-
-What’s in it for you?
----------------------
+## What’s in it for you?
 
 Long story short, making rational decisions about your keywords means more and better traffic from search engines. Instead of adding words that you think people are using, you’ll be adding words that they actually are using. This means you’re not stabbing in the dark with keywords and phrases that might be getting just a handful of searches per month. You’ll also avoid phrases that are more competitive than you could possibly rank for.
 
 Taking it one step further, doing this kind of research puts you in better control of [how your site is performing](/basic-website-analytics-for-content-managers/ "Basic Website Analytics for Content Managers") in general and gives you a path forward for the rest of your content. Once you see the words and phrases you’re using with numbers and ranks next to them, you’ll see the whole process differently. Keyword optimization is everywhere – email titles, Tweets, post headlines – and the more familiar you get with this concept, the better you communicate online.
 
 Are you sold yet or what?
-
-Step 1: What’s the point?
--------------------------
+## Step 1: What’s the point?
 
 This is not a skip-able step because it exists to reduce the amount of work you might have to do. Before you get started searching out potential keywords, make sure you need to do it in the first place. I’m going to assume that you’re not looking to find work for yourself and I think it’s important to figure out what content deserves your time and effort.
 
@@ -37,9 +33,7 @@ Don’t worry about these steps for this type of content (you have better things
 - Company announcement or news posts
 - Contact page
 - Temporary pages (short-term offers, short-term-projects, anything that’s not going to be around for a month or more)
-
-Step 2: Choose the Subject
---------------------------
+## Step 2: Choose the Subject
 
 Once you have decided that the page you’re working on is a good candidate for keyword choosing, **now it’s time to figure out what you’re writing about**. Once you’ve gotten to this point, I’m going to guess that you already have something in mind but, if not, I’ve written a few posts ([here](../3-things-that-help-me-to-write-quality-content/ "3 things that help me to write quality content") and [here](/creating-a-functional-useable-linkable-website-write-a-few-articles/ "Creating a functional, useable, linkable website: write a few articles")) on how to actually choose a subject. What we’re doing here is narrowing down your focus.
 
@@ -62,9 +56,7 @@ That’s a pretty solid list, probably more than we need, actually. This step do
 2. Gives you a few leads for the research you’re about to do
 
 You probably want to be planning and writing your content at this point. If you have a final draft already, that’s fine but you may need to make a few edits once you choose the actual phrase(s) you want to use. If you haven’t started then now is a good time to get at least your outline together.
-
-Step 3: Keyword Research
-------------------------
+## Step 3: Keyword Research
 
 This is the step that stops a lot of people in their tracks because (a) it’s time-consuming and (b) it uses tools you might not have been exposed to before. That’s not a good reason to back out now, in fact, this is the most important step because, without it, your work before and after will be wasted.
 
@@ -111,9 +103,7 @@ The last step of this process is using a search engine to make sure you’re not
 4. Finally, narrow down your keyword phrases to one (and only one) main phrase and one, maybe two secondary phrases.
 
 You have now done far, far more than most people who decide on the words to use for their site. Congrats! The rest is downhill (especially if you’re using a content management system like WordPress or Drupal).
-
-Step 4: Page Construction
--------------------------
+## Step 4: Page Construction
 
 This last step is critical but very easy. These actions will become second nature to you after you’ve done it a few times. Your main keyword phrase needs to go at the beginning (within a word or two, if not right at the beginning) in the following places:
 
@@ -126,9 +116,7 @@ This last step is critical but very easy. These actions will become second natur
 Your secondary keywords can also go in the page title (keep it under 70 characters), in the first paragraph, and throughout but don’t let them get in the way of the primary one. It’s very easy to throw away a potential good ranking for one phrase chasing after 3 or 4 different phrases.
 
 There are other on-page SEO considerations like meta keywords (use them if you’re so inclined but they are not very important so don’t spend longer than a minute or two), headlines throughout the content (make sure these are useful for reading and organization first, then add keywords), and internal linking (if you’ve got a posts of pages on a subject you’re talking about, make sure to link there) but the 5 places above will account for any success you have with that page so concentrate on those and do the rest if you have extra time.
-
-Nice work!
-----------
+## Nice work!
 
 Whew! That was a bit of work, to be sure, but, with time and experience, this process gets easier and your choices get better. Not only that, your efforts will be paid off with better search engine ranking leading to more site visitors.
 

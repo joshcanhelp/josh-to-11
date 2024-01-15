@@ -56,9 +56,7 @@ I don’t want to lose weight or start exercising or reduce my “happy chemical
 I don’t think this is news to anyone looking to improve their overall condition in life. Whether you’ve done it and continued to do it, done it and reverted back, or have never tried to do it in the first place, you know that the goal is not where your work stops. The goal, in fact, serves very little purpose because what you’re actually trying to do is to change your behavior, adjust your habits, shift your thinking.
 
 This is a helpful first step, getting past the idea that “I want to reach a goal” and, instead, think about the changes you want to make as “I want to change my behavior.” But this is not the only thing that needs to happen. Regardless of the outcome, we’re still talking about adding more work (struggle) or removing things that bring you pleasure (deprivation). As lazy, hedonistic beings, this means luck – stumbling into a solution that somehow persists for eternity – or willpower – adding a margin of effort that you must endure for eternity.
-
-This is not a sustainable strategy for lasting change
------------------------------------------------------
+## This is not a sustainable strategy for lasting change
 
 I don’t want waste my hard work on this stuff and I also don’t want to feel like I'm depriving myself. I prove that every time I choose the cupcake instead of the apple, every time I buy a new bike part instead of saving my money, every time I write another line of code instead of getting some exercise. I choose, over and over, the thing I want in the moment instead of the thing I want later.
 
@@ -87,9 +85,7 @@ And this is the place where the work required to make a positive change goes fro
 I have to figure out what needs to change for the results to be different than before. And, because this is an experiment, I don’t know what the answer is so I’m free to try many, many different things without hating myself for the outcome. I’m also free to work very slowly towards that outcome, learning along the way.
 
 I want to say that this is a subtle change in thinking, a simple reframing that needs to happen but it’s so much more than that. It’s an absolution of guilt and a persistent path forward and a complete shift of blame.
-
-Experimentation Works
----------------------
+## Experimentation Works
 
 Let’s take fitness as an example. I’ve worked out 3 or more times per week since the day after Christmas 2018. I’ve missed one or two weeks but neither time has completely derailed me, as it’s almost always done in the past. I didn’t really understand why this change happened until I looked back and examined what I did in the light of experimentation.
 
@@ -131,9 +127,7 @@ Like I mentioned above, I’ve skipped a few weeks since starting. The promise o
 I took a step back and tried to figure out what was going on. Why did I skip workouts when I knew what was at stake? Once again, I was falling back to my willpower, which, predictably, has a poor success rate.
 
 Through writing, introspection and talking it over, I figured out that the big internal drive to go was still to look better. I didn’t have an event I was training for (my motivation for the last big push to exercise before this one), my long-term health didn’t cut it (see: all the other changes I want to make), and the other drivers couldn’t pick up the slack.
-
-I needed a new motivation.
---------------------------
+## I needed a new motivation.
 
 Throughout my life, I’ve battled with depression and anxiety. I have a tendency to generate an enormous amount of stress around seemingly minor obstacles. I also find myself stuck in unhelpful and negative thought loops that often incapacitate me. I’ve always been able to get out of bed in the morning and, far more often than not, can find some inkling of motivation to keep pushing forward but it can be painful and debilitating at times.
 

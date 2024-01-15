@@ -12,18 +12,14 @@ A recent San Diego Refresh meeting found me in a room full of fellow geeks learn
 
 ![](/_images/2010/05/new-129.jpg "new-129")  
 The session was led by Barbara Starr ([@BarbaraStarr](http://twitter.com/BarbaraStarr)) and the information here is distilled from notes I took during the session. As such, attribution is appropriate. Thanks again, Barbara, for a great session!
-
-WIIFM (What’s In It For Me)?
-----------------------------
+## WIIFM (What’s In It For Me)?
 
 A great teacher once told me that you need to tell people what they’re going to get out of a learning session before you start. For this heady topic, I think this is more true than ever. Here’s what you should get out of this post:
 
 1. A solid concept of what the semantic web is and what the key terms are
 2. A realization that this stuff is going to change the web for the better
 3. A path forward to learn more and begin taking the first steps towards using this powerful technology
-
-What is the Semantic Web?
--------------------------
+## What is the Semantic Web?
 
 The semantic web is a web where the meaning behind the content is included in a machine-readable form. Having information being machine-readable is important because these machines (think: search engine algorithms) help us find what we need. If it seems strange that we would need to translate information from human-readable format (a quick description, say) to machine-readable so that humans can better use that info, it’s perfectly understandable. Just remember: your file system, you know, the one you constructed, has a search feature and you’ve probably used it before.
 
@@ -59,9 +55,7 @@ This is a fairly basic description of the semantic web but I hope it helps you w
 <iframe src="https://player.vimeo.com/video/11529540" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 [Web 3.0](http://vimeo.com/11529540) from [Kate Ray](http://vimeo.com/kateray) on [Vimeo](http://vimeo.com).
-
-Terms to know
--------------
+## Terms to know
 
 I’m writing these definitions from my notes and my own understanding instead of regurgitating Wikipedia. This could turn out good or bad. I’ll include a link to more info at the end of each so if you don’t understand (or want to check my facts) you have a place to go.
 
@@ -86,9 +80,7 @@ This is the language used by applications that process semantic data. More info:
 #### **SPARQL**
 
 An adorable acronym pronounced “sparkle” that is the query language for RDF. It’s the way you would programmatically search stored semantic data. Yes, like MySQL. More info: [Wikipedia on SPARQL](http://en.wikipedia.org/wiki/SPARQL)
-
-What I think
-------------
+## What I think
 
 I’m writing about this stuff as though it was set in stone and an impending global standard but, in fact, it isn’t quite that. The semantic web is a proposal, essentially, and just one method that might be used to help humans navigate the incomprehensible amount of information around us (watch that video above for the dissenting viewpoint).
 
@@ -97,17 +89,13 @@ To keep things brief (finally), I’ll say this: In a perfect world, this system
 Also, a summary of a comment I left on a post that led me to the video above:
 
 > On the web, these semantic relationships would have to be almost effortless to create or else the only relationships that would be expressed would be ones surrounding the organizations that have the resources and the motivation to create these links, i.e. businesses that benefit from, say, the SEO improvement or organizations that did it just because it’s the right thing to do. The rest, blithely making connections, creating content, and generally adding to the web (just like right now) would not be bothered.
-
-More resources
---------------
+## More resources
 
 - [ Intro to RDFa by A List Apart](http://www.alistapart.com/articles/introduction-to-rdfa/)
 - [ Google explains how to markup content with RDFa](http://www.google.com/support/webmasters/bin/answer.py?hl=en&answer=146898)
 - [How Enterprise 2.0 Will Enable the Semantic Web by Phil Simon](http://smartdatacollective.com/Home/27178)
 - [Lotico Semantic Web Community](http://lotico.com)
-
-Tools and Apps
---------------
+## Tools and Apps
 
 - [WordPress RDFa plugin](http://wordpress.org/extend/plugins/wp-rdfa/)
 - [Franz – Semantic web technologies and development tools](http://www.franz.com/)

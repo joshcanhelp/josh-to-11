@@ -9,14 +9,10 @@ wpid: 233
 
 
 Here is everything I know about creating HTML emails. This is the most boring and most useful post I’ve ever created by far. This is the aggregate of a lot of research and my own coding and testing. The title is bold, I know, but the information is solid.
-
-I’m new to all of this… how can this article help me?
------------------------------------------------------
+## I’m new to all of this… how can this article help me?
 
 That depends. If you’re not going to be doing any coding then this post will help you understand what kind of work has to go into HTML emails to make them consistent and, hopefully, effective. If you’re designing the emails but not creating them then you’ll have an idea of what you’re working with and what you’re allowed to do.
-
-Why HTML emails?
-----------------
+## Why HTML emails?
 
 HTML emails are preferred so they are more likely to be read. This is a bit subjective but the consensus on-line is that, as long as they are designed properly and sent responsibly, HTML emails are a great marketing tool.
 
@@ -27,9 +23,7 @@ Emails from you are easily identified and can look similar to your home page. Th
 HTML emails connect users to the home page, literally through through links and visually through the layout and colors.
 
 HTML emails are “cutting edge,” pardon the expression. They are impressive and colorful and are a major part of marketing campaigns in all industries. Sending out a properly-coded and carefully designed HTML email says that you’re current
-
-HTML Emails Are Different than brochures
-----------------------------------------
+## HTML Emails Are Different than brochures
 
 - Inconsistent across email clients instead of exactly the same
 - Much less expensive to produce and create
@@ -37,9 +31,7 @@ HTML Emails Are Different than brochures
 - Completely different medium and delivery
 - Less mobile than email for most people
 - Different timing (in the moment rather than later)
-
-HTML Emails Are Different than Web Sites
-----------------------------------------
+## HTML Emails Are Different than Web Sites
 
 - More email clients to consider than browsers
 - Much less CSS support (mostly just text formatting)
@@ -47,17 +39,13 @@ HTML Emails Are Different than Web Sites
 - Tables are recommended above CSS layout for emails
 - Explicit code is the name of the game
 - Less time and audience attention to get your message across
-
-HTML Emails Are Different than text emails
-------------------------------------------
+## HTML Emails Are Different than text emails
 
 - “Pops” better out of an email box
 - More to consider than just the content (in addition to the content)
 - Plain text doesn’t break down (plain text is as consistent as it gets)
 - Accessibility concerns with HTML emails that don’t exist with plain text
-
-The basics of HTML email design
--------------------------------
+## The basics of HTML email design
 
 - Different email clients do different things and it’s hard to predict and test for everything.
 - Concentrate on the lowest common denominator and make sure the content layout makes sense.
@@ -65,9 +53,7 @@ The basics of HTML email design
 - Make sure the emails degrade gracefully. This means that alt tags need to be used, images should be used sparingly and table layouts should be as simple as possible.
 - More time and effort should go into the motivation and the message rather than the visual design.
 - Design is not a substitute for a relevant message.
-
-Understanding email campaigns
------------------------------
+## Understanding email campaigns
 
 Permission is king. If you didn’t get someone’s permission before you sent the email then it is probably considered spam. There are a lot of companies out there just yelling their name and products and, at best, they’re getting lost in the chaos. At worst, they’re generating negative attention for themselves. When it comes to marketing, bad attention isn’t just attention, it’s a brand killer.
 
@@ -87,9 +73,7 @@ Last but not least, make sure you are up to date on the CAN-SPAM regulations. In
 - It prohibits deceptive subject lines. The subject line cannot mislead the recipient about the contents or subject matter of the message.
 - It requires that your email give recipients an opt-out method. You must provide a return email address or another Internet-based response mechanism that allows a recipient to ask you not to send future email messages to that email address, and you must honor the requests.
 - It requires that commercial email be identified as an advertisement and include the sender’s valid physical postal address. Your message must contain clear and conspicuous notice that the message is an advertisement or solicitation and that the recipient can opt out of receiving more commercial email from you. It also must include your valid physical postal address.
-
-Basic HTML elements used
-------------------------
+## Basic HTML elements used
 
 #### p  
 span  
@@ -98,9 +82,7 @@ a
 table  
 tr  
 td
-
-Basic tags used
----------------
+## Basic tags used
 
 #### style=  
 width=  
@@ -109,9 +91,7 @@ colspan=
 href=  
 cellpadding=  
 cellspacing=
-
-Basic CSS properties used
--------------------------
+## Basic CSS properties used
 
 #### background-color:  
 border:  
@@ -131,9 +111,7 @@ vertical-align:
 white-space:  
 width:  
 \*font-family: this doesn’t work in gmail but there’s nothing wrong with adding it for the other clients.
-
-HTML Email Layout
------------------
+## HTML Email Layout
 
 Tables determine the layout. If you are not trained in table design, good for you, you’re on your way to being a great web designer. You do, however, need to have a solid understanding of them to build HTML emails.
 
@@ -144,9 +122,7 @@ Be sure to close all HTML elements! Use an HTML checker like the one in PSPad to
 For 2 or more columns, the “colspan” and “width” tags must be used together. Remember the spreadsheet model and add as many columns as you need with the first row of cells. Again, make sure to add a wrapper table if you want a background color or you want the design to be centered in the window.
 
 Design for the preview pane of email applications. That means you’ve got about 500, 600 pixels tops for your email designs. Most email windows do not take up the entire screen (do yours?) and some people intentionally make them smaller. Make sure your main content section is slim, under 600 pixels, and that your logo, tag line, or another “grabby” piece of content is near the top-left corner. Some email applications, like AOL, allow for about 150 to 200 pixels to make sure your content will appear.
-
-Styling your email
-------------------
+## Styling your email
 
 Simple CSS is widely supported and can be used in all HTML elements with a style tag. This is called “inline” styling and is the best way to apply CSS to an HTML file being sent. This is what I mean by “explicit;” all styling cues are added to each element individually. To style two different paragraphs the same, the same style tag and CSS properties need to be added to both. Keep in mind, sometimes the body styles don’t carry over; stick to colors and minor “throw-away” styles in case this element is tossed out.
 
@@ -155,15 +131,11 @@ Some sources recommend CSS shorthand to cut down on file size while others say t
 Use images carefully and correctly in your design. Pictures, icons, and headers are great but can easily become cluttered and bloat the size of the email. Turn down image quality and use images that enhance your design or draw attention where you need it. Also, never send an all-image email. Some email clients block images as a default so your message might be lost and/or might be marked as spam.
 
 Make sure you always include the width and height in the image tag for every single image. This ensures the empty placeholder images don’t get stretched and completely throw your design. Also, store the email images on a web server, preferably in a folder separate from website images, for example, in /images/email not /images. And don’t delete them.
-
-General notes
--------------
+## General notes
 
 - link element not supported, style elements barely supported so use in-line styles to be safe.&lt;br /&gt; Since &lt;style&gt; elements are unstable, selectors are as well.
 - 530px is a safe width for certain clients and certain preview panes (AOL in particular). Not including AOL, 600px is maximum.
-
-Gmail notes
------------
+## Gmail notes
 
 - Keeps only the HTML between the body and /body tags. Discards the rest.
 - Removes any style element and its content, even if it’s within the body element.
@@ -173,41 +145,31 @@ Gmail notes
 - Gmail doesn’t allow the url() value and will completely remove a CSS rule that uses it.
 - Gmail is one of the only email clients that does not use the font-family: property
 - Images are blocked by default but alt= tags are displayed
-
-Hotmail/Live notes
-------------------
+## Hotmail/Live notes
 
 - Keeps only the HTML between the body and /body tags. Discards the rest.
 - The style element and its content is preserved if it’s inside the body element.
 - Hotmail will completely remove any CSS rule that uses a url() as its value.
 - Hotmail removes CSS comments found inline.
 - Hotmail does not block images by default but Live does
-
-Yahoo notes
------------
+## Yahoo notes
 
 - Keeps almost intact the complete original HTML sent and puts it directly in a div. So if you had any of these in the HTML, they will be found in the middle of the Yahoo! Mail HTML: DTD declaration, comments, html, head, title, style and body elements, etc. But, the DTD declaration won’t be taken in consideration by the browser since it’s in the middle of the page, same thing for the title element;
 - Will rename the body, meta and link tags xbody, xmeta and xlink, so they will be “disabled”. This means that no external stylesheet can be linked to the document through the link element.
 - Be careful with style elements; when replying or forwarding this message, Yahoo! Mail will convert your style definition as plain text and your declarations will appear in the message.
 - Does not block images by default
-
-Outlook notes
--------------
+## Outlook notes
 
 - Outlook support varies greatly across versions; older versions have better CSS and HTML support  
   head, html, meta, style elements are removed.
 - img alt= tags are removed so images that are not shown will not be replaced with text.
 - 2003 and 2007 blocks images by default
-
-AOL9 notes
-----------
+## AOL9 notes
 
 - “preview pane” is extremely tiny. Make sure to design your emails to peek out enough from the preview pane.
 - HTML code needs an extra line break or two after the final /HTML tag, or you’ll see weird “equals signs” in your email
 - Blocks images by default, alt= tags are not displayed
-
-HTML coding sources
--------------------
+## HTML coding sources
 
 [MailChimp HTML email guide](http://www.mailchimp.com/resources/guides/email-marketing-field-guide/)
 
@@ -218,9 +180,7 @@ Word 2007 HTML and CSS Rendering Capabilities in Outlook 2007
 [Optimising CSS usage for email](http://www.campaignmonitor.com/blog/archives/2005/08/optimizing_css_1.html)
 
 A guide to CSS support in Email
-
-Email marketing sources
------------------------
+## Email marketing sources
 
 [Email Marketing Strategies – Email Marketing “Must Dos”](http://www.emaillabs.com/email_marketing_articles/email_marketing_strategies_2006.html)
 

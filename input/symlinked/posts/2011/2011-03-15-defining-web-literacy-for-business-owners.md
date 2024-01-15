@@ -20,9 +20,7 @@ I’d love to hear feedback from everyone, but specifically from two groups of p
 I should say, before I drop this massive list on you, that this is not a list of skills you need to have, more like a list of things you need to consider and be able to speak to. If someone asks you “where does most of your traffic come from,” the answer should be “well, our Twitter account brings in about 100 visitors per month but the conversion rate is low. Search, however, has been increasing and that brings us leads” rather than “I haven’t the foggiest.” Understanding your site is not the same as taking over all the functions of a good webmaster; you don’t have the time for that and, if you’re doing your job as CEO/Principal/whatever well, you shouldn’t. But, you need to know the questions to ask, where your money is best spent, and when you’re being hoodwinked by a vendor. It’s my job to troubleshoot your RSS feed or build out a new piece of your site or qualify your crazy ideas (you do have a few crazy ideas, right) but it’s yours to have a vague idea of when that needs to happen.
 
 So, without further ado, my definition of complete web literacy for business owners:
-
-Web Literacy
-------------
+## Web Literacy
 
 - - - - - -
 
@@ -139,8 +137,6 @@ Web Literacy
 - Keywords – what they are, how to find them, and how to use them
 - Structure – The small things that come together for good SEO
 - Links – the good, the bad, the ugly, and the hard to get
-
-For the visual types: the mind map
-----------------------------------
+## For the visual types: the mind map
 
 [![](/_images/2011/03/web_literacy_v1.png "web_literacy_v1")](/_images/2011/03/web_literacy_v1.png)

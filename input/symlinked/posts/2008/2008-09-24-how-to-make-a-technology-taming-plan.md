@@ -15,16 +15,12 @@ wpid: 268
 The reason to ask yourself this question (repeatedly) is to make sure that the time you invest in learning new things goes to good use. If you like learning how to use things and do it quickly then maybe more time should be spent picking things up, playing with them, and deciding whether or not to use them. If, like most of us, you have limited time and want to simplify your daily life, **it’s time to make a Technology Taming Plan.**
 
 How does one go about making one of these plans? The process goes like this: figure out what your goal is (gain more eyeballs on your website, sell more products, better connect with people), choose your methods for getting that done (re-design the site, start a blog, start networking on-line), and then pick the best tools for getting it all done. The key is to take each step by itself and not move to the next until you’ve completed the preceding one. This is the best way (that I know of) to make sure you don’t get bogged down in logins to site you don’t use, applications that take up hard drive space, and electronics that sit unused.
-
-I’m new to all of this… how will this post help me?
----------------------------------------------------
+## I’m new to all of this… how will this post help me?
 
 We all have problems with getting done what needs to be done. Sometimes the problem is a lack of motivation but that’s not always the whole story. It’s hard to dig right in without a plan of action or a place to start. It’s hard to clean your house when everything is a mess and you’re not sure what to tackle first. The same goes for moving your business, career, or personal life forward. If you know you want to make a change but you’re not sure of the first step to make, it’s very important to be clear about what you want to do and be aware of the tools out there that can help you do this. The implements can appear to outweigh the opportunities but this is not the case. Having a plan and taking specific action will always move you in the right direction (as long as you know what that direction is).
 
 I’ll show you how to figure out your goal, think about ways to achieve it, then find the tools to get it all done. Of course, this is just a brief overview; **if you need more in-depth help, talk to me!**
-
-Step 1 – What do you want to do?
---------------------------------
+## Step 1 – What do you want to do?
 
 ![](/_images/2008/09/map_wide.jpg)
 
@@ -70,9 +66,7 @@ By the way, try to keep the list short. I’d recommend two or three items but, 
 - Add more/better sites to my portfolio
 
 Remember, the more of these you have, the worse your focus will be on each one. It might be better to take one or two on at a time and, when they get to a good level, move on to the next. But, again, that’s me giving advice without taking it! :)
-
-Step 2 – How are you going to do it?
-------------------------------------
+## Step 2 – How are you going to do it?
 
 You have the toughest step out of the way, choosing the outcome. Now let’s start thinking about how this outcome will come about. I’ll use the examples from the previous section.
 
@@ -103,9 +97,7 @@ Watching the industry change and progress while keeping your eye on the key play
 We’re knocking out the critical parts of the Technology Taming plan and getting down to brass tacks with the first two. These two are conceptual and work together to make sure that when you start to look for solutions to your problems that you’re not choosing things that don’t get you to where you want to go.
 
 What we did in Step 1 and Step 2 was take care of the “why” and the “what.” The **why** will keep you focused on what you’re doing, even if the road is a bit bumpy. The **what** keeps you on-point in finding your solution instead of trying everything out there. Maybe one of these “whats” aren’t going to get you what you want but, if you’re honest about your intentions and your objectives, the only thing left is to try out your predictions.
-
-Step 3 – What tools are you going to use?
------------------------------------------
+## Step 3 – What tools are you going to use?
 
 Now we get to the fun part!
 

@@ -21,9 +21,7 @@ Welcome to the new format of all of my blog posts (news items and quick ones not
 So, what does this article do for the novice? You’re either someone exploring web design for the first time, a web coder or developer who is trying to improve their design skills, or a complete web novice who wants to come up with a picture of what their business or personal site should look like. Whatever your situation, you want a web site that looks good, does what it should, and isn’t too hard to maintain. I strive as much as possible to build with those goals in mind.
 
 This article walks through some basic aspects of design and shows you how I used them to create a picture of what my site will look like when it is finished. I used to this “design language” and “core elements” were just a bunch of fancy words people used to look smart. I was surprised when I actually took the time to understand them and practice them and found that my designs improved drastically. I want to help explain these concepts to you, show you how they work, and give a few resources where you can read even more.
-
-My web site design in words
----------------------------
+## My web site design in words
 
 **Balance** … the headings (like “Home,” “Hire Me,” etc. as well as “Contact” and “News &amp; Information”), logo (“Josh Can Help”), light header text (the “tame your technology” at the top), and lion tamer icon all provide the “heavy” while the rest of the text provides the “light.” It’s the interaction and distribution of heavy and light that make appropriate balance.
 
@@ -62,8 +60,6 @@ My web site design in words
 +++ The left sidebar color may change. I’ve tried many different ones and I think I like the current one best but I’m not sure.
 
 +++ The menu item descriptions may fall below the main text or appear when the mouse hovers over… not sure yet.
-
-What’s next?
-------------
+## What’s next?
 
 Complete and total destruction. I’m taking the default WordPress theme, stripping it bare, and building back up into something wonderful. I’ll give an overview of what I’m doing and why but I don’t want to get into the nitty-gritty code details because it might be a bit too high-level (la-tee-da).

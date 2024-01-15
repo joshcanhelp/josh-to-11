@@ -22,9 +22,7 @@ My most recent “major obstacle to overcome” is a new cell phone. I bought an
 ![htc_hermes](/_images/2009/04/htc_hermes.jpg "htc_hermes")  
 
 Now, my “mini-computer” is too big, too heavy, showing its age, and causing frustration. Time to move on to a new one. Queue the scientific method…
-
-1) What are my requirements?
-----------------------------
+## 1) What are my requirements?
 
 I have a fairly specific list of things I need my phone to do. **Here are the “must-haves:”**
 
@@ -41,9 +39,7 @@ I have a fairly specific list of things I need my phone to do. **Here are the �
 - I really want it to be wireless internet capable, preferably 3G. This might be how I’ll have to sync my PDA information (calendar and contacts). I won’t use it much but it’s nice to have it available.
 - I’d like to be able to connect it with a USB cord. I’m usually near a computer and it’s my preferred syncing method (so I don’t have to pay for wireless internet charges). It also provides another way of charging the phone.
 - I want to stay away from touch screens because I like buttons. I’m still very impressed with how the iPhone works but, what can I say, I like the click of a button, it’s much more satisfying.
-
-2) What’s out there?
---------------------
+## 2) What’s out there?
 
 I worked in the wireless industry from 1999 to 2005. During those times, it seemed like there was so many phones out there, it was hard to make a decision. Nowadays, the situation is even worse. AT&amp;T is GSM so anything unlocked (and using the right bands) can be used. This leaves many, many options.
 
@@ -70,9 +66,7 @@ I came up with a good list of options:
 - **Samsung Epix** (Windows Mobile is mostly a deal-breaker but, if the processor is fast enough, it might be OK)
 - **Motorola Q** (A little unsure about this one too)
 - **Samsung Propel** (might not do what I need it to but I love the size and, after playing around with one for a minute, found it to be VERY fast which was nice)
-
-3) What’s next?
----------------
+## 3) What’s next?
 
 Well, the plan was to head to an AT&amp;T store and check out the local offerings. I really wanted to use these in person before I made a choice. Unfortunately for this process, I found a great price on the Nokia E71 on Craigslist and jumped at it. I’ll write a bit about my experience in another post (spoiler: I love it).
 

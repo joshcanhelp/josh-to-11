@@ -11,9 +11,7 @@ wpid: 789
 So you want to send an email campaign. Well, guess what? Everyone else wants to send an email campaign too and that includes spammers, your competition, and others that deign to make your email marketing harder than it already is. While there’s no fool-proof strategy to ensure open rates, there’s a right way and a wrong way to run an email campaign.
 
 [![Mail](/_images/2009/06/the_mail.jpg)](http://www.flickr.com/photos/good_day/19705415/)“In the days before email” by Today is a good day on FlickrThe tips here focus on planning, strategy, and common sense but there is still work to be done. Sitting on your butt while your well-written and designed emails get redirected right to a spam folder is not proper campaigning. Follow my tips here and keep experimenting and you’ll see all your statistics go up. FYI, this is part one of two. I’ve got three more questions that I’ll post later this week.
-
-Tip #1 – “Am I sure I want to send this email?”
------------------------------------------------
+## Tip #1 – “Am I sure I want to send this email?”
 
 Sometimes the right email to send is no email at all. Format, time between emails, and goal planning can all affect how many people your message reads. Make sure now if the right time and what you’re sending is the right message.
 
@@ -24,9 +22,7 @@ Ask yourself…
 - When was the last email sent for this list? Email marketers have to always worry whether they’re sending too often… or not often enough. I would suggest erring on the side of longer time between emails but you want to retain that hard-earned mind share. Shoot for about twice a month for marketing, promotions, and newsletters.
 - Is the content written already? If not, get to work. You want to have your content in-hand before you even start to think about the design. Never forget: your content is what makes your email relevant, useful, and forwardable, not the design.
 - Does this email contribute to a cohesive marketing plan? If you’re sending a regular email out to a list of subscribers then you’re managing a campaign, like it or not. Your recipients are going to get a general “feeling” about you and what you have to offer. Make sure you’re contributing to the right feeling.
-
-Tip #2 – Will my email get to the (right) recipient?
-----------------------------------------------------
+## Tip #2 – Will my email get to the (right) recipient?
 
 That is to say, did the email end up in your recipient’s inbox? If your list comes from sign-ups, there is little to do about bunk addresses besides combing through manually and looking for misspelled domains (htomail, gamil, yahooo, etc). If you (or someone you hired) is doing the inputting, type carefully. Beyond that, an incorrect address (hard bounce) or a rejected mail for another reason (soft bounce) is beyond your control.
 
@@ -52,9 +48,7 @@ To check the deliverability of your email try one of the two free options below:
 
 **Fast** (there are a few checkers out there, this one seemed to be the toughest):   
 **Slow** (makes you save files as .eml format but could catch problems that other scanners don’t):
-
-Tip #3 – Will the recipient open the email?
--------------------------------------------
+## Tip #3 – Will the recipient open the email?
 
 So you made it over the first big hurdle: the spam filter. Welcome to the next challenge. Even with the most pertinent, relevant, and incredible content, unless your recipients are opening the email, all was for naught. When I first started doing email marketing, I thought I was looking for something around 75% for an open rate. Yeah right. Check out MailChimp’s list of common open and click-through rates (keeping in mind that these are for lists where the recipient has indicated that they want to receive the email):
 

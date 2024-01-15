@@ -35,9 +35,7 @@ Looking at the template, you might think that I made a mistake by putting the un
 By the time I was ready to send this bad boy, I felt good about the content, really liked the layout, and felt comfortable with the list of people I was sending to. In my mind, anyone who had approached me for a project and had exchanged a few friendly emails with me would be happy to hear about what was going on with JoshCanHelp and want to see a few recent projects. Hey, maybe a couple would remember their project and approach me about moving forward.
 
 It was all sunshine and rainbows… until a few days after I sent the email. I got a notice from Mailchimp that a disproportionate number of people had unsubscribed from my newsletter. This didn’t surprise me; I assumed a certain subset would not be interested and opt-out. I even made it really easy to do so. Unfortunately, after a certain ratio of unsubscribes to recipients, you start to become a spam suspect. My account was frozen and placed under review. Not only that…
-
-I’m in more spam folders than a lottery announcement
-----------------------------------------------------
+## I’m in more spam folders than a lottery announcement
 
 I’m guessing it’s not that bad but I am getting routed to my DAD’S spam folder so the issue is serious.
 
@@ -54,8 +52,6 @@ This applies, of course, to those who think it’s OK to buy a list and send out
 ### 3) The road to spam hell is paved with good intentions
 
 Because I wanted to keep in touch with people and also wanted to give people an out, my unsubscribe link was right at the top. See, my intentions were good! On the other end, I’m sure there were several people who knew who it came from, figured that they wouldn’t need my services for a while, and clicked the link to reduce the number of emails they’re getting. No harm done, right? In the end, all those unsubscribes combined together made all the difference in the world. I should mention that I didn’t get any spam or abuse complaints so no one officially marked me as spam.
-
-Always learning
----------------
+## Always learning
 
 I’m sure everything will be fine in a few months and my good email name will be back to normal. In the meantime, I might lose a job or two because I didn’t get back to someone. Getting your domain marked by incoming email servers is nothing to sneeze at. Be careful, think twice, and validate those emails!

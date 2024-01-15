@@ -17,9 +17,7 @@ When I explain websites to people who are new to the web, I use a house metaphor
 ![](/_images/2009/05/dale_house.jpg)
 
 Here are the three things you need to understand about web sites if you have or are [considering building a website](/path-forward-how-josh-can-help-plans-and-approaches-building-a-new-web-site-from-scratch/). Ignore at your own risk.
-
-The Domain
-----------
+## The Domain
 
 ![url](/_images/2009/05/url.jpg)  
 
@@ -34,9 +32,7 @@ There are three critical things to learn and understand about domain names:
 **Owning a domain name:** Once you’ve chosen the right domain name, you’re going to need to buy it and own it. Think of your domain like your car insurance – you’re going to have it for a long time and you don’t want any gaps in service. Make sure YOUR personal information is logged for your domain and buy your domain names separate from your web host if you can.
 
 **Maintain it:** Owning a domain name is more than just paying $8 – 15 per year. Make sure the public information is correct and ignore ANYTHING mailed or emailed to you about your domain unless it comes from your registrar. Also, keep your domain login information safe and set a calendar reminder for the expiration date.
-
-The Host
---------
+## The Host
 
 ![the-host](/_images/2009/05/the-host.jpg "the-host")
 
@@ -51,9 +47,7 @@ There are three main things to understand about web hosting:
 **Word of mouth is king:** Unless [you’ve heard from someone directly about a particular host](/you-cant-go-wrong-with-fused-network-hosting-for-small-businesses/), take care. There are many review sites out there that are jammed with great reviews from affiliates (i.e. people who make money from a particular host). Listen to friends, family, and trusted online sources.
 
 **Understand the features that matter:** Unlimited everything might sound nice but make sure your host has what you need. Look for the number of FTP accounts, number of databases, the pre-installed software, and the email support. If you’re a small business with a small site, don’t worry about the storage or transfer amount; you’ll never reach those limits.
-
-The site
---------
+## The site
 
 ![emaspro_home_sm](/_images/2009/05/emaspro_home_sm.jpg "emaspro_home_sm")
 

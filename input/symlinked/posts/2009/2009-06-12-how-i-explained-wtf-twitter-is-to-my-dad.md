@@ -15,9 +15,7 @@ During this conversation, the topic of how to market and promote the site came u
 [![joshcanhelp-twitter-page](/_images/2009/06/joshcanhelp-twitter-page.jpg "joshcanhelp-twitter-page")](http://twitter.com/joshcanhelp)
 
 In the end, Twitter is different things for different people but the information below definitely got a sincere “A-HA” out of dad.
-
-Twitter is digital networking
------------------------------
+## Twitter is digital networking
 
 When I first started this whole gig, someone told me “you have to get out there and network.” I’m a very social person but the idea of hob-gobbling with a bunch of people I didn’t know for business purposes made me queasy. Why would I talk to a stranger about a business relationship if I didn’t already know we were a good match? This is the same reason I never did well in the bar scene…
 
@@ -26,18 +24,14 @@ But I digress… Twitter turns this whole networking thing on its head. Making a
 That doesn’t mean you can’t go a step further. You can have a short conversation with someone you’ve never met before (or may never have an opportunity to meet). This is powerful and the basis of a few off-line business relationships I’ve made. When making a connection is easy and taking the next step is just as easy, you have a powerful tool to meet relevant people and exchange ideas very efficiently.
 
 ![](/_images/2009/02/craig_tweet.jpg)
-
-Twitter is the best content hot off the presses
------------------------------------------------
+## Twitter is the best content hot off the presses
 
 Staying on top of your industry is time-consuming to say the least. If you’re in an industry you enjoy, it’s fun too but that doesn’t mean it’s any easier (might even be harder in that case). If only there was a way to gauge content relevancy on the web…
 
 Here’s another way I use Twitter. The people I follow are mostly people in the SEO, web design, development, business, and communication communities. Since every third tweet I see is an article, I’m getting exposed to a LOT of different articles, new pieces, blog posts, and other pages. If I see it with an “RT” in front (retweet… means that someone is reposting someone else’s tweet), that means that it’s been posted at least twice and might be worth a look.
 
 I’ll admit that having a stream of mostly relevant, potentially engaging content is quite a time sink. Still, once you get into the swing of things, you really learn how to scan quickly, gauge your interest, and move along if it doesn’t fit. If I’m in Twitter, I read maybe 10 articles a day (**maximum**) compared to 50 that I click on.
-
-Twitter is a good time
-----------------------
+## Twitter is a good time
 
 In the end, nothing you use is a great tool unless you get some kind of enjoyment out of it. Gmail, Remember the Milk, and Dropbox are all things that make my life better and are so simple to use that it’s hard **not** to use them.
 

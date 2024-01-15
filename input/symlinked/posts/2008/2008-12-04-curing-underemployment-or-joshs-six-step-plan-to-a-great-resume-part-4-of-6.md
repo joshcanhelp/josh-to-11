@@ -9,9 +9,7 @@ wpid: 454
 
 
 Yesterday, I wrote about [the 3rd step in the Josh Can Help resume process, writing personal statements](/curing-underemployment-or-joshs-six-step-plan-to-a-great-resume-part-3-of-6/). Check it out!
-
-Step 4: Put it all together (rough draft)
------------------------------------------
+## Step 4: Put it all together (rough draft)
 
 Now, we’re going to take those personal statements, skill lists, and positions, and start building the different resumes. Don’t worry too much about formatting right now, just build the information (baby steps).
 

@@ -19,9 +19,7 @@ That’s the card I put together about 3 years ago. I was finishing up a Chemist
 When I first tried to come up with my favorite Hugh cartoon, this is the one that jumped to mind. Problem is, I kind of feel like my business **is** a science project. It’s also ironic that I spent many years working with science projects and now I have a business…. totally unrelated to science projects. I also miss science projects, especially when I’m knee-deep in business. It was a strangely appropriate card.
 
 I’ve since replaced my Gaping Void card with one of my own design (seemed like the right thing to do) and have also replaced this cartoon with two others as my favorites. If I had to pick one, it would be the second.
-
-“Mediocrity now howls in protest”
----------------------------------
+## “Mediocrity now howls in protest”
 
 I’m listing this one first because it was the thing that scared me immensely about being on the web at first and has since has since made it feel like a great place to be.
 
@@ -38,9 +36,7 @@ Here’s where Hugh’s cartoon explains it all so succinctly: most people don�
 But, you see, the web has turned that around in a huge way. Sure, I can get bogged down in LOLcatz and “viral advertisements” but I can also very easily find incredible writers, brilliant artists, unbelievable filmmakers, and unforgettable emcees. Blow off that light, thick, airy layer of fluff and below you’ll find people and groups and output that can blow your mind. This stuff doesn’t immediately rise straight to the top but it gets the attention it deserves and the fans it requires.
 
 So go ahead and be mediocre on the web, you’ll be in good company but don’t think for one second you’re fooling anyone.
-
-“Intoxicated by Possibility”
-----------------------------
+## “Intoxicated by Possibility”
 
 When I first saw this, my reaction was “yeah, that’s me” in the sense of “how amazing is all this possibility?” Then I took a step back and wondered if the connotation was 100% positive.
 
@@ -59,9 +55,7 @@ Faced with two interpretations of this cartoon, I split the difference. I think 
 You see, I have more ideas for web apps, start-up businesses, and online services than I could materialize in 10 lifetimes. Having all these choices is great but it leads to a very palpable feeling of being stuck. With so many things to do, all of them (potentially) commercially viable (IMHO) and even enjoyable to complete, where do you start?
 
 The possibility is great but the intoxication is a little hard to handle at times. Thankfully, I’m a few decades away from the hangover.
-
-Thanks, Hugh
-------------
+## Thanks, Hugh
 
 Hugh has inspired me for a few years now and I’m guessing he’s got many more in him. If you’re reading this, I want to say thanks and you’ll see my print order just as soon as I can make up my mind.
 

@@ -11,9 +11,7 @@ wpid: 1173
 I used to work for a big, huge wireless company. I was the nameless, faceless guy who received email requests all day and made minor change to wireless accounts. Each email was formatted exactly the same way and I used the same system for each change. 8 hours a day, 5 days a week I was a machine.
 
 While I haven’t eliminated repetition from my professional life entirely, I’m aware of something very different at work. Creating websites from scratch can be tedious but it has taught me something critical about…
-
-Iteration
----------
+## Iteration
 
 This word has two pertinent dictionary.com definitions:
 
@@ -28,9 +26,7 @@ In layman’s terms, when you iterate or use an iterative process, you’re doin
 ![](/_images/2009/10/iteration_cycle.png "iteration_cycle")
 
 An iterative mindset is based on three things: *observation*, *analysis*, and *persistence*. In other words, iteration comes more from desire and hard work than any kind of innate ability.
-
-Observation
------------
+## Observation
 
 To successfully employ iteration, you need to be observant. What you’re looking for are problems, specifically recurring ones. These can range from minor annoyances right up to massive failures. You’re also looking for benefits. This could be something that saves you 10 seconds a day or something that saves you $100 a day.
 
@@ -39,9 +35,7 @@ The best way to be observant (and to benefit from what you see) is to record. I 
 This is begging for a real-life example.
 
 Let’s say your having a conversation with someone. If this person is someone you want to please (your significant other, a potential client, a potential date), you probably want to be tuned into them and observant of how they react. If you talk poorly about our current president (a potentially risky topic with any of the people referenced above), you’ll want to judge their reaction to see if you shold do that again. Now, extend that to everything and everyone around you. You want to have pleasant, recurring interactions with all that surrounds you and the first step towards that is being observant.
-
-Analysis
---------
+## Analysis
 
 I find this word particularly unfriendly at times because it implies a lot of work. Analysis, here, just means being observant in way that finds connections between what you’re observing.
 
@@ -58,9 +52,7 @@ Using the previous example of a conversation, now consider taking the next step 
 - They could be just generally uninterested in politics and bored of hearing about it.
 
 Your analysis consists of coming up with many possible solutions and, using your observations, making a guess at the right one.
-
-Persistence
------------
+## Persistence
 
 Here’s where the actual work comes in. To be iterative, you need to repeat the process using your new information honed by your analysis. You must be willing to face the same problems with new information and risk potential (repeat) failure.
 
@@ -69,9 +61,7 @@ Here’s where the actual work comes in. To be iterative, you need to repeat the
 Sticking with the observation and analysis necessary to make better decisions about previously faced problems is not always easy but if you see each attempt as an experiment and part of a larger process instead of individual failed events, you’ll be better prepared to face the next iteration.
 
 My conversation example needs a bit of modification to work here. We’re going to assume the person you’re talking to does not have any inclination to give up and walk away. With that in mind, you’re now free to iterate towards a better experience with them. If your goal is to find a healthy middle ground, maybe you try a topic that isn’t so inflammatory. Maybe you ask them questions. Maybe you compliment them on a particular attribute. However you do it, you’re experimenting towards your goal, watching and learning along the way.
-
-Bonus: How I’m iterative
-------------------------
+## Bonus: How I’m iterative
 
 This topic came to me as I was combing through my obsessive-appearing series of folders holding various re-useable website templates, code snippets, and documents. Each time I create a new website, I add something new to this library. Maybe it’s a link saved on Delicious, maybe it’s a better site header, maybe it’s a new module I can use in WordPress – could be anything. What I’m always looking to do (in order of importance).
 

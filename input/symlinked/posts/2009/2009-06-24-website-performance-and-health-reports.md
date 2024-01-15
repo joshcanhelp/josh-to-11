@@ -23,9 +23,7 @@ Using these tools in conjunction on a regular basis provides very detailed infor
 - Detailed information about site visitors
 
 Without close monitoring and regular reporting, websites run the risk of losing traffic, accumulating errors, and becoming difficult to search.
-
-Tasks to complete
------------------
+## Tasks to complete
 
 1. First, the website needs to have GA installed and a sitemap created (if it was not already completed) and submitted to GWT.
 2. Both tools will need a couple of weeks to gather data before any useful conclusions can be made.
@@ -35,9 +33,7 @@ Tasks to complete
 6. A top content report can be pulled to show pages that are performing well (seeing a lot of traffic and directing it to other parts of the site), pages that are performing poorly (low traffic or high bounce rate), and how people are reaching these types of pages.
 7. A traffic source report can be pulled to understand where visitors are coming from and how they got to the site in the first place. Traffic is divided between three categories: search engines, direct, and referrals.
 8. If needed, a visitor report can be created to show a cross-section of the people who are viewing the site. This includes technology, geographic location, and language.
-
-Additional Analysis Tasks
--------------------------
+## Additional Analysis Tasks
 
 In addition to GA and GWT, other tools should be used to find presentation, browsing, and search engine problems.
 

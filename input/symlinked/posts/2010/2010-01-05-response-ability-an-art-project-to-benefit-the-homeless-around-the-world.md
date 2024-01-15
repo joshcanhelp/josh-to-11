@@ -17,9 +17,7 @@ In the summer of 2008 I was given the opportunity to learn from a very talented 
 **I’ll let him explain this inspiration:**
 
 > One day as I was driving…I stopped at a traffic light and gazed into the eyes of a homeless man and my feelings related to what I saw. He was impoverished physically, mentally and spiritually; every aspect of him was wretched. I felt his pain, despair. I was attracted to his pain, but wanted to ignore him. I was drawn to his loneliness but wanted him to disappear. I just wanted this moment to end; I wanted his presence to stop reminding me that I was alone just like him! He needed help and I wanted to RESPOND but not with money. This time I felt something deeper, a connection. Yes, his sign, all I could focus on was his sign and suddenly the Artist in me awakened and I said to myself, him and his sign are one. Just like any other business the sign is the representation of the business, RIGHT? I thought, what would happen if artists created signs for the homeless? Big, bright colorful, energetic signs with empowering words?
-
-Introducing RESPONSE ABILITY
-----------------------------
+## Introducing RESPONSE ABILITY
 
 ![RESPONSE-ABILITY1](/_images/2010/01/RESPONSE-ABILITY1.jpg "RESPONSE-ABILITY1")
 
@@ -28,9 +26,7 @@ Introducing RESPONSE ABILITY
 > This act of engagement is the fuel and intention behind this entire project. It begins with the homeless and their despair, the artists recognizes their condition and responds with these powerful signs. The Art Gallery’s provide the space to sell these signs. Then its up to us, we the people, to purchase these works of art and ultimately offer them as gifts, to the homeless.
 
 Addressing a problem as big as homelessness takes more than just money, it takes love, compassion, and understanding. Pose2 wants artists across the world to express themselves for a greater good. **Let’s come together as a community and address this real problem.**
-
-**Calling Artists of All Types**
---------------------------------
+## **Calling Artists of All Types**
 
 We want artists to use their talent and passion to make a difference. If you’re ready to do something for a greater good, listen up:
 
@@ -40,9 +36,7 @@ We want artists to use their talent and passion to make a difference. If you’r
 - Think about portability, legibility, and dignity.
 
 Get your signs ready and contact **Pose2** to submit your work: **Daniel.pose2fx (at) gmail.com** or **619-278-1735. DUE DATE IS JANUARY 14TH.**
-
-**Ready to Make a Difference?**
--------------------------------
+## **Ready to Make a Difference?**
 
 We need everyone on this one. The vision is global but we must first start local. The first launching of this exhibition will take place on **Saturday, Jan 16th, at Voz Alta Art Gallery, 1754 National Ave, San Diego, CA 92113.**
 

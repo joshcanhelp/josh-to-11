@@ -21,9 +21,7 @@ But, in practice, there are very simple things you can do to make a WordPress si
 I’ve been asked a few times how to speed up a WordPress site and, despite the numerous Google results for the topic, I wanted to give my $0.02. Here are a few thoughts on the topic in no specific order, though amazing that they all start with the same letter, no?
 
 ![hard-drive-install](/_images/2015/01/hard-drive-install.jpg)
-
-Configuration
--------------
+## Configuration
 
 Good performance comes from a good basic setup. I’m not going to cover Apache/nginx and MySQL configuration here because most people don’t have access to those and things can get worse if the changes aren’t made properly.
 
@@ -47,9 +45,7 @@ How can you tell if any of these works? First, the site should obviously run fas
   <span style="font-family: 'courier new', monospace;">&lt;?php phpinfo(); die(); ?&gt;</span>
 
 When you load that phpinfo file, you’ll see [something like this](https://www.dropbox.com/s/rr48g0a7gyqt23b/Screenshot%202014-10-15%2012.58.49.png?dl=0). Search the page for “memory\_limit” and you should see [a line like this](https://www.dropbox.com/s/ajze75e2nj6fgl8/Screenshot%202014-10-15%2012.59.11.png?dl=0). Left value is the “local” modified value, the one on the right is the master value for your server environment. You’ll also see a number of other values there that can be helpful in troubleshooting, including loaded libraries and other things.
-
-Code
-----
+## Code
 
 This is a bit fuzzy compared to the others. The long and the short of it is “use good code,” which *is* qualifiable but difficult to achieve, especially if you’re a site owner and not a WordPress developer.
 
@@ -66,9 +62,7 @@ For developers:
 - If you need the functionality of a plugin and it’s only a small component of that plugin, consider incorporating that code into the theme. If you use 5% of what a plugin does, simply recreate that in the theme and show attribution in the code. This is situational, though, as sometimes it makes sense to keep the ability to update the code without maintaining it yourself.
 
 A quick note on troubleshooting performance issues stemming from plugins: your best bet, if you can, is to deactivate all plugins and then activate them one-by-one until you find the issue. If there isn’t just a single plugin causing the problem, then you have too much going on. If you absolutely need BuddyPress and WooCommerce and GravityForms and 20 more plugins while running an off-the-shelf theme, you’ll need either a custom theme that can wire this all up properly or you need a faster server. **There is a limit to what your web host can do.**
-
-Caching
--------
+## Caching
 
 Caching is the easiest solution for performance problems and should be a part of every WordPress site out there. Caching works to reduce the load on your database by serving data or HTML that was created on a previous visit. As such, caching only really works for things that have happened before.
 

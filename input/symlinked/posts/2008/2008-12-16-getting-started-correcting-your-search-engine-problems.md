@@ -23,9 +23,7 @@ If you want people to see the information you have, if you want to turn web brow
 [Why is SEO important?](http://www.webnauts.net/seo.html)
 
 > Consider what it would be like if no one could easily find your place of business, or even your telephone number. Most businesses could not continue for long in such a situation. The same thing can happen with your web site if people cannot easily locate it. Traffic volume, if it existed at all, slows to a crawl. Potentially valuable customers never even know you are there.
-
-Key word strategy &amp; generation
-----------------------------------
+## Key word strategy &amp; generation
 
 I’ll start off by saying that this is the single most important thing that needs to be done for a site… and, of course, it’s the hardest thing to do, the easiest to get wrong, and the most lengthy process. There is a lot of information available online about keyword strategy so this description will be brief.
 

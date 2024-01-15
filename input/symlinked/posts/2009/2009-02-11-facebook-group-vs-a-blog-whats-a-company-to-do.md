@@ -9,9 +9,7 @@ wpid: 576
 
 
 I was having a virtual conversation with a colleague last week and the topic of Facebook group pages versus blogs came up. She is excited to make a Facebook page to promote us and what we’re doing. I am excited to build a blog and push content that more people can see and interact with. I wanted to share this conversation because I think it’s essential to exchange ideas like this, especially ideas that pertain to experimentation and exploration.
-
-Facebook vs Blog: Internal Risk and Fear
-----------------------------------------
+## Facebook vs Blog: Internal Risk and Fear
 
 > Just seems like joining a Facebook group would potentially be a little less risky/scary. I think there is still mystery/confusion for many people around the blog idea, so this could be a way to walk them into the deep end nice and easy.
 
@@ -22,9 +20,7 @@ I’ve been blogging for over two years now and I still get an interesting react
 The word “blog” is a hot button word. Most people know what they are but they don’t quite know [why people create them, use them, and work so hard on them](/good-advice-to-a-client-about-building-a-blog-from-the-ground-up/). In this case, here is an example of someone who sees blogs as “risky” or “scary.” For someone who blogs, this is a strange reaction but if it represents a larger group of people then there is certainly still work to be done.
 
 In the “Facebook vs Blog Debate,” the winner is clear to me. Blogs pull traffic directly to your site, blogs can disseminate information and be a little bit biased while being helpful, and blogs can have 1,000 people per day that visit anonymously. The visibility is higher, the traffic is stronger, and the format can be completely customized. While I think a Facebook group works for a lot of things, personally, I don’t see a benefit in aligning myself so strongly with any particular product.
-
-Company Buy-In: The Eternal Struggle for ROI
---------------------------------------------
+## Company Buy-In: The Eternal Struggle for ROI
 
 > I really think we can’t go wrong either way, and would prefer to do both, but am wondering about internal buy in. I personally think it would be great for you to explore blog options/ideas, not sure how others would feel about it.
 
@@ -35,9 +31,7 @@ The main point of a blog is information dissemination which works to [attract li
 What is missing from every blog without an audience and every Facebook group without a lot of fans is quality content. The buy-in she is talking about (I believe) pertains to the amount of time it might take to maintain a blog on our topic of choice. But what if we created a Facebook page without a constant flow of information people care about? Who would attach themselves to a brand that didn’t really mean anything? Probably just the people working for that company.
 
 In the end, whether it’s Facebook versus a blog, a blog versus [Twitter](/?s=twitter), or Twitter versus Flickr, it all comes down to what you can offer. I’ve found that I can offer a lot over a blog and a lot through Twitter but not a lot through Flickr. I’m on Facebook a lot but that’s more personal. For a brand to be built using the social technology of the web, the brand has to have something to offer people beyond it’s logo and marketing spiel. Once it is determined what kind of unique perspective or information they can disseminate, then it’s time to figure out where to go. *With so many options out there, the tool can’t dictate the content, the content MUST dictate the tool.*
-
-Sometimes All It Takes Is a Good Example
-----------------------------------------
+## Sometimes All It Takes Is a Good Example
 
 > I enjoyed the corporate blogs you sent along – it’s a totally different animal than recreational blogs, obviously, and I had not seen a “good” example of a corporate blog.
 

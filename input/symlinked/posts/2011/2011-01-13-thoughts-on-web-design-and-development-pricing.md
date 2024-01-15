@@ -15,9 +15,7 @@ When you contact someone like me to design your site or code up an email or put 
 First, though, I think it’s important to say one thing: no matter what I’m charging, I want my clients to be completely satisfied. In the end, that’s my only job. In addition to that, I’d like my clients to feel like what they paid for what they got was fair. I don’t compete on price because I don’t think that leads to value. I want to build great things and charge people the right amount.
 
 But how to go about doing that? Here’s how I see it from a few different perspectives…
-
-The Client
-----------
+## The Client
 
 Let me put myself in your shoes, if you don’t mind. I am a client on a regular basis so this shouldn’t be too hard…
 
@@ -36,9 +34,7 @@ But I’m getting away from the role-playing here. I’m a client, I want someth
 - **If I pay a fixed price**, then I know how much I’m going to spend but will it be everything I wanted it to be? Are corners going to be cut to get it under budget? Am I going to have to push hard to get the features I’d like?
 
 It’s a conundrum, either way you look at it. Would it make you feel better if I told you that the situation is no better for a developer?
-
-The Service Provider
---------------------
+## The Service Provider
 
 Back in my shoes (will, house shoes since I work from home) now…
 
@@ -52,9 +48,7 @@ I want to make people happy and I want to enjoy what I’m doing. During this lo
 2. **If I charge by the project**, the big, huge, glaring, painful, tension-causing problem surrounds specifications. What did I agree to do for what price? If I say that I’ll build a site for $XXXX, what does that include? Should I spend 4 hours writing up exactly what I’m going to do so there is no confusion later? What about unforeseen circumstances? What about if you change your mind about something? In the end, you want what works and I want to build that but if you start changing what I’m building mid-way, are you going to understand the change in estimate? This kind of pricing rewards me for working quickly but how quick can I work while still providing a top-quality product? How many corners am I willing to cut to make sure it comes under budget? Do the projects that come in under my estimate make up for the ones that spiral out of control?
 
 Problems abound for both methods.
-
-What’s the right way?
----------------------
+## What’s the right way?
 
 Wouldn’t it be great if I just totally write the right answer down here and solved this problem for all time? Alas, Josh Can only Help so much…
 

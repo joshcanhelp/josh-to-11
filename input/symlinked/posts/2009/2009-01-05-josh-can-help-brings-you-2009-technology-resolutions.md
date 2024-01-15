@@ -38,9 +38,7 @@ Just like the lawyer who gets a DUI or the personal organizer with the messy car
 - The Resume page needs to be updated and new testimonials need to be added. I’m putting together a list of questions that I will be sending to current and past clients about their experience with me and how they liked the outcome.
 - The Hire Me page is going to be more of a list of products/services that I offer rather than a meandering list of stuff I can do. I want to offer 5-8 different products, each with its own base price (website from scratch, SEO analysis, page content re-tooling, full web presence package). I think this will go a long way towards showing people what I can do and what they might be missing.
 - I need to pick out keywords and write for them, period. I made a few small changes and watched my traffic from search engines grow by about a third. Each post should be optimized and targeted or I’m just wasting my time.
-
-I’m going to use Adobe Illustrator for design and layout more often than Photoshop
-----------------------------------------------------------------------------------
+## I’m going to use Adobe Illustrator for design and layout more often than Photoshop
 
 ![illustratorcs3](/_images/2009/01/illustratorcs3.jpg)
 

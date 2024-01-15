@@ -70,9 +70,7 @@ Sat 11 am – 9 pm
 Sun 11 am – 8 pm
 
 <a name="saturday"></a>
-
-Saturday
---------
+## Saturday
 
 1. <span style="line-height: 13px;">Urban Family Public House: 11 am – 12 pm</span>
 2. NW Peaks: 12 pm – 1 pm
@@ -87,9 +85,7 @@ Saturday
 
 [![Screen Shot 2013-08-14 at 9.53.46 PM](/_images/2013/08/Screen-Shot-2013-08-14-at-9.53.46-PM.png)](https://www.google.com/maps?saddr=Urban+Family+Public+House,+Ballard+Avenue+Northwest,+Seattle,+WA&daddr=Northwest+Peaks+Brewery,+17th+Avenue+Northwest,+Seattle,+WA+to:Hilliard's+Beer,+Northwest+49th+Street,+Seattle,+WA+to:Peddler+Brewing+Company,+Northwest+Leary+Way,+Seattle,+WA+to:Reuben's+Brews,+Northwest+53rd+Street,+Seattle,+WA+to:Jolly+Roger+Taproom,+Northwest+Ballard+Way,+Seattle,+WA+to:Populuxe+Brewing,+Northwest+49th+Street,+Seattle,+WA+to:Hale's+Ales+Pub,+Leary+Way+Northwest,+Seattle,+WA+to:Outlander+Brewery+and+Pub,+North+36th+Street,+Seattle,+WA+to:Fremont+Brewing+Company,+Woodland+Park+Avenue+North,+Seattle&hl=en&sll=47.657357,-122.363351&sspn=0.023963,0.049181&geocode=FTJX1wIdeJG0-CFevNeuV-0bdCm_s7ZbxhWQVDFevNeuV-0bdA%3BFTtP1wIdbqa0-CFTTkzp-4IorikZDfKUIxSQVDFTTkzp-4Iorg%3BFW9N1wIdQKm0-CEs5DYutOfVxSk_14QauBWQVDEs5DYutOfVxQ%3BFa1K1wIdUqy0-CHGQmD2U8oDwCnZT2QjuBWQVDHGQmD2U8oDwA%3BFXtY1wIdBLi0-CGr8dzlpcXXkCk_WQLFyRWQVDGr8dzlpcXXkA%3BFZdG1wIdY8G0-CGsLCBhYoVEwilfuSQ8txWQVDGsLCBhYoVEwg%3BFX1N1wIdSNG0-CGHgx7o7XvbkSlBz1ufthWQVDGHgx7o7XvbkQ%3BFWQ41wIdBtu0-CHDM5xiUNdIWinXcLQysBWQVDHDM5xiUNdIWg%3BFY8d1wIdmwC1-CFp4jMA5MMTqymVFPivqRWQVDFp4jMA5MMTqw%3BFfgQ1wIdFi21-CHzPNLzYHAtVCnvkaZjARWQVDHzPNLzYHAtVA&oq=popu&dirflg=b&mra=ps&t=m&z=15&lci=bike)  
 <a name="sunday"></a>
-
-Sunday
-------
+## Sunday
 
 1. Urban Family Public House: 11 am – 12 pm
 2. NW Peaks: 12 pm – 1 pm

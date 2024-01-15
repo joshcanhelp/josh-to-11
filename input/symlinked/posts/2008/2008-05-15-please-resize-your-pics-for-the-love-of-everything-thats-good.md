@@ -10,9 +10,7 @@ wpid: 23
 This post goes out to the habitual offenders, the ones who know but don’t do it, the ones who know AND do it but waste time with Photoshop or something similar, and for those who do it and do it right but want others to do the same and don’t want to spend the time teaching or writing out the instructions. Print it out and hand it out.
 
 These days, with ultra-compact digital cameras coming in around $200 and megapixel counts in the 7’s, 8’s, and 9’s, everyone is taking digital pictures and they’re all HUMONGOUS. Between on-line forums, emails from family members, and massive Powerpoint presentations, I’m drowning in over-sized photos and surrounded by people who, understandably, don’t want to waste their time resizing each and every picture they want to share. At some point, for some reason, these photos have to get smaller and, unfortunately, not everyone knows how to do that. And I’m Josh and I can help (at least the website says so) so I’m going to show you a free program that makes the whole resizing thing easier than you thought possible. If you’re using Photoshop and resizing each image, you’re wasting your time. And if you’re NOT resizing your pictures, you’re wasting everyone else’s.
-
-Why should digital pictures be resized?
----------------------------------------
+## Why should digital pictures be resized?
 
 The problem with big pictures is their size. Har har har… no really, the size contributes two annoyances:
 
@@ -22,18 +20,14 @@ The problem with big pictures is their size. Har har har… no really, the size 
 With my Canon SD1000 (a small, great, inexpensive ultra-compact digi-cam) set to its highest resolution (meaning the size of the image), it’s taking pictures at 3072 x 2304 pixels. This is 7,077,888 pixels (or dots) of color that has to be stored and transferred. Unless you’re printing these photos on 8×10 paper, a picture of this size will do you no good. You’re also going to need several different emails if you want to send a whole group of them to someone, not to mention the hard drive space it takes to store them (on both machines).
 
 Clearly, it has to be done but how to go about it?
-
-How can digital pictures be resized?
-------------------------------------
+## How can digital pictures be resized?
 
 In order to get your pictures in a more manageable size to use, share, and post online, you will need to reduce the amount of data that is contained in the picture file. This can be done by reducing the actual size of the photo while keeping the overall quality. This can be done with an image editing software like Photoshop but there’s no need to break out the big guns for such a minor task.
 
 I just recently starting using the aptly-named software PIXresizer and I couldn’t be happier with how it works. I’ll walk you through some of the basic functions of this free software so you can pass them along to the technology-handicapped people in your life… or just send the link to a friend.
 
 First, [download it here](https://bluefive.pairsite.com/pixresizer.htm) (scroll down and look for the “DOWNLOAD \[ 3.3 Mb .zip\]” link). Open the .ZIP file and run the program **Setup** to install it on your machine. Make sure to add an icon to your desktop and run the program.
-
-How do I use this PIXresizer program?
--------------------------------------
+## How do I use this PIXresizer program?
 
 PIXresizer is very easy to use so I’ll keep these instructions nice and short. For those who are fluent in image language (sizes in pixels, images types, etc), this list of instructions will probably be useless to you. It’s very easy to poke around and figure out what to do. If you’re not so computer-savvy, I’ll show you how to get the most out of this great little freeware program.
 

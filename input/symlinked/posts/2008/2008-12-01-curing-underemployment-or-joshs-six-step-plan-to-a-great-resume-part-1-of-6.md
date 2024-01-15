@@ -9,9 +9,7 @@ wpid: 447
 
 
 I’m helping a colleague of mine put together her resume for the first time in many years and I thought I’d share the process with you. I’m not convinced that there is a totally right way or wrong way to do this but I DO know that there is a right (read: beneficial) outcome and a wrong (read: detrimental) one.
-
-What Should a Good Resume Do for You?
--------------------------------------
+## What Should a Good Resume Do for You?
 
 I think a lot of people approach the resume process like they would approach, say, their biography. All stories should be told, all skills described, all experience disclosed. While it’s definitely good to be honest and thorough with a company you want to work for, by putting everything in your resume, you’re taking away a lot from the other big part of getting a job: the interview.
 
@@ -20,9 +18,7 @@ Your resume should be a complete summary of what you have to offer but it doesn�
 Your resume should, essentially, qualify you exactly for the position you’re applying for and create a bit of interest in what you have to offer. Pertinent education should be there, relevant experience should be there, specific skills should be there and they should all be tuned towards the position you’re trying to get.
 
 Your resume should also be FLAWLESS. There are enough jokes floating around out there about misspellings, bad grammar, incorrect references, and embarrassing mistakes, don’t become one of them. Reserve at least a quarter of your resume-writing time to correcting mistakes, checking for errors, and formatting as best as you can.
-
-Step 1: Write down the job positions you want
----------------------------------------------
+## Step 1: Write down the job positions you want
 
 Your first step is having a clear picture of what you want. If you don’t know where you want to apply or what you want to do then you’re going to be at a specific disadvantage compared to the other people applying for the position. I’m not saying you need to come to brass tacks about your career and your life and your direction (well, you probably should at some point) but you need to at least know what jobs you want, what you’re qualified for, and why you’re applying for them. Think about it: you might be saving yourself a lot of pain down the road if you decide against a job you would have mindlessly applied to in the first place.
 

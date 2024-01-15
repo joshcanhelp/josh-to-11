@@ -9,9 +9,7 @@ wpid: 459
 
 
 Yesterday, I went through the [fourth step in my resume-writing process, creating a rough draft](/curing-underemployment-or-joshs-six-step-plan-to-a-great-resume-part-4-of-6/). We’re in the home stretch!
-
-Step 5: “Final” draft time… buckle down
----------------------------------------
+## Step 5: “Final” draft time… buckle down
 
 OK, you have a resume, you’re about 80% there. Now it’s time to bring it all together.
 

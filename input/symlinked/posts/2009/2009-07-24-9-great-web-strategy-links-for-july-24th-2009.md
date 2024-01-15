@@ -23,9 +23,7 @@ A big part of getting your site visible and getting people to come from search e
 ## 15 sites web developers and designers should know [gone]
 
 Not everybody out there is going to need this but even if you’re not a designer/developer, there are some great tools on here to help you understand the process. First, try ColorCombos to get a sense of what colors work together and give you a few ideas for that redesign. Lipsum is where that crazy Latin text comes from on sites that aren’t finished… try sending a big block to your significant other and asking “so what’s your answer?” at the end. What the Font can identify fonts from images, a great resource if you need to recreate a logo or graphic but aren’t sure what fonts were used. Also, try Test Everything to see how your website is performing.
-
-Twitter links
--------------
+## Twitter links
 
 **[IE6 must die for the web to move on](https://mashable.com/2009/07/16/ie6-must-die/):** The title says it all: Internet Explorer version 6 is really holding the web back. If you’re using Internet Explorer to view this page, go to Help &gt; About and if the version number is anything less than 7, [please upgrade](https://support.microsoft.com/en-us/hub/4230784/internet-explorer-help).
 

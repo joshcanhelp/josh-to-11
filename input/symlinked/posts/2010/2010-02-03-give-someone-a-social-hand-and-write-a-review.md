@@ -17,9 +17,7 @@ The whole review landscape has changed for the better lately. What used to be ju
 It’s easy to forget that this valuable information comes from real people taking their own precious time to construct helpful and sometimes very creative reviews to help others avoid pitfalls and find the best \[insert anything here\] available. There are people out there with nothing better to do, that’s true, but so many reviews (mine included) come from a strong desire to give back to a community that caused the discovery of something great. It’s more about community than ego, more about making sure this system stays healthy than just quenching boredom.
 
 So I’m here to remind you in the nicest way possible to get out there and write reviews about the stores and products you can’t live without and the ones you want to annihilate.
-
-Write a Review to Help Out a Buyer
-----------------------------------
+## Write a Review to Help Out a Buyer
 
 There are a disturbing number of options out there just waiting for our approval ([watch this great TED talk about how the massive proliferation of choice has actually made us less happy](http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice.html)). There are a million meal choices, thousands of different car models and configurations, and hundreds of individual options for each consumer good we decide to consume. **Honestly, there are too many choices to make**.
 
@@ -32,9 +30,7 @@ In order for this great system to work, we all have to give back. So…
 1. **For every product you buy before of user ratings, go back and review that product on the site you used.** Even if there’s already 100 reviews, add one more.
 2. **If you’re head-over-heels, write a love letter**. If not, just give it an appropriate number of stars, add a couple sentences of explanation, and leave it at that.
 3. **If you’re going to take the time to write something, explain your rating**. Stars are great for the aggregate but it’s the comments that really help us all decide.
-
-Write a Review to Help Out a Business
--------------------------------------
+## Write a Review to Help Out a Business
 
 One of my prime motivators for writing reviews is the small business that I’m helping because of it. I’m all about giving back to the digital community but I love the idea of a small Thai restaurant or an auto body repair shop or a bar getting the credit it deserves because of something I said. Allow me to explain using two recent experiences.
 
@@ -49,9 +45,7 @@ Businesses are people too. Give back to the great ones…
 1. **Write your review as a sales pitch.** You really are marketing on their behalf so make it count.
 2. **Assume that the business will read your review.** Help them understand what was great and, more importantly, what could be improved. Even good reviews can include an improvement suggestion (if applicable).
 3. **Don’t be a troll.** If you had a bad experience, write honestly about what happened and if it seemed like a one-off thing (poor service on a busy night, say), give them the benefit of the doubt.
-
-If You Don’t Research Before Buying, You Should
------------------------------------------------
+## If You Don’t Research Before Buying, You Should
 
 With things like doing a search before asking a question and using on-line applications like Gmail to manage and backup your contacts I find it tough not to assume everyone just does it. Same thing goes for on-line research; I can’t make any move involving the exchange of currency without consulting The Oracle (read: Google). But not everyone does and I’m here to help so here are a few times.
 

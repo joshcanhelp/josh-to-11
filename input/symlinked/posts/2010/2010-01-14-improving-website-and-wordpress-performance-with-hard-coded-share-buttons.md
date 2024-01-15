@@ -12,18 +12,14 @@ wpid: 1322
 Increasing the page load speed of your website has been proven to increase conversion rates (reduce the number of people who get fed up and leave), increase site usage (time on site and pages per visit), and reduce the chance you’ll be taken down by a sudden spike in traffic. WordPress in particular is fairly resource heavy right out of the box so speeding up everything else is a critical piece of running a site on this platform.
 
 But I’m not going to talk about increasing WordPress speed, I want to show you how to improve you page load speed by cutting down on the number of external scripts you’re loading on a particular page. We’re going to do this by hard-coding share buttons into your theme.
-
-Share Buttons Work… In A Way
-----------------------------
+## Share Buttons Work… In A Way
 
 Share buttons on your post help your content reach a greater audience by creating easy channels to social networks. By placing a “share on Twitter” button or “post on Facebook” icon, you make it easy for readers to bring the page to their network and increase your traffic.
 
 The problem with most of the share badges out there is that they load a Javascript file from an external source which can take several seconds on a bad day. Depending on where you placed the badge, your content could be held back while the script takes its time and your readers bail.
 
 Javascript calls are an easy way for Facebook and StumbleUpon to put their links on your page but most networks also have a way to share through a URL. Just hand over the link to your page and, in some cases, a title and you’re presented with a simple form to complete and submit. Your content gets to the share site just as it would with the Javascript, sometimes even faster.
-
-Adding Hard-Coded Share Buttons
--------------------------------
+## Adding Hard-Coded Share Buttons
 
 All we need to do is display a nice icon and a link to the social network that includes a link back to your page. For my site, I made a few icons using badges I’ve found around the web which you’re welcome to download and use (please don’t link to mine, right-click, save-as, and upload for yourself).
 
@@ -76,9 +72,7 @@ The code for each site is very simple:
 &lt;/a&gt;
 
 Place these anywhere you’d like on a static page or in the WordPress theme file that controls single posts (typically single.php). You’re about halfway there but the next few steps differ depending on what platform your site uses.
-
-Specific Steps for Static Sites
--------------------------------
+## Specific Steps for Static Sites
 
 For each page that needs share links, you’ll need to paste the HTML above and replace replace everything with double square brackets with the information from the page.
 
@@ -88,9 +82,7 @@ For each page that needs share links, you’ll need to paste the HTML above and 
 4. If you’re using Twitter, replace *\[\[SHORT TITLE + SHORT LINK\]\]* with no more than 140 characters including a short description and a shortened URL (go to bit.ly to get a short URL). The savvy Twitter users bill include their Twitter handle and leave enough room for RTs.
 
 Now load the page and test that the images appear and that each of the share links takes you to the right place.
-
-Specific Steps for WordPress
-----------------------------
+## Specific Steps for WordPress
 
 ![WordPress Logo](/_images/2009/08/wordpress_logo.jpg)
 

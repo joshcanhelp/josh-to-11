@@ -15,9 +15,7 @@ Incoming links to your website from text, images, or otherwise are a mystery to 
 The idea of incoming links falls under this large, ethereal, very misunderstood heading of SEO, or search engine optimization. It’s one piece of the very important “how and where do I show up in search engines?” question. It can be low-hanging fruit for those just now paying attention to them and a welcome challenge to those who feel like they are running out of options to improve the number of people coming to their site.
 
 So where to start? A quick explanation of what a link is.
-
-What is a web link?
--------------------
+## What is a web link?
 
 When I was first asked this question, I didn’t really know what to say. It’s like trying to discreetly define the word “chair.” A chair is … well, it’s a chair, like this chair right here. The definition becomes self-referential and, unfortunately, useless. So, here’s my non-circular definition of a link:
 
@@ -26,9 +24,7 @@ When I was first asked this question, I didn’t really know what to say. It’s
 A link can be an image or text or anything else you can see on a web page. You know how your mouse arrow changes to something different and you know you can click there and go somewhere else? That’s the long and the short of it.
 
 The internet, the whole internet, is made possible by these links. In fact, the whole idea of a “web” comes from just these connections. Being able to jump between documents displayed by servers around the world is what the web is. As such, links are pretty important. Still, this is a bit too abstract of a definition for our purposes.
-
-Why you should care about incoming links
-----------------------------------------
+## Why you should care about incoming links
 
 If a link is a pointer from one asset to another, an incoming link is a pointer from an external asset to an asset on your web site (more specifically, an asset contained in your domain name). These are important for two reasons:
 
@@ -38,9 +34,7 @@ If a link is a pointer from one asset to another, an incoming link is a pointer 
 If someone links to a page or post on your site saying “check out this great dumpling recipe” then the search engines knows that the page being linked to has information on dumpling recipes. It might seem unfathomable that search engines could know such a minuscule detail but they do and the more links that say the same thing pointing to the same place, the more they pay attention. The more of these descriptive, incoming links you have, the better your information appears to search engines and the higher your ranking is on the results page. This can become a major source of traffic when you start to rank well for words many people are searching.
 
 Different links have different values but the short of it is this: **increase the number of sites linking to you**.
-
-Good links, better links, and bad links
----------------------------------------
+## Good links, better links, and bad links
 
 So you know what to do, get more links. But links come in all flavors and you want to concentrate your time and energy on getting the best kind of links.
 
@@ -60,9 +54,7 @@ There are bad links too but, unless you’re working with an unscrupulous contra
 
 - **Links from “link farms.”** I hate this term because it sounds so 2001 but they still exist out there. These are pages and sites that exist just add links. Once search engines recognize these kinds of sites, the links become useless at best and toxic at worst.
 - **Unseen links stuffed with keywords**. Another tactic could be text links with keywords on other sites styled so you can’t see them. Sometimes these are added to your site as well as others to create linking between sites managed by the same contractor. Like the link farms, these are scanned for and ignored, if not penalized.
-
-Q&amp;A from clients
---------------------
+## Q&amp;A from clients
 
 This post was inspired by a emails I’ve received over the last few months. Here are a few specific questions I was asked and the answers I gave.
 

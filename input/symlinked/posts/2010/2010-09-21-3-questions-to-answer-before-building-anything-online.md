@@ -23,9 +23,7 @@ These questions are the Holy Trinity of ideas on the web. Extrapolated a bit fur
 This list is not a check list (“*yep, yep, yep… cool, let’s go!*“), nor is it any guarantee of success (“*JoshCanHelp’s simple rules to endless fame and fortune*“). These questions should serve as the very minimum of research you should do before paying anyone to design, build, or otherwise create anything. If you don’t take the time to answer these questions to the best of your ability then you’re not investing your money, you’re gambling it. If you do take the time to answer these questions, you will improve your chances of succeeding greatly.
 
 Let’s walk through these one-by-one but do please note that I use “site,” “project,” “tool,” and “app” to mean whatever you want to build online:
-
-Is there a need for what I want to do that isn’t being fulfilled somewhere else?
---------------------------------------------------------------------------------
+## Is there a need for what I want to do that isn’t being fulfilled somewhere else?
 
 This is the all-important “market research” question. First, you’re figuring out if there’s anyone out there that has a need for your idea. If you decide that there is, you need to figure out the competition for your idea and get familiar with that competition.
 
@@ -45,9 +43,7 @@ Once you’ve defined what you want to do, you need to do a little research. Ask
 - How are we different? Same but cheaper? Premium?
 
 You don’t need to go to business school to start the preliminary research on this and spending any money before you’re at least marginally familiar with the landscape is a big mistake. Answer the first section of questions to be clear on what you want to do, then Google your way to answers on the second one.
-
-Second, will people want to use what I want to build to fulfill this gap I’ve found?
-------------------------------------------------------------------------------------
+## Second, will people want to use what I want to build to fulfill this gap I’ve found?
 
 This is probably the hardest thing to answer because you will always be biased towards your own ideas. Of course people will use it, I really need something like this!
 
@@ -63,9 +59,7 @@ A few sample questions:
 - “How much would it take to make you stop using tool X and start using tool Y?”
 
 Draw pictures, diagrams, schematics, comparisons… whatever it takes to communicate, clearly, your idea and get a sense of whether it would be worth it for someone to start using it. These are the preliminary baby steps towards user-testing your product once you have a working prototype.
-
-Third, is this market-gap-filling tool that I’ve made easy enough to maintain and administer?
----------------------------------------------------------------------------------------------
+## Third, is this market-gap-filling tool that I’ve made easy enough to maintain and administer?
 
 This is an easy step compared to the others. The purpose here is to be sure you’re building something that makes it easy for you to serve your audience. Remember that there are two sets of people using the site: the admins and the users. There will be many, many more users than admins but don’t fall into the trap of “it’s ok if my job is hard, as long as theirs is easy” because it’s **going to suck** **later**. It should suck for you instead of the users but the goal is for it not to suck at all for anyone.
 
@@ -74,9 +68,7 @@ The best way to go about this step is to list every possible way that you will b
 After that, get this list to whomever is building your site and walk through it item-by-item. They’ll tell you whether something is too hard to be worth it or an easy fix. If you find the right one, they’ll also help you figure out your other on- and off-line processes to make the whole thing work better.
 
 Again, don’t sell yourself short on this one. Just assuming your life will be hell for a period of time while you get things figured out will only serve to stress you out and set the tone for the rest of the site (“*hey, it couldn’t get much worse than this, right?*“).
-
-Recap
------
+## Recap
 
 So, every morning when you wake up with the next big amazing internet idea, I want you to do these things, in order:
 

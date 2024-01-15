@@ -19,16 +19,12 @@ Let’s just get this out of the way: I’m a total WordPress fanboy. Most proje
 I’d **love** to hear from other WP developers show have either solved the “problems” I’m listing here or have some of their own to share. I know there’s a lot more for me to learn and I trust you folks to help me.
 
 So, here’s what I’d love to see in future WordPress releases:
-
-Better image handling
----------------------
+## Better image handling
 
 I’ve been working with both WordPress and Drupal in a few image-heavy sites and I find both of them to have their ups and downs (the former typically having more ups than the latter). The new file uploading in WordPress is fantastic and the gallery management has proved to be very helpful. I also like the ability to create new image sizes eery easily, that’s been helpful.
 
 But the one thing I’d love to have is something similar to Drupal’s Imagecache plugin. This allows you to set new image sizes, qualities, and crops without creating new images on the server. The new image is created when it’s loaded and saved in a cache folder. There is an image cache but it doesn’t provide the ability to create new sizes.
-
-Developer’s Version
--------------------
+## Developer’s Version
 
 This is not a fully-formed idea but it would be great if I could build out versions of WordPress without certain core features. This is, again, a bit of a comparison to Drupal, but I’d love it if certain core functions were modular.
 
@@ -37,18 +33,14 @@ Some projects don’t need Links or Posts or RSS publishing. Some projects don�
 In the end, this would probably require a re-engineering of the entire codebase which is unlikely but it’s some that I would get a lot of use out of and would contribute to, given the option.
 
 Maybe, instead of a specific version for developers, the whole software itself could be geared better towards the vendor/client relationship that so often occurs with WordPress. A mass amount of configuration options, all in one place, over-ride-able in a theme file (like WYSIWYG settings, components to load, etc.). There are so many things that can be changed, it would be great to see everything in one place, easy for developers to tinker with.
-
-Award-winning WYSIWYG
----------------------
+## Award-winning WYSIWYG
 
 One of the weakest links in any system that allows you to enter content is the WYGIWYG HTML editor. Let me be clear: the complexity that goes into the editor used by WordPress, TinyMCE, is enormous and what they have currently is, in my opinion, the best I’ve ever used. Still, I think improvements could be made.
 
 First, I think you should be able to easily control what buttons are there and be able to add new buttons easily. There are some plugins that do this but I think the creation aspect of the site could be greatly improved if people felt empowered to change their editor to suit their needs. A big block of checkboxes with the ability to drag-and-drop their order, that would take care of it.
 
 Second, the editor does a lot of HTML changing when you switch back and forth between HTML and Visual. This makes it tough to enter anything besides the basics (including embedded videos, which is a big set-back) and requires a lot of tinkering to see exactly what it changes and what it doesn’t. Add to the mess of options proposed above the ability to modify the filters easily. What I’m imagining comes close to the Input Filters option in Drupal but, let’s be honest, that system is a pain in the ass. I’m proposing something much more simple.
-
-Better user handling
---------------------
+## Better user handling
 
 This is one thing that is becoming more and more of an issue for me. I shouldn’t say issue… I’m just having to find work-arounds more often than not.
 
@@ -61,9 +53,7 @@ First, AOL? Jabber? Really?
 But, along those lines, why can’t I add user meta fields like custom fields on content pieces? I can create the form and save them, of course, and that’s great but it should be as easy as just tacking on a field.
 
 Going back to the Drupal comparison, I’d really like to have much better control over the user permissions, that would make all the difference in the world for user-contributed sites.
-
-Better exporting/importing
---------------------------
+## Better exporting/importing
 
 I do a lot of migrating from one server to another, one host to another, one version to another. Moving WordPress comes down to a decision: export/import using Tools in WordPress or just copy the database over. Copying the database is the quickest way, of course, and the easiest way to make sure you get absolutely everything. Copy all the files, copy the whole DB, all done.
 

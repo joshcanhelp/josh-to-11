@@ -9,9 +9,7 @@ wpid: 912
 
 
 These are links that I’ve saved on Delicious or sent over [Twitter](http://twitter.com/joshcanhelp) since last Friday that you might find useful. Everything relates back to web strategy in some way or another whether it’s improving your design, improving your code, or improving your technique. I want to help you get the most out of the web and the best way to do that is to keep learning. **So, read.**
-
-[50 Free Resources That Will Improve Your Writing Skills](http://www.smashingmagazine.com/2009/06/28/50-free-resources-that-will-improve-your-writing-skills/ "50 Free Resources That Will Improve Your Writing Skills")
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## [50 Free Resources That Will Improve Your Writing Skills](http://www.smashingmagazine.com/2009/06/28/50-free-resources-that-will-improve-your-writing-skills/ "50 Free Resources That Will Improve Your Writing Skills")
 
 ![smashing_logo](/_images/2009/07/smashing_logo.jpg "smashing_logo")Smashing Magazine puts out an unbelievable amount of useful and free content. This collection of sites and resources is a great example why I would subscribe to a printed version of this website. A big part of web strategy is representing yourself well across multiple profiles, networks, and sites. The best way to do that it to make sure you have a solid grasp on the English language, particularly as it relates to the internet. The better you can write, the better you look online… period.
 
@@ -34,9 +32,7 @@ I’m a big, huge, unrelenting, obnoxious fan of WordPress. The more I learn, th
 I’ve been getting deeper and deeper in to website analytics and having a lot of fun playing around with data and trying to come up with coherent and **useful** conclusions. I was once told “if you can’t measure it, you can’t manage it” (a Peter Drucker quote). That may not be the best advice for every situation but, for web analytics, it holds true. The more you understand about how people come to your site and interact with what you’re offering, the better you can serve them. If you’re a true beginner with Google Analytics or not sure where to start, [check out Smashing’s timely article. ](https://www.smashingmagazine.com/2009/07/a-guide-to-google-analytics-and-useful-tools/)
 
 > The definition of Google Analytics goals has always been clear to me – a means to measure business objectives, reports and improve on them. Google Analytics has transformed itself over the years from a ‘nice to have’ analytics software to a ‘must have’ analytics software …
-
-Twitter links
--------------
+## Twitter links
 
 **[Web Do’s and Don’ts](https://www.webdosanddonts.com/):** I think this site is great! On one side, you have the “do’s” of modern web design and, on the other, the “don’ts.” People login, add their own, and vote on others. Very simple but some great reminders for people of all skill levels. I’d like to think I’d score pretty well on here…
 

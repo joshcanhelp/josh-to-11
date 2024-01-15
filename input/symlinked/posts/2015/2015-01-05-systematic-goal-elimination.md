@@ -28,25 +28,19 @@ Right before starting this post, I read [an article by Scott Adams](http://www.w
 > If you achieve your goal, you celebrate and feel terrific, but only until you realize that you just lost the thing that gave you purpose and direction. Your options are to feel empty and useless, perhaps enjoying the spoils of your success until they bore you, or to set new goals and re-enter the cycle of permanent presuccess failure.
 
 The line about “a state of nearly continuous failure that they hope will be temporary” is exactly what I’d like to avoid, a place I’ve been in many times before. That’s why a resolution or a goal is not going to work for what I want to accomplish. I don’t want to exercise in January, I want to do it forever. I don’t want to lose weight for Spring, I want it gone. I don’t want to eat healthy through the Winter, I want to do it for the rest of my life. I need a system that will help me get there and stay there.
-
-A System
---------
+## A System
 
 I write software so, for me, thinking in terms of systems is not something I achieve, it’s something I do constantly. This is far from a humble brag; I tend to look for and mentally construct systems everywhere, whether they can help or not. This leaves me in a good place when it comes to code, finances, and to-do lists but often thwarts me with parenting, relationships, and anything else that involves people and forces that lay outside of my control.
 
 In this case, though, a system is exactly what I need. The forces and people and actions are completely within my control. I need to motivate, dupe, and coerce myself into the right behavior for enough time that it becomes habit. If these changes were consciously and immediately enjoyable, they would have been done already. If I likes it, I do it. I need to learn how to like this behavior in order for it to stay.
-
-A Disclaimer
-------------
+## A Disclaimer
 
 I’m writing this because a component of this system is personal writing, which typically manifests itself as a journal entry, not a blog post. I’m publishing this because I frequently find nuggets of gold while reading other peoples’ stories and I hope this is the case for you as well.
 
 What I’m not going to do, though, is direct you to act in any way. There’s this style of writing that uses “you” as the main pronoun. Someone is reaching out, shaking you by the collar, and telling you what’s going to work. This works fine for marketing but I’m not looking to sell you anything here.
 
 This is my story, what’s been working for me. Everything in here is true, in that the actions and mindset and techniques are what I am using to live a more healthy life. Should you choose to follow the same path, I sincerely wish you complete success. Should you pick and choose from what’s here for your own system, same. Should you think me an idiot and disregard everything, same.
-
-Act 1: Introspection (the “Who”)
---------------------------------
+## Act 1: Introspection (the “Who”)
 
 I’ve been journaling for about 3 years now. Capturing my mindset at random intervals throughout the year has helped me to reframe, self-examine, and just vent. My writing is typically about my profession – what I’m doing right, what I’m doing wrong, what needs to happen – but, scattered throughout, there are self-deprecating comments about my physical state:
 
@@ -72,9 +66,7 @@ This, finally, became the motivation I needed to take steps towards real, long-t
 I spent most of December dwelling on these lab results and thinking/writing about how I would make change happen. I specifically concentrated on why **it was going to happen** rather than why it would be so hard. The path of feeling sorry for myself was well-worn and got me nowhere; it would be positivity and optimism that would help me make these changes, regardless of how difficult it is for me to think in that way.
 
 A mindset shift like that would be very difficult to just achieve out of the blue so I explored a few ways to make it happen.
-
-Act 2: The Plan
----------------
+## Act 2: The Plan
 
 I thought long and hard about what has caused me to fail with previous diets, exercise plans, and behavior changes. It came down to a few key things:
 
@@ -162,9 +154,7 @@ On component I decided not to track this time around is calorie intake. [When I 
 Having tracked calories twice for long periods of time, I have a good sense of what’s in everything and can pretty accurately estimate my daily total. I no longer have a penchant for caloric beverages before dinner and don’t have the sweet tooth I once did. I’m rarely surprised by weight loss or gain anymore because I naturally keep track of what I’m consuming.
 
 The key, for me, with all this tracking is to make sure I’m doing enough to keep me motivated and watch progress but not so much that I feel like it’s this annoying new component of my life.
-
-Act 3: In Progress
-------------------
+## Act 3: In Progress
 
 As of this writing, I’m on my 5th day with this program and it feels distinctly different than other times in my life when I’ve tried something similar. As I mentioned above, the two things that seem to be working together the best are the daily mantra reading and the individual action tracking. They take, maybe, 5 minutes total out of my day and serve as a constant reminder of the individual changes I want to make.
 

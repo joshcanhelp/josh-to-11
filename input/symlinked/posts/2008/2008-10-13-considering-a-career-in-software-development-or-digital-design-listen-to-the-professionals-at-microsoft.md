@@ -11,9 +11,7 @@ wpid: 337
 I have a friend who works as a recruiter for Microsoft and, though I’ve never actually worked side-by-side with him, I know his work ethic, his commitment, and his intelligence well enough to respect anything he has to say about all things employment related.
 
 I’m at a crossroads between several different career paths and, though I know, for the most part, what I want to do and what I don’t want to do, the state of the job market and the industries themselves have to play a part in my decision. On my own, I can only know about career opportunities by what I read in blogs and what I experience myself so, at time like these, it’s good to have someone to talk to that can put it all into perspective.
-
-Microsoft’s perfect developer job description
----------------------------------------------
+## Microsoft’s perfect developer job description
 
 I asked my friend to tell me what kind of trends he is seeing in online design/development (if any). Where does he think things are moving? More importantly, where is the money? Is it worth it to learn a language or use your people skills?
 
@@ -30,9 +28,7 @@ The application also lets you manage the “code behind” files (created in a l
 The implications behind this situation is that versatility is poised to become a skill in and of itself. There will always be a need for a specicalist but the Henry Ford style production line scenario, in software design at least, is going the way of the dinosaurs. If you’re taking computer science classes, it might behoove you to also pick up a few art classes or a digital design minor if it is available.
 
 Taking this idea a step further, picking up two (or more) different disciplines at the same time means that you’re going to sacrifice something: sleep, your life, or absolute mastery of either. In order to be the best at something, it takes lots of practice which stems from complete commitment. It would be impossible (or, at least, undesirable) to put in the work to become the best, say, formula one driver AND the best short story writer; one of the two must suffer. But, if your intention was to simply blend the two as best you could and become really good in both, this is possible. You could probably become a world-ranked driver and someone who wrote great short stories (about racing, likely).
-
-How do you build skills that are needed? Branch out.
-----------------------------------------------------
+## How do you build skills that are needed? Branch out.
 
 ![](/_images/2008/10/Molson_indy_2002_car.jpg "Molson Indy races in Vancouver Canada Target car")To become a great designer and a great software developer, you would need to bring the two together. I would say that web development does this very easily. As a rule, if you’re writing usable, good-looking web pages on your own then you’re going to need a solid sense of layout and style as well as a good eye for syntax and, if you’re using Javascript or PHP, some idea of functions, variables, and good programming practices. Bringing it all together successfully means that you’ve learned all of this and practice it on a regular basis. There is just no way to be the top technology blogger with an award-winning blog that you designed and built yourself along with custom sidebar widgets implemented by you. Show me this guy or gal and I’ll show you my resignation from the field. You can, however, understand search engines, have a polished writing style, know how to construct themes, know enough PHP to not ruin anything, have a sense of design, and put it all together on-line. Understanding each of these skills and also knowing your resources well enough not to memorize everything is key.
 
@@ -47,9 +43,7 @@ Answering my money question, the Microsoft recruiter said:
 > The money is in all of these areas, especially if you are using the latest products and are well versed in the product offerings that are out there. If you already have some language knowledge, or know how to work with managed code such as Java or C#, etc. and have people skills, then you are in a good position. If you look at the .NET Developer Platform and Visual Studio as well as other developer tools, more time is spent on creating a rich experience (application, UI or whatever) and less on overall coding. That is why companies like MS make these tools for developers. So, basically, if you can master the use of these and code ad hoc, then, IMO you are set up fairly well.
 
 I’m the type of picky person who wants a career doing things I enjoy AND I want to get paid well doing it. Am I asking for too much? I don’t think so.
-
-Should you learn a new programming language? The answer is yes.
----------------------------------------------------------------
+## Should you learn a new programming language? The answer is yes.
 
 ![](/_images/2008/10/adobe_products.jpg "All adobe products including Photoshop, Illustrator, Flash, Dreamweaver")There are [hundreds of programming languages](http://en.wikipedia.org/wiki/List_of_programming_languages) currently in use around the world so knowing one language perfectly is probably to your detriment. If, however, you understand the concepts of syntax, systems architecture, and variables very well and are able to use several different languages, you are set up well for progressing in the future. When you start a new job or gain a new client, there is a variable learning curve based on information related to that job. If, for example, you learned Adobe Flash and Actionscript perfectly, you might have a hard time picking up the Javascript that is necessary for one job. Being knowledgeable and able in several different disciplines shows that you are flexible and able to pick up new skills. It also becomes more likely that you’ll find a job that requires one of your existing skills.
 

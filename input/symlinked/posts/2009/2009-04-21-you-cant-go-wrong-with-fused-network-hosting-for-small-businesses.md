@@ -11,9 +11,7 @@ wpid: 662
 I meant to post this when I actually wrote it but, well, that didn’t happen.
 
 I have a fairly broad experience with shared hosting companies if only because I log into several different hosting accounts for different clients. Some are faster than others, some have goofy control panels, some have terrible service, and some are, well, pretty standard. My first host, however, WebHostingPad, was as awful as they come (negative blast campaign coming when my blood pressure doesn’t hit the roof as soon as I mention the name). All these experiences together make me really appreciate [Fused Network](https://www.fused.com/).
-
-Why are you writing this? Are you paid to do this?
---------------------------------------------------
+## Why are you writing this? Are you paid to do this?
 
 If you follow my posts on here, you’ll notice that I promote several different sites and products that I use. I don’t make one cent off of my product recommendations. I recommend what I do on here because I use it and I like it and I want others to avoid the pain an suffering that comes with a poor technology choice.
 

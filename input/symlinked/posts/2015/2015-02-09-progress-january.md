@@ -7,9 +7,7 @@ featured_img: /_images/2016/11/img_3811-150x150.jpg
 ---
 
 In keeping with the theme of sharing my journey to [eliminate goals through systems](/systematic-goal-elimination/ "Systematic Goal Elimination"), I wanted to share an update on how January went and what I expect in February.
-
-Success in numbers
-------------------
+## Success in numbers
 
 I would call January an unqualified success. Here are the stats:
 
@@ -25,9 +23,7 @@ Here’s a formatted version of my weight tracking to show the overall trajector
 ![Screenshot 2015-02-03 07.39.21](/_images/2015/02/Screenshot-2015-02-03-07.39.21.png)
 
 Keeping track of both body composition numbers as well as successful actions taken towards my goals was a very important part of this success, details later in this post
-
-Success in words
-----------------
+## Success in words
 
 Overall, I’m very proud of the progress I made looking at the numbers above. Compared to, really, all of last year, this is a massive change. But the numbers don’t tell the whole story.
 
@@ -38,9 +34,7 @@ Second, I’m finding that taking these actions is getting easier and easier. Ea
 I also see that I’m more focused in my work and just better at it. I’m more productive in shorter amounts of time, I’m less likely to overwork through low motivation times, and I’m just more focused. January was a solid month for both income and output, which is great. But the more important thing is that I don’t feel like I worked myself to death, like I often do after a good month. I took care of myself, got better sleep, and was more present more often.
 
 Finally, I’m feeling good about myself as a person able to commit to something and actually do it. I talked a lot in the previous post about my negative feedback loop that fed unhealthy behavior – eat poorly, don’t exercise, feel bad, over-indulge, repeat. Now, the better I do the better I want to do. I’m trying not to over-commit to new behavior changes because I know that’s a recipe for disaster. Still, I’m moving on from a few actions and adding a few new ones.
-
-What worked
------------
+## What worked
 
 There were three distinct parts of this system that I think went a long way towards keeping me on track. This is in order of most to least important.
 
@@ -77,9 +71,7 @@ Heading into January, this was the part I was most concerned about. I’ve read 
 I think what happened here is that all of my actions – stretching, controlling intake, exercising, tracking progress – came down to a single outcome: improve my physical health. Each of the habits I was trying to form were atomic and could be achieved on their own but their result was the same. As such, I only needed to keep the result in mind to make progress everywhere. I would ask, does this improve my physical health? If not, it was easy to circumnavigate.
 
 Another part of this is what a shock to my routine these changes were. I’m used to grabbing a bowl of granola, making a cup of coffee, and heading to work. If I inject one or two things here, why not 7? Once I’m in a groove, I can knock off a number of things on the list. I stretch while the eggs cook, track my weight while the coffee is brewing, and start writing before I do anything else. In the middle of the day, I pause for lunch but hop on the bike first, stretch when I’m done, read the mantra while I’m cooking, and chase my daughter around the house for a bit. In the evening, when I’m feeling great from exercising and can see the progress I’ve made all day, it’s easy to make a cup of tea, head to bed early, and get some reading in. One positive action can lead to 2, 3 or 4 more and, done 3 times per day, adds up to a big change.
-
-What’s Next
------------
+## What’s Next
 
 Everything that worked last month has been carried over into February with a few changes:
 

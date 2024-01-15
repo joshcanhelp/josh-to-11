@@ -13,9 +13,7 @@ This is a life lesson learned through technology. I’ll try to keep it on topic
 ![stoic](/_images/2011/02/stoic.jpg)
 
 I should mention, this post was inspired by a great piece (guest posted) piece over at Tim Ferris’s blog about [stoicism and entrepreneurship](http://www.fourhourworkweek.com/blog/2009/04/13/stoicism-101-a-practical-guide-for-entrepreneurs/). After reading that post, I broke out the old philosophy textbook and read a little further.
-
-A Stoic Introduction
---------------------
+## A Stoic Introduction
 
 First, a very brief introduction to stoicism via Wikipedia:
 
@@ -24,16 +22,12 @@ First, a very brief introduction to stoicism via Wikipedia:
 Basically, a stoic understands that, in life, sh\*t happens and the only control we have is how we react. Computers break, software crashes, and hard drives go bad. When these things inevitably occur, we can curse the gods, curse ourselves and others, and throw things like a child but none of these actions help the situation. Getting past anger and frustration is but a mental exercise.
 
 But try to tell that to the woman learning CSS or the guy with an aging Windows Mobile device or the company who just lost a server array. During times like those, there doesn’t seem to be a mental exercise that can relieve the pressure. **If only “mind over matter” were as easy as it sounds in a blog post.**
-
-Pre-Stoic Approach
-------------------
+## Pre-Stoic Approach
 
 This idea of “mind over emotions” and finding self-control where there once was none is an idea I’ve been exploring in my personal and professional life for many years. Though I took a philosophy class several years ago, I was not ready at that time to understand the benefit of stoicism and put it to work in my life. I only recently have been able to apply that term to what I assumed was a basic practice for anyone looking to find some kind of zen in their day-to-day existence.
 
 Since the stoic approach is to move past harmful emotions stemming from conditions and experiences outside of our control, the first step is to find a reason to move past these emotions. In other words…
-
-Find the Silver Lining
-----------------------
+## Find the Silver Lining
 
 To move away from swearing at and physically destroying your computer or its I/O components (like your keyboard or mouse) when a problem occurs, you have to move towards some kind of positive outcome from your misfortune. For example:
 
@@ -42,9 +36,7 @@ To move away from swearing at and physically destroying your computer or its I/O
 - If your phone battery dies in the middle of a phone conversation, you’ll learn how to keep it charged.
 
 You might look at the “silver lining” of the items I listed above and think “that’s pretty lame; I certainly wouldn’t choose to trade my digital photos for a quick tip I could read on a CNet blog.” If that’s the case, you’re missing the point. Here it is…
-
-Know That You are Utterly Powerless
------------------------------------
+## Know That You are Utterly Powerless
 
 You’re just one corrupted disk away from losing everything on your computer. You’re one well-timed battery loss from losing a job opportunity. You’re one faulty circuit away from burning down your house. Morbid? Yes, but certainly important to come to terms with.
 

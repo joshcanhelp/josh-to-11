@@ -9,9 +9,7 @@ wpid: 451
 
 
 Check out yesterday’s post, [the second step towards writing a great resume, listing all of your experience.](/curing-underemployment-or-joshs-six-step-plan-to-a-great-resume-part-2-of-6/)
-
-Step 3: Write a personal statement for each of the resumes you need to create.
-------------------------------------------------------------------------------
+## Step 3: Write a personal statement for each of the resumes you need to create.
 
 This is the worst part of writing a resume (well, next to the cover letter). Some people will tell you that these are unnecessary and I rarely see a company that requires one but better safe than sorry. Also, it’s a good exercise and won’t look BAD on there.
 

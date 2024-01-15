@@ -13,9 +13,7 @@ If I could recommend one skill to business owners with a website it would be a s
 Knowing what pages are the most popular, what keywords people are using to find you, and where people are going paint a picture about your customers, one that you might not be aware of. You probably want people on your product pages and your sign-up sheets, right? How do you know they’re getting there? How do you know they don’t get there and leave? How many leads are you missing?
 
 This post outlines the very basics of Google Analytics and what it can tell you about your website.
-
-Site usage overview (Main &gt; Dashboard)
------------------------------------------
+## Site usage overview (Main &gt; Dashboard)
 
 ![overview](/_images/2009/08/overview.png "overview")
 
@@ -54,34 +52,26 @@ Not a lot of good conclusions can be made from this number by itself. An increas
 This is the percentage of the total visits that came from new visitors. A new visitor is simply someone without our site’s cookie present in their browser. As such, this figure has a fairly high margin of error.
 
 Though potentially inaccurate, this is another number whose trends are useful to watch. An increase in % new visits could be an indication of extended online reach or influence while a decrease could mean improved reader engagement. This percentage should show in increase during periods of strong promotion.
-
-Traffic sources (Main &gt; Traffic Sources)
--------------------------------------------
+## Traffic sources (Main &gt; Traffic Sources)
 
 ![traffic-sources](/_images/2009/08/traffic-sources.png "traffic-sources")
 
 This is the Google triad of traffic sources: direct traffic (people who type our URL in their browser or use a browser-based bookmark), referring sites (a link to our site from another site), and search engines.
 
 There’s no right or wrong distribution of traffic sources but a healthy strategy will typically keep each piece close to a third. For a long-tail, content-rich site like ours, the search engine piece should definitely be near one-third. Watching a particular source grow or shrink should correlate to promotions, SEO, or other outreach efforts.
-
-Referring sites (Main &gt; Traffic Sources &gt; Referring Sites)
-----------------------------------------------------------------
+## Referring sites (Main &gt; Traffic Sources &gt; Referring Sites)
 
 ![referring-sites](/_images/2009/08/referring-sites.png "referring-sites")
 
 This is the list of domains that sent visits to our site. This list also shows visit quality by way of pages/visit, time on site, and bounce rate.
 
 This list can be used to measure the success of site-specific promotions, look for new sites that we might want to partner with, and figure out which sites are sending the best traffic. There might be a community site that we should be interacting with or a social network that is doing well for us.
-
-Keywords (Main &gt; Traffic Sources &gt; Keywords)
---------------------------------------------------
+## Keywords (Main &gt; Traffic Sources &gt; Keywords)
 
 This list shows all keywords that were used to find the site via search engines. Like the referring sites, this list also shows traffic quality metrics.
 
 These keywords can be applied directly to on-site SEO efforts. The keywords with the best quality (low bounce rate, high time on site and pages/visit) should be used in post titles, tags, and categories. These can also be used to determine which content gets published and what direction we give bloggers.
-
-Top pages and posts (Main &gt; Content &gt; Top Content/Content by Title)
--------------------------------------------------------------------------
+## Top pages and posts (Main &gt; Content &gt; Top Content/Content by Title)
 
 There are two lists here: by URL and by page title. Some pages share the same title (default) and some are not set which means that the page name list will have some pages combined together. The URL list is an exact list of the pages (just add `http://sitename.com` before each one to get directly to the page).
 
