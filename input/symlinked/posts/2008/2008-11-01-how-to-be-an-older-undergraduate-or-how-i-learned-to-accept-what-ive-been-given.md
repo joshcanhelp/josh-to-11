@@ -48,7 +48,8 @@ The easy answer would be “yes, do it! Do it for you and me and them! Go back! 
   - Take what you will make during that time away from what you would make and add that to the actual cost to get your absolute cost ($160,000 – $60,000 + $20,000 = $120,000)
   - Now figure out how much you’re gaining after you get the degree ([it’s been found](http://www.usnews.com/articles/education/2008/10/30/how-much-is-that-college-degree-really-worth.html) that college graduates make about $20K more per year than those without… so it will take you 6 years to make that $120K back).
 - Nothing can make you feel older than hanging out with people 10 years younger than you are. Still, you have the advantage. You want this degree ten times more than most of the people around you. You’re also more likely to get more sleep, take better care of yourself, try harder, and do better. Attend a few study groups, gab about teenage drama, tell them about your wife or kids or mortgage… get in there and get the experience. I’ve learned a lot about myself through the young’uns I go to class with.
-## Update: 11/5/2014
+
+{% h2br %}Update 2014-11-05{% endh2br %}
 
 I get feedback from people who read this post a few times a year and I thought I’d give a little update to folks that have read this and feel like they’re in a similar situation. Also, don’t be afraid to tell me your story in the comments below; it’s much easier to suffer in like-minded company than it is to suffer alone.
 

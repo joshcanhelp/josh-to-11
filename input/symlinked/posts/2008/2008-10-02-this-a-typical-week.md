@@ -60,6 +60,7 @@ What I’m saying is that I don’t have 15 years of doing anything but working 
 I understand why people call code poetry. I understand why pharmaceutical companies are seen as immoral but why they are not innately that way. I’ve seen chemistry look like painting, I’ve seen marketing reflect pure creativity, and I’ve seen business be as passionate as anything I’ve experienced. I know why finance is like Tetris, I understand why someone would become a professional auto mechanic, and it makes sense to me why a person would leave their “great job” for something scary and amazing.
 
 I’m a generalist, I love it all and I like loving it. I want to know about what you do and why you do it. I want to know where you want to go and how you’re going to get there. I want to know what drives you, what makes your heart jump into your throat, what pushes you to complete exhaustion. And when I know about it, I want to show you what’s out there to make it easier, better, faster. I want to help you do what you love and make money doing it. I fit in everywhere, I can talk to anyone, and, if it’ll help someone around me, I’ll learn how to do it.
+
 ## Josh Can Help
 
 Wow, what a time for Brother Ali’s song, forest Whitaker, to come on:
@@ -77,7 +78,7 @@ Wow, what a time for Brother Ali’s song, forest Whitaker, to come on:
 > You can call me ugly but cant take nothing from me  
 > I am what I am doctor you ain’t gotta love me
 
-**Update:** Just read [this on GapingVoid.com](http://gapingvoid.com/blog/2008/10/15/crofting-as-a-metaphor-for-the-new-world-of-work/)… wow, nail on the head stuff:
+Also, just read [this on GapingVoid.com](http://gapingvoid.com/blog/2008/10/15/crofting-as-a-metaphor-for-the-new-world-of-work/)… wow, nail on the head stuff:
 
 > I seem to have inherited the crofting mentality. I DON’T like waking up in the morning and doing the same thing every day. I LIKE having all these different balls in the air- cartooning, painting, consulting, writing, marketing, blogging etc. Sure, part of me would like nothing better than just “retiring to the desert and making paintings”, but another part of me likes all the running around in different directions. And all this running around DOES get tiring, I can tell you that. Sometimes I LOVE the feeling of being constantly overwhelmed. Other times I utterly despise it.
 

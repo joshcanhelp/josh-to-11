@@ -30,7 +30,7 @@ I’m certainly not the one to tell you whether this is something you’ll benef
 
 Here’s how it went:
 
-- - - - - -
+---
 
 Our second kid was born a week ago, a beautiful little boy who is still without a name. His birth kicked off a week or so of “paternity leave” (in quotes because I’m self-employed). This time was spent staring at our new addition, deeply connecting with our daughter, and spending quality time with my wife. It was also spent reading and thinking and writing, cooking and entertaining those close to us, and, from time to time, doing an hour or two of work. It’s been fantastic.
 
@@ -98,7 +98,9 @@ Hooked by Nir Eyal – this book is a how-to for creating engaging, addictive ex
 
 Slipstream Time Hacking by Benjamin J Hardy (PDF) – great free ebook about how to slow time down with focused, hard work and a shift in mindset. Benjamin is a great writer and this is a solid read.
 
-**Update:** what a perfectly-timed article to find! Cal Newport, author of the excellent book Deep Work, [writes in The NY Times](http://mobile.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html) about the plague of social media:
+{% h2br %}Update 2016-11-20{% endh2br %} 
+
+What a perfectly-timed article to find! Cal Newport, author of the excellent book Deep Work, [writes in The NY Times](http://mobile.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html) about the plague of social media:
 
 > The idea of purposefully introducing into my life a service designed to fragment my attention is as scary to me as the idea of smoking would be to an endurance athlete, and it should be to you if you’re serious about creating things that matter.
 

@@ -40,7 +40,7 @@ Get your signs ready and contact **Pose2** to submit your work: **Daniel.pose2fx
 
 We need everyone on this one. The vision is global but we must first start local. The first launching of this exhibition will take place on **Saturday, Jan 16th, at Voz Alta Art Gallery, 1754 National Ave, San Diego, CA 92113.**
 
-**Update:** a few photos from the event:
+A few photos from the event:
 
 ![](https://i102.photobucket.com/albums/m93/josh054/response_ability04.jpg)
 
