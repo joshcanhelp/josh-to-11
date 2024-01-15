@@ -4,13 +4,14 @@ excerpt: "I started from scratch and made this very simple, lightweight, one-fil
 modified: 2019-01-08 00:18:32
 tags: []
 featured_img:
+link_to: https://github.com/joshcanhelp/drudge-report-template
 wpid: 1161
 ---
 
 
 To start … the HTML on Drudge report is very poor. It was a table-style layout for no discernible reason, there were capitalized tags and attributes throughout, and it looked like it may have been avoiding CSS altogether. It’s really none of my business how other people put their sites together but it was clear I wouldn’t be drawing any inspiration from the technical construction. So I started from scratch and made this very simple, lightweight, one-file, one-page site template that mimics the layout of Drudge report with a few extra features.
 
-[Download the free Drudge-Style Template](https://www.dropbox.com/s/rqmjcenf2w19ym8/JCH_Drudge_HTML_Template_101109.zip?dl=0)
+[Download the free Drudge-Style Template](https://github.com/joshcanhelp/drudge-report-template)
 
 ### How to Use The Free Template
 
@@ -34,3 +35,7 @@ So, let’s customize this page:
 - Scroll down to the bottom for the footer links. Don’t want any? Just delete them all except mine :).
 
 And that’s it! To make it live, just copy index.html to a public folder on your web host and check it out. If you already have a website going, be careful where you put this so you don’t overwrite the main site file.
+
+{% h2br %}Update 2024-01-15{% endh2br %}
+
+I uploaded this template and an old, dynamic version to [GitHub](https://github.com/joshcanhelp/drudge-report-template).
