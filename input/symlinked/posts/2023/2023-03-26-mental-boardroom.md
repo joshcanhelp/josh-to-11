@@ -31,7 +31,7 @@ In no particular order, you, collectively, have:
 I think [Slimkid3 from Pharcyde](https://genius.com/600763) put it best:
 
 > There comes a time in every man's life  
-> When he's gotta handle shit up on his own
+> When he's gotta handle shit up on his own  
 > Can't depend on friends to help you in a squeeze  
 > Please, they got problems of their own
 
