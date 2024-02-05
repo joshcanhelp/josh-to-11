@@ -37,7 +37,7 @@ I think [Slimkid3 from Pharcyde](https://genius.com/600763) put it best:
 
 Maybe you've watched my kids in a pinch or helped me move one (or many) times or let me borrow something I needed, and for that, thank you once again. But your position as Board Member means that you have helped me through hard times by merely existing. Maybe I remember a conversation we had at just the right time to give me perspective or maybe your voice came into my head when I was deliberating a hard choice or maybe I just felt like a better person because you choose to be in my life. You are there with me through the hardest of hard times and I know, if I need to, I could call or text but, if I don't, you still still have the power to help. Selflessly, graciously, and unknowingly as a model and example for the best person I can be in the moment.
 
-**You help me handle shit up on my own.**
+**You help me handle shit up my own.**
 
 Thank you again for what you've shown and taught me over the course of however long that I've known you. I sincerely hope that I have made a positive mark on your life as well, whatever the size.
 
