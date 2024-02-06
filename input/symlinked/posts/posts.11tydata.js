@@ -25,15 +25,6 @@ module.exports = {
     },
     eleventyExcludeFromCollections: (data) =>
       !!data.eleventyExcludeFromCollections || isDraft(data),
-    contentPrepend: (data) => {
-      const isTechnical = (data?.tags || []).some((tag) =>
-        ["Digital Identity", "Writing + Publishing", "Auth0"].includes(tag)
-      );
-
-      if (isTechnical && data.page.fileSlug !== manningOidcPath) {
-        return manningOidcPrompt;
-      }
-    },
     date: (data) => {
       if (data.date) {
         return data.date;
