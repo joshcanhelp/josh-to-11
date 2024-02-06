@@ -1,5 +1,5 @@
 ---
-to: input/posts/<%= h.getPostFileName(locals) %>.md
+to: input/symlinked/posts/<%= h.getPostFileName(locals, true) %>.md
 ---
 ---
 <%- include (`${templates}/_includes/front-matter.ejs.t`) -%>
