@@ -5,6 +5,7 @@ const buildTagCollection = (type, collections) => {
   const filteredTags = {};
   for (const tagName in tagsMetadata) {
     filteredTags[tagName] = {
+      name: tagName,
       count: collections.getFilteredByTag(tagName).length,
       description: tagsMetadata[tagName].description || "",
     };

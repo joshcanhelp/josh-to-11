@@ -49,7 +49,7 @@ You will probably learn all of this on your own throughout the ordeal. I found a
 
 ## Keep notes + records
 
-I had the benefit of already being a [prolific note-taker](https://www.joshcanhelp.com/notes/) so my natural instinct was to start writing as soon as possible. I journaled, took notes during medical conversations, recorded events, and maintained a mom-specific to-do list. My neurotic and compulsive note-taking has both pros and cons, though, so how I did it might not be a great fit for you.
+I had the benefit of already being a [prolific note-taker](/notes/) so my natural instinct was to start writing as soon as possible. I journaled, took notes during medical conversations, recorded events, and maintained a mom-specific to-do list. My neurotic and compulsive note-taking has both pros and cons, though, so how I did it might not be a great fit for you.
 
 At the very least, record ...
 

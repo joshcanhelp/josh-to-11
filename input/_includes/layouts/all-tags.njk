@@ -3,6 +3,7 @@ title: "All Tags"
 permalink: archives/tags/index.html
 ---
 
+{% from "macros/tagListing.njk" import tagListing %}
 
 {% extends "_html.njk" %}
 
@@ -13,14 +14,30 @@ permalink: archives/tags/index.html
     </div>
 
     {{ content | safe }}
-    
+
+    <p>These tags are the topics I'm thinking and writing about currently:</p>
+
     <ul>
-    {% for name, count in collections.allTags %}
-      <li>
-        <h6><a href="/tag/{{ name | slug }}">{{ name | safe }} ({{ count }})</a></h6>
-        {% if tagsMetadata[name].desciption %}<p class="small">{{ tagsMetadata[name].desciption }}</p>{% endif %}
-      </li>
+    {% for name, tag in collections.primaryTags %}
+      {{ tagListing(tag) }}
     {% endfor %}
     </ul>
+
+    <p>These tags contain posts about me and my IRL life:</p>
+
+    <ul>
+    {% for name, tag in collections.personalTags %}
+      {{ tagListing(tag) }}
+    {% endfor %}
+    </ul>
+
+    <p>These tags are topics that I wrote about at one point but not lately:</p>
+
+    <ul>
+    {% for name, tag in collections.archiveTags %}
+      {{ tagListing(tag) }}
+    {% endfor %}
+    </ul>
+
   </article>
 {% endblock %}

@@ -40,7 +40,7 @@ I think about this in the context of my marriage (her accomplishments are mine a
 ## Your current habits<br>deliver your current results
 
 
-This came from a great interview of James Clear by Sam Harris ([my notes here](https://www.joshcanhelp.com/improvement-as-experimentation/#2020-11-24)) and it's so simple but so easy to forget. Everything about our life, good or bad, is due mostly to what we do in response to stimuli over and over. Basing changes in your life on "trying harder" is not a strategy for success. Change your habits, change your life.
+This came from a great interview of James Clear by Sam Harris ([my notes here](/improvement-as-experimentation/#2020-11-24)) and it's so simple but so easy to forget. Everything about our life, good or bad, is due mostly to what we do in response to stimuli over and over. Basing changes in your life on "trying harder" is not a strategy for success. Change your habits, change your life.
 
 ## Observe the thought and let it pass.<br>Where does it go?
 
