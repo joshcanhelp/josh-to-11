@@ -1,102 +1,9 @@
 {
-  "Personal Development": {
-    "type": "personal"
-  },
-  "Design": {
-    "type": "archive"
-  },
-  "Web Strategy": {
-    "type": "archive"
-  },
-  "About JoshCanHelp": {
-    "type": "archive"
-  },
-  "Social Media": {
-    "type": "archive"
-  },
-  "WordPress": {
-    "type": "archive"
-  },
-  "Software Engineering": {
-    "type": "primary"
-  },
-  "Writing + Publishing": {
-    "type": "primary"
-  },
-  "SEO": {
-    "type": "archive"
-  },
-  "Marketing": {
-    "type": "archive"
-  },
-  "Email": {
-    "type": "archive"
-  },
-  "Paris": {
-    "type": "personal"
-  },
-  "Throwback": {
-    "type": "archive"
-  },
-  "Food + Drink": {
-    "type": "personal"
-  },
-  "Hardware": {
-    "type": "archive"
-  },
-  "Analytics": {
-    "type": "archive"
-  },
-  "Freelancing": {
-    "type": "archive"
-  },
-  "Community": {
-    "type": "archive"
-  },
-  "Twitter": {
-    "type": "archive"
-  },
-  "Health + Fitness": {
-    "type": "personal"
-  },
-  "Site Optimization": {
-    "type": "archive"
-  },
-  "JavaScript": {
-    "type": "primary"
-  },
-  "Facebook": {
-    "type": "archive"
-  },
-  "Open Source": {
-    "type": "primary"
-  },
-  "Personal Data": {
-    "type": "primary"
-  },
-  "Testing": {
-    "type": "archive"
-  },
-  "Auth0": {
-    "type": "archive"
-  },
-  "COVID-19": {
-    "type": "personal"
-  },
-  "Graffiti": {
-    "type": "archive"
-  },
-  "LinkedIn": {
-    "type": "archive"
-  },
-  "Team Dynamics": {
-    "type": "primary"
-  },
   "Async Communication": {
     "type": "primary"
   },
-  "Customer Service": {
-    "type": "archive"
+  "Digital Identity": {
+    "type": "primary"
   },
   "Documentation": {
     "type": "primary"
@@ -104,19 +11,116 @@
   "Eleventy": {
     "type": "primary"
   },
-  "Focus": {
-    "type": "personal"
-  },
-  "Money": {
-    "type": "archive"
-  },
-  "Seattle": {
-    "type": "archive"
-  },
-  "Digital Identity": {
+  "JavaScript + TypeScript": {
     "type": "primary"
   },
   "Obsidian": {
     "type": "primary"
+  },
+  "Open Source": {
+    "type": "primary"
+  },
+  "Personal Data": {
+    "type": "primary"
+  },
+  "Software Engineering": {
+    "type": "primary"
+  },
+  "Team Dynamics": {
+    "type": "primary"
+  },
+  "Writing + Publishing": {
+    "type": "primary"
+  },
+
+
+  "COVID-19": {
+    "type": "personal"
+  },
+  "Focus": {
+    "type": "personal"
+  },
+  "Food + Drink": {
+    "type": "personal"
+  },
+  "Health + Fitness": {
+    "type": "personal"
+  },
+  "Personal Development": {
+    "type": "personal"
+  },
+
+ 
+  "About JoshCanHelp": {
+    "type": "archive"
+  },
+  "Analytics": {
+    "type": "archive"
+  },
+  "Auth0": {
+    "type": "archive"
+  },
+  "Community": {
+    "type": "archive"
+  },
+  "Customer Service": {
+    "type": "archive"
+  },
+  "Design": {
+    "type": "archive"
+  },
+  "Email": {
+    "type": "archive"
+  },
+  "Facebook": {
+    "type": "archive"
+  },
+  "Freelancing": {
+    "type": "archive"
+  },
+  "Graffiti": {
+    "type": "archive"
+  },
+  "Hardware": {
+    "type": "archive"
+  },
+  "LinkedIn": {
+    "type": "archive"
+  },
+  "Marketing": {
+    "type": "archive"
+  },
+  "Money": {
+    "type": "archive"
+  },
+  "Paris": {
+    "type": "personal"
+  },
+  "Seattle": {
+    "type": "archive"
+  },
+  "SEO": {
+    "type": "archive"
+  },
+  "Site Optimization": {
+    "type": "archive"
+  },
+  "Social Media": {
+    "type": "archive"
+  },
+  "Testing": {
+    "type": "archive"
+  },
+  "Throwback": {
+    "type": "archive"
+  },
+  "Twitter": {
+    "type": "archive"
+  },
+  "Web Strategy": {
+    "type": "archive"
+  },
+  "WordPress": {
+    "type": "archive"
   }
 }

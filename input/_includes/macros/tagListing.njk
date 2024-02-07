@@ -1,6 +1,6 @@
 {% macro tagListing(tag) %}
   <li>
-    <h6><a href="/tag/{{ tag.name | slug }}">{{ tag.name | safe }} ({{ tag.count }})</a></h6>
-    {% if tag.desciption %}<p class="small">{{ tag.desciption }}</p>{% endif %}
+    <a class="tag" href="/tag/{{ tag.name | slug }}">{{ tag.name | safe }} ({{ tag.count }} posts)</a>
+    {% if tag.desciption %}<span class="small">{{ tag.desciption }}</span>{% endif %}
   </li>
 {% endmacro %}
