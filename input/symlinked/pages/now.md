@@ -11,9 +11,17 @@ wpid: 3794
 
 Inspired by [this](https://nownownow.com/about).
 
-{% h2br %}2022-11-21{% endh2br %}
+{% h2br %}2024-02-01{% endh2br %}
 
-I've been back to work for 3 weeks after a 3 month leave following a [major family medical crisis](/stroke). I'm incredibly lucky to have the support that I do, both personally and professionally. I still have lots of processing to do around this but life has more or less settled into whatever "normal" means after something like this. 
+Well, I got the email today. My 6 years at Auth0/Okta ends today. I can't say that I'm shocked, to be honest, but it's certainly not how I expected to end my tenure there. I wish I had been able to say a proper goodbye but I [posted on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7158890419303444480/) and got such an amazing outpouring of kind words and support. It was like attending your own funeral in a way, totally validating! I have a massive list of posts I want to write, projects I want to work on, trails I want to ride, and people I want to connect with over the next few months so I'm in no rush to get hired but I'm always happy to meet new folks in the identity, security, data, and developer experience spaces!
+
+{% h2br %}2023-12-05{% endh2br %}
+
+I signed up for the Fuego XL endurance race, ~65 miles of trails in Monterray, CA. I'm both excited and terrified!
+
+{% h2br %}2023-01-23{% endh2br %}
+
+I switched teams at Auth0/Okta and am now a solutions architect working with a friend and long-time collaborator. I'm really looking forward to the new role and team!
 
 {% h2br %}2022-1-5{% endh2br %}
 
@@ -39,7 +47,7 @@ I've also been working on my physical health by making some diet changes and foc
 
 {% h2br %}2020-5-17{% endh2br %}
 
-Oh man ... now. Now is weird and hard.
+Oh man ... now. [Now is weird and hard](/tag/covid-19/).
 
 Professionally, things are good. I'm on a new team at Auth0 working on the core platform which has been great. Tons of learning and building and designing and product thinking. It's been tough to mov away from open source and our community but also refreshing as well. I've been doing support professionally in some form for 2 decades at this point, it's time for a break.
 
