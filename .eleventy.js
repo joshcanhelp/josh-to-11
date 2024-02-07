@@ -5,7 +5,6 @@ const { htmlMinifier } = require("./eleventy/transforms");
 const {
   allTags,
   cocktailsCollection,
-  ideasCollection,
   postsCollection,
   bestOfCollection,
   sitemapCollection,
@@ -59,7 +58,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("allTags", allTags);
   eleventyConfig.addCollection("bestOfCollection", bestOfCollection);
   eleventyConfig.addCollection("cocktailsCollection", cocktailsCollection);
-  eleventyConfig.addCollection("ideasCollection", ideasCollection);
   eleventyConfig.addCollection("postsCollection", postsCollection);
   eleventyConfig.addCollection("rssCollection", rssCollection);
   eleventyConfig.addCollection("sitemapCollection", sitemapCollection);

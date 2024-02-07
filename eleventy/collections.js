@@ -42,15 +42,6 @@ const bestOfCollection = (collection) => {
   });
 };
 
-const ideasCollection = (collection) => {
-  const tmpCollection = collection.getAllSorted();
-  return tmpCollection.reverse().filter((tpl) => {
-    if ("idea" === tpl.data.layout) {
-      return true;
-    }
-  });
-};
-
 const cocktailsCollection = (collection) => {
   return collection
     .getAllSorted()
@@ -91,7 +82,6 @@ const allTags = (collections) => {
 module.exports = {
   allTags,
   cocktailsCollection,
-  ideasCollection,
   bestOfCollection,
   postsCollection,
   sitemapCollection,

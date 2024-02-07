@@ -34,11 +34,6 @@
   status = 302
 
 [[redirects]]
-  from = "/ideas-1"
-  to = "/ideas"
-  status = 301
-
-[[redirects]]
   from = "/feed.xml"
   to = "/rss.xml"
   status = 301
@@ -61,11 +56,6 @@
 [[redirects]]
   from = "/resume"
   to = "https://www.linkedin.com/in/joshcanhelp"
-  status = 302
-  
-[[redirects]]
-  from = "/local-login"
-  to = "https://localhost:7070/login"
   status = 302
 
 [[redirects]]
