@@ -6,9 +6,9 @@
 <article>
   {{ content | safe }}
 
-  {% h2br %}Best Of Posts{% endh2br %}
+  {% h2br %}Recent Posts{% endh2br %}
 
-  {% for post in collections.bestOfCollection %}
+  {% for post in collections.recentPrimaryPosts %}
     {{ postListing(post, true) }}
   {% endfor %}
 

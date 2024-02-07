@@ -4,4 +4,4 @@ permalink: tags/index.html
 layout: "layouts/all-tags.njk"
 ---
 
-Also see [All Posts](/posts/).
+I've been writing on this site for a long time so some topics are more relevant than others. You can see [all my posts](/posts/) or filter based on topics below.

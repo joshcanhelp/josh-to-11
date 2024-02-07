@@ -18,7 +18,7 @@ permalink: archives/tags/index.html
     {% for name, count in collections.allTags %}
       <li>
         <h6><a href="/tag/{{ name | slug }}">{{ name | safe }} ({{ count }})</a></h6>
-        {% if tagsMetadata[name] %}<p class="small">{{ tagsMetadata[name] }}</p>{% endif %}
+        {% if tagsMetadata[name].desciption %}<p class="small">{{ tagsMetadata[name].desciption }}</p>{% endif %}
       </li>
     {% endfor %}
     </ul>

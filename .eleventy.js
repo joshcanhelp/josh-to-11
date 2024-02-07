@@ -4,11 +4,14 @@ const { htmlMinifier } = require("./eleventy/transforms");
 
 const {
   allTags,
+  primaryTags,
   cocktailsCollection,
   postsCollection,
-  bestOfCollection,
+  recentPrimaryPosts,
   sitemapCollection,
   rssCollection,
+  personalTags,
+  archiveTags,
 } = require("./eleventy/collections");
 
 const {
@@ -56,7 +59,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addTransform("htmlMinifier", htmlMinifier);
 
   eleventyConfig.addCollection("allTags", allTags);
-  eleventyConfig.addCollection("bestOfCollection", bestOfCollection);
+  eleventyConfig.addCollection("primaryTags", primaryTags);
+  eleventyConfig.addCollection("personalTags", personalTags);
+  eleventyConfig.addCollection("archiveTags", archiveTags);
+  eleventyConfig.addCollection("recentPrimaryPosts", recentPrimaryPosts);
   eleventyConfig.addCollection("cocktailsCollection", cocktailsCollection);
   eleventyConfig.addCollection("postsCollection", postsCollection);
   eleventyConfig.addCollection("rssCollection", rssCollection);

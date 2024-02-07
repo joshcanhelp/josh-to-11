@@ -1,3 +1,21 @@
+const { getTagsMetadata } = require("./utilities");
+
+const buildTagCollection = (type, collections) => {
+  const tagsMetadata = getTagsMetadata(type);
+  const filteredTags = {};
+  for (const tagName in tagsMetadata) {
+    filteredTags[tagName] = {
+      count: collections.getFilteredByTag(tagName).length,
+      description: tagsMetadata[tagName].description || "",
+    };
+  }
+  return filteredTags;
+}
+
+const primaryTags = (collections) => buildTagCollection("primary", collections);
+const personalTags = (collections) => buildTagCollection("personal", collections);
+const archiveTags = (collections) => buildTagCollection("archive", collections);
+
 const alphaSortTitle = (a, b) => {
   if (a.data.title < b.data.title) return -1;
   if (b.data.title > a.data.title) return 1;
@@ -33,13 +51,14 @@ const postsCollection = (collection) => {
   });
 };
 
-const bestOfCollection = (collection) => {
-  const tmpCollection = collection.getAllSorted();
-  return tmpCollection.reverse().filter((tpl) => {
-    if (isPublishedPost(tpl.data) && tpl.data.tags && tpl.data.tags.includes("Best Of")) {
-      return true;
-    }
-  });
+const recentPrimaryPosts = (collection) => {
+  const primaryTags = Object.keys(getTagsMetadata("primary"));
+  return collection.getAllSorted()
+    .reverse()
+    .filter((tpl) => isPublishedPost(tpl.data))
+    .filter((tpl) => tpl.data.tags && tpl.data.tags.length)
+    .filter((tpl) => tpl.data.tags.filter((tag) => primaryTags.includes(tag)).length)
+    .slice(0, 6);
 };
 
 const cocktailsCollection = (collection) => {
@@ -81,8 +100,11 @@ const allTags = (collections) => {
 
 module.exports = {
   allTags,
+  primaryTags,
+  personalTags,
+  archiveTags,
   cocktailsCollection,
-  bestOfCollection,
+  recentPrimaryPosts,
   postsCollection,
   sitemapCollection,
   rssCollection,
