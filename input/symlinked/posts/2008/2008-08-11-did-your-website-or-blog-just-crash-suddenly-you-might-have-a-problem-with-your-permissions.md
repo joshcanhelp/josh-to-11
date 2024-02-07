@@ -2,7 +2,7 @@
 title: "Did your website or blog just crash suddenly? You might have a problem with your permissions..."
 excerpt: "Just recently, all the pages hosted on my account began to fall apart. I was getting 403 errors, missing graphics and styles, and pieces of code appearing randomly. It looked about as bad as it could get."
 modified: 2016-04-03 02:33:18
-tags: ["Hosting"]
+tags: ["Web Strategy"]
 featured_img:
 wpid: 173
 ---

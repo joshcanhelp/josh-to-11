@@ -2,7 +2,7 @@
 title: "Information Reservoirs (or) How I Keep Track of a Large Amount of Incoming Information"
 excerpt: ""
 modified: 2016-10-20 16:44:19
-tags: ["Systems", "Social Media"]
+tags: ["Social Media", "Personal Data"]
 featured_img: /_images/2009/02/info_overload-150x150.jpg
 wpid: 586
 ---

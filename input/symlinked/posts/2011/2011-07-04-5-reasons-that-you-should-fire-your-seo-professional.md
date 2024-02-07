@@ -1,8 +1,8 @@
 ---
-title: "5 Reasons You Should Fire Your SEO &quot;Professional&quot;"
+title: "5 Reasons You Should Fire Your SEO \"Professional\""
 excerpt: ""
 modified: 2016-10-20 16:44:00
-tags: ["SEO", "Web Strategy", "Writing + Publishing"]
+tags: ["SEO", "Web Strategy"]
 featured_img:
 wpid: 2262
 ---

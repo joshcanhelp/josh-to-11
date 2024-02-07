@@ -2,7 +2,7 @@
 title: "Blogging 101: How to Write a Great Blog Post... a Reader's Perspective"
 excerpt: "By posting a great piece of advice or a guide for someone or your professional insight, you contribute to the incredible equalizing power of the internet."
 modified: 2013-04-06 22:40:45
-tags: ["Writing + Publishing", "Writing + Publishing", "Community"]
+tags: ["Writing + Publishing", "Community"]
 featured_img:
 wpid: 39
 ---

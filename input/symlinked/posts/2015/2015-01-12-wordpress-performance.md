@@ -2,7 +2,7 @@
 title: "A Few Thoughts on WordPress Performance"
 excerpt: "&quot;WordPress is a server hog&quot; ... &quot;WordPress keeps crashing&quot; ... &quot;You can't run a fast WordPress site&quot; ... I've heard these kinds of statements over and over for years."
 modified: 2016-10-20 16:43:59
-tags: ["Hardware", "Personal Development", "Hosting"]
+tags: ["Hardware", "WordPress"]
 featured_img: /_images/2015/01/hard-drive-install-150x150.jpg
 wpid: 2368
 ---

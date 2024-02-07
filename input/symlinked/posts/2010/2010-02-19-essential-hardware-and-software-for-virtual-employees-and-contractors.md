@@ -2,7 +2,7 @@
 title: "Essential Hardware And Software for Virtual Employees and Contractors"
 excerpt: ""
 modified: 2016-04-01 04:25:26
-tags: ["Hardware"]
+tags: ["Hardware", "Throwback"]
 featured_img:
 wpid: 1405
 ---

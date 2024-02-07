@@ -2,7 +2,7 @@
 title: "You can't go wrong with Fused Network hosting for small businesses"
 excerpt: "I have a fairly broad experience with shared hosting companies. Some are faster than others, some have goofy control panels, some have terrible service, and some are, well, pretty standard. Fused, however, is different."
 modified: 2016-10-20 16:44:18
-tags: ["Hardware", "Hosting"]
+tags: ["Hardware", "Web Strategy"]
 featured_img: /_images/2009/04/fused_logo.png
 wpid: 662
 ---

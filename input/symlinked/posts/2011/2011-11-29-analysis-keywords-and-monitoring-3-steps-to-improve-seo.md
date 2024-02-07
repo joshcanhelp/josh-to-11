@@ -1,8 +1,8 @@
 ---
-title: "Improve Site SEO in 3 Steps: Analysis, Keywords &amp; Monitoring"
+title: "Improve Site SEO in 3 Steps: Analysis, Keywords & Monitoring"
 excerpt: ""
 modified: 2016-10-20 16:44:00
-tags: ["Analytics", "SEO", "Writing + Publishing"]
+tags: ["Analytics", "SEO"]
 featured_img:
 wpid: 2574
 ---

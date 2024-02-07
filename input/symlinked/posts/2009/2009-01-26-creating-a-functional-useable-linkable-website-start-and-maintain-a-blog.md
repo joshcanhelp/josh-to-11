@@ -2,7 +2,7 @@
 title: "Creating a functional, useable, linkable website: start and maintain a blog"
 excerpt: ""
 modified: 2016-10-20 16:44:19
-tags: ["Writing + Publishing", "Web Strategy"]
+tags: ["Web Strategy"]
 featured_img:
 wpid: 529
 ---

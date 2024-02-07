@@ -1,49 +1,128 @@
-{ 
-  "Personal Development": "",
-  "Design": "",
-  "Web Strategy": "",
-  "About JoshCanHelp": "",
-  "Social Media": "",
-  "WordPress": "",
-  "Software Engineering": "",
-  "Writing + Publishing": "",
-  "SEO": "",
-  "Marketing": "",
-  "Email": "",
-  "Paris": "",
-  "Throwback": "",
-  "Food + Drink": "",
-  "Hardware": "",
-  "Analytics": "",
-  "Best Of": "",
-  "Freelancing": "",
-  "Community": "",
-  "Twitter": "",
-  "Health + Fitness": "",
-  "Site Optimization": "",
-  "JavaScript": "",
-  "Content Management": "",
-  "Facebook": "",
-  "Gist": "",
-  "Iteration": "",
-  "Open Source": "",
-  "Personal Data": "",
-  "Systems": "",
-  "Testing": "",
-  "Auth0": "",
-  "COVID-19": "",
-  "Graffiti": "",
-  "Hosting": "",
-  "LinkedIn": "",
-  "Team Dynamics": "",
-  "Async Communication": "",
-  "Customer Service": "",
-  "Documentation": "",
-  "Eleventy": "",
-  "Focus": "",
-  "Money": "",
-  "Seattle": "",
-  "Digital Identity": "",
-  "Obsidian": "",
-  "Semantic Web": ""
- }
+{
+  "Personal Development": {
+    "type": "personal"
+  },
+  "Design": {
+    "type": "archive"
+  },
+  "Web Strategy": {
+    "type": "archive"
+  },
+  "About JoshCanHelp": {
+    "type": "archive"
+  },
+  "Social Media": {
+    "type": "archive"
+  },
+  "WordPress": {
+    "type": "archive"
+  },
+  "Software Engineering": {
+    "type": "primary"
+  },
+  "Writing + Publishing": {
+    "type": "primary"
+  },
+  "SEO": {
+    "type": "archive"
+  },
+  "Marketing": {
+    "type": "archive"
+  },
+  "Email": {
+    "type": "archive"
+  },
+  "Paris": {
+    "type": "personal"
+  },
+  "Throwback": {
+    "type": "archive"
+  },
+  "Food + Drink": {
+    "type": "personal"
+  },
+  "Hardware": {
+    "type": "archive"
+  },
+  "Analytics": {
+    "type": "archive"
+  },
+  "Best Of": {
+    "type": "primary"
+  },
+  "Freelancing": {
+    "type": "archive"
+  },
+  "Community": {
+    "type": "archive"
+  },
+  "Twitter": {
+    "type": "archive"
+  },
+  "Health + Fitness": {
+    "type": "personal"
+  },
+  "Site Optimization": {
+    "type": "archive"
+  },
+  "JavaScript": {
+    "type": "primary"
+  },
+  "Content Management": {
+    "type": "archive"
+  },
+  "Facebook": {
+    "type": "archive"
+  },
+  "Open Source": {
+    "type": "primary"
+  },
+  "Personal Data": {
+    "type": "primary"
+  },
+  "Testing": {
+    "type": "archive"
+  },
+  "Auth0": {
+    "type": "archive"
+  },
+  "COVID-19": {
+    "type": "personal"
+  },
+  "Graffiti": {
+    "type": "archive"
+  },
+  "LinkedIn": {
+    "type": "archive"
+  },
+  "Team Dynamics": {
+    "type": "primary"
+  },
+  "Async Communication": {
+    "type": "primary"
+  },
+  "Customer Service": {
+    "type": "archive"
+  },
+  "Documentation": {
+    "type": "primary"
+  },
+  "Eleventy": {
+    "type": "primary"
+  },
+  "Focus": {
+    "type": "personal"
+  },
+  "Money": {
+    "type": "archive"
+  },
+  "Seattle": {
+    "type": "archive"
+  },
+  "Digital Identity": {
+    "type": "primary"
+  },
+  "Obsidian": {
+    "type": "primary"
+  }
+}

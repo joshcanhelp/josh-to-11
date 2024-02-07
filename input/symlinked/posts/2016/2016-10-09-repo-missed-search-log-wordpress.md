@@ -2,13 +2,12 @@
 title: "Repo: Missed Search Log for WordPress"
 excerpt: "Concept for a log of search terms with no results on a WordPress site."
 modified: 2016-11-02 22:10:59
-tags: ["Gist", "WordPress"]
+tags: ["WordPress", "Open Source"]
 featured_img:
 wpid: 4549
 link_to: "https://github.com/joshcanhelp/wp-missed-search-log"
 citation: ""
 ---
-
 
 This was a customer feature that I open-sourced for anyone to use. A client of mine wanted to know what potential customers were searching on the site that would end up with no results.
 
