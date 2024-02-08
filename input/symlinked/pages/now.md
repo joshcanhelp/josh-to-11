@@ -13,11 +13,11 @@ Inspired by [this](https://nownownow.com/about).
 
 {% h2br %}2024-02-01{% endh2br %}
 
-Well, I got the email today. My 6 years at Auth0/Okta ends today. I can't say that I'm shocked, to be honest, but it's certainly not how I expected to end my tenure there. I wish I had been able to say a proper goodbye but I [posted on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7158890419303444480/) and got such an amazing outpouring of kind words and support. It was like attending your own funeral in a way, totally validating! I have a massive list of posts I want to write, projects I want to work on, trails I want to ride, and people I want to connect with over the next few months so I'm in no rush to get hired but I'm always happy to meet new folks in the identity, security, data, and developer experience spaces!
+Well, I got the email today. My 6 years at Auth0/Okta ends today. I can't say that I'm shocked, to be honest, but it's certainly not how I expected to end my tenure there. I wish I had been able to say a proper goodbye but I [posted on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7158890419303444480/) and got such an amazing outpouring of kind words and support. It was like attending your own funeral in a way, totally validating! I have a massive list of posts I want to write, projects I want to work on, trails I want to ride, and people I want to connect with over the next few months so I'm in no rush to get hired. I am, however, always happy to meet new folks in the identity, security, data, and developer experience spaces!
 
 {% h2br %}2023-12-05{% endh2br %}
 
-I signed up for the Fuego XL endurance race, ~65 miles of trails in Monterray, CA. I'm both excited and terrified!
+I signed up for the [Sea Otter Fuego XL](https://www.leadvilleraceseries.com/sea-otter-fuego-xl/) mountain bike endurance race, ~65 miles of trails in Monterey, CA. I'm both excited and terrified! My last major event was the 1-day Seattle-to-Portland ride in 2012. I still trot that out as an accomplishment I'm proud of but it's time to add another cycling badge to my sash. 
 
 {% h2br %}2023-01-23{% endh2br %}
 
@@ -27,7 +27,7 @@ I switched teams at Auth0/Okta and am now a solutions architect working with a f
 
 I formally published my [library of cocktails](/cocktails/) along with [a guide on custom content type collections](/eleventy-custom-content-type-collections) in [Eleventy](/tag/eleventy/). Over the last 2 years I've grown much more familiar with, and fond of, Eleventy and all it has to offer. I'm starting to dial in my personal knowledge base and publishing systems while making more time to [take notes](/notes/) and process information. Part of me feels like this could be a big rabbit hole but the practice has, so far, felt like a good use of time and a way to make connections that I otherwise would not have made.
 
-Publishing a big list of cocktails right now is funny timing as I stopped drinking for ~1 year starting 2021-12-20. This is partly an experiment and partly because it just feels like the right thing to do after 2 years of [COVID](/tag/covid-19) YOLO.
+Publishing a big list of cocktails right now is funny timing as I stopped drinking for ~~1 year~~ 6 months starting 2021-12-20. This is partly an experiment and partly because it just feels like the right thing to do after 2 years of [COVID](/tag/covid-19) YOLO.
 
 {% h2br %}2022-1-4{% endh2br %}
 

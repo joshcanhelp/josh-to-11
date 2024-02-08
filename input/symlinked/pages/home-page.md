@@ -1,5 +1,5 @@
 ---
-title: "JoshCanHelp - Software, Digtial Identity, Mindfulness, Focus, and Personal Improvement"
+title: "Josh Can Help - Software, Digital Identity, Mindfulness, Focus, and Personal Improvement"
 layout: layouts/home-page.njk
 excerpt: ""
 date: 2016-03-17 15:00:16
@@ -12,7 +12,7 @@ wpid: 3820
 
 <div class="title"><h1>Hi, I’m Josh.</h1><br><h1>Nice to meet you.</h1></div>
 
-I’ve been working on the web since 2007 as an engineer, designer, strategist, user interface consultant, team lead, project manager, and product builder. I’ve been working IRL since 2010 as a husband and since 2013 as a dad.
+I’ve been working on the web since 2007 as an architect, engineer, writer, designer, strategist, user interface consultant, team lead, project manager, and product builder. I’ve been working IRL since 2010 as a husband and since 2013 as a dad. I like riding bikes, reading books, writing, and eating good food.
 
 {% info %}I am currently looking for new contracted or full-time employment starting in April. See my [about page](/about) for more about me and how to get in touch!{% endinfo %}
 
