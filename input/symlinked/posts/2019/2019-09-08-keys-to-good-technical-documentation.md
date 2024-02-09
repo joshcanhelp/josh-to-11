@@ -6,6 +6,8 @@ tags: ["Async Communication", "Documentation", "Writing + Publishing"]
 hn_link: "https://news.ycombinator.com/item?id=20909783"
 ---
 
+This was compiled from a [Hacker News thread](https://news.ycombinator.com/item?id=20909783).
+
 **TL; DR: Examples, glossary, and reasoning behind potential surprises:**
 
 > * Examples. Realistic, complete, useful examples that demonstrate the software being used in the manner it is intended.
