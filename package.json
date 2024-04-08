@@ -5,15 +5,15 @@
   "main": "index.js",
   "scripts": {
     "11ty": "npx @11ty/eleventy",
-    "build": "npm rebuild node-sass && npm run 11ty && npm run sass",
+    "build": "npm rebuild sass && npm run 11ty && npm run sass",
     "format": "prettier --write './**/*.js'",
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "NODE_ENV=development npx @11ty/eleventy --serve --watch --quiet",
     "debug": "NODE_ENV=development DEBUG=Eleventy* npx @11ty/eleventy --watch  --dryrun",
     "build-test": "NODE_ENV=development npx @11ty/eleventy --dryrun",
     "dev": "npm run serve",
-    "sass": "node-sass sass -o _dist/_css",
-    "sass:watch": "node-sass --watch sass -o _dist/_css",
+    "sass": "sass sass:_dist/_css",
+    "sass:watch": "npm run sass -- --watch",
     "make:post": "hygen post with-prompt",
     "make:page": "hygen page with-prompt"
   },
@@ -27,7 +27,7 @@
     "html-minifier": "^4.0.0",
     "hygen": "^6.1.0",
     "moment": "^2.27.0",
-    "node-sass": "^9.0.0",
+    "sass": "^1.74.1",
     "uuid": "^8.3.2"
   }
 }
