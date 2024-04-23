@@ -32,6 +32,7 @@ const {
   callout,
   markdownRender,
   promo,
+  d2,
 } = require("./eleventy/shortcodes");
 
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
@@ -81,6 +82,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPairedShortcode("warning", warning);
   eleventyConfig.addPairedShortcode("caption", caption);
   eleventyConfig.addPairedShortcode("callout", callout);
+  eleventyConfig.addPairedShortcode("d2", d2);
   eleventyConfig.addPairedShortcode("markdown", markdownRender);
   eleventyConfig.addPairedShortcode("promo", promo);
 

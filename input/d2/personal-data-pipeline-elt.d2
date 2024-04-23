@@ -1,0 +1,101 @@
+###
+## Styles
+#
+
+classes: {
+  container: {
+    label.near: bottom-left
+    icon.near: bottom-right
+    style: {
+      fill: "#f1f1f1"
+      stroke: "#f1f1f1"
+      font-size: 16
+    }
+  }
+  database: {
+    shape: image
+    icon: "/Users/joshcanhelp/Code/josh-to-11/images/identicons/icon-database.png"
+  }
+  server: {
+    shape: image
+    icon: "/Users/joshcanhelp/Code/josh-to-11/images/identicons/icon-server.png"
+  }
+  pipeline: {
+    shape: image
+    icon: "/Users/joshcanhelp/Code/josh-to-11/images/identicons/icon-pipeline-b.png"
+  }
+  document: {
+    shape: image
+    icon: "/Users/joshcanhelp/Code/josh-to-11/images/identicons/icon-attributes.png"
+    height: 80
+  }
+}
+
+direction: right
+
+###
+## Actors
+#
+
+data-source-1: Data Source {
+  class: database
+}
+
+data-source-2: Data Source {
+  class: database
+}
+
+data-source-3: Data Source {
+  class: database
+}
+
+extractor-1: Extractor {
+  class: server
+}
+
+extractor-2: Extractor {
+  class: server
+}
+
+infra: Data Infrastructure {
+  class: container
+  
+  data-lake: Data Lake {
+    class: database
+  }
+
+  transformer: Transform {
+    class: pipeline
+  }
+
+  report-1: Report {
+    class: document
+  }
+
+  report-2: Report {
+    class: document
+  }
+
+  report-3: Report {
+    class: document
+  }
+
+  report-4: Report {
+    class: document
+  }
+}
+
+###
+## Diagram
+#
+
+data-source-1<-extractor-1
+data-source-2<-extractor-1
+data-source-3<-extractor-2
+extractor-1->infra.data-lake
+extractor-2->infra.data-lake
+infra.data-lake<-infra.transformer
+infra.transformer->infra.report-1
+infra.transformer->infra.report-2
+infra.transformer->infra.report-3
+infra.transformer->infra.report-4
