@@ -11,6 +11,10 @@ wpid: 3794
 
 Inspired by [this](https://nownownow.com/about).
 
+{% h2br %}2024-05-02{% endh2br %}
+
+I'm starting the 3rd month of my sabbatical (that's the term that seems to allay the fears of folks that don't understand taking time off) and, so far, it's exceeded expectations. I've been hanging out a lot with my family, working on home projects (purging stuff, organizing what's left, rewiring things that don't need to be rewired), riding bikes, fixing bikes, catching up with folks, and writing [words](https://www.joshcanhelp.com/posts/) and [code](https://github.com/joshcanhelp?tab=overview&from=2024-02-01&to=2024-05-02). I'm working on a software project right now that I hope will lead to something (post coming soon) and taking meetings with companies that seem like a good fit. Time has been *flying* but I'm planning on keeping this going through the summer, seeing what this project goes, and then decide on a plan in the fall.
+
 {% h2br %}2024-02-01{% endh2br %}
 
 Well, I got the email today. My 6 years at Auth0/Okta ends today. I can't say that I'm shocked, to be honest, but it's certainly not how I expected to end my tenure there. I wish I had been able to say a proper goodbye but I [posted on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7158890419303444480/) and got such an amazing outpouring of kind words and support. It was like attending your own funeral in a way, totally validating! I have a massive list of posts I want to write, projects I want to work on, trails I want to ride, and people I want to connect with over the next few months so I'm in no rush to get hired. I am, however, always happy to meet new folks in the identity, security, data, and developer experience spaces!
