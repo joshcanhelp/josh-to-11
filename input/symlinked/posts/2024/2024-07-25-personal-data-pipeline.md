@@ -1,0 +1,279 @@
+---
+title: "Imagining a Personal Data Pipeline"
+excerpt: "I've been thinking a lot about personal data lately: where it's stored, how to extract it, and what to do with it. Here's where I landed."
+featured_img: /_images/2024/data-pipeline.png
+tags: ["Software Engineering", "Personal Data", "Obsidian", "Open Source"]
+hn_link: 
+---
+
+I've been thinking a lot about personal data lately, the stuff that accrues as we live our lives in the presence of apps. About a year ago, [I wrote down my thoughts on my own personal data](/lifelogging/): where it collects, what shape it takes, how it could be used.
+
+Up until the end of last year, this curiosity was limited to me finding new sources of data, downloading them, and looking through these small windows into the past. What was the first thing I bought on Amazon (2004-12-7, *The Daily Show with Jon Stewart Presents America*, gift for a friend)? What was my longest bike ride recorded on Strava (2016-8-27, 118 miles from Seattle to Bellingham)? What was my first tweet (2008-3-27, "twit twit twit... nothing to say! :)")? It was fun and interesting and a nice distraction from what I was supposed to be doing on my laptop at the time, probably paying bills or reading another email from school.
+
+<img src="/_images/2016/08/coupeville-bike-stop.jpg" class="aligncenter" alt="Coupeville, WA">
+{% caption %}Quick coffee stop in Coupeville, WA on the way to Bellingham.{% endcaption %}
+
+Earlier this year, I started thinking more about just how much data I generate and what, if anything, this data could be used for in aggregate. The idea of being a "data-driven" human being, making decisions in the name of "optimization," is not appealing to me at all but there are a number of places where I would like to be able to combine data across services without allowing disparate companies to just vacuum it up wholesale:
+
+- Combine notes in Obsidian ([note taking ](/notes/)app) with calendar entries and contacts to create a kind of personal CRM.
+- A holistic view on athletic performance across the various trackers that I use (Strava, Oura, Garmin, and Apple Health) combined with notes I keep.
+- A collection of data surrounding a date or event: texts sent, photos taken, financial transactions, and more to augment what I already remember and trigger memories I thought were lost.
+- Combine behavior (exercise, sleep and wake times, screen time, etc.) with mental state (anxiety, low mood, etc.) to find previously-unknown links between what I do and how I feel.
+
+All of the things above could be stand-alone products on their own, and probably already exist in one form or another if I looked hard enough. But there are three big things that would stand in the way of me using something on the list above:
+
+- Duplicating data from one another to another doubles the chance of that data leaking.
+- I have to rely on whatever app I choose to give me *exactly* what I need or else I'll be tempted to pull the data out and work with it myself.
+- If the app I'm using gets bought by a company I don't trust, shuts down, or just doesn't work for me anymore, I have no way of knowing that deleting my account deletes all the data that I let them have.
+
+No matter how you cut it, trying to get all of your data into one service in order to pull insights out of it is problematic. Whether it's multiple apps working together or one single app that does everything, there is a fundamental problem with handing your personal data to a company and trusting them to both do the right thing and give you what you need, doubly so when you plug two apps together. For me, these issues prevent me from using a lot of different services that probably could be helpful. 
+
+The more I thought about it, the more important it felt to have as much of my data as possible immediately at my disposal. Maybe it's stored locally on my computer or in the cloud somewhere that won't be used without my consent, like an S3 bucket or a private git repo. Once it's downloaded, I could query it or transform it to another format or filter it and send the smaller payload to a specific app or service or even delete the data from the originating service. Not only that, I would have a backup of the original data always available in case I leave the service or it shuts down.
+
+## Data pipelines
+
+As I started to piece together this would work, it sounded more and more like the extract, load, transform (ELT) data pipelines I was using at work. For those unfamiliar with the concept, the basic idea is:
+
+1. You have a bunch of data stored in unconnected systems, some or all of which cannot be accessed directly. At work, this could be application databases containing customer-managed data, 3rd party systems like SalesForce, or something else. 
+2. You set up a connector for each of the data sources you want to combine or examine to pull the raw data out and store it in a central location, often called a data lake. These connectors could be scripts, DBT, connection services like FiveTran, pre-built integrations, or any number of things. 
+3. Once the raw data is in the central database, transformations can be run at whatever interval with results stored in tables that can be dropped and recreated during each run. These could be filters, combinations, calculations, or something else. 
+4. Analytics, reports, and other tools can now operate on transformed data, making it easier to reuse logic.
+
+Putting this all together looks, conceptually, something like this:
+
+{% d2 %}personal-data-pipeline-elt{% endd2 %}
+
+Applying the system described above to any of the personal data combinations I listed out seems to be a good fit:
+
+1. You use services that store their data in a way that you can't directly query.
+2. Extract that data into a central repository you control, like locally on your machine.
+3. Make connections, combinations, calculations, and more without hitting rate limits, dealing with pagination, or waiting for requests to complete.
+4. End up with text files or CSVs or metrics or anything else you need, ready to review, publish, or share with others.
+
+I want to pause for a moment and recognize that this particular idea is not original to me. I've been thinking about how to backup and use personal data for a few years and have, recently, been picking up ideas from various tools and blog posts I've found out there: [the idea of a human programming interface (HPI)](https://beepb00p.xyz/hpi.html); [a personal data search engine](https://thesephist.com/posts/monocle/); [outboard memory using a memex](https://hyfen.net/memex/). This is just scratching the surface but I wanted to give credit where credit is very much due.
+
+The main idea here is that we can apply some modern data infrastructure ideas to the world of personal data and, potentially, end up with a sustainable system for collecting, backing up, transforming, and querying data across multiple platforms. This puts **your** data in **your** control and reduces your reliance on companies to do the right thing on your behalf.
+
+## The system
+
+As I started to imagine what this might look like as a complete system, I realized that what I didn't want was a complicated software system that I needed to maintain by myself for the rest of my life. There is definitely a bit of compulsion behind this type of data hoarding and missing out on a sunny day at the park because I have to fix a bug with my data pipeline is not what I want my life to become. Whether this was a community of like-minded people or some kind of open-core business, I want to build something that others are able to contribute to and extend for their purposes.
+
+To that end, I came up with a list of attributes, or values, that need to guide the creation of whatever this might become. I see these as table stakes, not aspirational recommendations:
+
+- **[File over app](https://stephango.com/file-over-app)**: Storing data in discreet, human-readable files is critical for portability and long-term durability.
+- **Local first, cloud optional**: Pulling all of your data out into Yet Another Service defeats the point but access across devices and networks is a valid use case.
+- **Privacy by design**: This system should be trustworthy based on how it's designed and built, not just because I say that it is.
+- **Open source and bring your own (BYO) components:** Everyone has a different level of trust so I want this system to be 100% deployable, usable, and auditable on its own.
+- **Make it as easy as possible**: I want this all to be as easy to setup and run as possible, making the barrier to entry much lower than "you need to be able to write code."
+
+I spent some time writing and diagramming and I think I have, if not the answer, then at least a step in the right direction. 
+
+{% d2 %}personal-data-pipeline-complete{% endd2 %}
+
+Each of the components are described below, in terms of their job(s) to be done. I use these terms throughout the rest of the post.
+
+- **Data Getter**: This service gets data from APIs and imports data from export files, both provided by the services themselves. It needs to be called frequently to pull in the latest data and be able to iterate through paginated endpoints to download all historic data. It needs to be cautious about rate limits, provide good reporting, and be able to recover from errors so it can run generally unattended. This component is open source so it can be audited by users for key management, API contracts, and data handling.
+- **Key Store**: This component stores the credentials needed to call APIs and can be either user-controlled or possibly as a part of the open-core business. The keys are provided for each API run, allowing for key rotation and separation of concerns.
+
+**`TODO: Raname JSON Store to Data Store?`**
+
+- **JSON Store**: This component receives plain JSON files from the **Data getter** and makes it available to the **Processor**. This could be the file system on the machine that is running the data getter or a cloud storage service like AWS S3, Google Drive, or similar. Like the **Key store**, this can be provided by the user or be provided as a part of a paid, open core service.
+- **Processor**: This service runs against the data in the **JSON store** but is decoupled from the data getting schedule; in other words, this service does not need any communication with or knowledge of the **Data getter**. The interface here could be anything - declarative JSON or YAML, "low-code" development environment, domain-specific language - and the output could be anything as well. The idea here is you have logic of some kind that transforms the source data into new data in whatever format or actions against the source API or other APIs. You could run this in the cloud if your input and output are all there as well or you could run it locally to save transformed data on your machine (as, say, [Obsidian](/tag/obsidian) notes).
+- **Reports**: Represents the idea of transformed data in the desired format.
+- **Recipes**: As you work with your data from the services that you use, you will begin to collect information on the format, structure, and content of that data. This information is in the shape of the transformations used by the **Processor** and can be published to a public repository of some kind that others can pull down and use as well. The idea here is that, instead of maintaining a massive universal schema of all the APIs in the world, there is a collection of transformations you can experiment with, modify, and republish, a bit like using and forking a Git repo. You can try recipes against your own data as a "dry run" and adopt them if everything works as expected.
+- **Relational Store**: This is partly calling out another output possibility for the **Processor** but it's also an important part of the paid, open core service. Transformed data could be pushed to a database owned by the user or provided by the paid, open core service. This could be configured with whatever access is necessary, providing a way for additional services to get access to your custom-filtered personal data.
+- **Web UI**: This would likely be a closed-source part of the paid service, providing an easy way to monitor the system, create recipes, and access transformed data. This would not change the functionality of the rest of the system, rather it would help bridge the technical gap and provide a simple interface for anyone unwilling or unable to create their own processing and reporting logic. 
+
+If it's not clear in the descriptions above, **a critical attribute of this system is that all the different parts can be self-hosted and maintained for free**. If you are critical of giving a 3rd party service access to your credentials and data (as I am), then you can spin all of this up on your own hardware and the whole thing should work as described. Everything here is designed to be both modular and extensible, making the system work for many levels of paranoia and technical ability.
+
+## In use
+
+So, let's take the first idea listed above, a personal CRM, and see if we can build it, conceptually, using the system above. This is a system that's specific to my work flows and includes both stored cloud data and a local system. 
+
+Here's what I'm using currently and how I want it all to fit together:
+
+- **Input** Events are stored in Google Calendar
+- **Input**: Contact data is stored in iCloud
+- **Output**: Notes about people and dates are stored in Obsidian
+- **Transform**: Contacts are linked to events with email
+- **Transform**: Contacts are linked to notes by full name
+- **Transform**: Events are linked to notes by dates in `YYYY-MM-DD` format
+
+Since the output is a local file, the processor, at least, will need to be local. To keep things simple, the rest of the components will be local as well. This will, incidentally, allow the retrieved raw JSON to be backed up in iCloud just by virtue of being saved to the right directory. Full circle!
+
+What we're describing here looks like this:
+
+{% d2 %}personal-data-pipeline-crm{% endd2 %}
+
+With the **Data Getter** running, what we'll have waiting for us is a collection of events in this (filtered) format:
+
+```js
+{
+  "summary": "A fun event!",
+  "start": {
+    "date": "2024-05-16",
+    // ...
+  },
+  "end": {
+    "date": "2024-05-16",
+    // ...
+  },
+  "attendees": [
+    {
+      "email": "josh@joshcanhelp.com",
+      // ...
+    },
+    {
+      "email": "bob@bobcanhelp.com",
+      // ...
+    }
+  ],
+  // ...
+}
+```
+
+... and a collection of iCloud contacts looking like this:
+
+```js
+{
+  "firstName": "Josh",
+  "lastName": "CanHelp",
+  "emailAddresses": [
+    {
+      "field": "josh@joshcanhelp.com",
+      // ...
+    },
+  ],
+  // ...
+}
+```
+
+We'll connect the event to the contact using the email address and output a line in the daily note for that date.
+
+{% info %}**Note**: I'm skipping over the details of the **Data Getter** because, in the end, that service is meant to "just work." In reality, nothing "just works" and you can read more about how this part comes together in the "Back to reality" section below.{% endinfo %}
+
+For those of you out there who can write code, this is not a terribly involved task. Parse the JSON, get all the email addresses, find them in the iCloud data, grab the names, find the daily note files, and print it all out. This is ... fine and much easier to do once you've got all the data you need sitting nearby. But the idea of these **Recipes** is to:
+
+- abstract this work so the same code can operate in multiple contexts
+- allow transformations to be shared with other people to be used as-is or as a base for new ones
+- combine recipes for the same data source to create a loose schema that can inform data shape and types without maintaining strict definitions
+- allow creation via plain text editing or GUI at some point in the future
+
+All of this, in my mind, points to some kind of declarative way to describe the data sources, their relationships, and the output that we want. The **Processor** would run a number of pre-flight checks against the stored data to make sure that the input sources exist, that the output destination is configured, and a map of how we get from input data to output. 
+
+Let's try to write a **Recipe** that represents all this in a way that makes sense for what we're trying to accomplish. Note that this is all just conceptual at the moment and the choice to use YAML is insignificant at this stage. Starting with the input data:
+
+```yaml
+input:
+  google:
+    calendar:
+      summary: 'event_summary'
+      start.date: 'start_date'
+      start.time: 'start_time'
+      'attendees[].email': 'event_emails'
+  icloud:
+    contacts:
+      firstName: 'first_name'
+      lastName: 'last_name'
+      'emailAddresses[].field': 'contact_emails'
+
+# ... more to come ...
+```
+
+Here, we're telling the **Processor** that we have two data sources, `google` and `icloud`, which can be checked against either existing data files or some configuration to figure out if we expect those sources to exist. Then, each of the sources have one set of data, which would be validated directly on the data that we either have locally or are connected to. Finally, we indicate the fields that we're using and a shorthand name to be used later in the pipeline. Our pre-check can make sure that those names are unique across all sources but, because we're not processing the data yet, whether the fields exist or not is handled later. Note that anything with a `[]` in it tells us that we're handling multiple values.
+
+Next, we're going to tell the **Processor** what output we want and what it's shape should be. The possibilities for output is effectively infinite but, just like with the rest of this, I want to start with capable default functionality and allow for lots of places to hook into the process. Standard functionality could just be simple file system operations like writing to a CSV or appending to a text file or making another JSON file.
+
+This should cover a number of use cases but, like the **Data Getter,** I want to also include user-contributed modules for specific services and tools. Each contributed output would have configuration of some kind that would be checked (file paths, API credentials, etc.) and allow folks to define specific templates, output locations, and metadata to use. 
+
+For our CRM use case, this could look something like:
+
+```yaml
+inputs:
+  # ...
+output:
+  file:
+    - strategy: 'csv'
+      template: |
+        start_date,start_time,event_summary,contact_emails
+      data:
+        path: '/path/to/csv'
+        filename: 'all_events
+  obsidian:
+    - strategy: 'daily_notes_append'
+      template: |
+        - ${event_summary} with ${:loop:contact_emails:, :[[${first_name} ${last_name}]]} at ${start_time}
+
+# ... more to come ...
+```
+
+In the example above, we're using a theoretical Obsidian-specific module that provides capability for working with daily notes. When being called from a recipe like this, it would check for necessary configuration (in this case we would need a path to the local files at least) and fail if it didn't have the information it needed. Once it passes pre-flight, the module would tell the **Processor** how to find the daily note for the data being provided and what to do with the data once the file is found or created.
+
+The last, and most important piece, is defining how the data should be modified and connected. In keeping with our "pipeline" concept, we'll define a set of actions to be taken on the data that we have:
+
+```yaml
+inputs:
+  # ...
+outputs:
+  # ...
+pipeline:
+  - field: 'start_date'
+    transform:
+      - 'toStandardDate()'
+  - field: 'event_summary'
+    transform:
+      - 'trim()'
+      - 'toSentenceCase()'
+  - field: 'event_emails'
+    linkTo: 'contact_emails'
+  - field: 'obsidian.daily_notes_append.date'
+    linkTo: 'start_date'
+```
+
+Walking through this step-by-step:
+
+- `state_date`, which was defined in the `inputs`, should be converted to the standard date format of `YYYY-MM-DD`. The `transformations` array points to built-in and extended functions for processing these fields.
+- `event_summary` should have surrounding whitespace removed and case normalized.
+- iCloud contacts are related to Google events when the email address for a contact is found in the event attendees list, `event_emails`. We're saying that one source can be combined with the other and used in the same context. If we had another source that also used an email address as an index, we could just add another `pipeline` entry and expand the data accordingly.
+- The daily note date should come from the `start_date`, which was converted above.
+
+One thing that came to mind while thinking through and discussing this with others is the idea of data "layers." The **Data Getter** is saving raw JSON parsed out into days but, after that, we just have what we have. But, for so many things that we want to do, we're going to be filtering, augmenting, connecting, and transforming this data into what we want. In many cases, the processing that's required for one output will be the same as others and duplicating transformations and links would be tedious. To help with that, we could define a  set of "pre-processing" recipes that builds new JSON files from our data sources, creating a new source that can be truncated and replaced for each run of the **Processor**. This would simplify the recipes and provide smaller datasets to work with.
+
+## Back to reality
+
+Depending on what you do for a living, you might be thinking one of two things:
+
+> Sounds like a lot of work but I'm glad you tackled it! Where do I sign up?
+
+... or ...
+
+> You appear to be boiling the ocean. How is that going for you?
+
+This is to say: there are some significant obstacles to overcome with this system, most of which I have yet to overcome. So, let's talk about where I'm at with this.  
+
+I started writing the **Data Getter** described above at the beginning of this year, [taking notes along the way](https://github.com/PersonalDataPipeline/data-getter/blob/main/docs/devlog.md). Fortunately for this project (and many other things), [I was laid off in February](/goodbye-auth0/), allowing me to focus on getting this component working. I have several API contracts written and data coming in regularly to my local machine running a cron job.
+
+The elephant in the room for the **Data Getter** is the challenge of maintaining API contracts for an every-expanding list of APIs. Without an army of engineers and testers, it would be impossible to maintain all of these contracts over time and I don't want to even try. This is a big reason for structuring this project around open source code. I tried to write this component in a way that avoids as much boilerplate as possible and keeps the contracts thin. But, in the end, if some esoteric social network changes their API, it's going to be up to the community to at least report the issue, if not actively help fix it. 
+
+Some of the other thorny problems are ....
+
+- Some services have a great API along with a way to export all of your data as well. Right now, APIs and imports are two separate collections of data but it makes sense to come up with a way to combine those two related things. [ADR 015](https://github.com/PersonalDataPipeline/pdpl-cli/blob/main/docs/decisions/015-merging-import-with-api.md)
+- There isn't a way to handle multiple accounts, in the case where you have, say, a personal account and a professional account for Twitter or GitHub or whatever service. [ADR 013](https://github.com/PersonalDataPipeline/pdpl-cli/blob/main/docs/decisions/013-handling-multiple-accounts.md)
+- In that same vein, I want API contracts to be as easy to contribute as possible and they are definitely not there yet. I don't want to put a heavy testing onus on people contributing API contracts but I also don't want to try and write tests for all the different permutations of behavior for the component itself. [ADR 007](https://github.com/PersonalDataPipeline/pdpl-cli/blob/main/docs/decisions/007-api-modules.md)
+
+Besides the additional functionality that's needed, I also have made no real progress towards the **Key Store**. Since this is currently only setup for self hosting, it's not a priority to make this part work separately from the **Data Getter** so it's just using environment variables for credentials and a config file for non-secret configuration.
+
+The **JSON Store** is also just local-only at the moment. The idea would be to have modules in the **Data Getter** that provide connections to all the popular storage methods ([ADR 009](https://github.com/PersonalDataPipeline/pdpl-cli/blob/main/docs/decisions/009-storage-api-modules.md)). Right now, the file system operations for JSON storage and retrieval are all collected in a single file so there is a basic interface in place. Next step would be to write one for, say, S3 to see how that abstraction works in practice.
+
+I started this post intending to publish it once the **Data Getter** was functional, leaving the  **Recipes** and **Processor** components as conceptual. After talking with a few people and tinkering with a proof-of-concept, it became clear that the processing part is the true heart of this project and it should be mostly functional before I describe to the world.
+
+## Are you interested?
+
+I want to give you a nod of appreciation for making it this far!
+
+Whether you are someone who has written something like this before or wishes that this kind of thing existed, I would love to hear from you. I don't have a Discord or newsletter or anything like that quite yet but, if this idea resonates with you in any way, I ask you to do one or more of the following:
+
+- Reach out via email, Twitter, [GitHub](https://github.com/PersonalDataPipeline/pdpl-cli/discussions), LinkedIn, or Hacker News and let me know what you think.
+- [Give this system a try](https://github.com/PersonalDataPipeline/pdpl-cli/blob/main/docs/getting-started.md) and let me know if you have any problems. I'd be happy to pair with you to get it working or write any API contracts that would help get you started!
+
+I'm specifically interested to hear feedback about the declarative processing, specific use cases, pitfalls from your experience, or "product" feedback from potential users, especially folks who would use something like this but do not have the ability (or desire) to build it themselves.
