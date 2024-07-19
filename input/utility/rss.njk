@@ -10,7 +10,7 @@ eleventyExcludeFromCollections: true
   <link href="{{ baseUrl }}/rss.xml" rel="self"/>
   <link href="{{ baseUrl }}"/>
   <id>{{ baseUrl }}</id>
-  <updated>{{ collections.rssCollection | rssLastUpdatedDate }}</updated>
+  <updated>{{ collections.rssCollection | getNewestCollectionItemDate | dateToRfc822 }}</updated>
   <author>
     <name>Josh Cunningham</name>
     <email>josh@joshcanhelp.com</email>
@@ -20,7 +20,7 @@ eleventyExcludeFromCollections: true
     <entry>
       <title>{{ post.data.title }}</title>
       <link href="{{ absolutePostUrl }}"/>
-      <updated>{{ post.date | rssDate }}</updated>
+      <updated>{{ post.date | dateToRfc822 }}</updated>
       <id>{{ absolutePostUrl }}</id>
       <summary>{{ post.data.excerpt }}</summary>
       <content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
