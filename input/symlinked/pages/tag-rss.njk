@@ -1,12 +1,10 @@
 ---
-
 pagination:
   data: collections
   size: 1
   alias: tag
 permalink: /tag/{{ tag | slug }}/rss.xml
 eleventyExcludeFromCollections: true
-
 ---
 <?xml version="1.0" encoding="utf-8"?>
 {% set baseUrl = "https://www.joshcanhelp.com" %}
@@ -15,7 +13,7 @@ eleventyExcludeFromCollections: true
   <link href="{{ baseUrl }}/tag/{{ tag | slug }}/rss.xml" rel="self"/>
   <link href="{{ baseUrl }}"/>
   <id>{{ baseUrl }}</id>
-  <updated>{{ collections[tag] | rssLastUpdatedDate }}</updated>
+  <updated>{{ collections[tag] | getNewestCollectionItemDate | dateToRfc822 }}</updated>
   <author>
     <name>Josh Cunningham</name>
     <email>josh@joshcanhelp.com</email>
@@ -27,10 +25,9 @@ eleventyExcludeFromCollections: true
       <entry>
         <title>{{ post.data.title }}</title>
         <link href="{{ absolutePostUrl }}"/>
-        <updated>{{ post.date | rssDate }}</updated>
+        <updated>{{ post.date | dateToRfc822 }}</updated>
         <id>{{ absolutePostUrl }}</id>
         <summary>{{ post.data.excerpt }}</summary>
-        <content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
       </entry>
     {% endif %}
   {% endfor %}
