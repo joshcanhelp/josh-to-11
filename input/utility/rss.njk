@@ -23,7 +23,6 @@ eleventyExcludeFromCollections: true
       <updated>{{ post.date | dateToRfc822 }}</updated>
       <id>{{ absolutePostUrl }}</id>
       <summary>{{ post.data.excerpt }}</summary>
-      <content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
     </entry>
   {%- endfor %}
 </feed>
