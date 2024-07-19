@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "11ty": "npx @11ty/eleventy",
-    "build": "npm rebuild sass && npm run 11ty && npm run sass",
+    "build": "node --version && npm rebuild sass && npm run 11ty && npm run sass",
     "format": "prettier --write './**/*.js'",
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "NODE_ENV=development npx @11ty/eleventy --serve --watch --quiet",
