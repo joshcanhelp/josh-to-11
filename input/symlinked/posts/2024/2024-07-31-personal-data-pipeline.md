@@ -41,13 +41,13 @@ As I started to piece together this would work, it sounded more and more like th
 3. Once the raw data is in the central database, transformations can be run at whatever interval with results stored in tables that can be dropped and recreated during each run. These could be filters, combinations, calculations, or something else. 
 4. Analytics, reports, and other tools can now operate on transformed data, making it easier to reuse logic.
 
-Putting this all together looks, conceptually and oversimplified, something like this:
+Putting this all together looks, conceptually, something like this oversimplified but still somewhat complicated diagram:
 
 {% d2 %}personal-data-pipeline-elt{% endd2 %}
 
-Applying the system described above to any of the personal data combinations I listed out seems to be a good fit:
+Applying this system to any one of the personal data combinations I listed above seems to be a good fit:
 
-1. You use services that store their data in a way that you can't directly query.
+1. Use services that store their data in a way that you can't directly query.
 2. Extract that data into a central repository you control, like locally on your machine.
 3. Make connections, combinations, calculations, and more without hitting rate limits, dealing with pagination, or waiting for requests to complete.
 4. End up with text files or CSVs or metrics or anything else you need, ready to review, publish, or share with others.
@@ -243,8 +243,7 @@ Walking through this step-by-step:
 - iCloud contacts are related to Google events when the email address for a contact is found in the event attendees list, `event_emails`. We're saying that one source can be combined with the other and used in the same context. If we had another source that also used an email address as an index, we could just add another `pipeline` entry and expand the data accordingly.
 - The daily note date should come from the `start_date`, which was converted above.
 
-One thing that came to mind while thinking through and discussing this with others is the idea of data "layers." The **Data Getter** is saving raw JSON parsed out into days but, after that, we just have what we have. But, for so many things that we want to do, we're going to be filtering, augmenting, connecting, and transforming this data into what we want. In many cases, the processing that's required for one output will be the same as others and duplicating transformations and links would be tedious. To help with that, we could define a  set of "pre-processing" recipes that builds new JSON files from our data sources, creating a new source that can be truncated and replaced for each run of the **Processor**. This would simplify the recipes and provide smaller datasets to work with.
-
+One thing that came to mind while thinking through and discussing this with others is the idea of data "layers." The **Data Getter** is saving raw JSON parsed out into days but, after that, we just have what we have. But, for so many things that we want to do, we're going to be filtering, augmenting, connecting, and transforming this data into what we want. In many cases, the processing that's required for one output will be the same as others and duplicating transformations and links would be tedious. To help with that, we could define a  set of "pre-processing" recipes that builds new JSON files from our data sources, creating a new source that can be truncated and replaced for each run of the **Processor**. This would simplify the recipes and provide smaller datasets to work with. <a id="interested"></a>
 ## Are you interested?
 
 I want to give you a nod of appreciation for making it this far!
@@ -259,7 +258,7 @@ There is a long way to go before PDPL can do everything I described above but yo
 👉 [**Getting started with PDPL**](https://github.com/PersonalDataPipeline/pdpl-cli/blob/main/docs/getting-started.md)
 {% endinfo %}
 
-Whether you are someone who has written something like this before or wishes that this kind of thing existed, I would love to hear from you:
+Whether you are someone who has written something like this before or wishes that this kind of thing existed, I would love to hear from you. If you want to hear updates when I have them, [sign up on Substack](https://personaldatapipeline.substack.com) and I'll send updates on how the system is coming along and new releases. If you're looking for a more substantial contribution:
 
 - Give this system a try and let me know if you have any problems. I'd be happy to pair with you to get it working or write any API contracts or output handers that would help get you started.
 - Reach out via [Discord](https://discord.com/channels/1265426186545135717/), Twitter/X, LinkedIn, or Hacker News and let me know what you think about the idea or the implementation or any questions you have about getting started.
