@@ -23,9 +23,15 @@ const callout = (text) => `<p class="bigtext">${text}</p>`;
 
 const markdownRender = (content) => markdown.render(content);
 
+const d2 = (fileName) => `
+<img src="/_images/d2/${fileName}.png" class="aligncenter">
+<figcaption><em>Made with <a href="https://d2lang.com">D2</a></em></figcaption>
+`
+
 module.exports = {
   callout,
   caption,
+  d2,
   h2br,
   info,
   markdownRender,
