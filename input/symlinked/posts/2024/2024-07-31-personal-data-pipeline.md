@@ -17,7 +17,7 @@ Up until the end of last year, this curiosity was limited to me finding new sour
 
 Earlier this year, I started thinking more about just how much data I generate and what, if anything, this data could be used for in aggregate. The idea of being a "data-driven" human being, making decisions in the name of "optimization," is not appealing to me at all but there are a number of places where I would like to be able to combine data across services without allowing disparate companies to just vacuum it up wholesale.
 
-- Could I combine daily notes in Obsidian ([note taking](/notes/)app) with calendar entries and contacts to create a kind of personal CRM?
+- Could I combine daily notes in Obsidian ([note taking](/notes/) app) with calendar entries and contacts to create a kind of personal CRM?
 - Could I build a holistic view on athletic performance across the various trackers that I use (Strava, Oura, Garmin, and Apple Health) combined with notes I keep?
 - What about a collection of data surrounding a date or event: texts sent, photos taken, financial transactions, and more to augment what I already remember and trigger memories I thought were lost?
 - Is it possible to combine behavior (exercise, sleep and wake times, screen time, etc.) with mental state (anxiety, low mood, etc.) to find previously-unknown links between what I do and how I feel?
