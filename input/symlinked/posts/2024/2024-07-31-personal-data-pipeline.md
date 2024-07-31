@@ -3,7 +3,7 @@ title: "Imagining a Personal Data Pipeline"
 excerpt: "I've been thinking a lot about personal data lately: where it's stored, how to extract it, and what to do with it. Here's where I landed."
 featured_img: /_images/2024/data-pipeline.png
 tags: ["Software Engineering", "Personal Data", "Obsidian", "Open Source"]
-hn_link: 
+hn_link: https://news.ycombinator.com/item?id=41120033
 ---
 
 I've been thinking a lot about personal data lately, the stuff that accrues as we live our lives in the presence of machines. About a year ago, [I wrote down my thoughts on my own personal data](/lifelogging/): where it collects, what shape it takes, how it could be used.
@@ -285,7 +285,7 @@ There is a long way to go before PDPL can do everything I described above but yo
 Whether you are someone who has written something like this before or wishes that this kind of thing existed, I would love to hear from you. If you want to hear updates when I have them, [sign up on Substack](https://personaldatapipeline.substack.com) and I'll send updates on how the system is coming along and new releases. If you're looking for a more substantial contribution:
 
 - Give this system a try and let me know if you have any problems. I'd be happy to pair with you to get it working or write any API contracts or output handers that would help get you started.
-- Reach out via [Discord](https://discord.com/channels/1265426186545135717/), Twitter/X, LinkedIn, or Hacker News and let me know what you think about the idea or the implementation or any questions you have about getting started.
+- Reach out via [Discord](https://discord.com/channels/1265426186545135717/), Twitter/X, LinkedIn, or [Hacker News](https://news.ycombinator.com/item?id=41120033) and let me know what you think about the idea or the implementation or any questions you have about getting started.
 - If you have specific requests or feedback about specific components or technical choices, post an [issue](https://github.com/PersonalDataPipeline/pdpl-cli/issues/new/choose) on GitHub or contribute to one of the [discussions](https://github.com/PersonalDataPipeline/pdpl-cli/discussions) there.
 
 I'm specifically interested to hear feedback about the declarative processing, specific use cases, pitfalls from your experience, or "product" feedback from potential users, especially folks who would use something like this but do not have the ability (or desire) to build it themselves.
