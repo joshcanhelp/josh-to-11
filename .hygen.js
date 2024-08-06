@@ -1,5 +1,4 @@
 const { v4: uuidv4 } = require("uuid");
-const { paramCase } = require("change-case");
 
 const today = new Date();
 
@@ -21,7 +20,7 @@ module.exports = {
         return `DRAFT-${locals.permalink ? locals.permalink : uuidv4()}`;
       }
 
-      const permalink = locals.permalink || paramCase(locals.title);
+      const permalink = locals.permalink || locals.title.toLowerCase().replaceAll(/[^\w]/g, "-").replaceAll(/-+/g, "-");
       let postYear = getYear;
       let postDate = getDate;
       if (locals.date) {
