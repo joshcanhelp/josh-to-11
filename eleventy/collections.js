@@ -11,7 +11,7 @@ const buildTagCollection = (type, collections) => {
     };
   }
   return filteredTags;
-}
+};
 
 const primaryTags = (collections) => buildTagCollection("primary", collections);
 const personalTags = (collections) => buildTagCollection("personal", collections);
@@ -54,7 +54,8 @@ const postsCollection = (collection) => {
 
 const recentPrimaryPosts = (collection) => {
   const primaryTags = Object.keys(getTagsMetadata("primary"));
-  return collection.getAllSorted()
+  return collection
+    .getAllSorted()
     .reverse()
     .filter((tpl) => isPublishedPost(tpl.data))
     .filter((tpl) => tpl.data.tags && tpl.data.tags.length)

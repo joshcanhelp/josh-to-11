@@ -13,7 +13,6 @@ const manningOidcPrompt =
   `[Read more about the project](/${manningOidcPath}/) ` +
   'or <a target="_blank" href="https://www.manning.com/liveprojectseries/federation-and-sign-on-ser">buy it now!</a>';
 
-
 let tagsMetadata = [];
 const getTagsMetadata = (type) => {
   if (!tagsMetadata.length) {
@@ -31,7 +30,7 @@ const getTagsMetadata = (type) => {
     }
   }
   return filteredTags;
-}
+};
 
 module.exports = {
   manningOidcPath,

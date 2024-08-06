@@ -20,7 +20,9 @@ module.exports = {
         return `DRAFT-${locals.permalink ? locals.permalink : uuidv4()}`;
       }
 
-      const permalink = locals.permalink || locals.title.toLowerCase().replaceAll(/[^\w]/g, "-").replaceAll(/-+/g, "-");
+      const permalink =
+        locals.permalink ||
+        locals.title.toLowerCase().replaceAll(/[^\w]/g, "-").replaceAll(/-+/g, "-");
       let postYear = getYear;
       let postDate = getDate;
       if (locals.date) {
