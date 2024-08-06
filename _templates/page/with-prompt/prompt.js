@@ -23,7 +23,7 @@ module.exports = [
   {
     type: "input",
     name: "featured_img",
-    message: "Featured image file name",
+    message: "Meta image file name",
   },
   {
     type: "input",
