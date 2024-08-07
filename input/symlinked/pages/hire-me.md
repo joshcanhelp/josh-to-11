@@ -93,57 +93,33 @@ It's hard to narrow down what I want to do with a title so the following are jus
 
 Here are a few projects I've worked on that are relevant to the above. Note that, unless directly indicated, I was part of team for the following projects so what I say that I "designed" something, for example, that means that I either lead the design and had external feedback or I was an integral part of the design, not that I did everything. **Shout out to all the incredible people I've worked with during my career!**
 
----
+{% projects %}
+Published the "Federation and Single Sign-On with OpenID Connect" liveProject with Manning Publications ([blog post](/manning-openid-connect-liveproject/), [listing](https://www.manning.com/liveprojectseries/federation-and-sign-on-ser)). :tags: JavaScript, OpenID Connect, OAuth2, docs
 
-Published the "Federation and Single Sign-On with OpenID Connect" liveProject with Manning Publications ([blog post](/manning-openid-connect-liveproject/), [listing](https://www.manning.com/liveprojectseries/federation-and-sign-on-ser)).<br>{% taglist %}Node.js, OpenID Connect, OAuth2{% endtaglist %}
+Solo architected and built a personal data pipeline tool ([blog post](/personal-data-pipeline/), [repo](https://github.com/PersonalDataPipeline/pdpl-cli)). :tags: TypeScript, Node.js, DuckDB, OAuth2, CLI
 
----
+Lead an internal tool hardening project after a [high-visibility breach](https://sec.okta.com/articles/2023/10/tracking-unauthorized-access-oktas-support-system), collaborating across several departments to deliver the solution in testable pieces without customer disruption. :tags: VPN, docs, planning
 
-Solo architected and built a personal data pipeline tool ([blog post](/personal-data-pipeline/), [repo](https://github.com/PersonalDataPipeline/pdpl-cli)).<br>{% taglist %}TypeScript, Node.js, DuckDB, OAuth2, CLI{% endtaglist %}
+Discovery, architecture, and delivery for a data-powered onboarding experience and  notification system for enterprise customers, along with documentation for the whole underlying system. :tags: Snowflake, Kafka, S3, AirFlow, dbt, Gainsight, docs
 
----
+Discovery for an AI-powered Q&A Slack channel for technical sales ([repo](https://github.com/joshcanhelp/slack-channel-analytics)). :tags: UX, Node.js, Slack API, AI
 
-Lead an internal tool hardening project after a [high-visibility breach](https://sec.okta.com/articles/2023/10/tracking-unauthorized-access-oktas-support-system), collaborating across several departments to deliver the solution in testable pieces without customer disruption.<br>{% taglist %}VPN, docs, planning{% endtaglist %}
+Discovery and architecture for tenant and company-level health check system across customer-facing dashboards and internal tools. :tags: UX, Node.js, SQL, Auth0, docs
 
----
+Discovery, architecture, and engineering for a multi-organization, federated authentication system that powered an application for Auth0 partners to submit integrations for review. :tags: UX, TypeScript, React, Express.js, OIDC, Auth0
 
-Discovery, architecture, and delivery for a data-powered onboarding experience and  notification system for enterprise customers, along with documentation for the whole underlying system.<br>{% taglist %}Snowflake, Kafka, S3, AirFlow, dbt, Gainsight, docs{% endtaglist %}
+Designed and built a creation kit for partner engineering teams to quickly get started creating Auth0 Marketplace integrations ([repo](https://github.com/joshcanhelp/TEMPLATE-action-post-login)). :tags: UX, Bash, CLI, ESLint, Auth0, docs
 
----
+Lead partner engineering and architecture for the Auth0 Marketplace, which consisted of developing solutions, documentation, and examples to guide partners and working with product teams to add extensibility to the platform. :tags: JavaScript, OIDC, OAuth2, SAML, JWT, Docker, Auth0, docs
 
-Discovery for an AI-powered Q&A Slack channel for technical sales ([repo](https://github.com/joshcanhelp/slack-channel-analytics)).<br>{% taglist %}UX, Node.js, Slack API, AI{% endtaglist %}
+Developed and released a major version of the Login by Auth0 WordPress plugin, fixing [multiple CVEs](https://github.com/auth0/wordpress/security/advisories/GHSA-59vf-cgfw-6h6v) and working with large customers to test it ahead of release ([release notes](https://github.com/auth0/wordpress/releases/tag/4.0.0), [blog post](https://auth0.com/blog/wordpress-sso-with-auth0/)). :tags: OIDC, OAuth2, JWT, Auth0
 
----
+Lead a 2-day, in-person training class every month for new technical hires covering OAuth 2 and OpenID Connect flows, application design, and the Auth0 product. :tags: OIDC, OAuth2, JWT, Auth0
 
-Discovery and architecture for tenant and company-level health check system across customer-facing dashboards and internal tools.<br>{% taglist %}UX, Node.js, SQL, Auth0, docs{% endtaglist %}
+Solo build of an application to collect and display statistics for open-source repos on GitHub to track toil and impact of process changes ([repo](https://github.com/joshcanhelp/repo-data-getter)). :tags: PHP, GitHub API, CLI
 
----
-
-Discovery, architecture, and engineering for a multi-organization, federated authentication system that powered an application for Auth0 partners to submit integrations for review.<br>{% taglist %}UX, TypeScript, React, Express.js, OIDC, Auth0{% endtaglist %}
-
----
-
-Designed and built a creation kit for partner engineering teams to quickly get started creating Auth0 Marketplace integrations ([repo](https://github.com/joshcanhelp/TEMPLATE-action-post-login)).<br>{% taglist %}UX, Bash, CLI, ESLint, Auth0, docs{% endtaglist %}
-
----
-
-Lead partner engineering and architecture for the Auth0 Marketplace, which consisted of developing solutions, documentation, and examples to guide partners and working with product teams to add extensibility to the platform.<br>{% taglist %}JavaScript, OIDC, OAuth2, SAML, JWT, Docker, Auth0, docs{% endtaglist %}
-
----
-
-Developed and released a major version of the Login by Auth0 WordPress plugin, fixing [multiple CVEs](https://github.com/auth0/wordpress/security/advisories/GHSA-59vf-cgfw-6h6v) and working with large customers to test it ahead of release ([release notes](https://github.com/auth0/wordpress/releases/tag/4.0.0), [blog post](https://auth0.com/blog/wordpress-sso-with-auth0/)).<br>{% taglist %}PHP, WordPress, Auth0, docs{% endtaglist %}
-
----
-
-Lead a 2-day, in-person training class every month for new technical hires covering OAuth 2 and OpenID Connect flows, application design, and the Auth0 product.<br>{% taglist %}OIDC, OAuth2, JWT, Auth0{% endtaglist %}
-
----
-
-Solo build of an application to collect and display statistics for open-source repos on GitHub to track toil and impact of process changes ([repo](https://github.com/joshcanhelp/repo-data-getter)).<br>{% taglist %}PHP, GitHub API, CLI{% endtaglist %}
-
----
-
-Lead a team of remote engineers building a WordPress PaaS serving 100s of sites for high-value enterprise customers.<br>{% taglist %}WordPress, SAML, PHP{% endtaglist %}
+Lead a team of remote engineers building a WordPress PaaS serving 100s of sites for high-value enterprise customers. :tags: WordPress, SAML, PHP
+{% endprojects %}
 
 ## <a id="questions"></a><span>What I'd like to know about your company</span>
 
