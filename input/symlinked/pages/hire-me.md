@@ -15,7 +15,14 @@ I am currently exploring two options in my professional life:
 
 Depending on how things go in the remainder of the year, I'll choose one or the other, not both at the same time. Don't worry, I have a life and a family and I want to keep it that way 😃
 
-## <span>What I'm looking for</span>
+## <span>On this page</span>
+1. [What I'm looking for](#want)
+2. [What I can do](#do)
+3. [What I've done](#done)
+4. [What questions I have for you](#questions)
+5. [Get in touch](#contact)
+
+## <a id="want"></a><span>What I'm looking for</span>
 
 ### Roles
 It's hard to narrow down what I want to do with a title so the following are just guidelines. I am a generalist and am happy wearing multiple hats so if you are looking to fill a role that isn't in the list below but takes advantage of what I can do (see below), please reach out!
@@ -45,7 +52,7 @@ It's hard to narrow down what I want to do with a title so the following are jus
 - Opportunity to learn another programming language
 - Contribution to the IETF, W3C or another standards organization
 
-## <span>What I can do</span>
+## <a id="do"></a><span>What I can do</span>
 
 ... and want to keep doing!
 ### CIAM identity
@@ -59,13 +66,13 @@ It's hard to narrow down what I want to do with a title so the following are jus
 - Proof-of-concept design and execution
 - Cross-team communication and education
 - Requirements gathering, validation, and mapping to a delivery plan
-- Collaboration with engineering teams during delivery to clarify specifications and communicate obstacles
+- Collaboration with engineering teams during delivery to support implementation
 ### Partner relations, integrations, and marketplace strategy
 - Platform education and architecture help for partners
 - Product team collaboration finding extensibility points
 - Integration experience and guidance for customers
 ### Application design, build, and maintenance
-- Focus on JavaScript/TypeScript, PHP, and Ruby languages for browser-based, web, and M2M applications
+- Focus on JavaScript/TypeScript, PHP, and Ruby languages for browser-based, web, and cloud machines
 - Code quality, review, and testing strategies
 - Internal and external API design and UX
 - Authentication and authorization strategy
@@ -81,7 +88,8 @@ It's hard to narrow down what I want to do with a title so the following are jus
 - Change management, code review, and backlog refinement
 - Hiring process creation and improvement
 - ✏️ [Posts on this topic](/tag/team-dynamics/)
-## <span>What I've done</span>
+
+## <a id="done"></a><span>What I've done</span>
 
 Here are a few projects I've worked on that are relevant to the above. Note that, unless directly indicated, I was part of team for the following projects so what I say that I "designed" something, for example, that means that I either lead the design and had external feedback or I was an integral part of the design, not that I did everything. **Shout out to all the incredible people I've worked with during my career!**
 
@@ -137,7 +145,7 @@ Solo build of an application to collect and display statistics for open-source r
 
 Lead a team of remote engineers building a WordPress PaaS serving 100s of sites for high-value enterprise customers.<br>{% taglist %}WordPress, SAML, PHP{% endtaglist %}
 
-## <span>What I'd like to know about your company</span>
+## <a id="questions"></a><span>What I'd like to know about your company</span>
 
 An incomplete list of what I might ask you during an interview.
 
@@ -152,7 +160,7 @@ An incomplete list of what I might ask you during an interview.
 - What's your biggest engineering challenge right now?
 - What's the process for adding a new language, technology, or platform?
 
-## <span>How to get in touch</span>
+## <a id="contact"></a><span>How to get in touch</span>
 
 Email me at `josh [at] joshcanhelp [dot] com` or use any of the links below!
 👇👇👇
