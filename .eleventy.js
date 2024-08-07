@@ -1,6 +1,8 @@
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 const { htmlMinifier } = require("./eleventy/transforms");
+const registerShortcodes = require("./eleventy/shortcodes");
 
 const {
   allTags,
@@ -24,25 +26,14 @@ const {
   urlToDomain,
 } = require("./eleventy/filters");
 
-const {
-  h2br,
-  info,
-  warning,
-  caption,
-  callout,
-  markdownRender,
-  promo,
-  d2,
-} = require("./eleventy/shortcodes");
-
-const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
-
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     images: "_images",
     html: "_html",
     "images/favicon": "/",
   });
+
+  registerShortcodes(eleventyConfig);
 
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginRss);
@@ -76,15 +67,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("slug", makeSlug);
   eleventyConfig.addFilter("stripSquareBrackets", stripSquareBrackets);
   eleventyConfig.addFilter("domain", urlToDomain);
-
-  eleventyConfig.addPairedShortcode("h2br", h2br);
-  eleventyConfig.addPairedShortcode("info", info);
-  eleventyConfig.addPairedShortcode("warning", warning);
-  eleventyConfig.addPairedShortcode("caption", caption);
-  eleventyConfig.addPairedShortcode("callout", callout);
-  eleventyConfig.addPairedShortcode("d2", d2);
-  eleventyConfig.addPairedShortcode("markdown", markdownRender);
-  eleventyConfig.addPairedShortcode("promo", promo);
 
   return {
     dir: {
