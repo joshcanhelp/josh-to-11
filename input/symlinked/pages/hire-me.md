@@ -9,7 +9,7 @@ layout: layouts/clean.njk
 
 I am currently exploring two options in my professional life:
 
-**I'm looking for a full-time position starting this year.** That's what this page is about. If you came here looking to hire or refer me, you're in the right place! Read on!
+**I'm looking for a full-time position starting this year.** That's what this page is about. If you came here looking to hire or refer me, you're in the right place!
 
 **I'm looking for consulting opportunities in identity, data, and app infrastructure.** I'm exploring this with a few colleagues as an option going forward. If you are looking for contracted architecture work with a talented team, see [Nimble SA](https://nimblesa.com)!
 
@@ -18,6 +18,8 @@ Depending on how things go in the remainder of the year, I'll choose one or the 
 ## <span>What I'm looking for</span>
 
 ### Roles
+It's hard to narrow down what I want to do with a title so the following are just guidelines. I am a generalist and am happy wearing multiple hats so if you are looking to fill a role that isn't in the list below but takes advantage of what I can do (see below), please reach out!
+
 - Staff or higher full-stack or backend product engineer
 - Staff or higher solution architect
 - Partner architecture or engineering
@@ -52,11 +54,12 @@ Depending on how things go in the remainder of the year, I'll choose one or the 
 - Open source integration library (SDK) design and maintenance
 - Strategy and implementation of plugins and other extensibility features
 - Documentation and training for engineering teams working with these systems
+- ✏️ [Posts on this topic](/tag/digital-identity/)
 ### Product and solution architecture
 - Proof-of-concept design and execution
 - Cross-team communication and education
 - Requirements gathering, validation, and mapping to a delivery plan
-- Collaboration with engineering teams during delivery to ensure specifications are met and obstacles are clearly communicated 
+- Collaboration with engineering teams during delivery to clarify specifications and communicate obstacles
 ### Partner relations, integrations, and marketplace strategy
 - Platform education and architecture help for partners
 - Product team collaboration finding extensibility points
@@ -71,11 +74,13 @@ Depending on how things go in the remainder of the year, I'll choose one or the 
 - Multi-platform support strategy
 - Community and backlog management 
 - Code quality, clarity, and delivery
+- ✏️ [Posts on this topic](/tag/open-source/)
 ### Engineering team efficiency and operations
 - Identification and mitigation of delivery bottlenecks and engineering toil
 - Delivery break-down, status reporting, ticket management, and launch planning
 - Change management, code review, and backlog refinement
 - Hiring process creation and improvement
+- ✏️ [Posts on this topic](/tag/team-dynamics/)
 ## <span>What I've done</span>
 
 Here are a few projects I've worked on that are relevant to the above. Note that, unless directly indicated, I was part of team for the following projects so what I say that I "designed" something, for example, that means that I either lead the design and had external feedback or I was an integral part of the design, not that I did everything. **Shout out to all the incredible people I've worked with during my career!**
@@ -136,13 +141,18 @@ Lead a team of remote engineers building a WordPress PaaS serving 100s of sites 
 
 An incomplete list of what I might ask you during an interview.
 
-- What makes your company a great place to work?
+- What makes your company a great place to work? How are you working to keep it that way?
 - Describe your company culture in 3 words/phrases
 - What is the biggest thing holding you back from growing larger?
-- How do you decide what to work on, as a company?
+- How do you decide what to work on, as a company? How does that get communicated to everyone?
 - How do you plan out what you're going to do for the next sprint/quarter/year?
 - How long does it take for merged code to reach production?
 - How do you know how healthy your systems are?
 - How do you handle incidents?
 - What's your biggest engineering challenge right now?
 - What's the process for adding a new language, technology, or platform?
+
+## <span>How to get in touch</span>
+
+Email me at `josh [at] joshcanhelp [dot] com` or use any of the links below!
+👇👇👇
