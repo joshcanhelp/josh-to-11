@@ -6,13 +6,13 @@
         <h3>
           <a href="{{ post.url | safe }}">{{ post.data.title | safe }}</a>
         </h3><br>
-        <p class="display-tags"><span>{{post.data.ingredients.join("</span> <span>") | safe}}</span></p>
+        <div class="display-tags"><span>{{post.data.ingredients.join("</span> <span>") | safe}}</span></div>
       </div>
   {% endif %}
 {% endmacro %}
 
 {% block content %}
-  <article>
+  <article class="layout-all-cocktails">
     <div class="title">
       <h1>All {{ collections.cocktailsCollection | length }} Cocktails</h1>
     </div>
