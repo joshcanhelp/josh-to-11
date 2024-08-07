@@ -9,10 +9,15 @@
 @import "mixins"
 @import "extends"
 @import "base"
+@import "layout-clean"
+@import "layout-all-cocktails"
+@import "layout-all-posts"
 
 .logo
 	+centered_on_phone()
-	margin-bottom: $p_medium
+
+	&
+		margin-bottom: $p_medium
 
 	svg
 		max-width: 230px
@@ -37,7 +42,9 @@
 
 .title
 	+centered_on_phone()
-	margin: 0 0 $p_medium
+	
+	&
+		margin: 0 0 $p_medium
 
 	h1
 		background-color: $c_vivid_yellow
@@ -112,12 +119,12 @@
 		margin-left: 1em
 
 .display-tags
-	line-height: 2em
-	font-family: $f_family_mono
-	margin: -1.75em 0 0.4em
-	font-size: $f_size_smallest
+	padding-top: 0.75em
 
 	span
+		font-family: $f_family_mono
+		font-size: $f_size_smallest
+		line-height: 2em
 		padding: 0 0.7em
 		background: $c_vivid_yellow_light
 		display: inline-block
