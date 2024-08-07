@@ -39,8 +39,9 @@ Depending on how things go in the remainder of the year, I'll choose one or the 
 
 ### Bonus points
 - Working on decentralized technology
+- Working with open source software
 - Opportunity to learn another programming language
-- ... more ...
+- Contribution to the IETF, W3C or another standards organization
 
 ## <span>What I can do</span>
 
