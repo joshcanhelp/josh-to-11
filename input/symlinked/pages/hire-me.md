@@ -113,11 +113,15 @@ Designed and built a creation kit for partner engineering teams to quickly get s
 
 ---
 
-Lead partner engineering and architecture for the Auth0 Marketplace, which consisted of developing solutions, documentation, and examples to guide partners and working with product teams to add extensibility to the platform.<br>{% taglist %}JavaScript, OIDC, OAuth2, SAML, JWT, Auth0, docs{% endtaglist %}
+Lead partner engineering and architecture for the Auth0 Marketplace, which consisted of developing solutions, documentation, and examples to guide partners and working with product teams to add extensibility to the platform.<br>{% taglist %}JavaScript, OIDC, OAuth2, SAML, JWT, Docker, Auth0, docs{% endtaglist %}
 
 ---
 
-Developed and released a major version of the Login by Auth0 WordPress plugin, fixing [multiple CVEs](https://github.com/auth0/wordpress/security/advisories/GHSA-59vf-cgfw-6h6v) and working with large customers to test it ahead of release ([release notes](https://github.com/auth0/wordpress/releases/tag/4.0.0), [blog post](https://auth0.com/blog/wordpress-sso-with-auth0/)).<br>{% taglist %}PHP, WordPress, docs{% endtaglist %}
+Developed and released a major version of the Login by Auth0 WordPress plugin, fixing [multiple CVEs](https://github.com/auth0/wordpress/security/advisories/GHSA-59vf-cgfw-6h6v) and working with large customers to test it ahead of release ([release notes](https://github.com/auth0/wordpress/releases/tag/4.0.0), [blog post](https://auth0.com/blog/wordpress-sso-with-auth0/)).<br>{% taglist %}PHP, WordPress, Auth0, docs{% endtaglist %}
+
+---
+
+Lead a 2-day, in-person training class every month for new technical hires covering OAuth 2 and OpenID Connect flows, application design, and the Auth0 product.<br>{% taglist %}OIDC, OAuth2, JWT, Auth0{% endtaglist %}
 
 ---
 
@@ -125,7 +129,7 @@ Solo build of an application to collect and display statistics for open-source r
 
 ---
 
-Solo build of an application to collect and display statistics for open-source repos on GitHub to track toil and impact of process changes ([repo](https://github.com/joshcanhelp/repo-data-getter)).<br>{% taglist %}PHP, GitHub API, CLI{% endtaglist %}
+Lead a team of remote engineers building a WordPress PaaS serving 100s of sites for high-value enterprise customers.<br>{% taglist %}WordPress, SAML, PHP{% endtaglist %}
 
 ## <span>What I'd like to know about your company</span>
 
