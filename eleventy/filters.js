@@ -3,33 +3,22 @@ moment.locale("en");
 
 const { slugify } = require("./utilities");
 
-const markdownToSlides = (content) =>
-  content
-    .replace(/<h2>/g, "<section><section><h2>")
-    .replace(/<\/h2>/g, "</h2></section><section>")
-    .replace(/<hr>/g, "</section></section>");
-
-const dateformat = (dateIn) => moment(dateIn).format("MMM DD, YYYY");
-
-const objectKeys = (data) => Object.keys(data);
-
-const jsonStringify = (data) => JSON.stringify(data, null, 2);
-
-const makeSlug = (text) => slugify(text);
-
-const stripSquareBrackets = (text) => text.replace(/\[\[/g, "").replace(/\]\]/g, "");
-
-const urlToDomain = (url) => {
-  const urlObject = new URL(url);
-  return urlObject.hostname;
+const allFilters = {
+  dateformat: (dateIn) => moment(dateIn).format("MMM DD, YYYY"),
+  keys: (data) => Object.keys(data),
+  json: (data) => JSON.stringify(data, null, 2),
+  slug: (text) => slugify(text),
+  stripSquareBrackets: (text) => text.replace(/\[\[/g, "").replace(/\]\]/g, ""),
+  domain: (url) => new URL(url).hostname,
+  markdownToSlides: (content) =>
+    content
+      .replace(/<h2>/g, "<section><section><h2>")
+      .replace(/<\/h2>/g, "</h2></section><section>")
+      .replace(/<hr>/g, "</section></section>"),
 };
 
-module.exports = {
-  stripSquareBrackets,
-  makeSlug,
-  jsonStringify,
-  objectKeys,
-  dateformat,
-  markdownToSlides,
-  urlToDomain,
+module.exports = (eleventyConfig) => {
+  for (const name in allFilters) {
+    eleventyConfig.addFilter(name, allFilters[name]);
+  }
 };
