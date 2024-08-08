@@ -1,4 +1,4 @@
-const marked = require('marked');
+const marked = require("marked");
 
 const { slugify } = require("./utilities");
 
@@ -6,21 +6,6 @@ const markdownRender = (content) => marked.parse(content);
 
 const allShortcodes = {
   markdown: markdownRender,
-  projects: (text) => {
-    let output = "";
-    const projects = text.split("\n\n");
-    for (const proj of projects) {
-      const projParts = proj.split(":tags:")
-      output += `<div class="card small">${markdownRender(projParts[0])}`;
-      output += `<div class="display-tags"><span>${projParts[1]
-        .split(",")
-        .map((str) => str.trim())
-        .join('</span> <span>')}</div>`;
-        output += `</div>`;
-    }
-    output += "";
-    return output;
-  },
   h2br: (text, anchor) =>
     `<h2 class="hr" id="${anchor || slugify(text)}">
       <span class="pink">&lt;</span>
@@ -39,6 +24,21 @@ const allShortcodes = {
       .join('</span> <span class="display-tag">')}</span>`,
   d2: (fileName) => `<img src="/_images/d2/${fileName}.png" class="aligncenter">
     <figcaption><em>Made with <a href="https://d2lang.com">D2</a></em></figcaption>`,
+  projects: (text) => {
+    let output = "";
+    const projects = text.split("\n\n");
+    for (const proj of projects) {
+      const projParts = proj.split(":tags:");
+      output += `<div class="project small">${markdownRender(projParts[0])}`;
+      output += `<div class="display-tags"><span>${projParts[1]
+        .split(",")
+        .map((str) => str.trim())
+        .join("</span> <span>")}</div>`;
+      output += `</div>`;
+    }
+    output += "";
+    return output;
+  },
 };
 
 module.exports = (eleventyConfig) => {
