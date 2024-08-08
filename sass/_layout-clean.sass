@@ -1,7 +1,10 @@
 .layout-clean
   h1 
-    margin: 0
-    font-size: 4em
+    +centered_on_phone()
+   
+    & 
+      margin: 0
+      font-size: 4em
   
   h2 span
     background-color: $c_vivid_yellow
