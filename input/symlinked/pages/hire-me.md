@@ -91,7 +91,7 @@ It's hard to narrow down what I want to do with a title so the following are jus
 
 ## <a id="done"></a><span>What I've done</span>
 
-Here are a few projects I've worked on that are relevant to the above. Note that, unless directly indicated, I was part of team for the following projects so what I say that I "designed" something, for example, that means that I either lead the design and had external feedback or I was an integral part of the design, not that I did everything. **Shout out to all the incredible people I've worked with during my career!**
+The following are projects that I've worked on relevant to the skills above. Note that, unless directly indicated, I was part of team for the following projects so what I say that I "designed" something, for example, that means that I either lead the design and had external feedback or I was an integral part of the design, not that I did everything. **Shout out to all the incredible people I've worked with during my career!**
 
 {% projects %}
 Published the "Federation and Single Sign-On with OpenID Connect" liveProject with Manning Publications ([blog post](/manning-openid-connect-liveproject/), [listing](https://www.manning.com/liveprojectseries/federation-and-sign-on-ser)). :tags: JavaScript, OpenID Connect, OAuth2, docs
