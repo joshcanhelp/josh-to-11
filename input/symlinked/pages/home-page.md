@@ -14,6 +14,6 @@ wpid: 3820
 
 I’ve been working on the web since 2007 as an architect, engineer, writer, designer, strategist, user interface consultant, team lead, project manager, and product builder. I’ve been working IRL since 2010 as a husband and since 2013 as a dad. I like riding bikes, reading books, writing code and words, and eating good food.
 
-{% info %}I am currently exploring contracted or full-time employment starting in the fall. See my [about page](/about) for more about me and how to get in touch!{% endinfo %}
+{% info %}I am currently exploring contracted or full-time employment starting now. [See here for more details](/hire-me/)!{% endinfo %}
 
-{% include "partials/find-me.html" %}
+{% include "partials/find-me.njk" %}

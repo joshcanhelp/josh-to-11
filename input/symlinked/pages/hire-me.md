@@ -34,7 +34,7 @@ It's hard to narrow down what I want to do with a title so the following are jus
 ### Required
 - A clear salary range and benefits either posted or provided
 - 80% remote or higher (maximum one day per week in a Seattle office, occasional offsites are welcome)
-- Pacific time regular working hours
+- Pacific Time regular working hours (I lean early)
 - Net-neutral or better impact on the world
 	- No ad tech, social networks, user surveillance
 	- Commitment to diversity
@@ -56,31 +56,31 @@ It's hard to narrow down what I want to do with a title so the following are jus
 
 ... and want to keep doing!
 ### CIAM identity
-- Focus on OAuth 2, OpenID Connect
-- Design for delegated login systems incorporating multiple applications, devices, and cloud machines
-- Open source integration library (SDK) design and maintenance
+- Primarily focused on OAuth 2, OpenID Connect, SAML
+- Design for delegated login systems for multiple applications, devices, and cloud machines
+- Integration library (SDK) design and maintenance
 - Strategy and implementation of plugins and other extensibility features
 - Documentation and training for engineering teams working with these systems
 - ✏️ [Posts on this topic](/tag/digital-identity/)
 ### Product and solution architecture
+- Requirements gathering, validation, and mapping to a delivery plan
 - Proof-of-concept design and execution
 - Cross-team communication and education
-- Requirements gathering, validation, and mapping to a delivery plan
 - Collaboration with engineering teams during delivery to support implementation
 ### Partner relations, integrations, and marketplace strategy
-- Platform education and architecture help for partners
-- Product team collaboration finding extensibility points
-- Integration experience and guidance for customers
+- Platform education, architecture support, and engineering for partners
+- Product team collaboration to add new extensibility points
+- Integration experience and documentation for customers
 ### Application design, build, and maintenance
-- Focus on JavaScript/TypeScript, PHP, and Ruby languages for browser-based, web, and cloud machines
+- JavaScript/TypeScript, PHP, and Ruby languages for browser-based, web, and cloud machines
 - Code quality, review, and testing strategies
-- Internal and external API design and UX
+- Internal and external API design and user experience
 - Authentication and authorization strategy
 ### Open source and SDKs
 - SDK API and sample application design
 - Multi-platform support strategy
 - Community and backlog management 
-- Code quality, clarity, and delivery
+- Code quality, clarity, and delivery for examples
 - ✏️ [Posts on this topic](/tag/open-source/)
 ### Engineering team efficiency and operations
 - Identification and mitigation of delivery bottlenecks and engineering toil
@@ -91,7 +91,7 @@ It's hard to narrow down what I want to do with a title so the following are jus
 
 ## <a id="done"></a><span>What I've done</span>
 
-The following are projects that I've worked on relevant to the skills above. Note that, unless directly indicated, I was part of team for the following projects so what I say that I "designed" something, for example, that means that I either lead the design and had external feedback or I was an integral part of the design, not that I did everything. **Shout out to all the incredible people I've worked with during my career!**
+The following are projects that I've worked on relevant to the skills above. Note that, unless directly indicated, I was part of a team for the following projects so when I say that I "designed" something, for example, that means that I either lead the design and had external feedback or I was an integral part of the design, not that I did everything. **Shout out to all the incredible people I've worked with during my career!**
 
 {% projects %}
 Published the "Federation and Single Sign-On with OpenID Connect" liveProject with Manning Publications ([blog post](/manning-openid-connect-liveproject/), [listing](https://www.manning.com/liveprojectseries/federation-and-sign-on-ser)). :tags: JavaScript, OpenID Connect, OAuth2, docs
