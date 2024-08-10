@@ -2,7 +2,7 @@
 title: "Considering a career in software engineering or digital design?"
 excerpt: "Listen to what the professionals at Microsoft have to say."
 modified: 2016-10-20 16:44:20
-tags: ["Software Engineering", "Personal Development"]
+tags: ["Software Engineering", "Professional Development"]
 featured_img:
 wpid: 337
 ---

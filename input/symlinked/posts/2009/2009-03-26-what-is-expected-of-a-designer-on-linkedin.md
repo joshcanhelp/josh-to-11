@@ -2,7 +2,7 @@
 title: "\"What is expected of a designer\" on LinkedIn"
 excerpt: "I think a designer should be expected to think about the whole project: the medium, the message, the format, the audience, the technology, and the client. The closer the pieces of the project are to the design, the more they should know."
 modified: 2016-10-20 16:44:18
-tags: ["Design", "Social Media", "LinkedIn", "Personal Development"]
+tags: ["Design", "Social Media", "LinkedIn", "Professional Development"]
 featured_img:
 wpid: 639
 ---

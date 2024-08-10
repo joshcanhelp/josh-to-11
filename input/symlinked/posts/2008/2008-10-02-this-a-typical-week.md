@@ -2,7 +2,7 @@
 title: "This, a typical week"
 excerpt: "I have been talking recently (more in person than anywhere) about being a generalist and what that means to me. I am, in every sense of the word, a generalist, a mash-up artist, comfortable between groups than deep within them."
 modified: 2016-10-20 16:44:20
-tags: ["About JoshCanHelp", "Personal Development"]
+tags: ["About JoshCanHelp", "Professional Development"]
 featured_img:
 wpid: 317
 ---

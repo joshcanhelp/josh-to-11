@@ -2,7 +2,7 @@
 title: "What to do with great ideas (part 1)"
 excerpt: ""
 modified: 2016-10-20 16:44:20
-tags: ["Marketing", "Personal Development"]
+tags: ["Marketing", "Professional Development"]
 featured_img:
 wpid: 351
 ---

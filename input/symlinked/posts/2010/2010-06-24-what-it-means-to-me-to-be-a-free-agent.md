@@ -2,7 +2,7 @@
 title: "What it means to me to be a free agent"
 excerpt: "My answers to the 16 questions for people making a living as a free agent."
 modified: 2016-04-03 02:32:59
-tags: ["Customer Service", "Freelancing", "About JoshCanHelp", "Personal Development"]
+tags: ["Customer Service", "Freelancing", "About JoshCanHelp", "Professional Development"]
 featured_img:
 wpid: 1626
 ---

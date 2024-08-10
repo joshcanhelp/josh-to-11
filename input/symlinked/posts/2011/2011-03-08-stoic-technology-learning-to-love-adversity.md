@@ -1,8 +1,8 @@
 ---
 title: "Stoic Technology: Learning to Love Adversity"
-excerpt: ""
+excerpt: "You’re just one corrupted disk away from losing everything on your computer. You’re one well-timed battery loss from losing a job opportunity. You’re one faulty circuit away from burning down your house."
 modified: 2016-04-03 02:32:59
-tags: ["Hardware", "Personal Development", "Web Strategy"]
+tags: ["Hardware", "Professional Development", "Web Strategy"]
 featured_img:
 wpid: 1726
 ---
