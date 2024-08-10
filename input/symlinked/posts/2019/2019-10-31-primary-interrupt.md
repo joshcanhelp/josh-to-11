@@ -3,7 +3,7 @@ title: "Learnings from Full Time Primary Interrupt (On-Call)"
 meta_description: "What I learned spending a month as the primary on-call for an open source support team."
 featured_img: /_images/default-thumb.png
 excerpt: "What I learned spending a month as the primary on-call for an open source support team."
-tags: ["Team Dynamics", "Software Engineering", "Open Source"]
+tags: ["Team Dynamics", "Software Engineering", "Open Source", "Portfolio"]
 hn_link:
 ---
 

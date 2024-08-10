@@ -2,7 +2,7 @@
 title: "Imagining a Personal Data Pipeline"
 excerpt: "I've been thinking a lot about personal data lately: where it's stored, how to extract it, and what to do with it. Here's where I landed."
 featured_img: /_images/2024/data-pipeline.png
-tags: ["Software Engineering", "Personal Data", "Obsidian", "Open Source"]
+tags: ["Software Engineering", "Personal Data", "Obsidian", "Open Source", "Portfolio"]
 hn_link: https://news.ycombinator.com/item?id=41120033
 ---
 

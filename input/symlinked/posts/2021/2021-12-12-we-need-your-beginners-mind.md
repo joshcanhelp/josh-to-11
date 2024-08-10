@@ -2,7 +2,7 @@
 
 title: "We Need Your Beginner's Mind"
 excerpt: "We need your experiments and your questions and your feedback. Your lack of understanding is a valuable attribute that goes away as you gain experience."
-tags: ["Personal Development", "Team Dynamics", ]
+tags: ["Personal Development", "Team Dynamics", "Portfolio"]
 featured_img: /_images/2021/experience_THUMB.jpg
 hn_link: "https://news.ycombinator.com/item?id=29580547"
 

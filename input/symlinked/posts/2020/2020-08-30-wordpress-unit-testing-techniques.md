@@ -1,7 +1,7 @@
 ---
 
 title: WordPress Unit Testing Techniques
-tags: [ "WordPress", "Software Engineering", "Testing", "Auth0"]
+tags: [ "WordPress", "Software Engineering", "Testing", "Auth0", "Portfolio"]
 featured_img: /_images/2020/08/stacking-rocks-thumb.jpg
 excerpt: I've learned a lot about how to avoid common issues and making life writing tests in WordPress a little easier. This post is a collection of ways I've found to accurately and thoroughly test a plugin.
 hn_link: https://news.ycombinator.com/item?id=26750743

@@ -2,8 +2,8 @@
 title: "Repo: Missed Search Log for WordPress"
 excerpt: "Concept for a log of search terms with no results on a WordPress site."
 modified: 2016-11-02 22:10:59
-tags: ["WordPress", "Open Source"]
-featured_img:
+tags: ["WordPress", "Open Source", "Portfolio"]
+featured_img: /_images/logos/wordpress.png
 wpid: 4549
 link_to: "https://github.com/joshcanhelp/wp-missed-search-log"
 citation: ""

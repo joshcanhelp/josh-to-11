@@ -3,7 +3,7 @@ title: "Goodbye Auth0"
 meta_description: "My 6 years at Auth0 ... how it all started, what Auth0 meant to me, and why I will proudly wear that shield for as long as the swag holds up. "
 featured_img: /_images/2024/goodbye_auth0.png
 excerpt: "My 6 years at Auth0 ... how it all started, what Auth0 meant to me, and why I will proudly wear that shield for as long as the swag holds up. "
-tags: ["Auth0", "Team Dynamics", "WordPress"]
+tags: ["Auth0", "Team Dynamics", "WordPress", "Portfolio"]
 hn_link: https://news.ycombinator.com/item?id=39380790
 ---
 

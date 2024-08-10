@@ -3,7 +3,7 @@ title: "Conducting a Great Technical Interview"
 meta_description: "Technical interviews are a vital component of culture building and setting your team up for success. Here is how I make sure they go well and have a great time doing it."
 featured_img: /_images/2023/microphone.jpg
 excerpt: "Technical interviews are a vital component of culture building and setting your team up for success. Here is how I make sure they go well and have a great time doing it."
-tags: ["Software Engineering", "Team Dynamics"]
+tags: ["Software Engineering", "Team Dynamics", "Portfolio"]
 hn_link: "https://news.ycombinator.com/item?id=36698782"
 ---
 
