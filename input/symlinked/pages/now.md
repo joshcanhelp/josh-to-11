@@ -11,6 +11,17 @@ wpid: 3794
 
 Inspired by [this](https://nownownow.com/about).
 
+{% h2br %}2024-08-10{% endh2br %}
+
+After almost 6 months, [I am officially on the job market](/hire-me/)! I spent the time:
+
+- Riding (and fixing and cleaning) bikes
+- [Coding](https://github.com/joshcanhelp) and [writing](/posts/)
+- House projects
+- Stressing out about taking time off
+
+I'm not proud of that last one but it's how I felt. It felt quite indulgent to just do what I want (within the constraints of a family), despite plenty of people around me expressing support. The thought that kept coming into my head, though, was that I'll never be this young again. In that time I've taken 65 bike rides, totaling over 645 miles and 138,000 feet of elevation gain (not including short local rides to the store, school, activities, etc). I trained for and rode in 2 races, spent a bunch more time with family and friends, and was able to focus on a few hard things when they came up. So, yeah, this was what I needed and, if you're in a position to do the same, I highly recommend it. 
+
 {% h2br %}2024-05-02{% endh2br %}
 
 I'm starting the 3rd month of my sabbatical (that's the term that seems to allay the fears of folks that don't understand taking time off) and, so far, it's exceeded expectations. I've been hanging out a lot with my family, working on home projects (purging stuff, organizing what's left, rewiring things that don't need to be rewired), riding bikes, fixing bikes, catching up with folks, and writing [words](https://www.joshcanhelp.com/posts/) and [code](https://github.com/joshcanhelp?tab=overview&from=2024-02-01&to=2024-05-02). I'm working on a software project right now that I hope will lead to something (post coming soon) and taking meetings with companies that seem like a good fit. Time has been *flying* but I'm planning on keeping this going through the summer, seeing what this project goes, and then decide on a plan in the fall.
