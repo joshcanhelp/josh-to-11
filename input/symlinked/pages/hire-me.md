@@ -110,7 +110,7 @@ Discovery, architecture, and engineering for a multi-organization, federated aut
 
 Designed and built a creation kit for partner engineering teams to quickly get started creating Auth0 Marketplace integrations ([repo](https://github.com/joshcanhelp/TEMPLATE-action-post-login)). :tags: UX, Bash, CLI, ESLint, Auth0, docs
 
-Lead partner engineering and architecture for the Auth0 Marketplace, which consisted of developing solutions, documentation, and examples to guide partners and working with product teams to add extensibility to the platform. :tags: JavaScript, OIDC, OAuth2, SAML, JWT, Docker, Auth0, docs
+Lead partner engineering and architecture for the Auth0 Marketplace, which consisted of developing solutions, documentation, and examples to guide partners and working with product teams to add extensibility to the platform ([blog post](https://auth0.com/blog/introducing-auth0-marketplace/)). :tags: JavaScript, OIDC, OAuth2, SAML, JWT, Docker, Auth0, docs
 
 Developed and released a major version of the Login by Auth0 WordPress plugin, fixing [multiple CVEs](https://github.com/auth0/wordpress/security/advisories/GHSA-59vf-cgfw-6h6v) and working with large customers to test it ahead of release ([release notes](https://github.com/auth0/wordpress/releases/tag/4.0.0), [blog post](https://auth0.com/blog/wordpress-sso-with-auth0/)). :tags: OIDC, OAuth2, JWT, Auth0
 
