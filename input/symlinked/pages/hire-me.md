@@ -7,15 +7,10 @@ layout: layouts/clean.njk
 ---
 # Hire Me
 
-I am currently exploring two options in my professional life:
+I am a full-stack product engineer and architect who loves working in identity (CIAM focus), data, developer experience, and open source. I thrive in "bridge" roles where I can learn a system or technology and then bring that understanding to others. I've been able to do that in various ways from engineering and team leadership to in-person instruction to partner relations to systems architecture.
 
-**I'm looking for a full-time position starting this year.** That's what this page is about. If you came here looking to hire or refer me, you're in the right place!
+### <a id="want"></a>On this page
 
-**I'm looking for consulting opportunities in identity, data, and app infrastructure.** I'm exploring this with a few colleagues as an option going forward. If you are looking for contracted architecture work with a talented team, see [Nimble SA](https://nimblesa.com)!
-
-Depending on how things go in the remainder of the year, I'll choose one or the other, not both at the same time. Don't worry, I have a life and a family and I want to keep it that way 😃
-
-## <span>On this page</span>
 1. [What I'm looking for](#want)
 2. [What I can do](#do)
 3. [What I've done](#done)
@@ -138,5 +133,5 @@ An incomplete list of what I might ask you during an interview.
 
 ## <a id="contact"></a><span>How to get in touch</span>
 
-Email me at `josh [at] joshcanhelp [dot] com` or use any of the links below!
-👇👇👇
+- Email me at `josh [at] joshcanhelp [dot] com`
+- Add me on [LinkedIn](https://www.linkedin.com/in/joshcanhelp/)
