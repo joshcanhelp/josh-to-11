@@ -32,5 +32,5 @@ export default async () => {
 };
 
 export const config = {
-  path: "api/api-getter-mock.json",
+  path: "/api/api-getter-mock.json",
 };
