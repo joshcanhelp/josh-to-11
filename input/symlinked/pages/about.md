@@ -28,13 +28,12 @@ Here's what is going on [right now](/now/).
 
 ## What I'm thinking about
 
-- I'm looking for my next contribution to the [digital identity](/tags/digital-identity) world, through [employment](/hire-me/) or otherwise. My time in SDKs and marketplace integrations at [Auth0](/tags/auth0) combine to give me a unique experience with IdP integration from two distinct perspectives.
 - I'm still very excited about [note-taking](/notes/) in general and personal knowledge bases, like [Obsidian](/tags/obsidian). I take notes daily and collect information I use online in mostly-plain-text files locally. I find this helps greatly to get stuff out of my head, make connections, pick up where I left off, and stay organized.
 - I've gotten very deep into digital archiving all of my personal documents, photos, [personal data](/tags/personal-data), etc. I'm a bit obsessed with the idea of a simple timeline of my life events and those of my kids. I recently released an [open-source personal data pipeline](/personal-data-pipeline/) to handle personal data gathered from APIs.
+
 ## Where to find me
 
 - The best way to contact me is via email at `josh [at] joshcanhelp [dot] com`.
-- You can find out more about me professionally on my [Hire Me](/hire-me/) page.
 - I store all my public code on [GitHub](https://github.com/joshcanhelp) and find myself on there quite a bit. I open source everything that’s not proprietary or for sale. Thoughts on that [here](/open-source-sale/).
 - I keep my [LinkedIn profile](https://www.linkedin.com/in/joshcanhelp) mostly up-to-date so that serves as my resume for now.
 - I am "on Twitter/X" [@joshcanhelp](https://twitter.com/joshcanhelp) ... sort of ... [more on that here](/tag/twitter/).

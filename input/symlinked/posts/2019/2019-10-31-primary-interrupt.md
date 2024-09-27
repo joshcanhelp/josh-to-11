@@ -134,7 +134,7 @@ The shape I recommend this taking going forward:
 
 * 50% time expectation
 * Monitor and handle or respond and assign ESD tickets
-* Monitor and handle or respond and assign #dx-sdk posts
+* Monitor and handle or respond and assign `#dx-sdks` posts
 * Work through GitHub Issues and PRs for watched repos only
 * Work through Goalie backlog as time allotment allows
 * Default meeting facilitator recorder
