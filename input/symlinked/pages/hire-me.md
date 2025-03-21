@@ -5,9 +5,7 @@ featured_img: /_images/me.jpg
 permalink: hire-me/index.html
 layout: layouts/clean.njk
 ---
-# Hire Me
-
-{% info %}I am not currently looking for employment but will leave this page up as a professional summary.{% endinfo %}
+# Hire Me!
 
 I am a full-stack product engineer and architect who loves working in identity (CIAM focus), data, developer experience, and open source. I thrive in "bridge" roles where I can learn a system or technology and then bring that understanding to others. I've been able to do that in various ways from engineering and team leadership to in-person instruction to partner relations to systems architecture.
 
@@ -20,30 +18,22 @@ I am a full-stack product engineer and architect who loves working in identity (
 5. [Get in touch](#contact)
 
 ## <a id="want"></a><span>What I'm looking for</span>
+I like to work with people who push me to learn and grow while providing strong
+psychological safety. I like teams that take the time to get to know each other a bit and like to solve hard technical problems together.
 
-### Roles
 It's hard to narrow down what I want to do with a title so the following are just guidelines. I am a generalist and am happy wearing multiple hats so if you are looking to fill a role that isn't in the list below but takes advantage of what I can do (see below), please reach out!
 
-- Staff or higher full-stack or backend product engineer
-- Staff or higher solution architect
 - Partner architecture or engineering
+- Staff solution architect
+- Staff full-stack or backend product engineer
 - Product architecture
-### Required
-- A clear salary range and benefits either posted or provided
-- 80% remote or higher (maximum one day per week in a Seattle office, occasional offsites are welcome)
-- Pacific Time regular working hours (I lean early)
-- Net-neutral or better impact on the world
-	- No ad tech, social networks, user surveillance
-	- Commitment to diversity
-### Desired
-- 100% remote
-- Early or mid-stage company
-- Working in the developer experience, identity, or security space
-- Net-positive impact on the world
-	- Giving back, monetarily or otherwise
-	- A product that does good for the world
-
-### Bonus points
+- Engineering leadership or management
+### Who You Are
+- Have a clear salary range and benefits either posted or provided
+- Put work into your company values, company culture, and diversity
+- 80% - 100% remote (maximum one day per week in a Seattle office, occasional offsites are welcome)
+- Net-neutral or better impact on the world (not interested in ad tech, social networks, and user surveillance)
+##### Bonus points
 - Working on decentralized technology
 - Working with open source software
 - Opportunity to learn another programming language
