@@ -67,6 +67,7 @@ To that end, I came up with a list of attributes, or values, that need to guide 
 - **Privacy by design**: This system should be trustworthy based on how it's designed and built, not just because I say that it is.
 - **Open source and bring your own (BYO) components:** Everyone has a different level of trust so I want this system to be 100% deployable, usable, and auditable on its own.
 - **Make it as easy as possible**: I want this all to be as easy to setup and run as possible, making the barrier to entry much lower than "you need to be able to write code."
+- **Durable formats and architecture**: The data at rest should be human-readable and easy to parse, regardless of how it started. The system itself should "just work" for as long as possible.
 
 I spent some time writing and diagramming and I think I have, if not the answer, then at least a step in the right direction. 
 
