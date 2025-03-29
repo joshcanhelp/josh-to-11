@@ -4,7 +4,7 @@ const { slugify } = require("./utilities");
 
 const markdownRender = (content) => marked.parse(content);
 
-const allShortcodes = {
+const pairedShortcodes = {
   markdown: markdownRender,
   h2br: (text, anchor) =>
     `<h2 class="hr" id="${anchor || slugify(text)}">
@@ -41,8 +41,15 @@ const allShortcodes = {
   },
 };
 
+const shortcodes = {
+  hireme: () => `<blockquote class="promo-block">👋 I'm curently looking for a new role. <a href="/hire-me">Hire me!</a></blockquote>`,
+}
+
 module.exports = (eleventyConfig) => {
-  for (const code in allShortcodes) {
-    eleventyConfig.addPairedShortcode(code, allShortcodes[code]);
+  for (const code in pairedShortcodes) {
+    eleventyConfig.addPairedShortcode(code, pairedShortcodes[code]);
+  }
+  for (const code in shortcodes) {
+    eleventyConfig.addShortcode(code, shortcodes[code]);
   }
 };
