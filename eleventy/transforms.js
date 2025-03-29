@@ -1,6 +1,6 @@
-const htmlmin = require("html-minifier");
+const { minify } = require('html-minifier-terser');
 
-const htmlMinifier = (content, outputPath) => {
+const htmlMinifier = async (content, outputPath) => {
   if (!outputPath || !outputPath.endsWith(".html")) {
     return content;
   }
@@ -8,9 +8,8 @@ const htmlMinifier = (content, outputPath) => {
   if (process.env.NODE_ENV === "development") {
     return content;
   }
-
-  return htmlmin.minify(content, {
-    useShortDoctype: true,
+  
+  return await minify(content, {
     removeComments: true,
     collapseWhitespace: true,
   });
