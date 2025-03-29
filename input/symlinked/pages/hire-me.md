@@ -28,10 +28,10 @@ It's hard to narrow down what I want to do with a title so the following are jus
 - Staff full-stack or backend product engineer
 - Product architecture
 - Engineering leadership or management
+
 ### Who You Are
-- Have a clear salary range and benefits either posted or provided
 - Put work into your company values, company culture, and diversity
-- 80% - 100% remote (maximum one day per week in a Seattle office, occasional offsites are welcome)
+- 80% - 100% remote (maximum two days per week in a Seattle office, occasional offsites are welcome)
 - Net-neutral or better impact on the world (not interested in ad tech, social networks, and user surveillance)
 ##### Bonus points
 - Working on decentralized technology
@@ -43,8 +43,8 @@ It's hard to narrow down what I want to do with a title so the following are jus
 
 ... and want to keep doing!
 ### CIAM identity
-- Primarily focused on OAuth 2, OpenID Connect, SAML
-- Design for delegated login systems for multiple applications, devices, and cloud machines
+- Primarily focused on OAuth 2, OpenID Connect, and SAML
+- Design for delegated login systems with multiple applications, devices, and cloud machines
 - Integration library (SDK) design and maintenance
 - Strategy and implementation of plugins and other extensibility features
 - Documentation and training for engineering teams working with these systems
@@ -82,6 +82,8 @@ The following are projects that I've worked on relevant to the skills above. Not
 
 {% projects %}
 Published the "Federation and Single Sign-On with OpenID Connect" liveProject with Manning Publications ([blog post](/manning-openid-connect-liveproject/), [listing](https://www.manning.com/liveprojectseries/federation-and-sign-on-ser)). :tags: JavaScript, OpenID Connect, OAuth2, docs
+
+Deployed a multi-service authentication platform on [Platform One](https://p1.dso.mil), an Department of Defense maintained system, using file-based configuration and rearchitecting applications to avoid cross-origin requests and specific headers. :tags: Keycloak, OpenFGA, TypeScript, Node.js, React
 
 Solo architected and built a personal data pipeline tool ([blog post](/personal-data-pipeline/), [repo](https://github.com/PersonalDataPipeline/pdpl-cli)). :tags: TypeScript, Node.js, DuckDB, OAuth2, CLI
 
