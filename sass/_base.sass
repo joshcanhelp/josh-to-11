@@ -2,36 +2,35 @@
 // Touches everything
 //
 
-@import "mixins"
-@import "variables"
+@use "mixins"
+@use "variables"
 
 body
-	+no_space()
-	color: $f_color_base
-	font-family: $f_family_sans
-	font-size: $f_size_base
+	+mixins.no_space()
+	color: variables.$f_color_base
+	font-family: variables.$f_family_sans
+	font-size: variables.$f_size_base
 	-webkit-font-smoothing: antialiased
 	-moz-osx-font-smoothing: grayscale
 	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004)
-	font-family: $f_family_serif
+	font-family: variables.$f_family_serif
 	line-height: 1.75em
 
 main
-	@extend %cf
 	overflow: hidden
-	padding: $p_medium 0
+	padding: variables.$p_medium 0
 
 article, header, footer
-	max-width: $b_small
-	min-width: $l_min_width
+	max-width: variables.$b_small
+	min-width: variables.$l_min_width
 	margin-left: 3%
 	margin-right: 3%
 
-	+larger_than_phone
+	+mixins.larger_than_phone
 		margin-left: 4%
 		margin-right: 4%
 
-	+larger_than_tablet
+	+mixins.larger_than_tablet
 		margin-left: 5%
 		margin-right: 5%
 
@@ -41,15 +40,15 @@ h3,
 h4,
 h5,
 h6
-	font-family: $f_family_sans
+	font-family: variables.$f_family_sans
 	line-height: 1.1em
 	clear: both
-	margin: $p_medium 0 $p_small_med 0
+	margin: variables.$p_medium 0 variables.$p_small_med 0
 
 h1
 	font-size: 1.7em
 
-	+larger_than_phone
+	+mixins.larger_than_phone
 		font-size: 2em
 
 h2
@@ -70,7 +69,7 @@ h6
 	
 a
 	text-decoration: none
-	color: $c_blue
+	color: variables.$c_blue
 
 	&:hover
 		text-decoration: underline
@@ -86,19 +85,19 @@ img
 	max-width: 100%
 
 figcaption
-	font-size: $f_size_small
+	font-size: variables.$f_size_small
 	margin: -2em 0 3em
 
 p,
 pre
-	margin: $p_medium 0
+	margin: variables.$p_medium 0
 
 ol,
 ul
-	margin: $p_smallest 0
+	margin: variables.$p_smallest 0
 
 li
-	margin: $p_smallest 0
+	margin: variables.$p_smallest 0
 
 	&:last-child
 		margin-bottom: 0
@@ -130,17 +129,17 @@ iframe
 	margin: 1.5em 0
 
 blockquote
-	+aligncenter
-	background: $c_g_lightest
+	+mixins.aligncenter
+	background: variables.$c_g_lightest
 	padding: 6% 7%
 	border-radius: 1px
 	position: relative
 	font-style: italic
 	border: none
 
-	+larger_than_phone
+	+mixins.larger_than_phone
 		padding: 4% 5%
-		border-left: 6px solid $c_g_medium
+		border-left: 6px solid variables.$c_g_medium
 		border-radius: 3px
 
 	> :first-child
@@ -152,27 +151,27 @@ blockquote
 
 hr
 	border: none
-	border-bottom: 1px solid $c_g_light
-	margin: $p_medium 0
+	border-bottom: 1px solid variables.$c_g_light
+	margin: variables.$p_medium 0
 
 small
-	font-size: $f_size_smallest
+	font-size: variables.$f_size_smallest
 
 code
 	display: inline-block
 	white-space: nowrap
-	background-color: $c_g_lightest
+	background-color: variables.$c_g_lightest
 	padding: 0 0.4em
 	font-size: 0.9em
-	font-family: $f_family_mono
+	font-family: variables.$f_family_mono
 
 code[class*="language-"],
 pre[class*="language-"]
-	font-size: $f_size_smallest !important
+	font-size: variables.$f_size_smallest !important
 
 pre[class*="language-"]
-	+aligncenter()
-	padding: $p_medium
+	+mixins.aligncenter()
+	padding: variables.$p_medium
 
 	pre
 		margin: 0

@@ -3,147 +3,143 @@
 // No style declarations here
 //
 
-@import "variables"
-@import "reset"
-@import "vendor/prism-theme-one-dark"
-@import "mixins"
-@import "extends"
-@import "base"
-@import "layout-clean"
-@import "layout-all-cocktails"
-@import "layout-all-posts"
+@use "variables"
+@use "reset"
+@use "vendor/prism-theme-one-dark"
+@use "mixins"
+@use "extends"
+@use "base"
+@use "layout-clean"
+@use "layout-all-cocktails"
+@use "layout-all-posts"
 
 .logo
-	+centered_on_phone()
+	+mixins.centered_on_phone()
 
 	&
-		margin-bottom: $p_medium
+		margin-bottom: variables.$p_medium
 
 	svg
 		max-width: 230px
 		display: inline-block
 
 .post-header
-	+centered_on_phone()
+	+mixins.centered_on_phone()
 
 .date
-	font-size: $f_size_smallest
-	margin-bottom: $p_small
-	font-family: $f_family_mono
-	line-height: $f_size_base
+	font-size: variables.$f_size_smallest
+	margin-bottom: variables.$p_small
+	font-family: variables.$f_family_mono
+	line-height: variables.$f_size_base
 
 .sub-head
 	@extend .date
 	font-weight: normal
-	font-size: $f_size_small
+	font-size: variables.$f_size_small
 
 	span
-		background: $c_vivid_yellow
+		background: variables.$c_vivid_yellow
 
 .title
-	+centered_on_phone()
+	+mixins.centered_on_phone()
 	
 	&
-		margin: 0 0 $p_medium
+		margin: 0 0 variables.$p_medium
 
 	h1
-		background-color: $c_vivid_yellow
+		background-color: variables.$c_vivid_yellow
 		line-height: 1.35em
 		display: inline
 
 	strong
-		font-family: $f_family_mono
-		font-size: $f_size_smallest
+		font-family: variables.$f_family_mono
+		font-size: variables.$f_size_smallest
 		vertical-align: middle
-		margin-left: $p_small
+		margin-left: variables.$p_small
 
 .hr
-	+aligncenter
-	border-bottom: 1px solid $c_vivid_pink
-	font-size: $f_size_small
+	+mixins.aligncenter
+	border-bottom: 1px solid variables.$c_vivid_pink
+	font-size: variables.$f_size_small
 	padding-bottom: 0.25em
 	padding-left: 4.5%
 	text-transform: uppercase
 	letter-spacing: 1px
-	margin-top: $p_large
-	margin-bottom: $p_large
+	margin-top: variables.$p_large
+	margin-bottom: variables.$p_large
 
 .aligncenter
-	+aligncenter
+	+mixins.aligncenter
 
 .alignleft
-	+larger_than_phone
+	+mixins.larger_than_phone
 		float: left
 		margin: 0 1em 1em 0
 
 .alignright
-	+larger_than_phone
+	+mixins.larger_than_phone
 		float: right
 		margin: 0 0 1em 1em
 
 .pink
-	color: $c_vivid_pink
+	color: variables.$c_vivid_pink
 
 .small
 	margin: 0
-	font-size: $f_size_medium
+	font-size: variables.$f_size_medium
 
 .bigtext
-	font-size: $f_size_big
+	font-size: variables.$f_size_big
 	padding-top: 1em
 	padding-bottom: 1em
-	border-bottom: 1px solid $c_vivid_yellow
-	border-top: 1px solid $c_vivid_yellow
+	border-bottom: 1px solid variables.$c_vivid_yellow
+	border-top: 1px solid variables.$c_vivid_yellow
 	line-height: 1.6em
 
-	+larger_than_phone
+	+mixins.larger_than_phone
 		padding: 1em
 
 .tag
 	display: inline-block
 	padding: 0 0.7em
 	line-height: 2em
-	background-color: $c_blue_lightest
-	font-family: $f_family_sans
-	font-weight: $f_weight_bold
+	background-color: variables.$c_blue_lightest
+	font-family: variables.$f_family_sans
+	font-weight: variables.$f_weight_bold
 	margin: 0 0.1em 0.4em
-	font-size: $f_size_small
+	font-size: variables.$f_size_small
 
 	&:hover
 		background: none
 
 	span
 		display: inline-block
-		font-family: $f_family_mono
-		font-size: $f_size_smallest
+		font-family: variables.$f_family_mono
+		font-size: variables.$f_size_smallest
 		margin-left: 1em
 
 .display-tags
 	padding-top: 0.75em
 
 	span
-		font-family: $f_family_mono
-		font-size: $f_size_smallest
+		font-family: variables.$f_family_mono
+		font-size: variables.$f_size_smallest
 		line-height: 2em
 		padding: 0 0.7em
-		background: $c_vivid_yellow_light
+		background: variables.$c_vivid_yellow_light
 		display: inline-block
 		margin: 0 0.08em 0.5em 0
 
 .card
-	@extend %cf
-	// border: 1px solid $c_g_light
-	// box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px
-	// box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px
 	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px
-	margin: 0 0 $p_medium + 1
-	padding: $p_small_med 
+	margin: 0 0 variables.$p_medium + 1
+	padding: variables.$p_small_med 
 
-	+larger_than_phone
-		padding: $p_small_med $p_medium $p_medium $p_medium
+	+mixins.larger_than_phone
+		padding: variables.$p_small_med variables.$p_medium variables.$p_medium variables.$p_medium
 
 	p
-		margin: 0 0 $p_small
+		margin: 0 0 variables.$p_small
 		line-height: 1.75em
 
 		&:last-child
@@ -152,52 +148,51 @@
 	h2
 		clear: none
 		font-size: 1.2em
-		margin: 0 0 $p_small
+		margin: 0 0 variables.$p_small
 
 	img
 		width: 120px
 		float: right
 		margin: 0 0 0 1em
 
-		+larger_than_phone
+		+mixins.larger_than_phone
 			width: 160px
 			margin: 2.1em 0 0 2em
 
 	&-small
-		@extend %cf
-		margin: 0 0 $p_medium
+		margin: 0 0 variables.$p_medium
 
 		.date
-			margin: 0 0 $p_smallest
+			margin: 0 0 variables.$p_smallest
 
 		h3
-			font-size: $f_size_base
+			font-size: variables.$f_size_base
 			margin: 0
 			line-height: 1.25em
 
 	&-idea
 		.content
-			margin: $p_medium 0
-			font-size: $f_size_medium
+			margin: variables.$p_medium 0
+			font-size: variables.$f_size_medium
 
 blockquote
 	&.info-block
-		background: $c_blue_lightest
+		background: variables.$c_blue_lightest
 		font-style: normal
 
-		+larger_than_phone
-			border-color: $c_blue
+		+mixins.larger_than_phone
+			border-color: variables.$c_blue
 
 	&.warning-block
-		background: $c_vivid_yellow_light
+		background: variables.$c_vivid_yellow_light
 		font-style: normal
 
-		+larger_than_phone
-			border-color: $c_vivid_yellow
+		+mixins.larger_than_phone
+			border-color: variables.$c_vivid_yellow
 
 	&.promo-block
-		background: $c_vivid_pink_light
+		background: variables.$c_vivid_pink_light
 		font-style: normal
 
-		+larger_than_phone
-			border-color: $c_vivid_pink
+		+mixins.larger_than_phone
+			border-color: variables.$c_vivid_pink

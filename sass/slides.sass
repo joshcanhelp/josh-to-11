@@ -1,21 +1,21 @@
-@import "vendor/reveal/mixins"
-@import "vendor/reveal/settings"
-@import "variables"
+@use "vendor/reveal/mixins"
+@use "vendor/reveal/settings"
+@use "variables"
 
-$backgroundColor: $c_bg_dark
-$mainFontSize: $f_size_base * 2
-$mainFont: $f_family_serif
-$linkColor: $c_blue
-$headingFont: $f_family_sans
-$headingTextShadow: none
-$headingLetterSpacing: normal
-$headingTextTransform: none
-$headingFontWeight: bold
+settings.$backgroundColor: variables.$c_bg_dark
+settings.$mainFontSize: variables.$f_size_base * 2
+settings.$mainFont: variables.$f_family_serif
+settings.$linkColor: variables.$c_blue
+settings.$headingFont: variables.$f_family_sans
+settings.$headingTextShadow: none
+settings.$headingLetterSpacing: normal
+settings.$headingTextTransform: none
+settings.$headingFontWeight: bold
 
-@import "vendor/reveal/theme"
+@use "vendor/reveal/theme"
 
 body
-    background-color: $c_bg_dark
+    background-color: variables.$c_bg_dark
 
 .reveal
     img 

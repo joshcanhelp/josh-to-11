@@ -1,3 +1,4 @@
+@use "sass:color"
 //
 // OMG, variables
 //
@@ -34,10 +35,10 @@ $c_blue_light: #92c5f7
 $c_blue_lightest: #EFF6FF
 
 $c_vivid_yellow: #fff56e
-$c_vivid_yellow_light: lighten($c_vivid_yellow, 20%)
+$c_vivid_yellow_light: color.adjust($c_vivid_yellow, $lightness: 20%)
 $c_vivid_blue: #a6fffe
 $c_vivid_pink: #fea6ff
-$c_vivid_pink_light: lighten($c_vivid_pink, 14%)
+$c_vivid_pink_light: color.adjust($c_vivid_pink, $lightness: 14%)
 $c_vivid_green: #e3ff50
 
 $c_bg_dark: #282c34

@@ -1,13 +1,15 @@
+@use "variables"
+
 //
 // Responsive utilities
 //
 
 =larger_than_phone()
-	@media (min-width: $b_small)
+	@media (min-width: variables.$b_small)
 		@content
 
 =larger_than_tablet()
-	@media (min-width: $b_medium)
+	@media (min-width: variables.$b_medium)
 		@content
 
 //
