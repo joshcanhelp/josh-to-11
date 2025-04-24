@@ -131,6 +131,7 @@
 		margin: 0 0.08em 0.5em 0
 
 .card
+	@extend %cf
 	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px
 	margin: 0 0 variables.$p_medium + 1
 	padding: variables.$p_small_med 
@@ -169,11 +170,6 @@
 			font-size: variables.$f_size_base
 			margin: 0
 			line-height: 1.25em
-
-	&-idea
-		.content
-			margin: variables.$p_medium 0
-			font-size: variables.$f_size_medium
 
 blockquote
 	&.info-block

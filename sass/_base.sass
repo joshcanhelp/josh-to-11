@@ -4,6 +4,7 @@
 
 @use "mixins"
 @use "variables"
+@use "extends"
 
 body
 	+mixins.no_space()
@@ -17,6 +18,7 @@ body
 	line-height: 1.75em
 
 main
+	@extend %cf
 	overflow: hidden
 	padding: variables.$p_medium 0
 
