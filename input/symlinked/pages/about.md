@@ -28,8 +28,8 @@ Here's what is going on [right now](/now/).
 
 ## What I'm thinking about
 
-- I'm still very excited about [note-taking](/notes/) in general and personal knowledge bases, like [Obsidian](/tags/obsidian). I take notes daily and collect information I use online in mostly-plain-text files locally. I find this helps greatly to get stuff out of my head, make connections, pick up where I left off, and stay organized.
-- I've gotten very deep into digital archiving all of my personal documents, photos, [personal data](/tags/personal-data), etc. I'm a bit obsessed with the idea of a simple timeline of my life events and those of my kids. I recently released an [open-source personal data pipeline](/personal-data-pipeline/) to handle personal data gathered from APIs.
+- I'm still very excited about [note-taking](/notes/) in general and personal knowledge bases, like [Obsidian](/tag/obsidian/). I take notes daily and collect information I use online in mostly-plain-text files locally. I find this helps greatly to get stuff out of my head, make connections, pick up where I left off, and stay organized.
+- I've gotten very deep into digital archiving all of my personal documents, photos, [personal data](/tag/personal-data/), etc. I'm a bit obsessed with the idea of a simple timeline of my life events and those of my kids. I recently released an [open-source personal data pipeline](/personal-data-pipeline/) to handle personal data gathered from APIs.
 
 ## Where to find me
 
