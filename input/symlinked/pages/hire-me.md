@@ -19,26 +19,26 @@ I am a full-stack product engineer and architect who loves working in identity (
 
 ## <a id="want"></a><span>What I'm looking for</span>
 I like to work with people who push me to learn and grow while providing strong
-psychological safety. I like teams that take the time to get to know each other a bit and like to solve hard technical problems together.
+psychological safety. I like teams that take the time to get to know each other a bit and solve hard technical problems together.
 
-It's hard to narrow down what I want to do with a title so the following are just guidelines. I am a generalist and am happy wearing multiple hats so if you are looking to fill a role that isn't in the list below but takes advantage of what I can do (see below), please reach out!
+Roles that would probably be a good fit for me:
 
-- Partner architecture or engineering
-- Staff solution architect
-- Staff full-stack or backend product engineer
-- Product architecture
-- Engineering leadership or management
+- Partner engineering/architecture
+- Full-stack or backend product engineering/architecture
+- Solution engineering/architecture
+- Engineering management
+- Technical product management
 
+I would like to continue to work with identity, security, and authentication/authorization, ideally for a company building products for developers. That said, my main focus is finding a great team where I can do my best work!
 ### Who You Are
-- Put work into your company values, company culture, and diversity
+- Put actual work into your company values, company culture, and diversity
 - 80% - 100% remote (maximum two days per week in a Seattle office, occasional offsites are welcome)
-- Net-neutral or better impact on the world (not interested in ad tech, social networks, and user surveillance)
-##### Bonus points
+- Net-neutral or better impact on the world (not interested in ad tech, social networks, user surveillance, or AI replacing humans)
+### Bonus points
 - Working on decentralized technology
-- Working with open source software
+- Sponsoring or maintaining open source software
 - Opportunity to learn another programming language
-- Contribution to the IETF, W3C or another standards organization
-
+- Contribution to the IETF, W3C or another web standards organization
 ## <a id="do"></a><span>What I can do</span>
 
 ... and want to keep doing!
