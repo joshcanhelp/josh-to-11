@@ -1,6 +1,6 @@
 ---
 title: "Personal Data Pipeline Update"
-excerpt: "Taking a step forward on the Personal Data Pipeline project."
+excerpt: "Taking a step forward on the Personal Data Pipeline project by autoloading JSON and adding an interface for data transformation."
 featured_img: /_images/2025/pipes_THUMB.jpg
 tags: ["Software Engineering", "Personal Data", "Obsidian", "Open Source", "Portfolio"]
 ---
