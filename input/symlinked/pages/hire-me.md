@@ -7,6 +7,8 @@ layout: layouts/clean.njk
 ---
 # Hire Me!
 
+{% info %}I am not currently looking for employment but will leave this page up as a professional summary.{% endinfo %}`
+
 I am a full-stack product engineer and architect who loves working in identity (CIAM focus), data, developer experience, and open source. I thrive in "bridge" roles where I can learn a system or technology and then bring that understanding to others. I've been able to do that in various ways from engineering and team leadership to in-person instruction to partner relations to systems architecture.
 
 ### <a id="want"></a>On this page
