@@ -130,4 +130,7 @@ At this point, I've certainly gone on long enough about this but I wanted to giv
 
 ---
 
-I hope this was helpful for anyone privileged enough to be in the position to make these kinds of decisions for your company and team. I've grown to enjoy interviews over the year and it all comes down to practice and preparation.  
+I hope this was helpful for anyone privileged enough to be in the position to make these kinds of decisions for your company and team. I've grown to enjoy interviews over the year and it all comes down to practice and preparation.
+
+{% h2br %}References{% endh2br %}
+- [Hacker News thread with some great suggestions](https://news.ycombinator.com/item?id=42915848)
