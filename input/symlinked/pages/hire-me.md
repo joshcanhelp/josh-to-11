@@ -7,8 +7,6 @@ layout: layouts/clean.njk
 ---
 # Hire Me!
 
-{% info %}I am not currently looking for employment but will leave this page up as a professional summary.{% endinfo %}`
-
 I am a full-stack product engineer and architect who loves working in identity (CIAM focus), data, developer experience, and open source. I thrive in "bridge" roles where I can learn a system or technology and then bring that understanding to others. I've been able to do that in various ways from engineering and team leadership to in-person instruction to partner relations to systems architecture.
 
 ### <a id="want"></a>On this page
@@ -32,18 +30,24 @@ Roles that would probably be a good fit for me:
 - Technical product management
 
 I would like to continue to work with identity, security, and authentication/authorization, ideally for a company building products for developers. That said, my main focus is finding a great team where I can do my best work!
+
 ### Who You Are
+
 - Put actual work into your company values, company culture, and diversity
 - 80% - 100% remote (maximum two days per week in a Seattle office, occasional offsites are welcome)
 - Net-neutral or better impact on the world (not interested in ad tech, social networks, user surveillance, or AI replacing humans)
+
 ### Bonus points
+
 - Working on decentralized technology
 - Sponsoring or maintaining open source software
 - Opportunity to learn another programming language
 - Contribution to the IETF, W3C or another web standards organization
+
 ## <a id="do"></a><span>What I can do</span>
 
 ... and want to keep doing!
+
 ### CIAM identity
 - Primarily focused on OAuth 2, OpenID Connect, and SAML
 - Design for delegated login systems with multiple applications, devices, and cloud machines
@@ -83,25 +87,27 @@ I would like to continue to work with identity, security, and authentication/aut
 The following are projects that I've worked on relevant to the skills above. Note that, unless directly indicated, I was part of a team for the following projects so when I say that I "designed" something, for example, that means that I either lead the design and had external feedback or I was an integral part of the design, not that I did everything. **Shout out to all the incredible people I've worked with during my career!**
 
 {% projects %}
-Published the "Federation and Single Sign-On with OpenID Connect" liveProject with Manning Publications ([blog post](/manning-openid-connect-liveproject/), [listing](https://www.manning.com/liveprojectseries/federation-and-sign-on-ser)). :tags: JavaScript, OpenID Connect, OAuth2, docs
+Published the "Federation and Single Sign-On with OpenID Connect" liveProject with Manning Publications ([blog post](/manning-openid-connect-liveproject/), [listing](https://www.manning.com/liveprojectseries/federation-and-sign-on-ser)). :tags: JavaScript, Node.js, OpenID Connect, OAuth2, docs
 
-Deployed a multi-service authentication platform on [Platform One](https://p1.dso.mil), an Department of Defense maintained system, using file-based configuration and rearchitecting applications to avoid cross-origin requests and specific headers. :tags: Keycloak, OpenFGA, TypeScript, Node.js, React
+Deployed a multi-service authentication platform on [Platform One](https://p1.dso.mil), a Department of Defense maintained system, using file-based configuration and rearchitecting applications to avoid cross-origin requests and specific headers. :tags: Keycloak, OpenFGA, TypeScript, Node.js, React
 
-Solo architected and built a personal data pipeline tool ([blog post](/personal-data-pipeline/), [repo](https://github.com/PersonalDataPipeline/pdpl-cli)). :tags: TypeScript, Node.js, DuckDB, OAuth2, CLI
+Built a personal data pipeline tool ([blog post](/personal-data-pipeline/), [repo](https://github.com/PersonalDataPipeline/pdpl-cli)). :tags: TypeScript, Node.js, DuckDB, OAuth2, CLI
 
 Lead an internal tool hardening project after a [high-visibility breach](https://sec.okta.com/articles/2023/10/tracking-unauthorized-access-oktas-support-system), collaborating across several departments to deliver the solution in testable pieces without customer disruption. :tags: VPN, docs, planning
 
-Discovery, architecture, and delivery for a data-powered onboarding experience and  notification system for enterprise customers, along with documentation for the whole underlying system. :tags: Snowflake, Kafka, S3, AirFlow, dbt, Gainsight, docs
+Discovery, architecture, and delivery for a data-powered onboarding experience and notification system for enterprise customers, along with documentation for the whole underlying system. :tags: Snowflake, Kafka, S3, AirFlow, dbt, Gainsight, docs
 
 Discovery for an AI-powered Q&A Slack channel for technical sales ([repo](https://github.com/joshcanhelp/slack-channel-analytics)). :tags: UX, Node.js, Slack API, AI
 
-Discovery and architecture for tenant and company-level health check system across customer-facing dashboards and internal tools. :tags: UX, Node.js, SQL, Auth0, docs
+Discovery, architecture, and engineering for tenant and company-level health check system across customer-facing dashboards and internal tools. :tags: UX, Node.js, SQL, Auth0, docs
 
 Discovery, architecture, and engineering for a multi-organization, federated authentication system that powered an application for Auth0 partners to submit integrations for review. :tags: UX, TypeScript, React, Express.js, OIDC, Auth0
 
 Designed and built a creation kit for partner engineering teams to quickly get started creating Auth0 Marketplace integrations ([repo](https://github.com/joshcanhelp/TEMPLATE-action-post-login)). :tags: UX, Bash, CLI, ESLint, Auth0, docs
 
 Lead partner engineering and architecture for the Auth0 Marketplace, which consisted of developing solutions, documentation, and examples to guide partners and working with product teams to add extensibility to the platform ([blog post](https://auth0.com/blog/introducing-auth0-marketplace/)). :tags: JavaScript, OIDC, OAuth2, SAML, JWT, Docker, Auth0, docs
+
+One of the main contributors to the Auth0 Express OpenID Connect SDK. Took an initial proof-of-concept through security and customer review into production. ([contributor graph](https://github.com/auth0/express-openid-connect/graphs/contributors)) :tags: Node.js, Express.js, OIDC, Auth0
 
 Developed and released a major version of the Login by Auth0 WordPress plugin, fixing [multiple CVEs](https://github.com/auth0/wordpress/security/advisories/GHSA-59vf-cgfw-6h6v) and working with large customers to test it ahead of release ([release notes](https://github.com/auth0/wordpress/releases/tag/4.0.0), [blog post](https://auth0.com/blog/wordpress-sso-with-auth0/)). :tags: OIDC, OAuth2, JWT, Auth0
 
