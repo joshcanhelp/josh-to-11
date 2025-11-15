@@ -1,8 +1,10 @@
 ---
-title: "Do we need 'agentic identity'"
+title: Do we need 'agentic identity'?
 featured_img: /_images/2025/sammy_sandwich_robot_THUMB.jpeg
-excerpt: "Agents are here, there, and everywhere, growing in numbers at a pace between fast and breakneck, generating or completing work at some other velocity, and poised to change the world entirely or, like, not much at all. Something must be done."
-tags: ["Digital Identity", "Software Engineering"]
+excerpt: Agents are here, there, and everywhere, growing in numbers at a pace between fast and breakneck, generating or completing work at some other velocity, and poised to change the world entirely or, like, not much at all. Something must be done.
+tags:
+  - Digital Identity
+  - Software Engineering
 ---
 
 If you're working in, around, near, or within earshot of the AI world or the identity and security world, you have absolutely heard the term "agentic identity." You will find that some folks have a clear picture of what this means while others feel like there is still much to be discovered and defined. 
