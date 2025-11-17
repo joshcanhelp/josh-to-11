@@ -5,18 +5,22 @@ $posthog_blue: #1D4AFF;
 $posthog_orange: #F44F01;
 
 html {
-  // background: linear-gradient(65deg, #D3EEF4, #F1EEC8, #F3A46C);
   background: linear-gradient(90deg, #92a7fb, #fda47b, #f6d684);
+  // background: linear-gradient(65deg, #D3EEF4, #F1EEC8, #F3A46C);
   // background: linear-gradient(205deg, $posthog_yelow, $posthog_blue, $posthog_orange);
   // background: linear-gradient(90deg, #F9CDC3, #FACEFB);
+    padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 1em;
 }
 
 body, html {
   color: #111827;
   font-size: 15px;
   font-family: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "avenir next", avenir, "segoe ui", "helvetica neue", helvetica, Ubuntu, roboto, noto, arial, sans-serif;
-  padding: 0;
-  margin: 0;
   line-height: 1.6em;
 }
 
@@ -122,6 +126,7 @@ body, html {
   margin-top: calc($content_padding/2);
   margin-bottom: calc($content_padding/2);
   border: none;
+  line-height: 1.5em;
 
   > * {
     color: black;

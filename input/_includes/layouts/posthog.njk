@@ -32,6 +32,7 @@
       activators.forEach((activator, index) => {
         activator.id = `activator-${index}`;
         activator.classList.add('activator');
+        activator.innerHTML = activator.innerHTML.replace(' ', "&nbsp;");
 
         const anchor = activator.getAttribute('href');
         if (window.location.hash === anchor) {
