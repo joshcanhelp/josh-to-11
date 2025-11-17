@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ meta_title }}</title>
+    <link rel="stylesheet"href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.slate.min.css">
+    <link href="/_css/posthog.css" rel="stylesheet">
+  </head>
+  <body class="posthog">
+    <main>
+      <div class="topbar">{{ title }}</div>
+      <div class="content">
+        <div class="logos">
+          <a href="/">{% include 'svg/josh-can-help.svg' %}</a> + 
+          {% include 'svg/posthog.svg' %} = ❤️
+        </div>
+        <div class="markdown">
+          {{ content | safe }}
+        </div>
+      </div>
+    </main>
+
+    <script>
+      const expanders = [...document.querySelectorAll('blockquote')];
+      expanders.forEach((el, index) => {
+        el.id = `expander-${index}`;
+        el.classList.add('hidden');
+        el.classList.add('expander');
+      });
+
+      const activators = [...document.querySelectorAll('a[href^="#"]')];
+      activators.forEach((activator, index) => {
+        activator.id = `activator-${index}`;
+        activator.classList.add('activator');
+
+        const anchor = activator.getAttribute('href');
+        if (window.location.hash === anchor) {
+          activator.classList.add('activated');
+          document.getElementById(`expander-${index}`).classList.remove('hidden');
+        }
+
+        activator.addEventListener('click', e => {
+          const expander = document.getElementById(`expander-${index}`);
+          expanders.forEach(ex => ex.classList.add('hidden'));
+          const isActivated = activator.classList.contains('activated');
+          activators.forEach(ex => ex.classList.remove('activated'));
+          if (isActivated) {
+            expander.classList.add('hidden');
+          } else {
+            activator.classList.add('activated');
+            expander.classList.remove('hidden');
+          }
+        });
+      });
+    </script>
+  </body>
+</html>

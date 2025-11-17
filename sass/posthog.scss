@@ -1,0 +1,140 @@
+$content_padding: 50px;
+$posthog_yellow: #F9BD2A;
+$button_yellow: #EB9D2A;
+$posthog_blue: #1D4AFF;
+$posthog_orange: #F44F01;
+
+html {
+  // background: linear-gradient(65deg, #D3EEF4, #F1EEC8, #F3A46C);
+  background: linear-gradient(90deg, #92a7fb, #fda47b, #f6d684);
+  // background: linear-gradient(205deg, $posthog_yelow, $posthog_blue, $posthog_orange);
+  // background: linear-gradient(90deg, #F9CDC3, #FACEFB);
+}
+
+body, html {
+  color: #111827;
+  font-size: 15px;
+  font-family: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "avenir next", avenir, "segoe ui", "helvetica neue", helvetica, Ubuntu, roboto, noto, arial, sans-serif;
+  padding: 0;
+  margin: 0;
+  line-height: 1.6em;
+}
+
+
+.posthog main {
+  background-color: #FDFDF7;
+  max-width: 50em;
+  margin: 2em auto 4em auto;
+  padding: 0;
+  border: 1px solid rgb(182, 183, 175);
+  box-shadow: 5px 5px 1px rgba(0,0,0,0.1);
+}
+
+.topbar {
+  background: rgb(238, 239, 233);
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  border-bottom: 1px solid rgb(182, 183, 175);
+  text-align: center;
+  padding: 0.75em 0;
+  font-size: 0.8em;
+  font-family: monospace;
+}
+
+.logos {
+  font-size: 1.8em;
+  font-weight: bold;
+  margin-bottom: $content_padding;
+  text-align: center;
+
+  a {
+    text-decoration: none;
+    color: inherit
+  }
+
+  svg {
+    max-width: 140px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 0.5em
+  }
+}
+
+.content {
+  padding: $content_padding;
+}
+
+.markdown {
+
+  a {
+    color: $posthog_blue
+  }
+
+  img {
+    display: block;
+    max-width: 100%;
+    margin: 1em 0;
+    padding: 1em;
+    background: white;
+    box-shadow: 3px 3px 1px rgba(0,0,0,0.3);
+  }
+
+  *:last-child {
+    margin-bottom: 0
+  }
+
+  a.activator {
+    background: rgb(229, 231, 224);
+    text-decoration: none;
+    padding: 0.15em 0.4em;
+    border-radius: 4px;
+    cursor: pointer;
+    color: #111827;
+
+    &:hover {
+      background: rgba(229, 231, 224, 0.2);
+    }
+
+    &:after {
+      content: "▼";
+      font-size: 10px;
+      opacity: 0.3;
+      margin-left: 8px;
+      vertical-align: top;
+    }
+
+    &.activated::after {
+      content: "▲";
+    }
+  }
+}
+
+.expander {
+  // background: rgb(238, 239, 233);
+  background: linear-gradient(90deg, $button_yellow, $posthog_yellow);
+  color: black;
+  overflow: hidden;
+  margin-left: -$content_padding;
+  margin-right: -$content_padding;
+  padding: $content_padding;
+  transition: height 2s;
+  margin-top: calc($content_padding/2);
+  margin-bottom: calc($content_padding/2);
+  border: none;
+
+  > * {
+    color: black;
+  }
+
+  a {
+    color: black;
+    text-decoration-color: black;
+  }
+
+  &.hidden {
+    height: 0;
+    margin: 0;
+    padding: 0;
+  }
+}
