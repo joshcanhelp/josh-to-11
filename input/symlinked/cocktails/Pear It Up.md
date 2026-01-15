@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 - 1.5 oz [[Rye Whiskey]] or [[Bourbon]]
 - 1 oz [[Cardamaro]]
 - 0.75 oz [[Pear Brandy]]

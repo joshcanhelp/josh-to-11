@@ -1,13 +1,12 @@
 ---
-title: "Josh Can Help - Software, Digital Identity, Mindfulness, Focus, and Personal Improvement"
-layout: layouts/home-page.njk
-excerpt: ""
-date: 2016-03-17 15:00:16
-modified: 2020-01-19 22:06:07
-permalink: /index.html
-tags: []
-featured_img:
+title: 'Josh Can Help - Software, Digital Identity, Mindfulness, Focus, and Personal Improvement'
+excerpt: ''
+modified: 2020-01-19T22:06:07.000Z
 wpid: 3820
+tags: []
+featured_img: null
+permalink: /index.html
+layout: layouts/home-page.njk
 ---
 
 <div class="title"><h1>Hi, I’m Josh.</h1><br><h1>Nice to meet you.</h1></div>

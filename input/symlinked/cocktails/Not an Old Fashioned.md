@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 Why is this called a "Not Old Fashioned?" Well, I'm not a purist about really anything but this isn't, truly, an [Old Fashioned](/cocktails/old-fashioned). It's a bit sweeter and the two liqueurs make it "impure." It is, however, quite delicious and makes for a great batch cocktail while camping.
 
 * 1.75 oz [[Bourbon]]

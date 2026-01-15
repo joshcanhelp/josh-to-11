@@ -1,7 +1,8 @@
 ---
-title: "All Cocktails"
+title: All Cocktails
+tags: []
 permalink: cocktails/index.html
-layout: "layouts/all-cocktails.njk"
+layout: layouts/all-cocktails.njk
 ---
 
 I don't love cooking but I love making cocktails (and mocktails) for myself and those around me. Over time, I've gathered a bunch of recipes from different places, modified them to my liking (or not), and kept track of the recipe. The two sections below are ones I've made and enjoyed on top and the ones that look good on the bottom.

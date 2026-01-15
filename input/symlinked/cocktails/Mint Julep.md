@@ -1,4 +1,8 @@
-A good mint julep takes some skill. If you muddle the mint leaves too much it gets bitter. 
+---
+tags: []
+---
+
+A good mint julep takes some skill. If you muddle the mint leaves too much it gets bitter.
 
 * 2.5 oz [[Bourbon]]
 * 1.25 oz 1:1 simple syrup

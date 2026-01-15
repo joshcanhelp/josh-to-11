@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 * 1.5 oz [[Gin]]
 * 0.5 oz lime juice
 * 0.25 oz [[Cynar]]

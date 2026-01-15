@@ -1,10 +1,9 @@
 ---
-
 title: Asynchronous Communication
+excerpt: 'Thoughts, ideas, and comments on Asynchronous Communication'
+tags: []
+permalink: asynchronous-communication/index.html
 layout: page
-excerpt: Thoughts, ideas, and comments on Asynchronous Communication
-permalink: "asynchronous-communication/index.html"
-
 ---
 
 I've been maintaining this list privately for a while but wanted to get it out in the world to potentially spark some collaboration, communication, and [writing](/tag/async-communication/).

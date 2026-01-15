@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 * 1.5 oz [[Bourbon]]
 * 0.5 oz [[Aperol]]
 * 0.25 oz [[Amaro]]

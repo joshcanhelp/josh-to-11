@@ -1,13 +1,9 @@
 ---
-
 title: About Me
-layout: page
-date: 2009-06-21
-updated: 2024-02-07
-permalink: about/index.html
-tags: []
 wpid: 838
-
+tags: []
+permalink: about/index.html
+layout: page
 ---
 
 <img src="/_images/2022/me.jpg" class="alignright" width="220" height="220">

@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 * Splash of [[Mezcal]]
 * 2 oz blanco [[Tequila]]
 * 0.75 oz lime juice

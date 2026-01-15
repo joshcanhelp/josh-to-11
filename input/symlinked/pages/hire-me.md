@@ -1,7 +1,8 @@
 ---
-title: "Hire Me"
-meta_description: ""
+title: Hire Me
+tags: []
 featured_img: /_images/me.jpg
+meta_description: ''
 permalink: hire-me/index.html
 layout: layouts/clean.njk
 ---

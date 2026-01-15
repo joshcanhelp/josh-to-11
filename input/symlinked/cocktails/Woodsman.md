@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 - 2 oz [[Bourbon]]
 - 0.5 oz lemon juice
 - 0.25 oz [[Allspice Liqueur]]

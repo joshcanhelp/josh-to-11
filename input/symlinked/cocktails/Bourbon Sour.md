@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 * 2 oz [[Bourbon]]
 * 1 oz lemon juice
 * 0.75 oz simple syrup

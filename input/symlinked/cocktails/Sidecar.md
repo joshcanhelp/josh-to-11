@@ -1,4 +1,8 @@
-So simple bu so delicious. The better the cognac the better the drink but there is a point of diminishing returns. 
+---
+tags: []
+---
+
+So simple but so delicious. The better the cognac the better the drink but there is a point of diminishing returns.
 
 * 2oz [[Cognac]]
 * 1oz [[Cointreau]]

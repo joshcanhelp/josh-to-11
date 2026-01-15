@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 - 2 oz [[Brandy]] or [[Cognac]]
 - 1 oz [[Ginger Liqueur]]
 - 0.5 oz lemon juice

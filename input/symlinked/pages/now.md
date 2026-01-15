@@ -1,12 +1,10 @@
 ---
-title: "Now"
-layout: page
-excerpt: "A little summary of what's going on in my life, personally and professionally. "
-date: 2015-12-21
-updated: 2022-01-05
-permalink: now/index.html
-tags: []
+title: Now
+excerpt: 'A little summary of what is going on in my life, personally and professionally.'
 wpid: 3794
+tags: []
+permalink: now/index.html
+layout: page
 ---
 
 Inspired by [this](https://nownownow.com/about).

@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 * 2 oz blended [[Scotch]]
 * 1 oz [[Apple Brandy]]
 * 0.25 oz [[Elderflower Liqueur]]

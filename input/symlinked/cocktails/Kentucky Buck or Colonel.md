@@ -1,4 +1,8 @@
-It's just a Moscow Mule with bourbon, which is to say, it's a Moscow Mule *but better.* The ginger beer you use makes a huge difference in the outcome but you only need a few ounces. Something fancy like [RGB](https://rachelsgingerbeer.com) is good but can overshadow the rest of the cocktail. My favorite is Cock and Bull. 
+---
+tags: []
+---
+
+It's just a Moscow Mule with bourbon, which is to say, it's a Moscow Mule *but better.* The ginger beer you use makes a huge difference in the outcome but you only need a few ounces. Something fancy like [RGB](https://rachelsgingerbeer.com) is good but can overshadow the rest of the cocktail. My favorite is Cock and Bull.
 
 * 3 oz [[Bourbon]]
 * 1 oz lemon or lime juice

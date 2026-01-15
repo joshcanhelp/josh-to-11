@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 * 1.5 oz aged [[Rum]]
 * 0.75 oz lime juice
 * 1 oz 1:1 simple syrup

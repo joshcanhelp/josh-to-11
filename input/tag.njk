@@ -26,7 +26,7 @@ permalink: /tag/{{ tag | slug }}/
     </div>
 
     {% markdown %}{%
-      include "../partials/tags/" + tag | slug + ".md" ignore missing
+      include "./symlinked/partials/tag-" + tag | slug + ".md" ignore missing
     %}{% endmarkdown %}
 
     <p>

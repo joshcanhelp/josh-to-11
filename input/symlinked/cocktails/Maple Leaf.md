@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 This is a whiskey sour with maple syrup instead of simple syrup.
 
 * 2 oz [[Bourbon]] or [[Rye Whiskey]]

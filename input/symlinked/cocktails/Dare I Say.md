@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 * 1 oz [[Rye Whiskey]]
 * 0.5 oz [[Fernet Branca]]
 * 0.5 oz [[Sweet Vermouth]]
