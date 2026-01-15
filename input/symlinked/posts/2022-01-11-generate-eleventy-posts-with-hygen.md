@@ -177,12 +177,7 @@ Loaded templates: _templates
 
 ---
 title: <%= title %>
-tags:
-  - project/joshcanhelp
-  - artifact/post
-  - topic/joshcanhelp/eleventy
-  - topic/joshcanhelp/javascript-and-typescript
-  - topic/joshcanhelp/portfolio
+tags: ["<%- tags.join('\", \"') %>"]
 ---
 
 ## Some markdown!
@@ -193,12 +188,7 @@ tags:
 ```text
 ---
 title: Generate new posts in Eleventy with Hygen
-tags:
-  - project/joshcanhelp
-  - artifact/post
-  - topic/joshcanhelp/eleventy
-  - topic/joshcanhelp/javascript-and-typescript
-  - topic/joshcanhelp/portfolio
+tags: ["Eleventy", "JavaScript + TypeScript"]
 ---
 
 ## Some markdown!
