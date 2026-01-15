@@ -1,10 +1,11 @@
 ---
-title: "Creating a functional, useable, linkable website: write a few articles"
-excerpt: ""
-modified: 2016-10-20 16:44:19
-tags: ["Web Strategy"]
-featured_img:
+title: 'Creating a functional, useable, linkable website: write a few articles'
+excerpt: The reasons for writing articles about your topic of choice should be fairly obvious.
+modified: 2016-10-20T16:44:19.000Z
 wpid: 491
+tags:
+  - Web Strategy
+featured_img: null
 ---
 
 

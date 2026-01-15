@@ -1,11 +1,12 @@
 ---
-title: "My Favorite Hot Sauce Ever ... This Month"
-excerpt: ""
-modified: 2016-01-19 04:20:04
-tags: ["Food + Drink"]
-featured_img: /_images/2014/03/IMG_2899-150x150.jpg
-link_to: https://secretaardvark.com/shop/sauce/aardvark-habanero-hot-sauce/
+title: My Favorite Hot Sauce Ever ... This Month
+excerpt: Hot sauce became my go-to back in the early 2000’s when I was busy losing 100 pounds and was having trouble dealing with the loss of so much delicious food (I was eating garbage but it’s what I had become accustomed to).
+modified: 2016-01-19T04:20:04.000Z
 wpid: 60
+tags:
+  - Food + Drink
+featured_img: /_images/2014/03/IMG_2899-150x150.jpg
+link_to: 'https://secretaardvark.com/shop/sauce/aardvark-habanero-hot-sauce/'
 ---
 
 

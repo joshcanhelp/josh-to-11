@@ -1,10 +1,13 @@
 ---
-title: "Community and eCommerce Site for Massive Minecraft Community"
-excerpt: "8-month engagement to provide engineering, strategy, code review, pair programming, performance reviews, and security guidance."
-modified: 2016-11-17 18:41:55
-tags: ["WordPress", "Community", "Portfolio"]
-featured_img: /_images/2016/06/80-1-150x150.png
+title: Community and eCommerce Site for Massive Minecraft Community
+excerpt: '8-month engagement to provide engineering, strategy, code review, pair programming, performance reviews, and security guidance.'
+modified: 2016-11-17T18:41:55.000Z
 wpid: 4617
+tags:
+  - WordPress
+  - Community
+  - Portfolio
+featured_img: /_images/2016/06/80-1-150x150.png
 ---
 
 

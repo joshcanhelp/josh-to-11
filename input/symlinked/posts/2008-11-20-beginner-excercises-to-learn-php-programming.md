@@ -1,10 +1,11 @@
 ---
-title: "Beginner Exercises to Learn PHP Programming"
-excerpt: "I’ve been on a quest to try my hand at a real programming language. I get the feeling that I’m really going to like what I learn."
-modified: 2016-10-20 16:44:20
-tags: ["Software Engineering"]
-featured_img:
+title: Beginner Exercises to Learn PHP Programming
+excerpt: I’ve been on a quest to try my hand at a real programming language. I get the feeling that I’m really going to like what I learn.
+modified: 2016-10-20T16:44:20.000Z
 wpid: 386
+tags:
+  - Software Engineering
+featured_img: null
 ---
 
 

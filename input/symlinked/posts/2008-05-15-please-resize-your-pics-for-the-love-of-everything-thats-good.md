@@ -1,10 +1,11 @@
 ---
-title: "Please, resize your pics, for the love of everything that's good!"
-excerpt: "This post goes out to the habitual offenders and for those who do it and do it right but want others to do the same."
-modified: 2016-04-01 04:03:11
-tags: ["Throwback"]
-featured_img: /_images/2008/05/flower_400x300-150x150.jpg
+title: 'Please, resize your pics, for the love of everything that''s good!'
+excerpt: This post goes out to the habitual offenders and for those who do it and do it right but want others to do the same.
+modified: 2016-04-01T04:03:11.000Z
 wpid: 23
+tags:
+  - Throwback
+featured_img: /_images/2008/05/flower_400x300-150x150.jpg
 ---
 
 This post goes out to the habitual offenders, the ones who know but don’t do it, the ones who know AND do it but waste time with Photoshop or something similar, and for those who do it and do it right but want others to do the same and don’t want to spend the time teaching or writing out the instructions. Print it out and hand it out.

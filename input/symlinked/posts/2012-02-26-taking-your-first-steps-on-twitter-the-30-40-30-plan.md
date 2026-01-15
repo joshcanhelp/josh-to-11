@@ -1,10 +1,12 @@
 ---
-title: "Taking Your First Steps on Twitter: The 30 - 40 - 30 Plan"
-excerpt: "This post is for anyone who just signed up for Twitter and thought, 'OK, now what?' It’s for the businesses and individuals curious about how to get started on Twitter and have fun with it."
-modified: 2016-10-20 16:44:00
-tags: ["Social Media", "Twitter"]
-featured_img:
+title: 'Taking Your First Steps on Twitter: The 30 - 40 - 30 Plan'
+excerpt: 'This post is for anyone who just signed up for Twitter and thought, ''OK, now what?'' It’s for the businesses and individuals curious about how to get started on Twitter and have fun with it.'
+modified: 2016-10-20T16:44:00.000Z
 wpid: 2722
+tags:
+  - Social Media
+  - Twitter
+featured_img: null
 ---
 
 

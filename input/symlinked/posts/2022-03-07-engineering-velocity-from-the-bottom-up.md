@@ -1,10 +1,13 @@
 ---
-title: "Engineering Velocity from the Bottom Up"
+title: Engineering Velocity from the Bottom Up
+excerpt: 'When I look to increase my velocity, I&#39;m trying to deliver more work I''m proud of without burning out. I want to get the most out of my time and maximize the parts of the job that I enjoy. Here''s how.'
+tags:
+  - Team Dynamics
+  - Software Engineering
+  - Portfolio
 featured_img: /_images/2022/gt40-engine-THUMB.jpg
-excerpt: "When I look to increase my velocity, I&#39;m trying to deliver more work I'm proud of without burning out. I want to get the most out of my time and maximize the parts of the job that I enjoy. Here's how."
-tags: ["Team Dynamics", "Software Engineering", "Portfolio"]
+hn_link: 'https://news.ycombinator.com/item?id=30602432'
 permalink: engineering-velocity/index.html
-hn_link: https://news.ycombinator.com/item?id=30602432
 ---
 
 What comes to mind when you hear the term "engineering velocity?"

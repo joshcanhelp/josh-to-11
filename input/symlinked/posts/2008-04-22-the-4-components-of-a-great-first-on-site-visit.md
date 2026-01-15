@@ -1,10 +1,12 @@
 ---
-title: "The 4 Components of a Great First On-Site Visit"
-excerpt: "I learned a great deal about stress management and face-to-face interactions on my very first on-site call. I came up with 4 important things to think about before your first face-to-face customer interaction."
-modified: 2016-03-30 18:59:17
-tags: ["Freelancing", "Customer Service"]
-featured_img: /_images/default-img-size-medium.png
+title: The 4 Components of a Great First On-Site Visit
+excerpt: I learned a great deal about stress management and face-to-face interactions on my very first on-site call. I came up with 4 important things to think about before your first face-to-face customer interaction.
+modified: 2016-03-30T18:59:17.000Z
 wpid: 15
+tags:
+  - Freelancing
+  - Customer Service
+featured_img: /_images/default-img-size-medium.png
 ---
 
 I’ve done “on-site tech support” for a long time now. Every job has seen me as a go-to guy when IT was busy, I have plenty of tech-frustrated people in my life, and I’ve always been willing and able to help out someone in need. When I decided to take my skills to the world, however, I suddenly realized that having great customer service and problem-solving skills are only past of what I needed to get the job done.

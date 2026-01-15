@@ -1,10 +1,11 @@
 ---
-title: "Free software and websites that really, really, really help me"
-excerpt: "The following computer-based implements have become so essential to me that I would pay good money to keep them. They happen, however, to be completely free."
-modified: 2016-10-20 16:44:19
-tags: ["Freelancing"]
-featured_img:
+title: 'Free software and websites that really, really, really help me'
+excerpt: 'The following computer-based implements have become so essential to me that I would pay good money to keep them. They happen, however, to be completely free.'
+modified: 2016-10-20T16:44:19.000Z
 wpid: 556
+tags:
+  - Freelancing
+featured_img: null
 ---
 
 

@@ -1,11 +1,12 @@
 ---
-title: "Make Coconut Chips at Home, Then Give Up and Buy Dang"
-excerpt: ""
-modified: 2016-01-19 04:20:04
-tags: ["Food + Drink"]
-featured_img: /_images/2015/01/IMG_1508_pc_post-150x150.jpg
-link_to: http://amzn.to/1LaeJR8
+title: 'Make Coconut Chips at Home, Then Give Up and Buy Dang'
+excerpt: 'Earlier this month, I went on a cycling trip to Hood River, Oregon with a few friends of mine who, thankfully, make it their mission to make sure I don’t fall too behind and die a miserable death o...'
+modified: 2016-01-19T04:20:04.000Z
 wpid: 93
+tags:
+  - Food + Drink
+featured_img: /_images/2015/01/IMG_1508_pc_post-150x150.jpg
+link_to: 'http://amzn.to/1LaeJR8'
 ---
 
 

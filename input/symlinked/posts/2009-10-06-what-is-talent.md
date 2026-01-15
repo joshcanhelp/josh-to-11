@@ -1,10 +1,11 @@
 ---
-title: "What is Talent?"
-excerpt: "Talent is a funny thing. Being talented in something is a product of chance, practice, both, and neither (these days, I’m leaning much more towards practice)."
-modified: 2016-10-20 16:44:17
-tags: ["Personal Development"]
-featured_img:
+title: What is Talent?
+excerpt: 'Talent is a funny thing. Being talented in something is a product of chance, practice, both, and neither (these days, I’m leaning much more towards practice).'
+modified: 2016-10-20T16:44:17.000Z
 wpid: 1127
+tags:
+  - Personal Development
+featured_img: null
 ---
 
 

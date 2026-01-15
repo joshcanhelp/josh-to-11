@@ -1,10 +1,11 @@
 ---
-title: "The Strikes"
-excerpt: "We saw a strike parade in Dinan, France and it had a good energy to it. People were chanting a bit, walking slowly through the streets, showing their support for the opposition to a change in the retirement age."
-modified: 2010-10-14 15:28:58
-tags: ["Paris"]
-featured_img: /_images/2010/10/dinan_protest-300x300.jpg
+title: The Strikes
+excerpt: 'We saw a strike parade in Dinan, France and it had a good energy to it. People were chanting a bit, walking slowly through the streets, showing their support for the opposition to a change in the retirement age.'
+modified: 2010-10-14T15:28:58.000Z
 wpid: 169
+tags:
+  - Paris
+featured_img: /_images/2010/10/dinan_protest-300x300.jpg
 ---
 
 

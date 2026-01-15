@@ -1,10 +1,13 @@
 ---
-title: "Working with Greatness: The Processes Behind the Production"
-excerpt: ""
-modified: 2016-03-30 18:47:31
-tags: ["Graffiti", "Design", "Professional Development"]
-featured_img:
+title: 'Working with Greatness: The Processes Behind the Production'
+excerpt: Something interesting happens when you let someone into your life to take care of things you’re unable or unwilling to do for yourself.
+modified: 2016-03-30T18:47:31.000Z
 wpid: 1482
+tags:
+  - Graffiti
+  - Design
+  - Professional Development
+featured_img: null
 ---
 
 

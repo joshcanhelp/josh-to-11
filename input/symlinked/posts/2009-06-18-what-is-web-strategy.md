@@ -1,10 +1,12 @@
 ---
-title: "What Is Web Strategy?"
-excerpt: "I've realized in the last year that my passion is centered around the web and how people connect to one another, use simple online tools to solve their problems, and create a name for themselves or their business in a way that was never possible before."
-modified: 2016-10-20 16:44:18
-tags: ["Social Media", "Web Strategy"]
-featured_img: /_images/2009/06/chemistry-lab01-150x150.jpg
+title: What Is Web Strategy?
+excerpt: 'I''ve realized in the last year that my passion is centered around the web and how people connect to one another, use simple online tools to solve their problems, and create a name for themselves or their business in a way that was never possible before.'
+modified: 2016-10-20T16:44:18.000Z
 wpid: 816
+tags:
+  - Social Media
+  - Web Strategy
+featured_img: /_images/2009/06/chemistry-lab01-150x150.jpg
 ---
 
 

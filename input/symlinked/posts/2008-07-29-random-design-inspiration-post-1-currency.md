@@ -1,10 +1,11 @@
 ---
-title: "Random design inspiration post #1 - Currency"
-excerpt: "Pull a bill out and look at it really close. The detail is impressive and the layout is very interesting, particularly because it has a lot of limitations/requirements. "
-modified: 2016-04-03 02:33:18
-tags: ["Design"]
-featured_img: /_images/2008/07/currency04_pallet-150x150.jpg
+title: 'Random design inspiration post #1 - Currency'
+excerpt: 'Pull a bill out and look at it really close. The detail is impressive and the layout is very interesting, particularly because it has a lot of limitations/requirements. '
+modified: 2016-04-03T02:33:18.000Z
 wpid: 42
+tags:
+  - Design
+featured_img: /_images/2008/07/currency04_pallet-150x150.jpg
 ---
 
 

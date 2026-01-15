@@ -1,11 +1,12 @@
 ---
-title: "Coconut Jam, Kopi and Toast, Singapore"
-excerpt: "Singapore is a magical wonderland of food, architecture, color, culture, and food. And food. Oh the food."
-modified: 2016-01-19 04:20:04
-tags: ["Food + Drink"]
-featured_img: /_images/2015/01/kopi_and_toast-150x150.jpg
-link_to: http://www.amazon.com/gp/product/B00FPWB1J2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FPWB1J2&linkCode=as2&tag=joshcanhelp-20&linkId=AMJGUYEYGDWLZCHC
+title: 'Coconut Jam, Kopi and Toast, Singapore'
+excerpt: 'Singapore is a magical wonderland of food, architecture, color, culture, and food. And food. Oh the food.'
+modified: 2016-01-19T04:20:04.000Z
 wpid: 69
+tags:
+  - Food + Drink
+featured_img: /_images/2015/01/kopi_and_toast-150x150.jpg
+link_to: 'http://www.amazon.com/gp/product/B00FPWB1J2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FPWB1J2&linkCode=as2&tag=joshcanhelp-20&linkId=AMJGUYEYGDWLZCHC'
 ---
 
 

@@ -1,10 +1,12 @@
 ---
-title: "Connecting Strategy to Tactics"
-excerpt: "Like a lot of people, I have many, many ideas going on at once and many, many tasks that need my time and attention, both of which are in short supply. Where do I start? What do I do? Where is my direction?"
-modified: 2016-10-20 16:44:00
-tags: ["Design", "Personal Development"]
-featured_img: /_images/2014/03/strategy_process-150x150.jpg
+title: Connecting Strategy to Tactics
+excerpt: 'Like a lot of people, I have many, many ideas going on at once and many, many tasks that need my time and attention, both of which are in short supply. Where do I start? What do I do? Where is my direction?'
+modified: 2016-10-20T16:44:00.000Z
 wpid: 3505
+tags:
+  - Design
+  - Personal Development
+featured_img: /_images/2014/03/strategy_process-150x150.jpg
 ---
 
 

@@ -1,10 +1,12 @@
 ---
-title: "Using Google Analytics to determine a new page's performance"
-excerpt: ""
-modified: 2016-10-20 16:44:00
-tags: ["Analytics", "SEO"]
-featured_img: 
+title: Using Google Analytics to determine a new page's performance
+excerpt: I think data can solve most problems.
+modified: 2016-10-20T16:44:00.000Z
 wpid: 2521
+tags:
+  - Analytics
+  - SEO
+featured_img: null
 ---
 
 

@@ -1,10 +1,11 @@
 ---
-title: "Using the social technologies of the web effectively while staying out of trouble"
-excerpt: ""
-modified: 2016-10-20 16:44:18
-tags: ["Social Media"]
-featured_img:
+title: Using the social technologies of the web effectively while staying out of trouble
+excerpt: I’ve been using LinkedIn more and more these days on the recommendation of two people I’m currently working with.
+modified: 2016-10-20T16:44:18.000Z
 wpid: 636
+tags:
+  - Social Media
+featured_img: null
 ---
 
 

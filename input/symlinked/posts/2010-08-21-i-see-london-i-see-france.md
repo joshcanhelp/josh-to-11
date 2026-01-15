@@ -1,10 +1,11 @@
 ---
-title: "I see London, I see France"
-excerpt: "Determined to make the most of our time in London, we dug the sweaters and raincoats from the bottoms of our suitcases and bravely ventured into the cold and rain. We did as the locals and drank room temperature pints on mid-afternoon sight-seeing breaks."
-modified: 2010-08-21 07:24:54
-tags: ["Paris"]
-featured_img: /_images/2010/08/IMG_0195_sm-300x300.jpg
+title: 'I see London, I see France'
+excerpt: 'Determined to make the most of our time in London, we dug the sweaters and raincoats from the bottoms of our suitcases and bravely ventured into the cold and rain. We did as the locals and drank room temperature pints on mid-afternoon sight-seeing breaks.'
+modified: 2010-08-21T07:24:54.000Z
 wpid: 59
+tags:
+  - Paris
+featured_img: /_images/2010/08/IMG_0195_sm-300x300.jpg
 ---
 
 

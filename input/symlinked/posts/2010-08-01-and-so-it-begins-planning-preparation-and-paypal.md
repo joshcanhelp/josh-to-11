@@ -1,10 +1,11 @@
 ---
-title: "And so it begins - planning, preparation, and PayPal"
-excerpt: "I decided to start this little travel blog of sorts to share the newlyweds’ adventures across a few different countries. Imagine my surprise when my very private and, at times, very shy wife seemed almost more excited than I was."
-modified: 2010-08-01 19:14:40
-tags: ["Paris"]
-featured_img: /_images/2010/08/chunnel.jpg
+title: 'And so it begins - planning, preparation, and PayPal'
+excerpt: 'I decided to start this little travel blog of sorts to share the newlyweds’ adventures across a few different countries. Imagine my surprise when my very private and, at times, very shy wife seemed almost more excited than I was.'
+modified: 2010-08-01T19:14:40.000Z
 wpid: 5
+tags:
+  - Paris
+featured_img: /_images/2010/08/chunnel.jpg
 ---
 
 

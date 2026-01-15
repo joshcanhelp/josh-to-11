@@ -1,11 +1,12 @@
 ---
-title: "Kina Tonic For A Unique Gin & Tonic Experience"
-excerpt: ""
-modified: 2016-01-19 04:20:04
-tags: ["Food + Drink"]
-featured_img: /_images/2015/01/IMG_1489-e1420330236592-150x150.jpg
-link_to: https://www.amazon.com/gp/product/B00GCW8LQK/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00GCW8LQK&linkCode=as2&tag=joshcanhelp-20&linkId=QSVLQ5EUC4CRIHLJ
+title: Kina Tonic For A Unique Gin & Tonic Experience
+excerpt: 'A gin &amp; tonic has an iconic ring to it. Just say it out loud:'
+modified: 2016-01-19T04:20:04.000Z
 wpid: 90
+tags:
+  - Food + Drink
+featured_img: /_images/2015/01/IMG_1489-e1420330236592-150x150.jpg
+link_to: 'https://www.amazon.com/gp/product/B00GCW8LQK/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00GCW8LQK&linkCode=as2&tag=joshcanhelp-20&linkId=QSVLQ5EUC4CRIHLJ'
 ---
 
 

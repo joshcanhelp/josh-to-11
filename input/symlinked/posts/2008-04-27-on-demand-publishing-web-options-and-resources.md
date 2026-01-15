@@ -1,10 +1,11 @@
 ---
-title: "On-Demand and Web Publishing Resources"
-excerpt: "I'm looking into a low-cost method for getting a book published and available on-line so I thought I would share what I found while combing through the web."
-modified: 2016-04-01 03:49:49
-tags: ["Writing + Publishing"]
-featured_img: /_images/2008/04/books.jpg
+title: On-Demand and Web Publishing Resources
+excerpt: I'm looking into a low-cost method for getting a book published and available on-line so I thought I would share what I found while combing through the web.
+modified: 2016-04-01T03:49:49.000Z
 wpid: 17
+tags:
+  - Writing + Publishing
+featured_img: /_images/2008/04/books.jpg
 ---
 
 I’m looking into a low-cost method for getting a book published and available on-line so I thought I would share what I found while combing through the web.

@@ -1,10 +1,12 @@
 ---
-title: "5 Reasons Why I Won't Build That For You (it's not just because I said so)"
-excerpt: ""
-modified: 2016-04-03 02:32:59
-tags: ["About JoshCanHelp", "Web Strategy"]
-featured_img: 
+title: 5 Reasons Why I Won't Build That For You (it's not just because I said so)
+excerpt: Turning down projects (or redirecting ones that are on the wrong track) is the only path toward some semblance of sanity in this business.
+modified: 2016-04-03T02:32:59.000Z
 wpid: 1672
+tags:
+  - About JoshCanHelp
+  - Web Strategy
+featured_img: null
 ---
 
 

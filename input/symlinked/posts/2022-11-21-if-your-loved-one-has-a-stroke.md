@@ -1,8 +1,9 @@
 ---
-title: "If Your Loved One Has a Stroke"
+title: If Your Loved One Has a Stroke
+excerpt: 'This year, I became my mom''s co-caregiver, medical advocate, and financial administrator. I have learned an enormous amount about myself, Medicare, hospitals, assisted living facilities, the power of attorney process, medical advocacy, and mental health that might be helpful to others.'
+tags:
+  - Personal Development
 featured_img: /_images/2022/harborview-peace_THUMB.jpg
-excerpt: "This year, I became my mom's co-caregiver, medical advocate, and financial administrator. I have learned an enormous amount about myself, Medicare, hospitals, assisted living facilities, the power of attorney process, medical advocacy, and mental health that might be helpful to others."
-tags: ["Personal Development"]
 permalink: stroke/index.html
 ---
 

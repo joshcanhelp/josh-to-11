@@ -1,10 +1,11 @@
 ---
-title: "Want to self-publish? My review of Lulu.com"
-excerpt: "I liked Lulu the best from my research and chose them to publish my client’s book. Here are my impressions about the whole writing, publishing, and uploading experience."
-modified: 2019-01-08 00:16:52
-tags: ["Writing + Publishing"]
-featured_img: /_images/2008/07/lulu_rev_07_sm-150x150.jpg
+title: Want to self-publish? My review of Lulu.com
+excerpt: 'I liked Lulu the best from my research and chose them to publish my client’s book. Here are my impressions about the whole writing, publishing, and uploading experience.'
+modified: 2019-01-08T00:16:52.000Z
 wpid: 38
+tags:
+  - Writing + Publishing
+featured_img: /_images/2008/07/lulu_rev_07_sm-150x150.jpg
 ---
 
 > **Please Note:** This post was published in 2008 so the information here is quite out-of-date. I have not used Lulu in a very long time so I cannot, currently, vouch for their quality or service.

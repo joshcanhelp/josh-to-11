@@ -1,10 +1,11 @@
 ---
-title: "Getting started correcting your search engine problems."
-excerpt: ""
-modified: 2016-10-20 16:44:19
-tags: ["SEO"]
-featured_img:
+title: Getting started correcting your search engine problems.
+excerpt: 'Search engines are complicated, proprietary, heartless machines that chew up poor, unsuspecting websites and spit out a category based on what it tastes like.'
+modified: 2016-10-20T16:44:19.000Z
 wpid: 477
+tags:
+  - SEO
+featured_img: null
 ---
 
 

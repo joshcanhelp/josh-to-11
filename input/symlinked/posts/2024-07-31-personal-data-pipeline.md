@@ -1,9 +1,14 @@
 ---
-title: "Imagining a Personal Data Pipeline"
-excerpt: "I've been thinking a lot about personal data lately: where it's stored, how to extract it, and what to do with it. Here's where I landed."
+title: Imagining a Personal Data Pipeline
+excerpt: 'I''ve been thinking a lot about personal data lately: where it''s stored, how to extract it, and what to do with it. Here''s where I landed.'
+tags:
+  - Software Engineering
+  - Personal Data
+  - Obsidian
+  - Open Source
+  - Portfolio
 featured_img: /_images/2024/data-pipeline.png
-tags: ["Software Engineering", "Personal Data", "Obsidian", "Open Source", "Portfolio"]
-hn_link: https://news.ycombinator.com/item?id=41183795
+hn_link: 'https://news.ycombinator.com/item?id=41183795'
 ---
 
 I've been thinking a lot about personal data lately, the stuff that accrues as we live our lives in the presence of machines. About a year ago, [I wrote down my thoughts on my own personal data](/lifelogging/): where it collects, what shape it takes, how it could be used.

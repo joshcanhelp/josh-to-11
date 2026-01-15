@@ -1,10 +1,12 @@
 ---
-title: "The Worst Possible Way to Work (or) How to Find a System That Works for You"
-excerpt: "I’m going to share with you how I work. This method would/will drive certain people nuts. This method is not foolproof but none of them are."
-modified: 2016-10-20 16:44:20
-tags: ["Email", "Personal Development"]
-featured_img:
+title: The Worst Possible Way to Work (or) How to Find a System That Works for You
+excerpt: I’m going to share with you how I work. This method would/will drive certain people nuts. This method is not foolproof but none of them are.
+modified: 2016-10-20T16:44:20.000Z
 wpid: 380
+tags:
+  - Email
+  - Personal Development
+featured_img: null
 ---
 
 

@@ -1,10 +1,11 @@
 ---
-title: "6 key ways to improve your email communication"
-excerpt: ""
-modified: 2013-04-06 22:40:42
-tags: ["Email"]
-featured_img:
+title: 6 key ways to improve your email communication
+excerpt: 'I love email, I really love it.'
+modified: 2013-04-06T22:40:42.000Z
 wpid: 1258
+tags:
+  - Email
+featured_img: null
 ---
 
 

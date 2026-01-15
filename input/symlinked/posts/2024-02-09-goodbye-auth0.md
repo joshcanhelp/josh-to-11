@@ -1,10 +1,14 @@
 ---
-title: "Goodbye Auth0"
-meta_description: "My 6 years at Auth0 ... how it all started, what Auth0 meant to me, and why I will proudly wear that shield for as long as the swag holds up. "
+title: Goodbye Auth0
+excerpt: 'My 6 years at Auth0 ... how it all started, what Auth0 meant to me, and why I will proudly wear that shield for as long as the swag holds up. '
+tags:
+  - Auth0
+  - Team Dynamics
+  - WordPress
+  - Portfolio
 featured_img: /_images/2024/goodbye_auth0.png
-excerpt: "My 6 years at Auth0 ... how it all started, what Auth0 meant to me, and why I will proudly wear that shield for as long as the swag holds up. "
-tags: ["Auth0", "Team Dynamics", "WordPress", "Portfolio"]
-hn_link: https://news.ycombinator.com/item?id=39380790
+hn_link: 'https://news.ycombinator.com/item?id=39380790'
+meta_description: 'My 6 years at Auth0 ... how it all started, what Auth0 meant to me, and why I will proudly wear that shield for as long as the swag holds up. '
 ---
 
 Last Thursday, I woke up to a pile of emails that I was, in truth, half expecting. They were all worded a bit differently and came from different senders but the message was the same:

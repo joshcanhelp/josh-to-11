@@ -1,11 +1,12 @@
 ---
-title: "There is Cold Brew and Then There is Black Blood of the Earth"
-excerpt: "Made by Funranium Labs, Black Blood of the Earth (BBotE henceforth) is a very high-quality bottled cold brew that’s clearly made with passion and vim."
-modified: 2016-01-19 04:20:04
-tags: ["Food + Drink"]
-featured_img: /_images/2014/02/Chronovore-Coffee-150x150.jpg
-link_to: http://shop.funraniumlabs.com/coffee/
+title: There is Cold Brew and Then There is Black Blood of the Earth
+excerpt: 'Made by Funranium Labs, Black Blood of the Earth (BBotE henceforth) is a very high-quality bottled cold brew that’s clearly made with passion and vim.'
+modified: 2016-01-19T04:20:04.000Z
 wpid: 28
+tags:
+  - Food + Drink
+featured_img: /_images/2014/02/Chronovore-Coffee-150x150.jpg
+link_to: 'http://shop.funraniumlabs.com/coffee/'
 ---
 
 

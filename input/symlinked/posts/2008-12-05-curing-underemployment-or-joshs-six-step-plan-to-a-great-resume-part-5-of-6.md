@@ -1,14 +1,16 @@
 ---
-title: "Curing Underemployment  (or) Josh’s Six Step Plan to a Great Resume (part 5 of 6)"
-excerpt: ""
-modified: 2016-10-20 16:44:19
-tags: ["Professional Development"]
-featured_img:
+title: Curing Underemployment  (or) Josh’s Six Step Plan to a Great Resume (part 5 of 6)
+excerpt: 'You have a resume, you’re about 80% there. Now it’s time to bring it all together.'
+modified: 2016-10-20T16:44:19.000Z
 wpid: 459
+tags:
+  - Professional Development
+featured_img: null
 ---
 
 
 Yesterday, I went through the [fourth step in my resume-writing process, creating a rough draft](/curing-underemployment-or-joshs-six-step-plan-to-a-great-resume-part-4-of-6/). We’re in the home stretch!
+
 ## Step 5: “Final” draft time… buckle down
 
 OK, you have a resume, you’re about 80% there. Now it’s time to bring it all together.

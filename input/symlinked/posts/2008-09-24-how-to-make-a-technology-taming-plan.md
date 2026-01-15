@@ -1,10 +1,11 @@
 ---
-title: "How to make a Technology Taming Plan"
-excerpt: "If you like learning how to use things and do it quickly then maybe more time should be spent picking things up, playing with them, and deciding whether or not to use them. If, like most of us, you have limited time and want to simplify your daily life, it’s time to make a Technology Taming Plan."
-modified: 2016-10-20 16:44:20
-tags: ["Freelancing"]
-featured_img: /_images/2008/07/lp_card_07_final-296x296.jpg
+title: How to make a Technology Taming Plan
+excerpt: 'If you like learning how to use things and do it quickly then maybe more time should be spent picking things up, playing with them, and deciding whether or not to use them. If, like most of us, you have limited time and want to simplify your daily life, it’s time to make a Technology Taming Plan.'
+modified: 2016-10-20T16:44:20.000Z
 wpid: 268
+tags:
+  - Freelancing
+featured_img: /_images/2008/07/lp_card_07_final-296x296.jpg
 ---
 
 

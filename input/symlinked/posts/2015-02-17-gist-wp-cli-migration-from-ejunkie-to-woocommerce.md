@@ -1,12 +1,13 @@
 ---
-title: "Gist: WP-CLI migration from ejunkie to WooCommerce"
-excerpt: ""
-modified: 2016-10-20 16:43:59
-tags: ["WordPress", "Open Source"]
-featured_img:
+title: 'Gist: WP-CLI migration from ejunkie to WooCommerce'
+excerpt: This script is used to migrate a transaction export from ejunkie into a Woocommerce-powered site. Please read the comments throughout to adjust this to your use case.
+modified: 2016-10-20T16:43:59.000Z
 wpid: 4399
-link_to: "https://gist.github.com/joshcanhelp/8a2197913b62e69906db"
-citation: ""
+tags:
+  - WordPress
+  - Open Source
+featured_img: null
+link_to: 'https://gist.github.com/joshcanhelp/8a2197913b62e69906db'
 ---
 
 

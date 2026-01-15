@@ -1,10 +1,13 @@
 ---
-title: "Brewery Site Framework for Craft Beer Branding Gods"
-excerpt: "In one of those &quot;meant to be&quot; moments, I met the founder and president of the mind-bogglingly talented craft beer agency here in Seattle, Blindtiger. Oceania (Oce for short) invited me down to the office to talk shop and it just clicked."
-modified: 2016-11-22 17:54:59
-tags: ["WordPress", "About JoshCanHelp", "Portfolio"]
-featured_img: /_images/2016/08/Screenshot-2016-11-16-13.14.04-150x150.png
+title: Brewery Site Framework for Craft Beer Branding Gods
+excerpt: 'In one of those &quot;meant to be&quot; moments, I met the founder and president of the mind-bogglingly talented craft beer agency here in Seattle, Blindtiger. Oceania (Oce for short) invited me down to the office to talk shop and it just clicked.'
+modified: 2016-11-22T17:54:59.000Z
 wpid: 4502
+tags:
+  - WordPress
+  - About JoshCanHelp
+  - Portfolio
+featured_img: /_images/2016/08/Screenshot-2016-11-16-13.14.04-150x150.png
 ---
 
 

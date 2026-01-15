@@ -1,10 +1,11 @@
 ---
-title: "Hiring a Virtual Assistant"
-excerpt: ""
-modified: 2016-10-20 16:44:00
-tags: ["About JoshCanHelp"]
-featured_img:
+title: Hiring a Virtual Assistant
+excerpt: 'It’s time to get a bit more help doing what I’m doing. I’m a freelance web developer, designer, and strategy guy who is looking for someone to help me with client support and some of the minutiae of running a business.'
+modified: 2016-10-20T16:44:00.000Z
 wpid: 2405
+tags:
+  - About JoshCanHelp
+featured_img: null
 ---
 
 

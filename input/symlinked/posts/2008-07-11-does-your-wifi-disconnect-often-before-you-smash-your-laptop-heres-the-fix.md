@@ -1,10 +1,12 @@
 ---
-title: "Is your wifi disconnecting frequently? Here's the fix... "
-excerpt: "Stop your wifi from disconnecting frequently in Windows XP."
-modified: 2016-04-01 03:52:20
-tags: ["Hardware", "Throwback"]
-featured_img:
+title: 'Is your wifi disconnecting frequently? Here''s the fix... '
+excerpt: Stop your wifi from disconnecting frequently in Windows XP.
+modified: 2016-04-01T03:52:20.000Z
 wpid: 37
+tags:
+  - Hardware
+  - Throwback
+featured_img: null
 ---
 
 **Does this happen to you?** Every time I pop open the laptop in a coffee shop and try to get some work done, I’m plagued by repeated disconnects. This would be far less irritating if I wasn’t always listening to streaming radio. It seems like it knows exactly the right track too… But I digress.

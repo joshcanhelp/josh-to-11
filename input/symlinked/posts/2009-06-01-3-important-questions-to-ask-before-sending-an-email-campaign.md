@@ -1,10 +1,11 @@
 ---
-title: "3 Important Questions to Ask Before Sending an Email Campaign"
-excerpt: "So you want to send an email campaign. Well, guess what? Everyone else wants to send an email campaign too and that includes spammers, your competition, and others that deign to make your email marketing harder than it already is."
-modified: 2017-10-12 12:06:37
-tags: ["Email"]
-featured_img:
+title: 3 Important Questions to Ask Before Sending an Email Campaign
+excerpt: 'So you want to send an email campaign. Well, guess what? Everyone else wants to send an email campaign too and that includes spammers, your competition, and others that deign to make your email marketing harder than it already is.'
+modified: 2017-10-12T12:06:37.000Z
 wpid: 789
+tags:
+  - Email
+featured_img: null
 ---
 
 

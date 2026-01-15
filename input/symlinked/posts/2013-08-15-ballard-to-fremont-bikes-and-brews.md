@@ -1,10 +1,12 @@
 ---
-title: "Ballard to Fremont - Bikes and Brews"
-excerpt: "A list of the breweries in Ballard and Fremont and a few suggested schedules for the weekend days."
-modified: 2013-08-15 04:51:40
-tags: ["Seattle", "Food + Drink"]
-featured_img:
+title: Ballard to Fremont - Bikes and Brews
+excerpt: A list of the breweries in Ballard and Fremont and a few suggested schedules for the weekend days.
+modified: 2013-08-15T04:51:40.000Z
 wpid: 4665
+tags:
+  - Seattle
+  - Food + Drink
+featured_img: null
 ---
 
 

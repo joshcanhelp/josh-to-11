@@ -1,10 +1,11 @@
 ---
-title: "Reims - You Want To Go To There"
-excerpt: "Get comfortable, grab a glass of something cold, white, and bubbly, and let me tell you about our day trip to a great little town called Reims."
-modified: 2019-06-29 20:47:27
-tags: ["Paris"]
-featured_img: /_images/2011/11/steps-150x150.jpg
+title: Reims - You Want To Go To There
+excerpt: 'Get comfortable, grab a glass of something cold, white, and bubbly, and let me tell you about our day trip to a great little town called Reims.'
+modified: 2019-06-29T20:47:27.000Z
 wpid: 126
+tags:
+  - Paris
+featured_img: /_images/2011/11/steps-150x150.jpg
 ---
 
 

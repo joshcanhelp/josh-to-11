@@ -1,10 +1,12 @@
 ---
-title: "Why I freelance (a picture story)"
-excerpt: ""
-modified: 2016-04-01 03:52:16
-tags: ["Throwback", "Freelancing"]
-featured_img:
+title: Why I freelance (a picture story)
+excerpt: Scene 1 opens with our hero attempting to delete a file found on a shared network drive.
+modified: 2016-04-01T03:52:16.000Z
 wpid: 28
+tags:
+  - Throwback
+  - Freelancing
+featured_img: null
 ---
 
 *Scene 1 opens with our hero attempting to delete a file found on a shared network drive.*

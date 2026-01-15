@@ -1,10 +1,11 @@
 ---
-title: "Self-Promotion, Me-Centricism, and Should Josh Help?"
-excerpt: "I have acquired a heavy pile of new books to certify myself in all things IT-related, an egotistical domain, and a sinking sensation that I might be going about this all the wrong way."
-modified: 2016-04-01 01:38:30
-tags: ["About JoshCanHelp"]
-featured_img:
+title: 'Self-Promotion, Me-Centricism, and Should Josh Help?'
+excerpt: 'I have acquired a heavy pile of new books to certify myself in all things IT-related, an egotistical domain, and a sinking sensation that I might be going about this all the wrong way.'
+modified: 2016-04-01T01:38:30.000Z
 wpid: 21
+tags:
+  - About JoshCanHelp
+featured_img: null
 ---
 
 In a flurry of self-branding excitement and possible arrogance, I rushed headlong into the world of web and graphic design. Armed with a blog about sustainable transportation with a self-centered title, a large group of supportive friends and family, and another group of confused classmates, professors, and colleagues, I charged forward and consumed all of the tutorials and free how-to web pages I could get my hands on. I already had one project lined up and I was confident that my charm and charisma would push me from project to project, swinging on each accomplishment like monkey bars towards fame and fortune.

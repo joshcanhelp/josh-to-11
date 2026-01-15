@@ -1,10 +1,11 @@
 ---
-title: "Problem Solved #00001 - DSL, Wifi, printers"
-excerpt: "This customer called me to help him move his router, make sure wi-fi worked throughout the house, set up a printer with Vista (which was causing him problems), and possibly help him acquire a new desktop."
-modified: 2016-04-01 03:48:57
-tags: ["Throwback"]
-featured_img: /_images/2008/04/2wire-1000hw.jpg
+title: 'Problem Solved #00001 - DSL, Wifi, printers'
+excerpt: 'This customer called me to help him move his router, make sure wi-fi worked throughout the house, set up a printer with Vista (which was causing him problems), and possibly help him acquire a new desktop.'
+modified: 2016-04-01T03:48:57.000Z
 wpid: 10
+tags:
+  - Throwback
+featured_img: /_images/2008/04/2wire-1000hw.jpg
 ---
 
 This is your introduction to the major feature of this blog, the “Problems Solved.” I’ve told you that I’m Josh and declared that I can help but where are the goods? Right here, buddy.Every major project I finish (customer or my own) and every large even that I had a hand in will get a “Problem Solved” post, complete with it’s own number (I’m limited edition, FYI). Each call has it’s own nuances and various issues so, as you can see, the heading also gets a few words to describe the problem. The sub-headings in the posts will detail each problem (succinctly) and what the solution was, if any.

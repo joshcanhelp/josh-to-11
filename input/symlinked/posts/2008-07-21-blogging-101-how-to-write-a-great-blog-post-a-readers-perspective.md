@@ -1,10 +1,12 @@
 ---
-title: "Blogging 101: How to Write a Great Blog Post... a Reader's Perspective"
-excerpt: "By posting a great piece of advice or a guide for someone or your professional insight, you contribute to the incredible equalizing power of the internet."
-modified: 2013-04-06 22:40:45
-tags: ["Writing + Publishing", "Community"]
-featured_img:
+title: 'Blogging 101: How to Write a Great Blog Post... a Reader''s Perspective'
+excerpt: 'By posting a great piece of advice or a guide for someone or your professional insight, you contribute to the incredible equalizing power of the internet.'
+modified: 2013-04-06T22:40:45.000Z
 wpid: 39
+tags:
+  - Writing + Publishing
+  - Community
+featured_img: null
 ---
 
 **This is a guide I wrote a few months back. I have it posted on my homepage and at Squidoo but my homepage is going away in favor of a much simpler system so I wanted to move this. It’s also a bit more visible here, where I’m getting hits, rather than on the homepage, where I’m getting no hits!**

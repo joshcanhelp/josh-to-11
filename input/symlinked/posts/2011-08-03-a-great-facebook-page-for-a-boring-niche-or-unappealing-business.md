@@ -1,10 +1,11 @@
 ---
-title: "A Great Facebook Page for a Boring, Niche, or Unappealing Business"
-excerpt: ""
-modified: 2016-10-20 16:44:00
-tags: ["Social Media"]
-featured_img:
+title: 'A Great Facebook Page for a Boring, Niche, or Unappealing Business'
+excerpt: 'Let’s get right to the point: you are not in a mainstream industry.'
+modified: 2016-10-20T16:44:00.000Z
 wpid: 2402
+tags:
+  - Social Media
+featured_img: null
 ---
 
 

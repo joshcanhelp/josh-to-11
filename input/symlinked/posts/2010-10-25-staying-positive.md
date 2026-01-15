@@ -1,10 +1,11 @@
 ---
-title: "Staying positive"
-excerpt: "We are stuck in (beautiful) Toulon because of train strikes (and bus strikes and no rental cars) and this fact makes enjoying this beautiful part of the country more difficult than it could be."
-modified: 2019-08-10 22:45:09
-tags: ["Paris"]
-featured_img: /_images/2010/10/IMG_2922-1-150x150.jpg
+title: Staying positive
+excerpt: We are stuck in (beautiful) Toulon because of train strikes (and bus strikes and no rental cars) and this fact makes enjoying this beautiful part of the country more difficult than it could be.
+modified: 2019-08-10T22:45:09.000Z
 wpid: 181
+tags:
+  - Paris
+featured_img: /_images/2010/10/IMG_2922-1-150x150.jpg
 ---
 
 

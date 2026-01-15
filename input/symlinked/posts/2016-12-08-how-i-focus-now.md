@@ -1,11 +1,15 @@
 ---
-title: "How I Focus Now"
-excerpt: "After reading several articles and a great book, Deep Work by Cal Newport, I’m sold: focus is tough, necessary, and at a premium. I’ve been on a month-long discovery process to find how to work more efficiently (in other words: less screen time with more output), produce better, and avoid negative thoughts."
-modified: 2016-12-08 21:16:02
-tags: ["Personal Development", "Social Media", "Focus", "Twitter"]
-featured_img: /_images/2016/12/focus-150x150.png
-hn_link: https://news.ycombinator.com/item?id=13134394
+title: How I Focus Now
+excerpt: 'After reading several articles and a great book, Deep Work by Cal Newport, I’m sold: focus is tough, necessary, and at a premium. I’ve been on a month-long discovery process to find how to work more efficiently (in other words: less screen time with more output), produce better, and avoid negative thoughts.'
+modified: 2016-12-08T21:16:02.000Z
 wpid: 4694
+tags:
+  - Personal Development
+  - Social Media
+  - Focus
+  - Twitter
+featured_img: /_images/2016/12/focus-150x150.png
+hn_link: 'https://news.ycombinator.com/item?id=13134394'
 ---
 
 

@@ -1,11 +1,12 @@
 ---
-
-title: "We Need Your Beginner's Mind"
-excerpt: "We need your experiments and your questions and your feedback. Your lack of understanding is a valuable attribute that goes away as you gain experience."
-tags: ["Personal Development", "Team Dynamics", "Portfolio"]
+title: We Need Your Beginner's Mind
+excerpt: We need your experiments and your questions and your feedback. Your lack of understanding is a valuable attribute that goes away as you gain experience.
+tags:
+  - Personal Development
+  - Team Dynamics
+  - Portfolio
 featured_img: /_images/2021/experience_THUMB.jpg
-hn_link: "https://news.ycombinator.com/item?id=29580547"
-
+hn_link: 'https://news.ycombinator.com/item?id=29580547'
 ---
 
 I've been trying to write this post for about a year now. Each time I start, the core of what I'm trying to say somehow slips away as I try to say it. I'll take a break from it, come back, and have to start over. This is the fifth time I've restarted and I feel ridiculous that I can't just get the words out.

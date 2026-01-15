@@ -1,10 +1,11 @@
 ---
-title: "Seasonal web traffic: what to expect and how to improve it"
-excerpt: "Does your traffic dip during the holiday season? Don't freak out, it's completely normal. Here's what happened to me and what can be done."
-modified: 2016-04-01 04:25:16
-tags: ["Analytics"]
-featured_img:
+title: 'Seasonal web traffic: what to expect and how to improve it'
+excerpt: 'Does your traffic dip during the holiday season? Don''t freak out, it''s completely normal. Here''s what happened to me and what can be done.'
+modified: 2016-04-01T04:25:16.000Z
 wpid: 1453
+tags:
+  - Analytics
+featured_img: null
 ---
 
 

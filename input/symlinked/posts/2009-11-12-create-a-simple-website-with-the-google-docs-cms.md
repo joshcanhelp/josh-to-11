@@ -1,10 +1,11 @@
 ---
-title: "Create a simple website with the Google Docs CMS"
-excerpt: "In attempt to solve one problem, I figured out a way to easily publish and manage data on the web by using a simple Google Documents spreadsheet."
-modified: 2016-04-01 04:21:40
-tags: ["Open Source"]
-featured_img:
+title: Create a simple website with the Google Docs CMS
+excerpt: 'In attempt to solve one problem, I figured out a way to easily publish and manage data on the web by using a simple Google Documents spreadsheet.'
+modified: 2016-04-01T04:21:40.000Z
 wpid: 1207
+tags:
+  - Open Source
+featured_img: null
 ---
 
 

@@ -1,10 +1,11 @@
 ---
-title: "Advice to a client: don't just have a great idea and act on it – remember the bottom line too"
-excerpt: ""
-modified: 2016-10-20 16:44:19
-tags: ["Freelancing"]
-featured_img:
+title: 'Advice to a client: don''t just have a great idea and act on it – remember the bottom line too'
+excerpt: 'So you’ve got a great idea, do you?'
+modified: 2016-10-20T16:44:19.000Z
 wpid: 517
+tags:
+  - Freelancing
+featured_img: null
 ---
 
 

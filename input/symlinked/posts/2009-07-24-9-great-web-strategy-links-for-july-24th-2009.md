@@ -1,10 +1,16 @@
 ---
-title: "9 Great Web Strategy Links for July 24th 2009"
-excerpt: "This week I’ve got some great links about SEO, Twitter, and marketing. I save and send out a lot of links during the week and I like going back through them and explaining why I think they are important."
-modified: 2016-10-20 16:44:18
-tags: ["Analytics", "SEO", "Marketing", "Twitter", "Design", "Web Strategy"]
-featured_img:
+title: 9 Great Web Strategy Links for July 24th 2009
+excerpt: 'This week I’ve got some great links about SEO, Twitter, and marketing. I save and send out a lot of links during the week and I like going back through them and explaining why I think they are important.'
+modified: 2016-10-20T16:44:18.000Z
 wpid: 941
+tags:
+  - Analytics
+  - SEO
+  - Marketing
+  - Twitter
+  - Design
+  - Web Strategy
+featured_img: null
 ---
 
 

@@ -1,10 +1,12 @@
 ---
-title: "Fresh cards from Fresh Impressions in Florida"
-excerpt: ""
-modified: 2016-10-20 16:44:20
-tags: ["About JoshCanHelp", "Design"]
-featured_img:
+title: Fresh cards from Fresh Impressions in Florida
+excerpt: 'It’s not everyday, or even every month, that you can do business with a company or individual where you can say you were overjoyed to be their client.'
+modified: 2016-10-20T16:44:20.000Z
 wpid: 325
+tags:
+  - About JoshCanHelp
+  - Design
+featured_img: null
 ---
 
 

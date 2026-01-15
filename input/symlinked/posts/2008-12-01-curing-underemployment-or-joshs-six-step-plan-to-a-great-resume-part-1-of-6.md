@@ -1,10 +1,11 @@
 ---
-title: "Curing Underemployment  (or) Josh’s Six Step Plan to a Great Resume (part 1 of 6)"
-excerpt: ""
-modified: 2016-10-20 16:44:20
-tags: ["Professional Development"]
-featured_img:
+title: Curing Underemployment  (or) Josh’s Six Step Plan to a Great Resume (part 1 of 6)
+excerpt: I’m helping a colleague of mine put together her resume for the first time in many years and I thought I’d share the process with you.
+modified: 2016-10-20T16:44:20.000Z
 wpid: 447
+tags:
+  - Professional Development
+featured_img: null
 ---
 
 

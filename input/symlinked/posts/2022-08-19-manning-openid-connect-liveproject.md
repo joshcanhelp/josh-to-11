@@ -1,12 +1,16 @@
 ---
-title: "Published: Federation and Single Sign-On with OpenID Connect"
-meta_title: "Federation and Single Sign-On with OpenID Connect"
-meta_description: "After over a year's worth of work and a number of delays (on my end), I finally published my first liveProject with Manning!"
+title: 'Published: Federation and Single Sign-On with OpenID Connect'
+excerpt: 'After a years worth of work and a number of delays (on my end), I finally published my first liveProject with Manning!'
+tags:
+  - Software Engineering
+  - Digital Identity
+  - JavaScript + TypeScript
+  - Portfolio
 featured_img: /_images/2022/manning-oidc-diagram-thumb.png
-excerpt: "After a years worth of work and a number of delays (on my end), I finally published my first liveProject with Manning!"
-tags: ["Software Engineering", "Digital Identity", "JavaScript + TypeScript", "Portfolio"]
-link_to: https://www.manning.com/liveprojectseries/federation-and-sign-on-ser
-hn_link:
+hn_link: null
+meta_description: 'After over a year''s worth of work and a number of delays (on my end), I finally published my first liveProject with Manning!'
+meta_title: Federation and Single Sign-On with OpenID Connect
+link_to: 'https://www.manning.com/liveprojectseries/federation-and-sign-on-ser'
 ---
 
 In March of 2021, I received an email out of the blue from Manning Publications asking about my interest in developing an online course that teaches developers skills through real-world use cases. I was in the midst of continued pandemic life with children and finding it difficult to manage what I had already had going on so I was hesitant but interested. Flash forward through 17 months of continued [pandemic life](/how-we-are-teaching-right-now/), lost summer childcare, and a [major family medical emergency](/stroke/), I was finally able to complete this project and get it out into the world!

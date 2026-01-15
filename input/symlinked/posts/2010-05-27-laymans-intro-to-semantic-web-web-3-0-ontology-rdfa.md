@@ -1,10 +1,11 @@
 ---
-title: "A Layman's Intro to the Semantic Web: Web 3.0, ontology, and RDFa"
-excerpt: ""
-modified: 2016-04-03 02:32:59
-tags: ["SEO"]
-featured_img:
+title: 'A Layman''s Intro to the Semantic Web: Web 3.0, ontology, and RDFa'
+excerpt: A recent San Diego Refresh meeting found me in a room full of fellow geeks learning about microdata and the semantic web.
+modified: 2016-04-03T02:32:59.000Z
 wpid: 1596
+tags:
+  - SEO
+featured_img: null
 ---
 
 

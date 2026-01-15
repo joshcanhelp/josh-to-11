@@ -1,10 +1,12 @@
 ---
-title: "RESPONSE ABILITY: An art project to benefit the homeless around the world."
-excerpt: ""
-modified: 2016-03-30 18:30:18
-tags: ["Graffiti", "Design"]
-featured_img:
+title: 'RESPONSE ABILITY: An art project to benefit the homeless around the world.'
+excerpt: 'Cliff notes: Art deadline is January 14th (see below). Join us for the exhibition on Saturday, Jan 16th, at Voz Alta Art Gallery, 1754 National Ave, San Diego, CA 92113.'
+modified: 2016-03-30T18:30:18.000Z
 wpid: 1344
+tags:
+  - Graffiti
+  - Design
+featured_img: null
 ---
 
 

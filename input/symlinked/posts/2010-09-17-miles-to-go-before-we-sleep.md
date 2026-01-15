@@ -1,10 +1,11 @@
 ---
-title: "Miles to go before we sleep"
-excerpt: "Paris is a walking city. Someone told me that before I left San Diego and they were completely correct. If you can’t get there by foot, you walk to the Metro and take the train."
-modified: 2010-09-17 19:04:40
-tags: ["Paris"]
-featured_img: /_images/2010/09/IMG_0513-300x300.jpg
+title: Miles to go before we sleep
+excerpt: 'Paris is a walking city. Someone told me that before I left San Diego and they were completely correct. If you can’t get there by foot, you walk to the Metro and take the train.'
+modified: 2010-09-17T19:04:40.000Z
 wpid: 115
+tags:
+  - Paris
+featured_img: /_images/2010/09/IMG_0513-300x300.jpg
 ---
 
 

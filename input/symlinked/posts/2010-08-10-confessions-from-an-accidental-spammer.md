@@ -1,10 +1,11 @@
 ---
-title: "Confessions from an accidental spammer"
-excerpt: ""
-modified: 2016-04-03 02:32:59
-tags: ["Email"]
-featured_img:
+title: Confessions from an accidental spammer
+excerpt: “Thou shall not spam” is one of the ten commandments of the web.
+modified: 2016-04-03T02:32:59.000Z
 wpid: 1663
+tags:
+  - Email
+featured_img: null
 ---
 
 

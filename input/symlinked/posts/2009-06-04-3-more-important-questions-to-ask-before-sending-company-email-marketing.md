@@ -1,10 +1,12 @@
 ---
-title: "3 MORE Important Questions to Ask Before Sending Company Email Marketing"
-excerpt: "On Monday, I posted 3 questions to ask before sending your email campaign. Today, I’m going to finish up this thought with three more questions."
-modified: 2016-10-20 16:44:18
-tags: ["Email", "Marketing"]
-featured_img:
+title: 3 MORE Important Questions to Ask Before Sending Company Email Marketing
+excerpt: 'On Monday, I posted 3 questions to ask before sending your email campaign. Today, I’m going to finish up this thought with three more questions.'
+modified: 2016-10-20T16:44:18.000Z
 wpid: 796
+tags:
+  - Email
+  - Marketing
+featured_img: null
 ---
 
 

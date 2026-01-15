@@ -1,10 +1,11 @@
 ---
-title: "Search Engine Optimization as a metaphor for life"
-excerpt: ""
-modified: 2016-10-20 16:44:19
-tags: ["SEO"]
-featured_img:
+title: Search Engine Optimization as a metaphor for life
+excerpt: 'I’ve been doing, inadvertently, a lot of thinking and reading about search engine optimization (SEO) lately.'
+modified: 2016-10-20T16:44:19.000Z
 wpid: 470
+tags:
+  - SEO
+featured_img: null
 ---
 
 

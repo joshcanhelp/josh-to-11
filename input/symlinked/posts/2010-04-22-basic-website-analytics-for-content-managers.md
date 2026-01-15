@@ -1,10 +1,11 @@
 ---
-title: "Basic Website Analytics for Content Managers"
-excerpt: "It’s important to keep an eye out for problems, traffic spikes, and a new incoming traffic sources. This guide is a quick overview of basic Google Analytics (GA) for content site managers."
-modified: 2016-04-03 02:32:59
-tags: ["Analytics"]
-featured_img:
+title: Basic Website Analytics for Content Managers
+excerpt: 'It’s important to keep an eye out for problems, traffic spikes, and a new incoming traffic sources. This guide is a quick overview of basic Google Analytics (GA) for content site managers.'
+modified: 2016-04-03T02:32:59.000Z
 wpid: 1539
+tags:
+  - Analytics
+featured_img: null
 ---
 
 

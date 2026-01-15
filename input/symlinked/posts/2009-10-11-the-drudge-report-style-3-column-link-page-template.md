@@ -1,11 +1,12 @@
 ---
-title: "Drudge Report template - 3 column link display page in HTML"
-excerpt: "I started from scratch and made this very simple, lightweight, one-file, one-page site template that mimics the layout of Drudge report with a few extra features."
-modified: 2019-01-08 00:18:32
-tags: ["Open Source"]
-featured_img:
-link_to: https://github.com/joshcanhelp/drudge-report-template
+title: Drudge Report template - 3 column link display page in HTML
+excerpt: 'I started from scratch and made this very simple, lightweight, one-file, one-page site template that mimics the layout of Drudge report with a few extra features.'
+modified: 2019-01-08T00:18:32.000Z
 wpid: 1161
+tags:
+  - Open Source
+featured_img: null
+link_to: 'https://github.com/joshcanhelp/drudge-report-template'
 ---
 
 

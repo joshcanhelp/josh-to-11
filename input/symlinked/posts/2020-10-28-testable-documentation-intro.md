@@ -1,10 +1,14 @@
 ---
-
-title: "Technical Research: Testable Documentation"
-tags: [ "Documentation", "Software Engineering", "Testing", "Auth0", "JavaScript + TypeScript", "Portfolio"]
+title: 'Technical Research: Testable Documentation'
+excerpt: 'I''ve been thinking about documentation quite a bit lately, especially the code-centric type, and how to avoid punishing myself for spending time writing it. Here''s the start of my research project to that end.'
+tags:
+  - Documentation
+  - Software Engineering
+  - Testing
+  - Auth0
+  - JavaScript + TypeScript
+  - Portfolio
 featured_img: /_images/2020/11/IMG_4092-300x300.jpg
-excerpt: I've been thinking about documentation quite a bit lately, especially the code-centric type, and how to avoid punishing myself for spending time writing it. Here's the start of my research project to that end.
-
 ---
 
 One of the best forms of documentation for software is ... software! If you want to do a thing in your application, the best way to get that working is a block of code that already works.

@@ -1,10 +1,12 @@
 ---
-title: "Creating effective email marketing campaigns"
-excerpt: "A presentation on creating great email marketing campaigns along with links to other resources. "
-modified: 2016-10-20 16:44:01
-tags: ["Marketing", "Email"]
-featured_img:
+title: Creating effective email marketing campaigns
+excerpt: 'A presentation on creating great email marketing campaigns along with links to other resources. '
+modified: 2016-10-20T16:44:01.000Z
 wpid: 2246
+tags:
+  - Marketing
+  - Email
+featured_img: null
 ---
 
 

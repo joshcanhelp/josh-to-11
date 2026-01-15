@@ -1,10 +1,12 @@
 ---
-title: "Systematic Goal Elimination"
-excerpt: "I made a few significant life changes to achieve a set of personal goals that I’ve been chasing for years. I think we call this a “resolution” but I’m hesitant to use that colloquialism. These changes need to stay with me for the rest of my life."
-modified: 2016-11-19 23:04:53
-tags: ["Health + Fitness", "Personal Development"]
-featured_img: /_images/2015/01/IMG_0633_fix01-1-150x150.jpg
+title: Systematic Goal Elimination
+excerpt: I made a few significant life changes to achieve a set of personal goals that I’ve been chasing for years. I think we call this a “resolution” but I’m hesitant to use that colloquialism. These changes need to stay with me for the rest of my life.
+modified: 2016-11-19T23:04:53.000Z
 wpid: 378
+tags:
+  - Health + Fitness
+  - Personal Development
+featured_img: /_images/2015/01/IMG_0633_fix01-1-150x150.jpg
 ---
 
 

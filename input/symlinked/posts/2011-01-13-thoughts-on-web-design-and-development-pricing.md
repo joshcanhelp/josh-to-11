@@ -1,10 +1,14 @@
 ---
-title: "Thoughts on web design and development pricing"
-excerpt: ""
-modified: 2016-04-03 02:32:59
-tags: ["Design", "Money", "Software Engineering", "About JoshCanHelp"]
-featured_img:
+title: Thoughts on web design and development pricing
+excerpt: 'When you contact someone like me to design your site or code up an email or put together a WordPress blog, you generally have two ways to pay for this service: by the hour or by the project.'
+modified: 2016-04-03T02:32:59.000Z
 wpid: 1750
+tags:
+  - Design
+  - Money
+  - Software Engineering
+  - About JoshCanHelp
+featured_img: null
 ---
 
 

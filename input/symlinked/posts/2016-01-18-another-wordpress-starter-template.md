@@ -1,11 +1,14 @@
 ---
-title: "A(nother) WordPress Starter Template"
-excerpt: "This theme is an extension of a framework created for a local agency that wanted a way to spin up custom WordPress sites quickly and correctly. It grew into the starting point for all sites that I create."
-modified: 2016-10-20 16:43:59
-tags: ["WordPress", "Open Source", "Portfolio"]
-featured_img: /_images/2016/03/default-img-size-large-150x150.png
-link_to: https://github.com/joshcanhelp/wp-starter
+title: A(nother) WordPress Starter Template
+excerpt: This theme is an extension of a framework created for a local agency that wanted a way to spin up custom WordPress sites quickly and correctly. It grew into the starting point for all sites that I create.
+modified: 2016-10-20T16:43:59.000Z
 wpid: 3892
+tags:
+  - WordPress
+  - Open Source
+  - Portfolio
+featured_img: /_images/2016/03/default-img-size-large-150x150.png
+link_to: 'https://github.com/joshcanhelp/wp-starter'
 ---
 
 

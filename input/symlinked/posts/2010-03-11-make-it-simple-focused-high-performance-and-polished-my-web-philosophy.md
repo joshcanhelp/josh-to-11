@@ -1,10 +1,15 @@
 ---
-title: "Make it Simple, Focused, High-Performance, and Polished: My Web Philosophy"
-excerpt: ""
-modified: 2016-04-01 04:26:01
-tags: ["About JoshCanHelp", "Design", "Site Optimization", "SEO", "Social Media"]
-featured_img:
+title: 'Make it Simple, Focused, High-Performance, and Polished: My Web Philosophy'
+excerpt: I was asked recently by a potential client what my “philosophy of the web” is.
+modified: 2016-04-01T04:26:01.000Z
 wpid: 1471
+tags:
+  - About JoshCanHelp
+  - Design
+  - Site Optimization
+  - SEO
+  - Social Media
+featured_img: null
 ---
 
 

@@ -1,10 +1,12 @@
 ---
-title: "What to do with great ideas (part 1)"
-excerpt: ""
-modified: 2016-10-20 16:44:20
-tags: ["Marketing", "Professional Development"]
-featured_img:
+title: What to do with great ideas (part 1)
+excerpt: 'I read somewhere that the worst thing that could happen to someone, especially someone with any kind of entrepreneurial spirit, is a great idea.'
+modified: 2016-10-20T16:44:20.000Z
 wpid: 351
+tags:
+  - Marketing
+  - Professional Development
+featured_img: null
 ---
 
 

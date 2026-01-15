@@ -1,9 +1,10 @@
 ---
-
-title: "A Moment in Time During the Pandemic"
-tags: ["COVID-19", "Auth0", "Seattle"]
-excerpt: "The first time things started getting real for me during this Coronavirus pandemic was at the end of February. The pandemic, however, had already started."
-
+title: A Moment in Time During the Pandemic
+excerpt: 'The first time things started getting real for me during this Coronavirus pandemic was at the end of February. The pandemic, however, had already started.'
+tags:
+  - Covid 19
+  - Auth0
+  - Seattle
 ---
 
 The first time things started getting real for me during this Coronavirus pandemic was at the end of February. The pandemic had already started, though:

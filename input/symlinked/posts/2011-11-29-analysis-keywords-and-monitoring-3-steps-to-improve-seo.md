@@ -1,10 +1,12 @@
 ---
-title: "Improve Site SEO in 3 Steps: Analysis, Keywords & Monitoring"
-excerpt: ""
-modified: 2016-10-20 16:44:00
-tags: ["Analytics", "SEO"]
-featured_img:
+title: 'Improve Site SEO in 3 Steps: Analysis, Keywords & Monitoring'
+excerpt: 'I’ll just say it right up front: the target audience for this post is for business owners and entrepreneurs who are online and understand the importance of optimizing their site for search but aren’t sure where to start.'
+modified: 2016-10-20T16:44:00.000Z
 wpid: 2574
+tags:
+  - Analytics
+  - SEO
+featured_img: null
 ---
 
 

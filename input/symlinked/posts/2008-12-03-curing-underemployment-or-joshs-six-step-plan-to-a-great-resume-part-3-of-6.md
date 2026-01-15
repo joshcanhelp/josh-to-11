@@ -1,10 +1,11 @@
 ---
-title: "Curing Underemployment (or) Josh’s Six Step Plan to a Great Resume (part 3 of 6)"
-excerpt: ""
-modified: 2016-10-20 16:44:19
-tags: ["Professional Development"]
-featured_img:
+title: Curing Underemployment (or) Josh’s Six Step Plan to a Great Resume (part 3 of 6)
+excerpt: 'A personal statement, also known as an objective, is, in your own words, why the job you’re trying to get is good for you.'
+modified: 2016-10-20T16:44:19.000Z
 wpid: 451
+tags:
+  - Professional Development
+featured_img: null
 ---
 
 

@@ -1,10 +1,14 @@
 ---
-title: "Learnings from Full Time Primary Interrupt (On-Call)"
-meta_description: "What I learned spending a month as the primary on-call for an open source support team."
+title: Learnings from Full Time Primary Interrupt (On-Call)
+excerpt: What I learned spending a month as the primary on-call for an open source support team.
+tags:
+  - Team Dynamics
+  - Software Engineering
+  - Open Source
+  - Portfolio
 featured_img: /_images/default-thumb.png
-excerpt: "What I learned spending a month as the primary on-call for an open source support team."
-tags: ["Team Dynamics", "Software Engineering", "Open Source", "Portfolio"]
-hn_link:
+hn_link: null
+meta_description: What I learned spending a month as the primary on-call for an open source support team.
 ---
 
 I’ve spent close to a month on partial and full goalie rotation for a team providing open-source SDKs to Auth0 customers and wanted to write out a few of my thoughts on the experience. Overall, I found the experience both satisfying and fun as well as exhausting and frustrating. 

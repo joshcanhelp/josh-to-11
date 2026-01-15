@@ -1,7 +1,8 @@
 ---
-title: "Eating: Half of the Equation"
-excerpt: "Read the title of this and commit it to memory; this is your mantra for losing weight and keeping it off."
-tags: ["Health + Fitness"]
+title: 'Eating: Half of the Equation'
+excerpt: Read the title of this and commit it to memory; this is your mantra for losing weight and keeping it off.
+tags:
+  - Health + Fitness
 featured_img: /_images/2021/peppers-and-tomatoes_THUMB.jpg
 ---
 

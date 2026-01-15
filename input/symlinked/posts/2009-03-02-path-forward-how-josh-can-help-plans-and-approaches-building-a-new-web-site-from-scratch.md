@@ -1,10 +1,12 @@
 ---
-title: "Path forward: How Josh Can Help Plans and Approaches Building a New Web Site from Scratch"
-excerpt: "When I create a website, I have a plan but it might be good to share this with everyone who is curious about what goes into building a web site from scratch."
-modified: 2016-10-20 16:44:19
-tags: ["Design", "Web Strategy"]
-featured_img:
+title: 'Path forward: How Josh Can Help Plans and Approaches Building a New Web Site from Scratch'
+excerpt: 'When I create a website, I have a plan but it might be good to share this with everyone who is curious about what goes into building a web site from scratch.'
+modified: 2016-10-20T16:44:19.000Z
 wpid: 619
+tags:
+  - Design
+  - Web Strategy
+featured_img: null
 ---
 
 

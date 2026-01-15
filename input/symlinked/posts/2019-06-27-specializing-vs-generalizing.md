@@ -1,10 +1,10 @@
 ---
-
-title: "Specializing vs Generalizing"
-excerpt: "Should you specialize and go deep or generalize and go broad? I'd argue they they are two sides of the same coin."
-tags: ["Personal Development", "Portfolio"]
+title: Specializing vs Generalizing
+excerpt: Should you specialize and go deep or generalize and go broad? I'd argue they they are two sides of the same coin.
+tags:
+  - Personal Development
+  - Portfolio
 featured_img: /_images/2019/06/i-dont-know.png
-
 ---
 
 So, you want to be a generalist! **Great!** Generalists get better job offers, have secret powers, and are better than specialists. They also kill sales pipelines and and can’t be afforded.

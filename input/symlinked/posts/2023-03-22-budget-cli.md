@@ -1,11 +1,15 @@
 ---
-title: "Scratching an Itch: Command Line Budgeting"
-meta_title: "Command Line Budgeting Tool in TypeScript"
-tags: ["Money", "JavaScript + TypeScript", "Personal Data", "Portfolio"]
+title: 'Scratching an Itch: Command Line Budgeting'
+excerpt: 'After over a decade of trying to budget using existing tools, I decide to write my own in TypeScript. It turned out great!'
+tags:
+  - Money
+  - JavaScript + TypeScript
+  - Personal Data
+  - Portfolio
 featured_img: /_images/2023/budget-cli-thumb.png
-excerpt: "After over a decade of trying to budget using existing tools, I decide to write my own in TypeScript. It turned out great!"
-link_to: https://github.com/joshcanhelp/budget-cli
-hn_link: https://news.ycombinator.com/item?id=35269010
+hn_link: 'https://news.ycombinator.com/item?id=35269010'
+meta_title: Command Line Budgeting Tool in TypeScript
+link_to: 'https://github.com/joshcanhelp/budget-cli'
 ---
 
 I learned a little while back that I have a funny relationship with money. I'm not a miser but I've adopted two money concepts that make me more careful than I probably need to be:

@@ -1,10 +1,12 @@
 ---
-title: "Free Excel Invoice Template"
-excerpt: "I just recently made an invoice for myself and thought I would share it with the world! It’s clean, simple, and easy to use."
-modified: 2016-04-01 01:37:30
-tags: ["Freelancing", "Throwback"]
-featured_img: /_images/2008/04/excel_2007_logo.png
+title: Free Excel Invoice Template
+excerpt: 'I just recently made an invoice for myself and thought I would share it with the world! It’s clean, simple, and easy to use.'
+modified: 2016-04-01T01:37:30.000Z
 wpid: 12
+tags:
+  - Freelancing
+  - Throwback
+featured_img: /_images/2008/04/excel_2007_logo.png
 ---
 
 I just recently made an invoice for myself and thought I would share it with the world!

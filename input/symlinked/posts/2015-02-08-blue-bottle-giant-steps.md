@@ -1,11 +1,12 @@
 ---
-title: "Blue Bottle Giant Steps"
-excerpt: ""
-modified: 2016-01-19 04:20:04
-tags: ["Food + Drink"]
-featured_img: /_images/2015/02/blue_bottle_giant_steps-150x150.jpg
-link_to: https://bluebottlecoffee.com/store/giant-steps
+title: Blue Bottle Giant Steps
+excerpt: 'This is just a quick review since I bought this and promptly drank it quickly without thinking about taking notes. Unforgivable? Possibly, but I hope you give me the benefit of the doubt here.'
+modified: 2016-01-19T04:20:04.000Z
 wpid: 97
+tags:
+  - Food + Drink
+featured_img: /_images/2015/02/blue_bottle_giant_steps-150x150.jpg
+link_to: 'https://bluebottlecoffee.com/store/giant-steps'
 ---
 
 

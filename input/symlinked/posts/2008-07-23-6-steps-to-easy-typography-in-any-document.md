@@ -1,10 +1,11 @@
 ---
-title: "6 steps to easy typography in any document"
-excerpt: "This small primer serves as either an introduction to typography or all the information you’ll ever need to know as a non-designer."
-modified: 2016-04-03 02:33:18
-tags: ["Design"]
-featured_img:
+title: 6 steps to easy typography in any document
+excerpt: This small primer serves as either an introduction to typography or all the information you’ll ever need to know as a non-designer.
+modified: 2016-04-03T02:33:18.000Z
 wpid: 40
+tags:
+  - Design
+featured_img: null
 ---
 
 **This is a guide I wrote several months back. I have it posted on my homepage and at Squidoo but my homepage is going away in favor of a much simpler system so I wanted to move this. It’s also a bit more visible here, where I’m getting hits, rather than on the homepage, where I’m getting no hits! FYI, I also added a new, very important step (#5)…**

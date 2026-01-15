@@ -1,10 +1,11 @@
 ---
-title: "I am an FFK... nice to meet you"
-excerpt: "FFK stands for Former Fat Kid. If you were fat in a previous life and have certain tendencies that make it tough to maintain weight loss then you’re an FFK."
-modified: 2009-07-31 17:57:22
-tags: ["Health + Fitness"]
-featured_img:
+title: I am an FFK... nice to meet you
+excerpt: FFK stands for Former Fat Kid. If you were fat in a previous life and have certain tendencies that make it tough to maintain weight loss then you’re an FFK.
+modified: 2009-07-31T17:57:22.000Z
 wpid: 3
+tags:
+  - Health + Fitness
+featured_img: null
 ---
 
 

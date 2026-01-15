@@ -1,10 +1,11 @@
 ---
-title: "Josh Can Help brings you: 2009 Technology Resolutions"
-excerpt: ""
-modified: 2016-10-20 16:44:19
-tags: ["About JoshCanHelp"]
-featured_img:
+title: 'Josh Can Help brings you: 2009 Technology Resolutions'
+excerpt: 'I think resolutions are probably a good idea for the most part (lose weight, exercise more, smoke less/no more crack) but, psychologically, they just don’t work.'
+modified: 2016-10-20T16:44:19.000Z
 wpid: 479
+tags:
+  - About JoshCanHelp
+featured_img: null
 ---
 
 

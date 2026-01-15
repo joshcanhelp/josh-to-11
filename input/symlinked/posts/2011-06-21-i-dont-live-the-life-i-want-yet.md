@@ -1,10 +1,12 @@
 ---
-title: "I Don't Live the Life I Want (yet)"
-excerpt: ""
-modified: 2016-10-20 16:44:01
-tags: ["About JoshCanHelp", "Personal Development"]
-featured_img:
+title: I Don't Live the Life I Want (yet)
+excerpt: I wonder if there is an English word that describes a state of being where you want so much for your life to change but you take nothing that you have for granted.
+modified: 2016-10-20T16:44:01.000Z
 wpid: 2218
+tags:
+  - About JoshCanHelp
+  - Personal Development
+featured_img: null
 ---
 
 

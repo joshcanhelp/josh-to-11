@@ -1,10 +1,14 @@
 ---
-title: "What to do with downtime: slow-going tips post #1"
-excerpt: ""
-modified: 2016-10-20 16:44:20
-tags: ["Freelancing", "Email", "Marketing", "SEO" ]
-featured_img:
+title: 'What to do with downtime: slow-going tips post #1'
+excerpt: Anyone charged with finding business for themselves dreams of the days when you’ll be able to reject more projects then you take.
+modified: 2016-10-20T16:44:20.000Z
 wpid: 334
+tags:
+  - Freelancing
+  - Email
+  - Marketing
+  - SEO
+featured_img: null
 ---
 
 

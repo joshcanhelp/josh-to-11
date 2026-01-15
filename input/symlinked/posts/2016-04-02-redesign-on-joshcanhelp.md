@@ -1,10 +1,13 @@
 ---
-title: "Redesign on JoshCanHelp"
-excerpt: "A few details about the current (5th) iteration of this site. "
-modified: 2016-11-02 22:10:59
-tags: ["Design", "About JoshCanHelp", "WordPress"]
-featured_img: /_images/2016/10/IMG_0326-150x150.jpg
+title: Redesign on JoshCanHelp
+excerpt: 'A few details about the current (5th) iteration of this site. '
+modified: 2016-11-02T22:10:59.000Z
 wpid: 4573
+tags:
+  - Design
+  - About JoshCanHelp
+  - WordPress
+featured_img: /_images/2016/10/IMG_0326-150x150.jpg
 ---
 
 

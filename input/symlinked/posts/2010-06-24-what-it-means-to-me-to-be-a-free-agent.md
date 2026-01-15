@@ -1,10 +1,14 @@
 ---
-title: "What it means to me to be a free agent"
-excerpt: "My answers to the 16 questions for people making a living as a free agent."
-modified: 2016-04-03 02:32:59
-tags: ["Customer Service", "Freelancing", "About JoshCanHelp", "Professional Development"]
-featured_img:
+title: What it means to me to be a free agent
+excerpt: My answers to the 16 questions for people making a living as a free agent.
+modified: 2016-04-03T02:32:59.000Z
 wpid: 1626
+tags:
+  - Customer Service
+  - Freelancing
+  - About JoshCanHelp
+  - Professional Development
+featured_img: null
 ---
 
 

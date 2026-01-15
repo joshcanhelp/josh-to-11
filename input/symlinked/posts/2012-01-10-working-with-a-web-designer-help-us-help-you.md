@@ -1,10 +1,12 @@
 ---
-title: "Working with a web designer: help us help you"
-excerpt: "This post is about helping me help you to come up with the best design we possibly can."
-modified: 2016-10-20 16:44:00
-tags: ["Design", "Web Strategy"]
-featured_img:
+title: 'Working with a web designer: help us help you'
+excerpt: This post is about helping me help you to come up with the best design we possibly can.
+modified: 2016-10-20T16:44:00.000Z
 wpid: 2679
+tags:
+  - Design
+  - Web Strategy
+featured_img: null
 ---
 
 

@@ -1,10 +1,11 @@
 ---
-
-title: "Accept-Encoding, Content-Encoding, and ERR CONTENT DECODING FAILED"
+title: 'Accept-Encoding, Content-Encoding, and ERR CONTENT DECODING FAILED'
 excerpt: An error message in a browser-based app lead to some digging and learning about content encoding and negotiation.
-tags: [ "Site Optimization", "Software Engineering", "Portfolio" ]
+tags:
+  - Site Optimization
+  - Software Engineering
+  - Portfolio
 featured_img: /_images/2021/content-negotiation.jpg
-
 ---
 
 I was testing an application deployed in a new environment recently and was noticing a difference in behavior between the new environment and the old one. HTTP requests from the browser to our API endpoints were showing a status code of `200` (successful) but failed with an error:

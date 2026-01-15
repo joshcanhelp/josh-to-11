@@ -1,10 +1,12 @@
 ---
-title: "Share Facebook Page Items to your Profile"
-excerpt: ""
-modified: 2016-10-20 16:44:00
-tags: ["Facebook", "Social Media"]
-featured_img:
+title: Share Facebook Page Items to your Profile
+excerpt: Facebook is like a smartphone.
+modified: 2016-10-20T16:44:00.000Z
 wpid: 2502
+tags:
+  - Facebook
+  - Social Media
+featured_img: null
 ---
 
 

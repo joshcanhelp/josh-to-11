@@ -1,10 +1,11 @@
 ---
-title: "Quora: Are CMSs are more awkward than helpful a lot of the time?"
-excerpt: "It took me a long time (4 years) to get to the point where almost every project I get is built in WordPress and I'll tell you the 3 keys to getting it right, for yourself and with clients."
-modified: 2016-11-02 22:11:00
-tags: ["WordPress"]
-featured_img:
+title: 'Quora: Are CMSs are more awkward than helpful a lot of the time?'
+excerpt: 'It took me a long time (4 years) to get to the point where almost every project I get is built in WordPress and I''ll tell you the 3 keys to getting it right, for yourself and with clients.'
+modified: 2016-11-02T22:11:00.000Z
 wpid: 3984
+tags:
+  - WordPress
+featured_img: null
 ---
 
 

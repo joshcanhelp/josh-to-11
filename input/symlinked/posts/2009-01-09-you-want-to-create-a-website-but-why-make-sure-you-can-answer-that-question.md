@@ -1,10 +1,12 @@
 ---
-title: "You want to create a website but why? Make sure you can answer that question..."
-excerpt: ""
-modified: 2016-10-20 16:44:19
-tags: ["Marketing", "Web Strategy"]
-featured_img:
+title: You want to create a website but why? Make sure you can answer that question...
+excerpt: The urge to create a website comes from many different places and can be motivated by a number of different ends.
+modified: 2016-10-20T16:44:19.000Z
 wpid: 484
+tags:
+  - Marketing
+  - Web Strategy
+featured_img: null
 ---
 
 

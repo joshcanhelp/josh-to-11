@@ -1,10 +1,11 @@
 ---
-title: "Creating a functional, useable, linkable website: start and maintain a blog"
-excerpt: ""
-modified: 2016-10-20 16:44:19
-tags: ["Web Strategy"]
-featured_img:
+title: 'Creating a functional, useable, linkable website: start and maintain a blog'
+excerpt: 'There is nothing better for search results, returning visitors, and web loyalty than a useful and oft-updated blog feed.'
+modified: 2016-10-20T16:44:19.000Z
 wpid: 529
+tags:
+  - Web Strategy
+featured_img: null
 ---
 
 

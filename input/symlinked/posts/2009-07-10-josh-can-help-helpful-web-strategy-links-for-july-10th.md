@@ -1,10 +1,14 @@
 ---
-title: "Josh Can Help: Helpful web strategy links for July 10th"
-excerpt: "Every Friday, I’m going to collect the best links I’ve saved and sent out and list out the ones I think the are the most useful."
-modified: 2016-10-20 16:44:18
-tags: ["Facebook", "Twitter", "Social Media", "Web Strategy"]
-featured_img:
+title: 'Josh Can Help: Helpful web strategy links for July 10th'
+excerpt: 'Every Friday, I’m going to collect the best links I’ve saved and sent out and list out the ones I think the are the most useful.'
+modified: 2016-10-20T16:44:18.000Z
 wpid: 895
+tags:
+  - Facebook
+  - Twitter
+  - Social Media
+  - Web Strategy
+featured_img: null
 ---
 
 

@@ -1,10 +1,13 @@
 ---
-title: "New Business Card Design"
-excerpt: "Layer-by-layer, inch-by-inch. The message is more effective as a snowball, building momentum and speed and power and influence over time, than as one massive onslaught. A better presence is made by just that: presence."
-modified: 2016-04-01 01:18:42
-tags: ["Design", "Marketing", "About JoshCanHelp"]
-featured_img: /_images/2008/04/biz_card_v2_245x245.jpg
+title: New Business Card Design
+excerpt: 'Layer-by-layer, inch-by-inch. The message is more effective as a snowball, building momentum and speed and power and influence over time, than as one massive onslaught. A better presence is made by just that: presence.'
+modified: 2016-04-01T01:18:42.000Z
 wpid: 11
+tags:
+  - Design
+  - Marketing
+  - About JoshCanHelp
+featured_img: /_images/2008/04/biz_card_v2_245x245.jpg
 ---
 
 Sharing the front face of my next business card:

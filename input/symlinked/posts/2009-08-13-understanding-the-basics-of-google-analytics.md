@@ -1,10 +1,13 @@
 ---
-title: "Google Analytics Basics"
-excerpt: "Knowing what pages are the most popular, what keywords people are using to find you, and where people are going paint a picture about your customers."
-modified: 2016-10-20 16:44:18
-tags: ["Analytics", "Site Optimization", "SEO"]
-featured_img:
+title: Google Analytics Basics
+excerpt: 'Knowing what pages are the most popular, what keywords people are using to find you, and where people are going paint a picture about your customers.'
+modified: 2016-10-20T16:44:18.000Z
 wpid: 983
+tags:
+  - Analytics
+  - Site Optimization
+  - SEO
+featured_img: null
 ---
 
 

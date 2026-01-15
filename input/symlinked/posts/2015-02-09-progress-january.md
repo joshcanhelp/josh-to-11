@@ -1,8 +1,10 @@
 ---
-title: "Progress In January"
-excerpt: "In keeping with the theme of sharing my journey to eliminate goals, I wanted to share an update on how January went."
-modified: 2016-11-19 22:59:54
-tags: ["Health + Fitness", "Personal Data"]
+title: Progress In January
+excerpt: 'In keeping with the theme of sharing my journey to eliminate goals, I wanted to share an update on how January went.'
+modified: 2016-11-19T22:59:54.000Z
+tags:
+  - Health + Fitness
+  - Personal Data
 featured_img: /_images/2016/11/img_3811-150x150.jpg
 ---
 

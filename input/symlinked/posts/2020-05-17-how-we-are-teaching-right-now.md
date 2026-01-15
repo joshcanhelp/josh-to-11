@@ -1,10 +1,9 @@
 ---
-
-title: "How we are teaching right now"
-excerpt: "This is not a guide on how to teach your child. I have not figured out how to do that with my own, let alone yours. This is just one family's story about trying, failing, and trying again."
-tags: ["COVID-19"]
+title: How we are teaching right now
+excerpt: 'This is not a guide on how to teach your child. I have not figured out how to do that with my own, let alone yours. This is just one family''s story about trying, failing, and trying again.'
+tags:
+  - Covid 19
 featured_img: /_images/2020/05/lego-baby.jpg
-
 ---
 
 

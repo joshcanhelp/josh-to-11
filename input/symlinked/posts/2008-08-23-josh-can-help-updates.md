@@ -1,10 +1,12 @@
 ---
-title: "Josh Can Help updates..."
-excerpt: "I meant to use this blog as a place to update information about my business and maybe some relevant personal stuff but I’m so boring that all I write about is work and coding!"
-modified: 2016-10-20 16:44:21
-tags: ["About JoshCanHelp", "Design"]
-featured_img:
+title: Josh Can Help updates...
+excerpt: I meant to use this blog as a place to update information about my business and maybe some relevant personal stuff but I’m so boring that all I write about is work and coding!
+modified: 2016-10-20T16:44:21.000Z
 wpid: 203
+tags:
+  - About JoshCanHelp
+  - Design
+featured_img: null
 ---
 
 

@@ -1,10 +1,13 @@
 ---
-title: "Why Open Source? Why For Sale?"
-excerpt: "A question I’m often asked by friends and colleagues is how I decide what I sell and what I give away. There’s no formula but there is a rationale."
-modified: 2016-10-20 16:44:00
-tags: ["Software Engineering", "Web Strategy", "Open Source"]
-featured_img:
+title: Why Open Source? Why For Sale?
+excerpt: A question I’m often asked by friends and colleagues is how I decide what I sell and what I give away. There’s no formula but there is a rationale.
+modified: 2016-10-20T16:44:00.000Z
 wpid: 1786
+tags:
+  - Software Engineering
+  - Web Strategy
+  - Open Source
+featured_img: null
 ---
 
 

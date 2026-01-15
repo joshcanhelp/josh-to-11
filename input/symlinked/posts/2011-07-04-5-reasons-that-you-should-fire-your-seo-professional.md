@@ -1,10 +1,12 @@
 ---
-title: "5 Reasons You Should Fire Your SEO \"Professional\""
-excerpt: ""
-modified: 2016-10-20 16:44:00
-tags: ["SEO", "Web Strategy"]
-featured_img:
+title: 5 Reasons You Should Fire Your SEO "Professional"
+excerpt: 'Every industry has it’s scumbags, scammers, and liars.'
+modified: 2016-10-20T16:44:00.000Z
 wpid: 2262
+tags:
+  - SEO
+  - Web Strategy
+featured_img: null
 ---
 
 

@@ -1,10 +1,11 @@
 ---
-title: "Recommended reading for web site owners"
-excerpt: "These are must-reads for anyone who has or thinks they should have a website out there and gathering eyeballs."
-modified: 2016-10-20 16:44:17
-tags: ["Web Strategy"]
-featured_img:
+title: Recommended reading for web site owners
+excerpt: These are must-reads for anyone who has or thinks they should have a website out there and gathering eyeballs.
+modified: 2016-10-20T16:44:17.000Z
 wpid: 1132
+tags:
+  - Web Strategy
+featured_img: null
 ---
 
 

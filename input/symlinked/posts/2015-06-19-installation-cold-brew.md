@@ -1,10 +1,11 @@
 ---
-title: "Installation Cold Brew: Buzz King"
-excerpt: ""
-modified: 2016-01-19 04:20:04
-tags: ["Food + Drink"]
-featured_img: /_images/2015/06/IMG_3478-e1434732782486-150x150.jpg
+title: 'Installation Cold Brew: Buzz King'
+excerpt: 'If you look around this site a bit, you might get the impression that I like cold brew coffee. This is the correct impression to have; I do.'
+modified: 2016-01-19T04:20:04.000Z
 wpid: 119
+tags:
+  - Food + Drink
+featured_img: /_images/2015/06/IMG_3478-e1434732782486-150x150.jpg
 ---
 
 

@@ -1,10 +1,13 @@
 ---
-title: "How I explained WTF Twitter is to my Dad"
-excerpt: "My dad and I have been working on a plan for a website to promote his business valuation report for a few months now. The site that inevitably came up that was Twitter."
-modified: 2016-10-20 16:44:18
-tags: [ "Twitter", "Social Media", "Marketing"]
-featured_img: /_images/2009/06/joshcanhelp-twitter-page-186x186.png
+title: How I explained WTF Twitter is to my Dad
+excerpt: My dad and I have been working on a plan for a website to promote his business valuation report for a few months now. The site that inevitably came up that was Twitter.
+modified: 2016-10-20T16:44:18.000Z
 wpid: 806
+tags:
+  - Twitter
+  - Social Media
+  - Marketing
+featured_img: /_images/2009/06/joshcanhelp-twitter-page-186x186.png
 ---
 
 

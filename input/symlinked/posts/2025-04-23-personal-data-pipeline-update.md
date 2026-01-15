@@ -1,8 +1,13 @@
 ---
-title: "Personal Data Pipeline Update"
-excerpt: "Taking a step forward on the Personal Data Pipeline project by autoloading JSON and adding an interface for data transformation."
+title: Personal Data Pipeline Update
+excerpt: Taking a step forward on the Personal Data Pipeline project by autoloading JSON and adding an interface for data transformation.
+tags:
+  - Software Engineering
+  - Personal Data
+  - Obsidian
+  - Open Source
+  - Portfolio
 featured_img: /_images/2025/pipes_THUMB.jpg
-tags: ["Software Engineering", "Personal Data", "Obsidian", "Open Source", "Portfolio"]
 ---
 I started my journey with the [Personal Data Pipeline project](https://www.joshcanhelp.com/personal-data-pipeline/) early last year and you can see in that post my initial motivations and how far I got with the concept. What I wanted out of getting this live was to get a sense of whether or not this idea would actually work and if it resonated with "the world" at large. I didn't get a 6-figure Patreon sponsorship or anything but I connected with a few like-minded folks, learned about some interesting pieces of technology out there, and got the attention of a company that offered me a job. All-in-all, I would call that a success!
 

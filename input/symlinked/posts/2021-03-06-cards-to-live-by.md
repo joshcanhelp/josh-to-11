@@ -1,11 +1,9 @@
 ---
 title: Cards to Live By
 excerpt: A little system I use to remember what's important to focus on during the day.
-tags:
-  - Personal Development
-  - Health + Fitness
+tags: []
 featured_img: /_images/2021/02/cards_to_live_by_THUMB.jpg
-twitter:
+twitter: null
 ---
 
 One day last November, I tried to build a morning ritual I could stick to. Nothing crazy, just a handful of things I wanted to do each day like drink a big glass of water, stretch, meditate, take vitamins, acting like an adult. One of the things on that list was to review a list of phrases I wanted to keep in mind throughout the day. 

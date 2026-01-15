@@ -1,7 +1,11 @@
 ---
-title: "Building a Community Curation Theme: The Making of Rank It WP"
-excerpt: "I’ve been working on a new theme over the last few months and, now that it’s ready for use, I wanted to walk through how it was built. This is definitely the most technically-involved theme I’ve ever built and I learned a lot (more) about WordPress in the process."
-tags: ["WordPress", "Community", "Software Engineering", "Portfolio"]
+title: 'Building a Community Curation Theme: The Making of Rank It WP'
+excerpt: "I’ve been working on a new theme over the last few months and, now that it’s ready for use, I wanted to walk through\_how it was built. This is definitely the most technically-involved theme I’ve ever built and I learned a lot (more) about WordPress in the process."
+tags:
+  - WordPress
+  - Community
+  - Software Engineering
+  - Portfolio
 featured_img: /_images/2015/01/rank-it-wp-logo-SQ-150x150.png
 ---
 

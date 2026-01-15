@@ -1,10 +1,12 @@
 ---
-title: "Information Reservoirs (or) How I Keep Track of a Large Amount of Incoming Information"
-excerpt: ""
-modified: 2016-10-20 16:44:19
-tags: ["Social Media", "Personal Data"]
-featured_img: /_images/2009/02/info_overload-150x150.jpg
+title: Information Reservoirs (or) How I Keep Track of a Large Amount of Incoming Information
+excerpt: 'A couple of months ago, I felt so overwhelmed and inundated by the amount of information I came across on the regular that I sat up for almost two hours with a pen and a pad of paper trying to sket...'
+modified: 2016-10-20T16:44:19.000Z
 wpid: 586
+tags:
+  - Social Media
+  - Personal Data
+featured_img: /_images/2009/02/info_overload-150x150.jpg
 ---
 
 

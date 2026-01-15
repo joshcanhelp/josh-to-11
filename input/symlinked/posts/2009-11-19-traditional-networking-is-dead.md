@@ -1,10 +1,12 @@
 ---
-title: "Traditional networking is dead"
-excerpt: "I think I’ve found my calling: exchanging ideas and talking them through. What’s that pay nowadays?"
-modified: 2016-04-01 04:12:24
-tags: ["Marketing", "Social Media"]
-featured_img: /_images/2009/11/308357541_222d1b2e2a-150x150.jpg
+title: Traditional networking is dead
+excerpt: 'I think I’ve found my calling: exchanging ideas and talking them through. What’s that pay nowadays?'
+modified: 2016-04-01T04:12:24.000Z
 wpid: 1216
+tags:
+  - Marketing
+  - Social Media
+featured_img: /_images/2009/11/308357541_222d1b2e2a-150x150.jpg
 ---
 
 

@@ -1,10 +1,12 @@
 ---
-title: "Essential Hardware And Software for Virtual Employees and Contractors"
-excerpt: ""
-modified: 2016-04-01 04:25:26
-tags: ["Hardware", "Throwback"]
-featured_img:
+title: Essential Hardware And Software for Virtual Employees and Contractors
+excerpt: '8 months ago, I was able to make the switch to being a completely virtual worker.'
+modified: 2016-04-01T04:25:26.000Z
 wpid: 1405
+tags:
+  - Hardware
+  - Throwback
+featured_img: null
 ---
 
 

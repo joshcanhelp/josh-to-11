@@ -1,10 +1,12 @@
 ---
-title: "Create your own Social Network or Online Community - 10 tools"
-excerpt: "Here are 10 tools you can use to create a community or social network online for free (in most cases)."
-modified: 2016-10-20 16:44:00
-tags: ["Community", "Web Strategy"]
-featured_img:
+title: Create your own Social Network or Online Community - 10 tools
+excerpt: Here are 10 tools you can use to create a community or social network online for free (in most cases).
+modified: 2016-10-20T16:44:00.000Z
 wpid: 1870
+tags:
+  - Community
+  - Web Strategy
+featured_img: null
 ---
 
 

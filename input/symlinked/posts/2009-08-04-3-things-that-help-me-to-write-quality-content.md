@@ -1,10 +1,13 @@
 ---
-title: "3 things that help me to write quality content"
-excerpt: "I am fascinated by how people are able (or unable) to consume the amount of information that is available on so many topics. I am also perpetually interested in improving my own ability at presenting information."
-modified: 2016-10-20 16:44:18
-tags: ["Writing + Publishing", "Writing + Publishing", "About JoshCanHelp"]
-featured_img: /_images/2009/08/eee-writing-150x150.jpg
+title: 3 things that help me to write quality content
+excerpt: I am fascinated by how people are able (or unable) to consume the amount of information that is available on so many topics. I am also perpetually interested in improving my own ability at presenting information.
+modified: 2016-10-20T16:44:18.000Z
 wpid: 977
+tags:
+  - Writing + Publishing
+  - Writing + Publishing
+  - About JoshCanHelp
+featured_img: /_images/2009/08/eee-writing-150x150.jpg
 ---
 
 

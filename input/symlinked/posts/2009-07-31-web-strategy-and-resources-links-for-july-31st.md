@@ -1,10 +1,13 @@
 ---
-title: "Web strategy and resources links for July 31st"
-excerpt: ""
-modified: 2016-10-20 16:44:18
-tags: ["Design", "Social Media", "Web Strategy"]
-featured_img:
+title: Web strategy and resources links for July 31st
+excerpt: 'Once again, here are my Friday web strategy links.'
+modified: 2016-10-20T16:44:18.000Z
 wpid: 973
+tags:
+  - Design
+  - Social Media
+  - Web Strategy
+featured_img: null
 ---
 
 

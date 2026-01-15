@@ -1,10 +1,12 @@
 ---
-title: "One component of Josh Can Help's website philosophy - Understanding"
-excerpt: "One of the most challenging and interesting parts of what I do is bridging the gap between potentially confusing technology and people who are far removed from how it works."
-modified: 2016-10-20 16:44:21
-tags: ["Design", "Web Strategy"]
-featured_img:
+title: One component of Josh Can Help's website philosophy - Understanding
+excerpt: One of the most challenging and interesting parts of what I do is bridging the gap between potentially confusing technology and people who are far removed from how it works.
+modified: 2016-10-20T16:44:21.000Z
 wpid: 210
+tags:
+  - Design
+  - Web Strategy
+featured_img: null
 ---
 
 

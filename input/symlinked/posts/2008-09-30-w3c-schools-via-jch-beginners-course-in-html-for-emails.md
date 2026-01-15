@@ -1,10 +1,11 @@
 ---
-title: "W3C Schools (via JCH) Beginner's Course in HTML for Emails"
-excerpt: "I bring to you the W3C (via JCH) Beginner’s Course in HTML for Emails. A list of classes on the W3C site along with instructions for how to use it."
-modified: 2016-10-20 16:44:20
-tags: ["Email"]
-featured_img:
+title: W3C Schools (via JCH) Beginner's Course in HTML for Emails
+excerpt: I bring to you the W3C (via JCH) Beginner’s Course in HTML for Emails. A list of classes on the W3C site along with instructions for how to use it.
+modified: 2016-10-20T16:44:20.000Z
 wpid: 290
+tags:
+  - Email
+featured_img: null
 ---
 
 

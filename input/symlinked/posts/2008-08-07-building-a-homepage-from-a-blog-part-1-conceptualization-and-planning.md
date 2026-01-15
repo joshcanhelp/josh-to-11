@@ -1,10 +1,12 @@
 ---
-title: "Building a homepage from a blog: Part 1: Conceptualization and Planning"
-excerpt: "When I’m complete, joshcanhelp.com will point to a home page on this blog, directing people to information about me and what I do."
-modified: 2016-04-03 02:33:18
-tags: ["Design", "Web Strategy"]
-featured_img: /_images/2008/08/website_design1-150x150.jpg
+title: 'Building a homepage from a blog: Part 1: Conceptualization and Planning'
+excerpt: 'When I’m complete, joshcanhelp.com will point to a home page on this blog, directing people to information about me and what I do.'
+modified: 2016-04-03T02:33:18.000Z
 wpid: 63
+tags:
+  - Design
+  - Web Strategy
+featured_img: /_images/2008/08/website_design1-150x150.jpg
 ---
 
 

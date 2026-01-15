@@ -1,10 +1,11 @@
 ---
-title: "Tips, tricks, and advice for visiting Paris"
-excerpt: "These are a few things that we found and enjoyed in and around Paris during our 2 month stay there in 2010."
-modified: 2013-02-13 17:50:29
-tags: ["Paris"]
-featured_img: /_images/2013/02/the_louvre-300x300.jpg
+title: 'Tips, tricks, and advice for visiting Paris'
+excerpt: These are a few things that we found and enjoyed in and around Paris during our 2 month stay there in 2010.
+modified: 2013-02-13T17:50:29.000Z
 wpid: 226
+tags:
+  - Paris
+featured_img: /_images/2013/02/the_louvre-300x300.jpg
 ---
 
 

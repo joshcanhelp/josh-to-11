@@ -1,10 +1,11 @@
 ---
-title: "Easy Feedback To-dos with Gmail and Asana"
-excerpt: "I recently needed feedback on a product I'm creating and wanted to figure out the easiest way to get feedback from contacts who were generous enough to give it. Maybe this will work for you too."
-modified: 2016-10-20 16:43:59
-tags: ["Web Strategy"]
-featured_img: /_images/2014/11/Screenshot-2014-11-18-13.24.46-150x150.png
+title: Easy Feedback To-dos with Gmail and Asana
+excerpt: I recently needed feedback on a product I'm creating and wanted to figure out the easiest way to get feedback from contacts who were generous enough to give it. Maybe this will work for you too.
+modified: 2016-10-20T16:43:59.000Z
 wpid: 3610
+tags:
+  - Web Strategy
+featured_img: /_images/2014/11/Screenshot-2014-11-18-13.24.46-150x150.png
 ---
 
 

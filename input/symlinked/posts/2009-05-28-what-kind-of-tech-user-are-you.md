@@ -1,10 +1,11 @@
 ---
-title: "What Kind of Tech User Are You?"
-excerpt: "While I was on the Pew Internet Project site, I took their “What Kind of Tech User Are You?” quiz. Not surprisingly, I got an A."
-modified: 2016-10-20 16:44:18
-tags: ["About JoshCanHelp"]
-featured_img:
+title: What Kind of Tech User Are You?
+excerpt: 'While I was on the Pew Internet Project site, I took their “What Kind of Tech User Are You?” quiz. Not surprisingly, I got an A.'
+modified: 2016-10-20T16:44:18.000Z
 wpid: 786
+tags:
+  - About JoshCanHelp
+featured_img: null
 ---
 
 

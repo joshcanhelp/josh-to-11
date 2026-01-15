@@ -1,10 +1,11 @@
 ---
-title: "3 Questions to Answer Before Building Anything Online"
-excerpt: ""
-modified: 2016-04-03 02:32:59
-tags: ["Web Strategy"]
-featured_img:
+title: 3 Questions to Answer Before Building Anything Online
+excerpt: I am obsessed with ideas.
+modified: 2016-04-03T02:32:59.000Z
 wpid: 1710
+tags:
+  - Web Strategy
+featured_img: null
 ---
 
 

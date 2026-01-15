@@ -1,10 +1,13 @@
 ---
-title: "Choosing Keyword Phrases for Content Pages"
-excerpt: "A step-by-step guide on how to choose the right keywords for your site content. "
-modified: 2016-04-03 02:32:59
-tags: ["Analytics", "SEO", "Web Strategy"]
-featured_img:
+title: Choosing Keyword Phrases for Content Pages
+excerpt: 'A step-by-step guide on how to choose the right keywords for your site content. '
+modified: 2016-04-03T02:32:59.000Z
 wpid: 2054
+tags:
+  - Analytics
+  - SEO
+  - Web Strategy
+featured_img: null
 ---
 
 

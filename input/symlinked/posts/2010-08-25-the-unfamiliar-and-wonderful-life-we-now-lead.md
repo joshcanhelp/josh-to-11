@@ -1,10 +1,11 @@
 ---
-title: "The unfamiliar and wonderful life we now lead"
-excerpt: "Let me tell you a little bit about this strange, wonderful, and very Parisian life we’ve made for ourselves here. We live in the 9th arrondissement in an area known as Montmartre (or, as we learned from the owner’s son, “the Nine”)."
-modified: 2010-08-25 22:10:12
-tags: ["Paris"]
-featured_img: /_images/2010/08/we_live_here.jpg
+title: The unfamiliar and wonderful life we now lead
+excerpt: 'Let me tell you a little bit about this strange, wonderful, and very Parisian life we’ve made for ourselves here. We live in the 9th arrondissement in an area known as Montmartre (or, as we learned from the owner’s son, “the Nine”).'
+modified: 2010-08-25T22:10:12.000Z
 wpid: 70
+tags:
+  - Paris
+featured_img: /_images/2010/08/we_live_here.jpg
 ---
 
 

@@ -1,10 +1,12 @@
 ---
-title: "The Search for a New Cell Phone"
-excerpt: "What do I replace my HTC Hermes with? Nokia E71? Blackberry Bold? Samsung BlackJack 2? Samsung Epix? Motorola Q? Samsung Propel?"
-modified: 2016-10-20 16:44:18
-tags: ["Throwback", "Hardware"]
-featured_img: /_images/2009/04/htc_hermes.jpg
+title: The Search for a New Cell Phone
+excerpt: What do I replace my HTC Hermes with? Nokia E71? Blackberry Bold? Samsung BlackJack 2? Samsung Epix? Motorola Q? Samsung Propel?
+modified: 2016-10-20T16:44:18.000Z
 wpid: 652
+tags:
+  - Throwback
+  - Hardware
+featured_img: /_images/2009/04/htc_hermes.jpg
 ---
 
 

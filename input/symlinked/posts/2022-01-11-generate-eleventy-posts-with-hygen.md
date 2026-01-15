@@ -1,8 +1,11 @@
 ---
 title: Generate new Eleventy post drafts with Hygen
 excerpt: 'Making new boilerplate files is one of many tiny professional pet peeves that makes me ask "what would a real engineer do?" Answer: automate it!'
+tags:
+  - Eleventy
+  - JavaScript + TypeScript
+  - Portfolio
 featured_img: /_images/2022/hygen-eleventy.png
-tags: ["Eleventy", "JavaScript + TypeScript", "Portfolio"]
 ---
 
 What do you do when you need to make a new file in a project?
@@ -174,7 +177,12 @@ Loaded templates: _templates
 
 ---
 title: <%= title %>
-tags: ["<%- tags.join('\", \"') %>"]
+tags:
+  - project/joshcanhelp
+  - artifact/post
+  - topic/joshcanhelp/eleventy
+  - topic/joshcanhelp/javascript-and-typescript
+  - topic/joshcanhelp/portfolio
 ---
 
 ## Some markdown!
@@ -185,7 +193,12 @@ tags: ["<%- tags.join('\", \"') %>"]
 ```text
 ---
 title: Generate new posts in Eleventy with Hygen
-tags: ["Eleventy", "JavaScript + TypeScript"]
+tags:
+  - project/joshcanhelp
+  - artifact/post
+  - topic/joshcanhelp/eleventy
+  - topic/joshcanhelp/javascript-and-typescript
+  - topic/joshcanhelp/portfolio
 ---
 
 ## Some markdown!

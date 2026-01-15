@@ -1,11 +1,12 @@
 ---
-title: "Mama Lil's Kick Butt Peppers in Oil"
-excerpt: ""
-modified: 2016-01-19 04:20:04
-tags: ["Food + Drink"]
-featured_img: /_images/2015/01/mama_lils-150x150.jpg
-link_to: https://mamalils.com/collections/frontpage/products/kick-butt-peppers-in-oil-original-12oz-6-pack
+title: Mama Lil's Kick Butt Peppers in Oil
+excerpt: 'In another life, I worked at a restaurant that served great Italian/Croatian food to people that were, on the whole, fairly pleasant.'
+modified: 2016-01-19T04:20:04.000Z
 wpid: 49
+tags:
+  - Food + Drink
+featured_img: /_images/2015/01/mama_lils-150x150.jpg
+link_to: 'https://mamalils.com/collections/frontpage/products/kick-butt-peppers-in-oil-original-12oz-6-pack'
 ---
 
 

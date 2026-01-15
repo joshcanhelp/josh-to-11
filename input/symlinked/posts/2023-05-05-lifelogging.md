@@ -1,12 +1,12 @@
 ---
-
-title: "My Journey, So Far, with Life Logging"
-meta_description: "I realized recently that I have become somewhat obsessed with the idea of logging and archiving all the little aspects of my life in one place."
+title: 'My Journey, So Far, with Life Logging'
+excerpt: I realized recently that I have become somewhat obsessed with the idea of logging and archiving all the little aspects of my life in one place.
+tags:
+  - Personal Data
+  - Social Media
 featured_img: /_images/2023/book-store_THUMB.jpg
-excerpt: "I realized recently that I have become somewhat obsessed with the idea of logging and archiving all the little aspects of my life in one place."
-tags: ["Personal Data", "Social Media"]
-hn_link:
-
+hn_link: null
+meta_description: I realized recently that I have become somewhat obsessed with the idea of logging and archiving all the little aspects of my life in one place.
 ---
 
 I realized recently that I have become somewhat obsessed with the idea of logging and archiving the many little aspects of my life in one place. I'm already (somewhat cautiously) collecting a fair amount of data about myself:

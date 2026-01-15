@@ -1,11 +1,12 @@
 ---
-title: "The Right Way Has To Be The &quot;Easy&quot; Way"
-excerpt: "When you're ready to start using social media, ask yourself two questions: how much time do I have to spend on this activity and what kind of value can I provide?"
-modified: 2020-01-19 22:12:08
-tags: ["Social Media", "LinkedIn"]
-featured_img:
+title: The Right Way Has To Be The &quot;Easy&quot; Way
+excerpt: 'When you''re ready to start using social media, ask yourself two questions: how much time do I have to spend on this activity and what kind of value can I provide?'
+modified: 2020-01-19T22:12:08.000Z
 wpid: 3988
-citation: ""
+tags:
+  - Social Media
+  - LinkedIn
+featured_img: null
 ---
 
 

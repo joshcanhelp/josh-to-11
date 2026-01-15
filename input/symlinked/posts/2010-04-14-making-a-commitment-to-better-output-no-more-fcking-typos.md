@@ -1,10 +1,11 @@
 ---
-title: "Making a commitment to better output: NO MORE F*CKING TYPOS"
-excerpt: ""
-modified: 2016-04-03 02:32:59
-tags: ["Design"]
-featured_img:
+title: 'Making a commitment to better output: NO MORE F*CKING TYPOS'
+excerpt: 'The number-one cause for broken pages, missed messages, mysterious errors, and general frustration is, from where I stand, uncorrected fat-finger errors.'
+modified: 2016-04-03T02:32:59.000Z
 wpid: 1526
+tags:
+  - Design
+featured_img: null
 ---
 
 

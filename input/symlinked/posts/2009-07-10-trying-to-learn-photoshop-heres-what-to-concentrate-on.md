@@ -1,10 +1,11 @@
 ---
-title: "Trying to learn Photoshop? Here's what to concentrate on"
-excerpt: "With all the tutorial sites out there these days, the problem isn’t finding something to learn, it’s figuring out which skill to concentrate on."
-modified: 2016-10-20 16:44:18
-tags: ["Design"]
-featured_img: /_images/2009/07/PS_poll-150x150.jpg
+title: Trying to learn Photoshop? Here's what to concentrate on
+excerpt: 'With all the tutorial sites out there these days, the problem isn’t finding something to learn, it’s figuring out which skill to concentrate on.'
+modified: 2016-10-20T16:44:18.000Z
 wpid: 906
+tags:
+  - Design
+featured_img: /_images/2009/07/PS_poll-150x150.jpg
 ---
 
 

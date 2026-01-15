@@ -1,11 +1,11 @@
 ---
-title: "Redesign, Drupal migration, and WooCommerce to CiviCRM Integration"
-excerpt: "A massive undertaking: migrate a popular eCommerce site from unsupported versions of Drupal and CiviCRM to WordPress. Challenge accepted!"
-modified: 2016-10-27 20:14:39
-tags: ["WordPress"]
-featured_img: /_images/2014/02/Screenshot-2014-11-18-15.16.43-150x150.png
+title: 'Redesign, Drupal migration, and WooCommerce to CiviCRM Integration'
+excerpt: 'A massive undertaking: migrate a popular eCommerce site from unsupported versions of Drupal and CiviCRM to WordPress. Challenge accepted!'
+modified: 2016-10-27T20:14:39.000Z
 wpid: 3618
-citation: ""
+tags:
+  - WordPress
+featured_img: /_images/2014/02/Screenshot-2014-11-18-15.16.43-150x150.png
 ---
 
 

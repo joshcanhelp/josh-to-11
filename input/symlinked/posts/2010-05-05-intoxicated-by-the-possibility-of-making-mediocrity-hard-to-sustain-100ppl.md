@@ -1,10 +1,11 @@
 ---
-title: "Intoxicated by the possibility of making mediocrity hard to sustain (#100ppl)"
-excerpt: ""
-modified: 2016-04-03 02:32:59
-tags: ["Design"]
-featured_img:
+title: Intoxicated by the possibility of making mediocrity hard to sustain (#100ppl)
+excerpt: I was asked recently what my favorite Gaping Void piece is.
+modified: 2016-04-03T02:32:59.000Z
 wpid: 1559
+tags:
+  - Design
+featured_img: null
 ---
 
 

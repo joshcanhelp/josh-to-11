@@ -1,10 +1,11 @@
 ---
-title: "PROPER Web Development"
-excerpt: ""
-modified: 2016-10-20 16:44:00
-tags: ["About JoshCanHelp"]
-featured_img: /_images/2013/04/proper-sq-med-150x150.png
+title: PROPER Web Development
+excerpt: '> Please Note: I sold this company several years after this post and am no longer involved in managing or supporting the products that it sells.'
+modified: 2016-10-20T16:44:00.000Z
 wpid: 3226
+tags:
+  - About JoshCanHelp
+featured_img: /_images/2013/04/proper-sq-med-150x150.png
 ---
 
 

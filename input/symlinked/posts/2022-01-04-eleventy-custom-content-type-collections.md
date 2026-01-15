@@ -1,10 +1,12 @@
 ---
-
-title: "Eleventy Custom Content Type Collections and Layouts"
-excerpt: "How-to on creating separate collections and layouts for a custom content type. In this case: cocktails!"
-tags: [ "Eleventy", "Obsidian", "JavaScript + TypeScript", "Portfolio"]
+title: Eleventy Custom Content Type Collections and Layouts
+excerpt: 'How-to on creating separate collections and layouts for a custom content type. In this case: cocktails!'
+tags:
+  - Eleventy
+  - Obsidian
+  - JavaScript + TypeScript
+  - Portfolio
 featured_img: /_images/2022/bartender_THUMB.jpg
-
 ---
 
 I love a great cocktail. There's something magical about taking a poison that can power a car and make it taste like heaven. 

@@ -1,10 +1,11 @@
 ---
-title: "What Is This Blog For?"
-excerpt: "This blog is the story of Josh Can Help (dot com) ... how it came about, how it came together, and how it’s going."
-modified: 2016-03-30 18:30:19
-tags: ["About JoshCanHelp"]
-featured_img: /_images/default-img-size-medium.png
+title: What Is This Blog For?
+excerpt: 'This blog is the story of Josh Can Help (dot com) ... how it came about, how it came together, and how it’s going.'
+modified: 2016-03-30T18:30:19.000Z
 wpid: 3094
+tags:
+  - About JoshCanHelp
+featured_img: /_images/default-img-size-medium.png
 ---
 
 On my previous (and, coincidentally, first) post, I told you a little bit about what I want to accomplish with my business and what I will not compromise to do so. I also directed you to place where you could find more information about [who I am](/about) and what I do. Now, I should probably tell you what this blog is all about.

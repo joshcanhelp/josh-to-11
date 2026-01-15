@@ -1,11 +1,12 @@
 ---
-title: "AleSmith Grand Cru - One of My Favorite Beers of All Time"
-excerpt: ""
-modified: 2016-01-19 04:20:04
-tags: ["Food + Drink"]
-featured_img: /_images/2014/02/alesmith_decadence-300x300.jpg
-link_to: http://alesmith.com/beers/barrel-aged-grand-cru/
+title: AleSmith Grand Cru - One of My Favorite Beers of All Time
+excerpt: 'I’m a beer guy, that’s all there is to it.'
+modified: 2016-01-19T04:20:04.000Z
 wpid: 42
+tags:
+  - Food + Drink
+featured_img: /_images/2014/02/alesmith_decadence-300x300.jpg
+link_to: 'http://alesmith.com/beers/barrel-aged-grand-cru/'
 ---
 
 

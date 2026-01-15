@@ -1,10 +1,12 @@
 ---
-title: "How to be a better self-promoter in the creative industry"
-excerpt: "I was having coffee at a local coffee shop recently and came across one of the worse examples of in-person self-promotion I’ve seen in a while. I wanted to share the experience so you know where this kind of thing can go wrong."
-modified: 2016-10-20 16:44:00
-tags: ["Marketing", "Community"]
-featured_img:
+title: How to be a better self-promoter in the creative industry
+excerpt: I was having coffee at a local coffee shop recently and came across one of the worse examples of in-person self-promotion I’ve seen in a while. I wanted to share the experience so you know where this kind of thing can go wrong.
+modified: 2016-10-20T16:44:00.000Z
 wpid: 2708
+tags:
+  - Marketing
+  - Community
+featured_img: null
 ---
 
 

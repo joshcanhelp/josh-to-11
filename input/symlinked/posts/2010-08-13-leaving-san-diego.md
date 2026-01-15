@@ -1,10 +1,11 @@
 ---
-title: "Leaving San Diego"
-excerpt: "I’m sitting here at LAX wondering how I can communicate how intense this last week has been. I don’t think I can ... and I don’t think it matters. Still, let me share what our final week in San Diego had in store for us. "
-modified: 2010-08-13 11:10:23
-tags: ["Paris"]
-featured_img: /_images/2010/08/IMG_0009-300x300.jpg
+title: Leaving San Diego
+excerpt: 'I’m sitting here at LAX wondering how I can communicate how intense this last week has been. I don’t think I can ... and I don’t think it matters. Still, let me share what our final week in San Diego had in store for us. '
+modified: 2010-08-13T11:10:23.000Z
 wpid: 4663
+tags:
+  - Paris
+featured_img: /_images/2010/08/IMG_0009-300x300.jpg
 ---
 
 

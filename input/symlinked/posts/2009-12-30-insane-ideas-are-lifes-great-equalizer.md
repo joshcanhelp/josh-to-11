@@ -1,10 +1,11 @@
 ---
-title: "Insane Ideas Are Life's Great Equalizer"
-excerpt: "Between amazing web applications, unprecedented communication options, and practically incomprehensible medical technology advances, we’re living in a time of incredible ideas that have come to fruition."
-modified: 2016-04-01 04:25:34
-tags: ["Personal Development"]
-featured_img: /_images/2009/12/lightbulb_jch-150x150.png
+title: Insane Ideas Are Life's Great Equalizer
+excerpt: 'Between amazing web applications, unprecedented communication options, and practically incomprehensible medical technology advances, we’re living in a time of incredible ideas that have come to fruition.'
+modified: 2016-04-01T04:25:34.000Z
 wpid: 1307
+tags:
+  - Personal Development
+featured_img: /_images/2009/12/lightbulb_jch-150x150.png
 ---
 
 

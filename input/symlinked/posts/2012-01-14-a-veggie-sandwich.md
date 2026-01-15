@@ -1,11 +1,11 @@
 ---
-title: "A Veggie Sandwich"
-excerpt: "Is there a more polarizing set of words in the English language than “veggie sandwich?”"
-modified: 2020-01-19 22:12:08
-tags: ["Food + Drink"]
-featured_img:
+title: A Veggie Sandwich
+excerpt: Is there a more polarizing set of words in the English language than “veggie sandwich?”
+modified: 2020-01-19T22:12:08.000Z
 wpid: 313
-citation: ""
+tags:
+  - Food + Drink
+featured_img: null
 ---
 
 

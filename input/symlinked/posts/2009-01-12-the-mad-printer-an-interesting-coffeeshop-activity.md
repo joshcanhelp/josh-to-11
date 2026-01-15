@@ -1,10 +1,12 @@
 ---
-title: "The Mad Printer... an interesting coffeeshop activity"
-excerpt: ""
-modified: 2016-10-20 16:44:19
-tags: ["Hardware", "Throwback"]
-featured_img:
+title: The Mad Printer... an interesting coffeeshop activity
+excerpt: 'I live in California and, as such, I’m generally less shocked by human behavior than people who live in, say, Oregon or Montana or Arizona.'
+modified: 2016-10-20T16:44:19.000Z
 wpid: 488
+tags:
+  - Hardware
+  - Throwback
+featured_img: null
 ---
 
 

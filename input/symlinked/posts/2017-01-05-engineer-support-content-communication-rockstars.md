@@ -1,10 +1,11 @@
 ---
-title: "Engineer Support for Content and Communication Rockstars"
-excerpt: "Regardless of the industry, when people care deeply about what they're making and who they're helping, it shows."
-modified: 2017-04-05 22:58:03
-tags: ["Portfolio"]
-featured_img: /_images/2016/12/fearey-default-large-150x150.png
+title: Engineer Support for Content and Communication Rockstars
+excerpt: 'Regardless of the industry, when people care deeply about what they''re making and who they''re helping, it shows.'
+modified: 2017-04-05T22:58:03.000Z
 wpid: 4496
+tags:
+  - Portfolio
+featured_img: /_images/2016/12/fearey-default-large-150x150.png
 ---
 
 

@@ -1,10 +1,12 @@
 ---
-title: "I learned something today"
-excerpt: "Sometimes there is an easy way, sometimes there’s just an easIER way, and sometimes there’s just hard ways."
-modified: 2016-10-20 16:44:21
-tags: ["Marketing", "Web Strategy"]
-featured_img:
+title: I learned something today
+excerpt: 'Sometimes there is an easy way, sometimes there’s just an easIER way, and sometimes there’s just hard ways.'
+modified: 2016-10-20T16:44:21.000Z
 wpid: 235
+tags:
+  - Marketing
+  - Web Strategy
+featured_img: null
 ---
 
 

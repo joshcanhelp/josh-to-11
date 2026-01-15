@@ -1,9 +1,11 @@
 ---
-title: "Self-Teach or Go Back to School?"
-excerpt: "Advice to a few friends on learning web development."
-tags: ["Software Engineering", "Personal Development"]
-featured_img:
+title: Self-Teach or Go Back to School?
+excerpt: Advice to a few friends on learning web development.
 wpid: 4757
+tags:
+  - Software Engineering
+  - Personal Development
+featured_img: null
 ---
 
 

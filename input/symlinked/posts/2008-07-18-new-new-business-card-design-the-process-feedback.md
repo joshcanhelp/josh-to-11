@@ -1,10 +1,12 @@
 ---
-title: "New new business card design: the process + feedback"
-excerpt: "I also need a business card and have not been giving this important piece of a business that relies on word-of-mouth enough attention."
-modified: 2016-04-01 03:52:25
-tags: ["Design", "About JoshCanHelp"]
-featured_img: /_images/2008/07/lp_card_07_final-296x296.jpg
+title: 'New new business card design: the process + feedback'
+excerpt: I also need a business card and have not been giving this important piece of a business that relies on word-of-mouth enough attention.
+modified: 2016-04-01T03:52:25.000Z
 wpid: 41
+tags:
+  - Design
+  - About JoshCanHelp
+featured_img: /_images/2008/07/lp_card_07_final-296x296.jpg
 ---
 
 My last business card ordeal was such a cluster that I’m not even going to link back to that post. Besides, it seems to be getting an inordinate amount of p0rn spam comments and I’d rather NOT help those garner any more attention.

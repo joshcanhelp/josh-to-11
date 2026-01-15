@@ -1,10 +1,13 @@
 ---
-
-title: "Notes from Rock Your Code Reviews with Dr. Michaela Greiler"
-tags: ["Software Engineering", "Team Dynamics", "Async Communication", "Testing", "Portfolio"]
+title: Notes from Rock Your Code Reviews with Dr. Michaela Greiler
+excerpt: 'I attended a great webinar led by Dr. Michaela Greiler on code reviews. I had my own opinions going in, of course, but I learned a lot and had a number of questions that I had (and didn''t know I had) answered.'
+tags:
+  - Software Engineering
+  - Team Dynamics
+  - Async Communication
+  - Testing
+  - Portfolio
 featured_img: /_images/2020/01/code-block.png
-excerpt: I attended a great webinar led by Dr. Michaela Greiler on code reviews. I had my own opinions going in, of course, but I learned a lot and had a number of questions that I had (and didn't know I had) answered.
-
 ---
 
 I attended a great webinar led by [Dr. Michaela Greiler](http://www.michaelagreiler.com/) on code reviews. I had my own opinions going in, of course, but I learned a lot and had a number of questions that I had (and didn't know I had) answered.
