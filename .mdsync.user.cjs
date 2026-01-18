@@ -38,6 +38,7 @@ module.exports = {
               .replace("topic/joshcanhelp/", "")
               .replace("-and-", " + ")
               .replace("-", " ")
+              .replace("covid 19", "COVID-19")
               .replace("seo", "SEO")
               .replace("javascript", "JavaScript")
               .replace("typescript", "TypeScript")

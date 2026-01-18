@@ -2,7 +2,7 @@
 title: A Moment in Time During the Pandemic
 excerpt: 'The first time things started getting real for me during this Coronavirus pandemic was at the end of February. The pandemic, however, had already started.'
 tags:
-  - Covid 19
+  - COVID-19
   - Auth0
   - Seattle
 ---
