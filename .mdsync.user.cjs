@@ -55,19 +55,19 @@ module.exports = {
     {
       sourcePath: "Logs/**/*.md",
       tag: "artifact/post",
-      outputPath: "symlinked/posts",
+      outputPath: "posts",
     },
     {
       sourcePath: "Recipes/cocktails/*.md",
-      outputPath: "symlinked/cocktails",
+      outputPath: "cocktails",
     },
     {
       sourcePath: "Logs/pages/*.md",
-      outputPath: "symlinked/pages",
+      outputPath: "pages",
     },
     {
       sourcePath: "Logs/partials/*.md",
-      outputPath: "symlinked/partials",
+      outputPath: "partials",
     },
   ],
 };
