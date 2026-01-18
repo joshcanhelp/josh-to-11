@@ -1,0 +1,529 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Josh Can Help ... PostHog!</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.slate.min.css"
+    />
+    <style>
+      @charset "UTF-8";
+      html {
+        background: linear-gradient(90deg, #92a7fb, #fda47b, #f6d684);
+        padding: 0;
+        margin: 0;
+      }
+
+      body {
+        padding: 1em;
+      }
+      body h1,
+      body h2,
+      body h3,
+      body h4,
+      body h5,
+      body h6 {
+        color: inherit;
+        margin-bottom: 2em;
+      }
+
+      body,
+      html {
+        color: #111827;
+        font-size: 15px;
+        font-family:
+          "IBM Plex Sans",
+          -apple-system,
+          BlinkMacSystemFont,
+          "avenir next",
+          avenir,
+          "segoe ui",
+          "helvetica neue",
+          helvetica,
+          Ubuntu,
+          roboto,
+          noto,
+          arial,
+          sans-serif;
+        line-height: 1.6em;
+      }
+
+      .posthog main {
+        background-color: #fdfdf7;
+        max-width: 50em;
+        margin: 2em auto 4em auto;
+        padding: 0;
+        border: 1px solid rgb(182, 183, 175);
+        box-shadow: 5px 5px 1px rgba(0, 0, 0, 0.1);
+      }
+
+      .topbar {
+        background: rgb(238, 239, 233);
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        border-bottom: 1px solid rgb(182, 183, 175);
+        text-align: center;
+        padding: 0.75em 0;
+        font-size: 0.8em;
+        font-family: monospace;
+      }
+
+      .logos {
+        font-size: 1.8em;
+        font-weight: bold;
+        margin-bottom: 50px;
+        text-align: center;
+      }
+      .logos a {
+        text-decoration: none;
+        color: inherit;
+      }
+      .logos svg {
+        max-width: 140px;
+        display: inline-block;
+        vertical-align: middle;
+        margin: 0 0.5em;
+      }
+
+      .content {
+        padding: 50px;
+      }
+
+      .markdown a {
+        color: #1d4aff;
+      }
+      .markdown img {
+        display: block;
+        max-width: 100%;
+        margin: 1em 0;
+        padding: 1em;
+        background: white;
+        box-shadow: 3px 3px 1px rgba(0, 0, 0, 0.3);
+      }
+      .markdown *:last-child {
+        margin-bottom: 0;
+      }
+      .markdown a.activator {
+        background: rgb(229, 231, 224);
+        text-decoration: none;
+        padding: 0.15em 0.4em;
+        border-radius: 4px;
+        cursor: pointer;
+        color: #111827;
+      }
+      .markdown a.activator:hover {
+        background: rgba(229, 231, 224, 0.2);
+      }
+      .markdown a.activator:after {
+        content: "▼";
+        font-size: 10px;
+        opacity: 0.3;
+        margin-left: 8px;
+        vertical-align: top;
+      }
+      .markdown a.activator.activated::after {
+        content: "▲";
+      }
+
+      .expander {
+        background: linear-gradient(90deg, #eb9d2a, #f9bd2a);
+        color: black;
+        overflow: hidden;
+        margin-left: -50px;
+        margin-right: -50px;
+        padding: 50px;
+        transition: height 2s;
+        margin-top: 25px;
+        margin-bottom: 25px;
+        border: none;
+        line-height: 1.5em;
+        transition:
+          max-height 0.5s,
+          padding-top 0.5s,
+          padding-bottom 0.5s,
+          margin-top 0.5s,
+          margin-bottom 0.5s;
+        max-height: 50em;
+      }
+      .expander > * {
+        color: black;
+      }
+      .expander a {
+        color: black;
+        text-decoration-color: black;
+      }
+      .expander.hidden {
+        max-height: 0;
+        margin-top: 0;
+        margin-bottom: 0;
+        padding-top: 0;
+        padding-bottom: 0;
+        transition: all 0s;
+      }
+    </style>
+  </head>
+  <body class="posthog">
+    <main>
+      <div class="topbar">cover-letter.html</div>
+      <div class="content">
+        <div class="logos">
+          <a href="/"
+            ><svg
+              version="1.1"
+              xmlns="https://www.w3.org/2000/svg"
+              xmlns:xlink="https://www.w3.org/1999/xlink"
+              viewBox="0 0 864 370.919"
+            >
+              <path
+                d="M428.667,369.818c-101.959,0-184.91-82.95-184.91-184.91C243.757,82.949,326.708,0,428.667,0
+	c101.959,0,184.909,82.949,184.909,184.908C613.576,286.868,530.626,369.818,428.667,369.818z M428.667,8
+	c-97.548,0-176.91,79.36-176.91,176.908c0,97.549,79.361,176.91,176.91,176.91c97.548,0,176.909-79.361,176.909-176.91
+	C605.576,87.36,526.215,8,428.667,8z M233.178,95.182H0v3.95h233.178V95.182z M233.178,276.16H0v3.95h233.178V276.16z M1.823,240.28
+	v-10.833c2.757,0,4.908-0.169,6.452-0.507c1.545-0.339,2.815-1.062,3.812-2.172c0.997-1.109,1.661-2.558,1.993-4.344
+	c0.332-1.786,0.499-4.26,0.499-7.419v-75.827h12.755v75.827c0,4.589-0.267,8.378-0.797,11.369c-0.532,2.99-1.503,5.577-2.915,7.758
+	c-1.412,2.182-3.372,3.752-5.879,4.711c-2.508,0.959-5.688,1.438-9.542,1.438H1.823z M63.108,241.295
+	c-4.484,0-8.33-0.771-11.535-2.313c-3.206-1.542-5.755-3.798-7.648-6.771c-1.894-2.971-3.272-6.46-4.136-10.466
+	c-0.864-4.006-1.295-8.66-1.295-13.963V171.11c0-5.303,0.431-9.93,1.295-13.879c0.863-3.949,2.242-7.381,4.136-10.296
+	c1.893-2.914,4.442-5.106,7.648-6.573c3.205-1.467,7.05-2.2,11.535-2.2c8.702,0,14.98,2.821,18.834,8.462
+	c3.853,5.642,5.78,13.805,5.78,24.486v36.673c0,5.228-0.441,9.845-1.32,13.851c-0.881,4.006-2.267,7.504-4.161,10.494
+	s-4.443,5.266-7.648,6.827C71.387,240.514,67.559,241.295,63.108,241.295z M53.815,224.877c1.71,3.047,4.808,4.57,9.292,4.57
+	s7.581-1.523,9.292-4.57c1.71-3.046,2.566-7.541,2.566-13.484v-43.895c0-5.868-0.847-10.249-2.541-13.146
+	c-1.694-2.896-4.8-4.344-9.317-4.344c-4.518,0-7.624,1.448-9.317,4.344c-1.694,2.897-2.541,7.278-2.541,13.146v43.895
+	C51.25,217.337,52.104,221.831,53.815,224.877z M122.151,241.295c-8.039,0-14.175-2.67-18.41-8.011
+	c-4.235-5.341-6.602-12.638-7.101-21.891l12.755-3.611c0.631,14.443,4.883,21.665,12.755,21.665c6.377,0,9.566-3.611,9.566-10.832
+	c0-2.144-0.258-4.127-0.772-5.953c-0.516-1.824-1.304-3.498-2.367-5.021c-1.063-1.523-2.027-2.745-2.89-3.667
+	c-0.864-0.921-2.043-2.059-3.538-3.413l-15.944-14.443c-2.923-2.596-5.257-5.896-7-9.902c-1.744-4.005-2.616-8.566-2.616-13.682
+	c0-7.447,2.043-13.371,6.129-17.772c4.085-4.401,9.5-6.601,16.243-6.601c7.241,0,12.996,2.003,17.265,6.008
+	c4.268,4.006,6.901,9.676,7.897,17.011c0.1,0.79,0.215,1.881,0.349,3.272l-12.755,3.61c-0.033-0.639-0.117-1.598-0.249-2.877
+	c-0.565-4.588-1.836-8.266-3.812-11.03c-1.977-2.764-4.875-4.146-8.695-4.146c-3.056,0-5.415,0.968-7.075,2.905
+	c-1.661,1.938-2.491,4.636-2.491,8.096c0,5.68,2.125,10.438,6.378,14.274l15.944,14.443c8.503,7.786,12.755,17.095,12.755,27.928
+	c0,7.41-2.018,13.202-6.054,17.377C134.383,239.208,128.96,241.295,122.151,241.295z M153.79,240.28V139.177h12.755v43.33h22.322
+	v-43.33h12.755V240.28h-12.755v-46.941h-22.322v46.941H153.79z M862.941,94.496H629.764v3.958h233.178V94.496z M862.941,273.642
+	H629.764v3.958h233.178V273.642z M666.641,240.452V136.24h13.179v44.662h23.063V136.24h13.18v104.211h-13.18v-48.384h-23.063v48.384
+	H666.641z M729.241,240.452V136.24h36.242v11.165H742.42v33.497h16.475v11.165H742.42v37.219h23.063v11.165H729.241z
+	 M773.566,240.452V136.24h13.179v93.046h23.063v11.165H773.566z M815.936,240.452V136.24h23.063
+	c15.375,0,23.063,9.925,23.063,29.774c0,8.491-1.982,14.956-5.946,19.395c-3.964,4.439-9.67,6.658-17.117,6.658h-9.885v48.384
+	H815.936z M829.114,180.902h3.295c2.986,0,5.432-0.193,7.336-0.582c1.905-0.387,3.586-1.114,5.045-2.181
+	c1.459-1.065,2.505-2.587,3.141-4.565c0.635-1.977,0.952-4.497,0.952-7.56c0-3.722-0.24-6.736-0.721-9.042s-1.364-4.196-2.651-5.67
+	c-1.286-1.473-2.952-2.491-4.993-3.054c-2.042-0.562-4.745-0.843-8.108-0.843h-3.295V180.902z M428.667,16.622
+	c-92.942,0-168.287,75.345-168.287,168.287s75.345,168.287,168.287,168.287c92.943,0,168.287-75.345,168.287-168.287
+	S521.61,16.622,428.667,16.622z M354.58,142.224c-0.165-2.386-0.468-4.851-0.909-7.396c-0.442-2.543-1.088-4.659-1.941-6.347
+	c-0.854-1.685-1.929-3.244-3.222-4.675c-1.295-1.432-2.933-2.481-4.915-3.149c-1.983-0.669-4.295-1.002-6.94-1.002
+	c-3.415,0-6.347,0.636-8.797,1.908c-2.451,1.273-4.365,2.91-5.741,4.915c-1.378,2.003-2.438,4.692-3.18,8.063
+	c-0.744,3.373-1.227,6.665-1.446,9.877c-0.22,3.213-0.33,7.174-0.33,11.881v61.075c0,4.072,0.151,7.763,0.455,11.069
+	c0.302,3.31,0.894,6.602,1.776,9.878c0.879,3.277,2.023,6.028,3.428,8.254c1.403,2.228,3.274,4.025,5.617,5.393
+	c2.34,1.369,5.08,2.052,8.218,2.052c3.14,0,5.838-0.699,8.097-2.1c2.257-1.399,4.033-3.181,5.328-5.345
+	c1.293-2.162,2.313-4.929,3.056-8.302c0.743-3.372,1.226-6.648,1.446-9.83c0.219-3.18,0.331-6.87,0.331-11.069v-6.107h21.146v6.107
+	c0,8.843-0.674,16.604-2.024,23.285c-1.351,6.68-3.525,12.582-6.526,17.702c-3.002,5.122-7.077,9.019-12.226,11.69
+	c-5.15,2.672-11.358,4.008-18.628,4.008c-6.223,0-11.702-1.019-16.438-3.053c-4.737-2.037-8.619-4.851-11.647-8.446
+	c-3.029-3.594-5.494-8.079-7.394-13.456c-1.899-5.375-3.235-11.118-4.006-17.226c-0.772-6.106-1.156-13.01-1.156-20.708v-48.764
+	c0-7.698,0.384-14.602,1.156-20.709c0.771-6.107,2.107-11.848,4.006-17.226c1.9-5.375,4.365-9.844,7.394-13.407
+	c3.028-3.562,6.91-6.361,11.647-8.397c4.736-2.036,10.215-3.055,16.438-3.055c6.884,0,12.832,1.179,17.843,3.531
+	c5.011,2.354,9.018,5.821,12.019,10.402c3.002,4.58,5.259,9.893,6.774,15.937c1.514,6.045,2.409,13.107,2.685,21.185
+	c0.055,1.21,0.083,3.088,0.083,5.631h-21.146v-5.439C354.854,147.49,354.745,144.61,354.58,142.224z M444.292,272.343l-7.933-42.753
+	h-26.434l-7.93,42.753h-21.147l31.721-171.011h21.147l31.721,171.011H444.292z M536.313,272.343L498.48,158.59v113.753h-21.146
+	V101.332h15.857l37.01,105.736V101.332h21.147v171.011H536.313z M412.569,211.268h21.147l-10.573-73.29L412.569,211.268z"
+              ></path>
+            </svg> </a
+          >+
+          <svg
+            class="inline-block"
+            width="157"
+            height="30"
+            viewBox="0 0 157 30"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              fill="#1D4AFF"
+              d="M0 23.468C0 22.5771 1.07706 22.1309 1.70703 22.7609L6.29004 27.344C6.92 27.974 6.47391 29.051 5.58301 29.051H1C0.447715 29.051 0 28.6033 0 28.051V23.468ZM0 13.4709C4.9194e-05 12.5801 1.07707 12.1339 1.70703 12.7639L9.99707 21.0539V29.051L0.292969 19.3469C0.105529 19.1593 0 18.905 0 18.6399V13.4709ZM0 3.47384C3.86254e-05 2.58298 1.07707 2.13689 1.70703 2.76681L9.99707 11.0568V19.0539L0.292969 9.34982C0.105519 9.1623 0 8.90793 0 8.64278V3.47384Z"
+            ></path>
+            <path
+              fill="#F9BD2B"
+              d="M26.2852 27.344C26.915 27.974 26.468 29.051 25.5771 29.051H19.9961L19.9932 21.053L26.2852 27.344ZM29.6982 20.761C29.8857 20.9485 29.9912 21.2029 29.9912 21.468V26.637C29.9912 27.5278 28.9142 27.974 28.2842 27.344L19.9941 19.0539V11.0569L29.6982 20.761ZM19.9941 3.47386C19.9942 2.58298 21.0712 2.13688 21.7012 2.76683L29.6982 10.7639C29.8857 10.9514 29.9912 11.2058 29.9912 11.4709V16.6399C29.9912 17.5308 28.9142 17.9769 28.2842 17.3469L20.2871 9.34984C20.0997 9.16232 19.9941 8.90796 19.9941 8.64281V3.47386Z"
+            ></path>
+            <path
+              fill="#F54E00"
+              d="M16.2871 27.344C16.9171 27.974 16.471 29.051 15.5801 29.051H9.99707V21.0539L16.2871 27.344ZM19.7012 20.761L19.9941 21.0598V29.051L10.29 19.3469C10.1027 19.1593 9.99707 18.905 9.99707 18.6399V11.0569L19.7012 20.761ZM9.99707 3.47385C9.99711 2.58299 11.0742 2.13688 11.7041 2.76682L19.7012 10.7639L19.9941 11.0598V19.0539L10.29 9.34982C10.1026 9.16231 9.99707 8.90794 9.99707 8.64279V3.47385Z"
+            ></path>
+            <path
+              fill="#000"
+              d="M42.5248 23.5308L33.1121 14.118C32.4821 13.488 31.405 13.9342 31.405 14.8251V27.9915C31.405 28.5438 31.8527 28.9915 32.405 28.9915H46.9856C47.5379 28.9915 47.9856 28.5438 47.9856 27.9915V26.7925C47.9856 26.2402 47.536 25.7992 46.9883 25.7279C45.3076 25.509 43.7355 24.7414 42.5248 23.5308ZM36.2035 25.7925C35.3206 25.7925 34.604 25.0759 34.604 24.193C34.604 23.31 35.3206 22.5934 36.2035 22.5934C37.0865 22.5934 37.8031 23.31 37.8031 24.193C37.8031 25.0759 37.0865 25.7925 36.2035 25.7925Z"
+            ></path>
+            <path
+              fill="#000"
+              d="M59.6496 25H63.7576V18.188H67.1896C70.9596 18.188 73.3776 15.9521 73.3776 12.494C73.3776 9.03605 70.9596 6.80005 67.1896 6.80005H59.6496V25ZM63.7576 14.678V10.3101H66.7736C68.3336 10.3101 69.2696 11.142 69.2696 12.494C69.2696 13.8461 68.3336 14.678 66.7736 14.678H63.7576Z"
+            ></path>
+            <path
+              fill="#000"
+              d="M80.8095 25.208C84.8135 25.208 87.7255 22.348 87.7255 18.448C87.7255 14.548 84.8135 11.688 80.8095 11.688C76.7535 11.688 73.8935 14.548 73.8935 18.448C73.8935 22.348 76.7535 25.208 80.8095 25.208ZM77.6895 18.448C77.6895 16.368 78.9375 14.938 80.8095 14.938C82.6555 14.938 83.9035 16.368 83.9035 18.448C83.9035 20.528 82.6555 21.958 80.8095 21.958C78.9375 21.958 77.6895 20.528 77.6895 18.448Z"
+            ></path>
+            <path
+              fill="#000"
+              d="M94.2995 25.208C97.3675 25.208 99.4475 23.284 99.4475 21.022C99.4475 15.718 92.4015 17.434 92.4015 15.354C92.4015 14.7821 92.9995 14.4181 93.8575 14.4181C94.7415 14.4181 95.8075 14.964 96.1455 16.16L99.2135 14.886C98.6155 12.988 96.4055 11.688 93.7275 11.688C90.8415 11.688 89.0475 13.404 89.0475 15.458C89.0475 20.424 95.9895 19.046 95.9895 21.1C95.9895 21.828 95.3135 22.3221 94.2995 22.3221C92.8435 22.3221 91.8295 21.3081 91.5175 20.0861L88.4495 21.282C89.1255 23.258 91.1015 25.208 94.2995 25.208Z"
+            ></path>
+            <path
+              fill="#000"
+              d="M109.33 24.8701L109.07 21.5681C108.628 21.8021 108.056 21.88 107.588 21.88C106.652 21.88 106.028 21.2041 106.028 20.034V15.068H109.2V11.896H106.028V8.10005H102.206V11.896H100.126V15.068H102.206V20.528C102.206 23.7001 104.364 25.208 107.198 25.208C107.978 25.208 108.706 25.0781 109.33 24.8701Z"
+            ></path>
+            <path
+              fill="#000"
+              d="M122.656 6.80005V13.872H115.428V6.80005H111.32V25H115.428V17.382H122.656V25H126.79V6.80005H122.656Z"
+            ></path>
+            <path
+              fill="#000"
+              d="M135.908 25.208C139.912 25.208 142.824 22.348 142.824 18.448C142.824 14.548 139.912 11.688 135.908 11.688C131.852 11.688 128.992 14.548 128.992 18.448C128.992 22.348 131.852 25.208 135.908 25.208ZM132.788 18.448C132.788 16.368 134.036 14.938 135.908 14.938C137.754 14.938 139.002 16.368 139.002 18.448C139.002 20.528 137.754 21.958 135.908 21.958C134.036 21.958 132.788 20.528 132.788 18.448Z"
+            ></path>
+            <path
+              fill="#000"
+              d="M150.201 24.584C151.631 24.584 152.905 24.09 153.581 23.232V24.48C153.581 25.936 152.411 26.9501 150.617 26.9501C149.343 26.9501 148.225 26.326 148.043 25.26L144.559 25.806C145.027 28.276 147.549 29.9401 150.617 29.9401C154.647 29.9401 157.325 27.574 157.325 24.064V11.896H153.555V13.014C152.853 12.208 151.657 11.688 150.123 11.688C146.483 11.688 144.195 14.184 144.195 18.136C144.195 22.088 146.483 24.584 150.201 24.584ZM147.913 18.136C147.913 16.186 149.057 14.938 150.825 14.938C152.619 14.938 153.763 16.186 153.763 18.136C153.763 20.086 152.619 21.334 150.825 21.334C149.057 21.334 147.913 20.086 147.913 18.136Z"
+            ></path>
+          </svg>
+          = ❤️
+        </div>
+        <div class="markdown">
+          <h5>I think we're a perfect match! Let me tell you why ...</h5>
+          <p>
+            I came across <strong>PostHog</strong> when your newest website design got posted on
+            Hacker News in September and got a little tingly feeling. This is the kind of
+            <a href="#love" id="activator-0" class="activator">love&nbsp;and care and weirdness</a>
+            that I want to put into my work!
+          </p>
+          <blockquote id="expander-0" class="hidden expander">
+            <p>
+              Your homepage makes me so happy, I can hardly put it into words. There is precious
+              little delight and personality and joy in technology these days that when I see it, it
+              jumps out at me. It's a labor of love in a world of optimization. All the little
+              details - the commit history, the window management, the right-click - come together
+              to show real care.
+            </p>
+          </blockquote>
+          <p>
+            The delightful design encouraged me to keep digging, and I'm so thankful that I did
+            because I found the thing that made me realize that we were meant for each other:
+            <strong>The Handbook</strong>. Not only do our
+            <a href="#values" id="activator-1" class="activator">values&nbsp;align</a>, the fact
+            that it's all spelled out in detail
+            <a href="#meaning" id="activator-2" class="activator">means&nbsp;a great deal</a> to me.
+          </p>
+          <blockquote id="expander-1" class="hidden expander">
+            <p>
+              I wrote down my own (engineering-focused) values <a href="/values/">last year</a>, but
+              here are few overlaps that stood out to me.
+            </p>
+            <ul>
+              <li>
+                I work hard to build a welcoming environment that lifts people up to every company
+                I've worked at. Not only is it the right thing to do, it creates psychological
+                safety that makes it easier to take chances, risk mistakes, and ship. A culture
+                without that safety is fundamentally broken, in my experience.
+              </li>
+              <li>
+                Focusing on asynchronous communication and maker schedules is so hard to do without
+                the whole company being aligned on that value. You have to write everything down, be
+                thoughtful about how you're communicating, and put the effort in up front. I'm such
+                a big fan of mindful communication that I pitched
+                <a href="/asynchronous-communication/">a book about it</a> to a publishing company!
+              </li>
+            </ul>
+          </blockquote>
+          <blockquote id="expander-2" class="hidden expander">
+            <p>
+              <a href="/notes/">Notes</a> help me clarify my thoughts (<a
+                href="https://paulgraham.com/words.html"
+                >Paul Graham said it best</a
+              >), and <a href="/posts/">publishing</a> shows commitment to what I'm saying. Teams
+              that put value into writing are more focused, care more about what they're actually
+              producing, and push you to do better (rather than just
+              <a href="https://www.bennorthrop.com/Essays/2021/always-do-extra.php">more</a>).
+            </p>
+          </blockquote>
+          <p>
+            <a href="https://www.joshcanhelp.com/goodbye-auth0/">Since my time at Auth0</a>, I've
+            been looking for a developer-focused, people-first, <em>weird</em> company to pour
+            myself into. The posted job descriptions have character and truly spoke to me.
+            <a href="#build" id="activator-3" class="activator">Genuine&nbsp;builders</a>
+            <a href="#adult" id="activator-4" class="activator">Grown&nbsp;ups</a>
+            <a href="#solve" id="activator-5" class="activator">Optimistic&nbsp;problem solvers</a>
+            <a href="#drive" id="activator-6" class="activator">Enthusiastic&nbsp;drivers</a>. It
+            all clicked into place as I found myself whispering <em>"yes!"</em> to myself as I read
+            more and more.
+          </p>
+          <blockquote id="expander-3" class="hidden expander">
+            <p>
+              <strong>I'm a genuine builder.</strong> I built a nano-scale software product company
+              that made $35K/year and sold for ~2X. I built an open source, alpha-stage
+              <a href="/personal-data-pipeline/">personal data pipeline</a> and a
+              <a href="/budget-cli/">CLI budgeting tool</a> that powered our family for a few years.
+              Most recently, I built a secure MCP gateway and an AI visibility dashboard that's
+              launching with design partners this year. There are a number of other smaller projects
+              on <a href="https://github.com/joshcanhelp?tab=repositories">GitHub</a>.
+            </p>
+          </blockquote>
+          <blockquote id="expander-4" class="hidden expander">
+            <p>
+              <strong>I'm a grown up.</strong> I really appreciate this phrasing and don't have
+              anything add except you know it when you see it and I was smiling the whole time
+              reading your
+              <a href="https://posthog.com/handbook/company/grown-ups">welcoming environment list</a
+              >.
+            </p>
+          </blockquote>
+          <blockquote id="expander-5" class="hidden expander">
+            <p>
+              <strong>I'm an optimistic problem solver.</strong> I think a good indicator here is
+              whether or not someone has burnt out before. I have (thanks COVID) so I know the
+              feeling when things start to get overwhelming and what to do when I feel it. Making
+              work visible, clear communication in all directions, and breaking things down goes a
+              long way towards restoring sanity.
+            </p>
+          </blockquote>
+          <blockquote id="expander-6" class="hidden expander">
+            <p>
+              <strong>I'm an enthusiastic driver.</strong> I've lead projects of all shapes and
+              sizes, from solo projects (see above) to team-wide products (ask me about SDK
+              telemetry, the Auth0 Marketplace, or guided customer onboarding) to company-wide
+              initiatives (ask me about the Okta VPN deployment or the
+              <a href="https://p1.dso.mil">Platform One</a> deployment).
+            </p>
+          </blockquote>
+          <p>
+            And that's not even including
+            <a href="#pineapple" id="activator-7" class="activator">pineapple&nbsp;on pizza</a>‼️
+          </p>
+          <blockquote id="expander-7" class="hidden expander">
+            <p>
+              Pineapple absolutely does belong on a pizza, especially with something spicy like
+              jalapeños and something salty like bacon (or bacon of Canadian origin [or both]). This
+              is our favorite pie:
+            </p>
+            <img src="/_images/2025/pineapple-pizza.jpg" />
+          </blockquote>
+          <p>
+            Everything screamed at me "APPLY HERE NOW!" As I was getting my ducks (well, notes) in a
+            row, I saw the final thing that pushed me over the edge.
+            <strong>You're looking for IAM experience!</strong> That's my
+            <a href="#butter" id="activator-8" class="activator">bread&nbsp;and butter</a>.
+          </p>
+          <blockquote id="expander-8" class="hidden expander">
+            <p>
+              <em>Where do I even start?!</em> I found my love for identity at Auth0, where I
+              started out building SDKs for our consumer identity platform. I taught identity to
+              engineering and tech-adjacent new employees, mentored by the late and truly great
+              <a href="https://www.joshcanhelp.com/vittorio/">Vittorio Bertucci</a>. I wrote an
+              OpenID Connect authorization server liveProject for
+              <a href="https://www.manning.com/liveprojectseries/federation-and-sign-on-ser"
+                >Manning Publications</a
+              >. I built the federated authentication system for the Auth0 partner platform. I built
+              and helped partners build SAML integrations for the
+              <a href="https://marketplace.auth0.com/features/sso-integrations">Auth0 Marketplace</a
+              >. I built identity and authorization systems for Department of Defense staff. Most
+              recently, I wrote a proof-of-concept that used employee identities for AI agents
+              calling external APIs.
+            </p>
+          </blockquote>
+          <p>
+            Since Thursday, I've spent a bunch time immersing myself in
+            <a href="#merch" id="activator-9" class="activator">everything&nbsp;PostHog</a>, and I
+            just keeping finding
+            <a href="#reasons" id="activator-10" class="activator">reasons</a> that we should be
+            together.
+          </p>
+          <blockquote id="expander-9" class="hidden expander">
+            <p>Keys and stickers showed up Monday!</p>
+            <img src="/_images/2025/posthogging-out.jpg" />
+          </blockquote>
+          <blockquote id="expander-10" class="hidden expander">
+            <p>
+              I truly appreciate your interview process. I've
+              <a href="https://www.joshcanhelp.com/technical-interview/">interviewed many people</a>
+              in the last several years, and a long, drawn-out, overly rigorous process takes up so
+              much time on both ends, and doesn't seem to produce much better results. Hiring is
+              hard, but I appreciate how deliberate and succinct that your process is.
+            </p>
+          </blockquote>
+          <p>Here's what else I bring to the table:</p>
+          <ul>
+            <li>
+              I have great discernment about getting to value as fast as possible, whether that's
+              learning, revenue, or customer enjoyment.
+            </li>
+            <li>
+              I have a long history in developer experience, from open source libraries and SDKs to
+              partner integration tools and pro-code. I love working with and for developers,
+              figuring out the best way to get them to fall into the "pit of success."
+            </li>
+            <li>
+              I love that your marketing is all content. I love to write (obviously) and I would be
+              so proud of have my words on your website. <strong>Inbound FTW.</strong>
+            </li>
+          </ul>
+          <p>Thank you for reading through this and giving me a chance!</p>
+          <p>
+            <strong>:: Josh Cunningham ::</strong>
+            <a
+              href="https://www.icloud.com/iclouddrive/0dcG4aL8G7HZZ7vy4lBe9aPVg#Josh_Cunningham_resume_-_2025-11-18_-_v2025.3"
+              >Resume</a
+            >
+            <strong>::</strong> <a href="https://github.com/joshcanhelp">GitHub</a>
+            <strong>::</strong> <a href="https://www.linkedin.com/in/joshcanhelp/">LinkedIn</a>
+            <strong>::</strong> <a href="/hire-me/">More about me</a> <strong>::</strong>
+          </p>
+          <p><a href="#notes" id="activator-11" class="activator">Random&nbsp;notes</a></p>
+          <blockquote id="expander-11" class="hidden expander">
+            <p>
+              AI was not used in any way to write the words on this page. I tab-accepted some rote
+              DOM JS and CSS autocompletions to save key strokes. Writing all this from scratch
+              might be a little <em>weird</em> in 2025 ...
+            </p>
+            <p>
+              My main language has been TypeScript for a while, and my focus has been on the
+              backend. I've had enough exposure to Python to know that it will be easy for me to
+              pick it up, though. To that end, I started
+              <a href="https://github.com/joshcanhelp/obsidian-cloud-api"
+                >a side project in Django</a
+              >. So far, I really like the list and dictionary haptics as well as the terse syntax!
+            </p>
+          </blockquote>
+        </div>
+      </div>
+    </main>
+
+    <script>
+      const expanders = [...document.querySelectorAll("blockquote")];
+      expanders.forEach((el, index) => {
+        el.id = `expander-${index}`;
+        el.classList.add("hidden");
+        el.classList.add("expander");
+      });
+
+      const activators = [...document.querySelectorAll('a[href^="#"]')];
+      activators.forEach((activator, index) => {
+        activator.id = `activator-${index}`;
+        activator.classList.add("activator");
+        activator.innerHTML = activator.innerHTML.replace(" ", "&nbsp;");
+
+        const anchor = activator.getAttribute("href");
+        if (window.location.hash === anchor) {
+          activator.classList.add("activated");
+          document.getElementById(`expander-${index}`).classList.remove("hidden");
+        }
+
+        activator.addEventListener("click", (e) => {
+          const expander = document.getElementById(`expander-${index}`);
+          expanders.forEach((ex) => ex.classList.add("hidden"));
+          const isActivated = activator.classList.contains("activated");
+          activators.forEach((ex) => ex.classList.remove("activated"));
+          if (isActivated) {
+            expander.classList.add("hidden");
+          } else {
+            activator.classList.add("activated");
+            expander.classList.remove("hidden");
+          }
+        });
+      });
+    </script>
+  </body>
+</html>

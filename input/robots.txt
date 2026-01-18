@@ -3,3 +3,4 @@ Sitemap: https://www.joshcanhelp.com/sitemap.xml
 User-agent: *
 Disallow: /dear-anna/
 Disallow: /georgia/
+Disallow: /_html/
