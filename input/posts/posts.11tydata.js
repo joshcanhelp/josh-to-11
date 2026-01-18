@@ -10,8 +10,7 @@ console.log(data.page);
 }
 */
 
-const { dateformat } = require("../../../eleventy/filters");
-const { manningOidcPath, manningOidcPrompt } = require("../../../eleventy/utilities");
+const { dateformat } = require("../../eleventy/filters");
 
 const isDraft = (data) => data.page.fileSlug.split("-")[0] === "DRAFT";
 
