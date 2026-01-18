@@ -6,7 +6,6 @@ wpid: 380
 tags:
   - Email
   - Personal Development
-featured_img: null
 ---
 
 

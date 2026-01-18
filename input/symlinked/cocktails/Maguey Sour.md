@@ -1,6 +1,3 @@
----
-tags: []
----
 
 This is a strange set of ingredients, to be sure, but it makes for a fantastic combination. Liber & Co makes [an amazing orgeat syrup](https://www.liberandcompany.com/products/almond-orgeat-syrup) and make sure you use freshly grated nutmeg, not ground.
 

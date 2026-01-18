@@ -1,6 +1,5 @@
 ---
 title: My Cards to Live By
-tags: []
 permalink: cards/index.html
 layout: slideshow
 eleventyExcludeFromCollections: true

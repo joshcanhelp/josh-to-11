@@ -5,7 +5,6 @@ wpid: 4757
 tags:
   - Software Engineering
   - Personal Development
-featured_img: null
 ---
 
 

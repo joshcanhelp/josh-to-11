@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * 1.5 oz [[Tequila]] (añejo recommended)
 * 1.5 oz [[Amaro]]

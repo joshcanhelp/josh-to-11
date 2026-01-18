@@ -6,7 +6,6 @@ wpid: 4399
 tags:
   - WordPress
   - Open Source
-featured_img: null
 link_to: 'https://gist.github.com/joshcanhelp/8a2197913b62e69906db'
 ---
 

@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * 1 oz [[Mezcal]]
 * 0.75 oz [[Aperol]]

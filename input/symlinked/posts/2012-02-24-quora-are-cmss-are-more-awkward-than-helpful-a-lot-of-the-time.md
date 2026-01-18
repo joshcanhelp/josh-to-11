@@ -5,7 +5,6 @@ modified: 2016-11-02T22:11:00.000Z
 wpid: 3984
 tags:
   - WordPress
-featured_img: null
 ---
 
 

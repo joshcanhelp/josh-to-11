@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * 1.5 oz [[Gin]]
 * 0.75 oz lemon juice

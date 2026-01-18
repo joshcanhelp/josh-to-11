@@ -7,7 +7,6 @@ tags:
   - Analytics
   - SEO
   - Web Strategy
-featured_img: null
 ---
 
 

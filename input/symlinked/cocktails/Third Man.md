@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * 1.5 oz high-proof [[Bourbon]]
 * 0.5 oz [[Campari]]

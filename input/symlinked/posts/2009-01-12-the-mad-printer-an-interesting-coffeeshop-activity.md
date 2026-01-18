@@ -6,7 +6,6 @@ wpid: 488
 tags:
   - Hardware
   - Throwback
-featured_img: null
 ---
 
 

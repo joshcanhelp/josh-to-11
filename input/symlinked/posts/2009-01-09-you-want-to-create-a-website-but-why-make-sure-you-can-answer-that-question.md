@@ -6,7 +6,6 @@ wpid: 484
 tags:
   - Marketing
   - Web Strategy
-featured_img: null
 ---
 
 

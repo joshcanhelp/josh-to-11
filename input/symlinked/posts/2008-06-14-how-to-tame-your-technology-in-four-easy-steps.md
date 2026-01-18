@@ -5,7 +5,6 @@ modified: 2016-03-30T18:52:49.000Z
 wpid: 30
 tags:
   - Hardware
-featured_img: null
 ---
 
 Whether you’ve been here a couple of times or only once (and hopefully planning on returning), you might have seen my little tagline up in the header, “Helping You Tame Your Technology.” This should be more or less self-explanatory (as most good taglines are) but “taming,” to me, goes beyond just learning and using your electron-fueled personal possessions. Taming your technology means keeping your possessions and communications well-used, trouble-free, and to a minimum.

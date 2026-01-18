@@ -8,7 +8,6 @@ tags:
   - Freelancing
   - About JoshCanHelp
   - Professional Development
-featured_img: null
 ---
 
 

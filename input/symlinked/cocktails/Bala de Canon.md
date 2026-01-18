@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * 2 oz [[Tequila]]
 * 1 oz cantelope puree

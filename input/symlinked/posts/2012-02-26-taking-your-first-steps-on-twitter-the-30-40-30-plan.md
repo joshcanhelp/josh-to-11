@@ -6,7 +6,6 @@ wpid: 2722
 tags:
   - Social Media
   - Twitter
-featured_img: null
 ---
 
 

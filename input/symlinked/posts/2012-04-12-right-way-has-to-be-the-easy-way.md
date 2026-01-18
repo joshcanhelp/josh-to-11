@@ -6,7 +6,6 @@ wpid: 3988
 tags:
   - Social Media
   - LinkedIn
-featured_img: null
 ---
 
 

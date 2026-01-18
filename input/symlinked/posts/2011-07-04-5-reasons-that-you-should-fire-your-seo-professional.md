@@ -6,7 +6,6 @@ wpid: 2262
 tags:
   - SEO
   - Web Strategy
-featured_img: null
 ---
 
 

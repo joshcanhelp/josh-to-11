@@ -5,7 +5,6 @@ modified: 2016-04-03T02:32:59.000Z
 wpid: 1526
 tags:
   - Design
-featured_img: null
 ---
 
 

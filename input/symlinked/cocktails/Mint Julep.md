@@ -1,6 +1,3 @@
----
-tags: []
----
 
 A good mint julep takes some skill. If you muddle the mint leaves too much it gets bitter.
 

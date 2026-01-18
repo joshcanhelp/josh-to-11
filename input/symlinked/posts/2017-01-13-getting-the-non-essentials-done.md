@@ -5,7 +5,6 @@ modified: 2018-07-19T04:36:44.000Z
 wpid: 4819
 tags:
   - Personal Development
-featured_img: null
 ---
 
 After years of reading about productivity (a generally unproductive thing to do), trying out different techniques and apps, and journaling, I have finally constructed a system that helps me complete concrete tasks consistently and efficiently. The navel-gazing process of describing it here would probably put you to sleep so, for context, I use a combination of Asana, Post-It notes, nvAlt, text messages processed by IFTTT, and a single pile of papers.

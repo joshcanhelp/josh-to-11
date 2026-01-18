@@ -5,7 +5,6 @@ tags:
   - Personal Data
   - Social Media
 featured_img: /_images/2023/book-store_THUMB.jpg
-hn_link: null
 meta_description: I realized recently that I have become somewhat obsessed with the idea of logging and archiving all the little aspects of my life in one place.
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: All Tags
-tags: []
 permalink: tags/index.html
 layout: layouts/all-tags.njk
 ---

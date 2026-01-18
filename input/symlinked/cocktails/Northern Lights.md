@@ -1,5 +1,4 @@
 ---
-tags: []
 link_to: 'https://imbibemagazine.com/recipe/northern-lights-cocktail-recipe/'
 ---
 

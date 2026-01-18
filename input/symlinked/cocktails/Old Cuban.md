@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * 1.5 oz aged [[Rum]]
 * 0.75 oz lime juice

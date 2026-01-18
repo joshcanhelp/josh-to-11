@@ -6,7 +6,6 @@ wpid: 2502
 tags:
   - Facebook
   - Social Media
-featured_img: null
 ---
 
 

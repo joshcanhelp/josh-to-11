@@ -6,7 +6,6 @@ wpid: 4665
 tags:
   - Seattle
   - Food + Drink
-featured_img: null
 ---
 
 

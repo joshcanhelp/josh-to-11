@@ -5,7 +5,6 @@ modified: 2020-01-19T22:12:08.000Z
 wpid: 313
 tags:
   - Food + Drink
-featured_img: null
 ---
 
 

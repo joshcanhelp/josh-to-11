@@ -7,7 +7,6 @@ tags:
   - Open Source
   - Portfolio
 featured_img: /_images/default-thumb.png
-hn_link: null
 meta_description: What I learned spending a month as the primary on-call for an open source support team.
 ---
 

@@ -1,6 +1,3 @@
----
-tags: []
----
 
 - 2 ounce [[Mezcal]]
 - 1 piece fresh ginger (a thin slice or two, cut in half)

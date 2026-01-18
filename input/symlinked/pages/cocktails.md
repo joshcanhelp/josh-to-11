@@ -1,6 +1,5 @@
 ---
 title: All Cocktails
-tags: []
 permalink: cocktails/index.html
 layout: layouts/all-cocktails.njk
 ---

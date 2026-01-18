@@ -9,7 +9,6 @@ tags:
   - Site Optimization
   - SEO
   - Social Media
-featured_img: null
 ---
 
 

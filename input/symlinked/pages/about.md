@@ -1,7 +1,6 @@
 ---
 title: About Me
 wpid: 838
-tags: []
 permalink: about/index.html
 layout: page
 ---

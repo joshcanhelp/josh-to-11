@@ -1,6 +1,3 @@
----
-tags: []
----
 
 So simple but so delicious. The better the cognac the better the drink but there is a point of diminishing returns.
 

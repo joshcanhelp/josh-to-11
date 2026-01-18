@@ -6,7 +6,6 @@ wpid: 362
 tags:
   - Graffiti
   - Design
-featured_img: null
 ---
 
 

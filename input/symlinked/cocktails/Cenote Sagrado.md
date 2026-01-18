@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * Splash of [[Mezcal]]
 * 2 oz blanco [[Tequila]]

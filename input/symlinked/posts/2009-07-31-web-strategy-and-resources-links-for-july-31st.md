@@ -7,7 +7,6 @@ tags:
   - Design
   - Social Media
   - Web Strategy
-featured_img: null
 ---
 
 

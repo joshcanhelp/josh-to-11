@@ -1,6 +1,3 @@
----
-tags: []
----
 
 This is a delightful combination of citrus and spirits but if you think it needs a bit more sweetness, a splash of agave should do the trick.
 

@@ -6,7 +6,6 @@ wpid: 2708
 tags:
   - Marketing
   - Community
-featured_img: null
 ---
 
 

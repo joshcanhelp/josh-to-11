@@ -6,7 +6,6 @@ wpid: 2246
 tags:
   - Marketing
   - Email
-featured_img: null
 ---
 
 

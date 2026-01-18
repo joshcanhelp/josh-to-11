@@ -1,6 +1,3 @@
----
-tags: []
----
 
 A fantastic fall cocktail. Note that the shrub needs to be made 2 days in advance but can keep for at least a week once strained.
 

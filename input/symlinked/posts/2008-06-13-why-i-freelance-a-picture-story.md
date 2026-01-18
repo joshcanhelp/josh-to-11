@@ -6,7 +6,6 @@ wpid: 28
 tags:
   - Throwback
   - Freelancing
-featured_img: null
 ---
 
 *Scene 1 opens with our hero attempting to delete a file found on a shared network drive.*

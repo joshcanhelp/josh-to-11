@@ -5,7 +5,6 @@ modified: 2019-01-08T00:18:32.000Z
 wpid: 1161
 tags:
   - Open Source
-featured_img: null
 link_to: 'https://github.com/joshcanhelp/drudge-report-template'
 ---
 

@@ -1,3 +1,4 @@
+
 ## This is not an emergency
 
 I've heard this both in parent coaching and in a [great article](https://medium.com/@konigsberg/patterns-and-anti-patterns-of-the-primary-interrupt-d82cc1362048) about being on-call: 

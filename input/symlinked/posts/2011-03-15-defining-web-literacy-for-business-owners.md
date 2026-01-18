@@ -9,7 +9,6 @@ tags:
   - SEO
   - Design
   - Web Strategy
-featured_img: null
 ---
 
 

@@ -7,7 +7,6 @@ tags:
   - Graffiti
   - Design
   - Professional Development
-featured_img: null
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: Asynchronous Communication
 excerpt: 'Thoughts, ideas, and comments on Asynchronous Communication'
-tags: []
 permalink: asynchronous-communication/index.html
 layout: page
 ---

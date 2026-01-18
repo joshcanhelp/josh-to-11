@@ -6,7 +6,6 @@ wpid: 1672
 tags:
   - About JoshCanHelp
   - Web Strategy
-featured_img: null
 ---
 
 

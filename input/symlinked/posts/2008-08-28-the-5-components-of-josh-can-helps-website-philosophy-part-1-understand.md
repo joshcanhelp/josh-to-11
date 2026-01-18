@@ -6,7 +6,6 @@ wpid: 210
 tags:
   - Design
   - Web Strategy
-featured_img: null
 ---
 
 

@@ -6,7 +6,6 @@ wpid: 337
 tags:
   - Software Engineering
   - Professional Development
-featured_img: null
 ---
 
 

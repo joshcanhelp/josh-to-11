@@ -5,7 +5,6 @@ modified: 2016-04-03T02:33:18.000Z
 wpid: 40
 tags:
   - Design
-featured_img: null
 ---
 
 **This is a guide I wrote several months back. I have it posted on my homepage and at Squidoo but my homepage is going away in favor of a much simpler system so I wanted to move this. It’s also a bit more visible here, where I’m getting hits, rather than on the homepage, where I’m getting no hits! FYI, I also added a new, very important step (#5)…**

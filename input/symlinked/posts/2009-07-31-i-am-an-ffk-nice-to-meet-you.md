@@ -5,7 +5,6 @@ modified: 2009-07-31T17:57:22.000Z
 wpid: 3
 tags:
   - Health + Fitness
-featured_img: null
 ---
 
 

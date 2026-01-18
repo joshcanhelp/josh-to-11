@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * 0.75oz [[Amaretto]]
 * 1.5oz [[Apple Liqueur]]

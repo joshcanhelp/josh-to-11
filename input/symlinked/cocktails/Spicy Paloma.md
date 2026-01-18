@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * 1-3 thin slices Jalapeño
 * 1.5 oz [[Mezcal]]

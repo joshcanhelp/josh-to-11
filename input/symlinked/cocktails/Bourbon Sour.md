@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * 2 oz [[Bourbon]]
 * 1 oz lemon juice

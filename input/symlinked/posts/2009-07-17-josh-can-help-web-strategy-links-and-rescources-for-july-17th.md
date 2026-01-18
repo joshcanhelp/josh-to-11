@@ -9,7 +9,6 @@ tags:
   - Design
   - WordPress
   - Web Strategy
-featured_img: null
 ---
 
 

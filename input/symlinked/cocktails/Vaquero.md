@@ -1,6 +1,3 @@
----
-tags: []
----
 
 I'll just come out and say it: this is my favorite cocktail. It's time-consuming and requires a crazy number of ingredients but, damn, it's a great one. No surprise, though, given that the spirits are 3 of my favorites.
 

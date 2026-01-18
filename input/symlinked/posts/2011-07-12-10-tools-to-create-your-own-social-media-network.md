@@ -6,7 +6,6 @@ wpid: 1870
 tags:
   - Community
   - Web Strategy
-featured_img: null
 ---
 
 

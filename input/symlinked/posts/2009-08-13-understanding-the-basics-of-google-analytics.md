@@ -7,7 +7,6 @@ tags:
   - Analytics
   - Site Optimization
   - SEO
-featured_img: null
 ---
 
 

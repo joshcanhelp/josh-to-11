@@ -8,7 +8,6 @@ tags:
   - Twitter
   - Social Media
   - Web Strategy
-featured_img: null
 ---
 
 

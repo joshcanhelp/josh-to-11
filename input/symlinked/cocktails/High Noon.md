@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * 1.5 oz blanco [[Tequila]]
 * 0.5 oz [[Orange Curaçao]]

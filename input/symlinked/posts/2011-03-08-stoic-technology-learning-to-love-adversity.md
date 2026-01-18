@@ -7,7 +7,6 @@ tags:
   - Hardware
   - Professional Development
   - Web Strategy
-featured_img: null
 ---
 
 

@@ -1,10 +1,7 @@
 ---
 title: 'Josh Can Help - Software, Digital Identity, Mindfulness, Focus, and Personal Improvement'
-excerpt: ''
 modified: 2020-01-19T22:06:07.000Z
 wpid: 3820
-tags: []
-featured_img: null
 permalink: /index.html
 layout: layouts/home-page.njk
 ---

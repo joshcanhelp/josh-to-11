@@ -8,7 +8,6 @@ tags:
   - Twitter
   - Social Media
   - Facebook
-featured_img: null
 ---
 
 

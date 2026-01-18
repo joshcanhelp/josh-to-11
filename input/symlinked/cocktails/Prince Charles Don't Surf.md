@@ -1,6 +1,3 @@
----
-tags: []
----
 
 Liber & Co makes [an amazing orgeat syrup](https://www.liberandcompany.com/products/almond-orgeat-syrup).
 

@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * 2 oz [[Bourbon]]
 * 0.5 oz Ancho Reyes

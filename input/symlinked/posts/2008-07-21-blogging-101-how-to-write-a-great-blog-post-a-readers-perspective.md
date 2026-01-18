@@ -6,7 +6,6 @@ wpid: 39
 tags:
   - Writing + Publishing
   - Community
-featured_img: null
 ---
 
 **This is a guide I wrote a few months back. I have it posted on my homepage and at Squidoo but my homepage is going away in favor of a much simpler system so I wanted to move this. It’s also a bit more visible here, where I’m getting hits, rather than on the homepage, where I’m getting no hits!**

@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * 0.75 oz [[Cognac]]
 * 0.5 oz [[Cointreau]]

@@ -7,7 +7,6 @@ tags:
   - Marketing
   - Email
   - Throwback
-featured_img: null
 ---
 
 

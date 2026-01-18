@@ -1,6 +1,3 @@
----
-tags: []
----
 
 - 1.5 oz [[Rye Whiskey]] or [[Bourbon]]
 - 1 oz [[Cardamaro]]

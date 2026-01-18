@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * 0.75 oz [[Rye Whiskey]]
 * 0.75 oz [[Cognac]] or [[Brandy]]

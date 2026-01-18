@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * 1 oz [[Rye Whiskey]]
 * 0.5 oz [[Ancho Reyes]]

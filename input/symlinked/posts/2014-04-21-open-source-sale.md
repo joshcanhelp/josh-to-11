@@ -7,7 +7,6 @@ tags:
   - Software Engineering
   - Web Strategy
   - Open Source
-featured_img: null
 ---
 
 

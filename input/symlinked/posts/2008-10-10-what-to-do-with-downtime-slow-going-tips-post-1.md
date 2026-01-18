@@ -8,7 +8,6 @@ tags:
   - Email
   - Marketing
   - SEO
-featured_img: null
 ---
 
 

@@ -6,7 +6,6 @@ wpid: 13
 tags:
   - Personal Data
   - Health + Fitness
-featured_img: null
 ---
 
 

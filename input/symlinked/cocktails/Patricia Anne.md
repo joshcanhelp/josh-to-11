@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * 2 oz [[Gin]]
 * 1 oz lime juice

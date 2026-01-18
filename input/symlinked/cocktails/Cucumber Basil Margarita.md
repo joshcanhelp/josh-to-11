@@ -1,6 +1,3 @@
----
-tags: []
----
 
 This works great with tequila or mezcal. The recipe below could easily make two smaller cocktails, just depends on how the day went for you.
 

@@ -5,7 +5,6 @@ modified: 2016-04-03T02:33:18.000Z
 wpid: 173
 tags:
   - Web Strategy
-featured_img: null
 ---
 
 

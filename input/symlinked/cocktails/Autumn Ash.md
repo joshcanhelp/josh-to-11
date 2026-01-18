@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * 2 oz blended [[Scotch]]
 * 1 oz [[Apple Brandy]]

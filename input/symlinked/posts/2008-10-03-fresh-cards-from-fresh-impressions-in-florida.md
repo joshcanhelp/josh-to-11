@@ -6,7 +6,6 @@ wpid: 325
 tags:
   - About JoshCanHelp
   - Design
-featured_img: null
 ---
 
 

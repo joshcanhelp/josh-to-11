@@ -1,6 +1,3 @@
----
-tags: []
----
 
 -   12 oz Modelo
 -   1/2 cup sugar

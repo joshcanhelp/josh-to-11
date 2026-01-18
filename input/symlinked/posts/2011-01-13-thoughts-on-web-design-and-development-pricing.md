@@ -8,7 +8,6 @@ tags:
   - Money
   - Software Engineering
   - About JoshCanHelp
-featured_img: null
 ---
 
 

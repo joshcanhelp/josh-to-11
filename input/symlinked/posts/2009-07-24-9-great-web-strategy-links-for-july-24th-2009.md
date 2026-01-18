@@ -10,7 +10,6 @@ tags:
   - Twitter
   - Design
   - Web Strategy
-featured_img: null
 ---
 
 

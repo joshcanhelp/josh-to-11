@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * 1 oz blanco [[Tequila]]
 * 1 oz lime juice

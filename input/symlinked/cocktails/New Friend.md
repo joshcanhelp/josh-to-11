@@ -1,6 +1,3 @@
----
-tags: []
----
 
 * 1 oz [[Rye Whiskey]]
 * 1 oz [[Aperol]]

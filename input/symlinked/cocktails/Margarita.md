@@ -1,6 +1,3 @@
----
-tags: []
----
 
 This is the best margarita you'll have. If you've mostly had ones in Mexican restaurants, be ready for a whole different experience here. The agave + fresh lime makes you wonder if the two drinks should have different names altogether. It works over ice or up and you can substitute fruit liqueurs for some or all of the sweetness (Cointreau, Midori, etc). If you make it the classic way, a generous float of IPA on the top takes this drink to a new level.
 

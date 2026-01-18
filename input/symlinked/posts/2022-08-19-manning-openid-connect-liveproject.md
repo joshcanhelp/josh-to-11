@@ -7,7 +7,6 @@ tags:
   - JavaScript + TypeScript
   - Portfolio
 featured_img: /_images/2022/manning-oidc-diagram-thumb.png
-hn_link: null
 meta_description: 'After over a year''s worth of work and a number of delays (on my end), I finally published my first liveProject with Manning!'
 meta_title: Federation and Single Sign-On with OpenID Connect
 link_to: 'https://www.manning.com/liveprojectseries/federation-and-sign-on-ser'

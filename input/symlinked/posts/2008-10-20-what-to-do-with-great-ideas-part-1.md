@@ -6,7 +6,6 @@ wpid: 351
 tags:
   - Marketing
   - Professional Development
-featured_img: null
 ---
 
 

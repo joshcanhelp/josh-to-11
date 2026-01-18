@@ -5,7 +5,6 @@ modified: 2013-04-06T22:40:45.000Z
 wpid: 33
 tags:
   - Customer Service
-featured_img: null
 ---
 
 I simply don’t have it in me to write a rant about phone-based customer service. Not that I don’t have the time (actually, I don’t) or the patience, I just don’t have the will. Plus, who cares? We all have stories, many of us have worked in the industry and have even more stories from both sides, and I would guess that most people don’t want to stress vicariously.

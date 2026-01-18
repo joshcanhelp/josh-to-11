@@ -6,7 +6,6 @@ wpid: 37
 tags:
   - Hardware
   - Throwback
-featured_img: null
 ---
 
 **Does this happen to you?** Every time I pop open the laptop in a coffee shop and try to get some work done, I’m plagued by repeated disconnects. This would be far less irritating if I wasn’t always listening to streaming radio. It seems like it knows exactly the right track too… But I digress.

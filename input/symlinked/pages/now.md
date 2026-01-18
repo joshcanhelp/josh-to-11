@@ -2,7 +2,6 @@
 title: Now
 excerpt: 'A little summary of what is going on in my life, personally and professionally.'
 wpid: 3794
-tags: []
 permalink: now/index.html
 layout: page
 ---

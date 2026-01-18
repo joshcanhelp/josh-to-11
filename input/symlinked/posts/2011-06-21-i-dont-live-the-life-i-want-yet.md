@@ -6,7 +6,6 @@ wpid: 2218
 tags:
   - About JoshCanHelp
   - Personal Development
-featured_img: null
 ---
 
 

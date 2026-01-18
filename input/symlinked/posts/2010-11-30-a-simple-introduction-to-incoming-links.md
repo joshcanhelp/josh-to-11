@@ -6,7 +6,6 @@ wpid: 1718
 tags:
   - SEO
   - Web Strategy
-featured_img: null
 ---
 
 
