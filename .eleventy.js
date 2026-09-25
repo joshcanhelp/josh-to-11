@@ -12,6 +12,7 @@ module.exports = function (eleventyConfig) {
     images: "_images",
     html: "_html",
     "images/favicon": "/",
+    "input/.well-known/josh": ".well-known/josh",
   });
 
   eleventyConfig.addPlugin(syntaxHighlight);
